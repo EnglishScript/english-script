@@ -18,5 +18,30 @@ Go to 'src/alvin' and run "make test".
 
 ## To run and interact with Alvin A.I.
 
-Go to 'src/alvin' and run "es-sh alvin.eso".
+Go to 'src/alvin' and run:
+
+    $ es-sh alvin.eso
+    EnglishScript Shell v0.1.0
+    Copyright (c) Tommi Manttari
+
+    > Begin.
+    < Ok. What is your name? 
+    > "Tommi".
+    < Do you have a family? 
+    > Yes.
+    < What are members of your family? 
+    > I.
+    < Does John have a family? 
+    > Yes.
+    < What are members of John's family? 
+    > You and I.
+    < Does Sarah have a family? 
+    > I don't know.
+    < Ok. 
+    > Tell me about me.
+    < Ok. You are a man. You have the family. You have the name "Tommi". You are an engineer.
+    > Tell me about John's family.
+    < Ok. John's family has the members. John has the family. 
+    > Tell me about the members.
+    < Ok. John's family has the members. The members of John's family include me and you. 
 

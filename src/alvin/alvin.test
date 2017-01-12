@@ -46,26 +46,78 @@
 <Yes.
 >
 >Tell me about the 2nd member of your family.
-<Ok. Mary is a wife. I and Mary have a family. I and Mary have a house. Mary is the member 2 of my family. I and Mary have Hessu. Mary has a hobby. Mary is a teacher.
-<Mary is old. Mary has a name "Mary". I have Mary.
+<Ok.
+<Mary is a wife. 
+<I and Mary have a family.
+<I and Mary have a house. 
+<Mary is the member 2 of my family.
+<I and Mary have Hessu.
+<Mary has a hobby.
+<Mary is a teacher.
+<Mary is old.
+<Mary has a name "Mary".
+<I have Mary.
 >
 >Tell me about the members of your family.
 <Ok.
-<My family has the members. The members of my family include me, John, Hessu, 
-<Mary and Sarah. /*I and Mary have the house. I am a member 1
-<of my family. I and Mary have the family. I and Mary have Hessu. I have Sarah.
-<I have John. I have Mary. I have hobbies. I am an engineer. I am old.
-<I have a name "Alvin". I am a man.
-<
-<John has the family. John is a member 3 of my family. John has a name "John".
-<John is a son. I have John.
-<
-<Hessu is a member 5 of my family. Hessu is old. Hessu has a name "Hessu".
-<Hessu is a dog. I and Mary have Hessu.
-<
-<I and Mary have the house. Mary is the member 2 of my family. I and Mary have
-<the family. I and Mary have Hessu. Mary has the hobby. Mary is a teacher.
-<Mary is old. Mary has the name "Mary". Mary is a wife. I have Mary.
-<
-<Sarah has the family. Sarah is a member 4 of my family. Sarah has a name 
-<"Sarah". Sarah is a doughter. I have Sarah. */
+<My family has the members.
+<The members of my family include me, John, Hessu, 
+<Mary and Sarah.
+>
+>Tell me about you.
+<Ok.
+<I am a man.
+<I and Mary have the family.
+<I and Mary have the house.
+<I am a member 1 of my family. 
+<I and Mary have Hessu.
+<I have Sarah.
+<I have John.
+<I have Mary.
+<I have hobbies.
+<I am an engineer.
+<I am old.
+<I have a name "Alvin".
+>
+>Tell me about John.
+<Ok.
+<John has a name "John".
+<John is a son.
+<John has the family.
+<John is a member 3 of my family.
+<I have John.
+>
+>Tell me about Hessu.
+<Ok.
+<Hessu has a name "Hessu".
+<Hessu is a member 5 of my family.
+<Hessu is old.
+<Hessu is a dog.
+<I and Mary have Hessu.
+>
+>Tell me about Mary.
+<Ok.
+<Mary has the name "Mary".
+<Mary is a wife.
+<I and Mary have the family.
+<I and Mary have the house.
+<Mary is the member 2 of my family.
+<I and Mary have Hessu.
+<Mary has the hobby.
+<Mary is a teacher.
+<Mary is old.
+<I have Mary.
+>
+>Tell me about Sarah.
+<Ok.
+<Sarah has a name "Sarah".
+<Sarah is a doughter.
+<Sarah has the family.
+<Sarah is a member 4 of my family.
+<I have Sarah.
+>
+>/* Tell Alvin something new and check if he remembers them. */
+>I tell you that I have a car.
+<Ok.
+>I ask you that do I have a car?
+<Ok. Yes.

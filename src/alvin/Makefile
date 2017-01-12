@@ -28,9 +28,20 @@ ES_SRC = $(AI_NAME).es
 ES_TARGET = $(AI_NAME).eso
 ES_TEST = $(AI_NAME).test
 
+INC = \
+animal.es \
+being.es \
+buildings.es \
+conversation.es \
+hobbies.es \
+human.es \
+profession.es \
+sports.es \
+world.es
+
 all: $(ES_TARGET)
 
-$(ES_TARGET):	$(ES_SRC)
+$(ES_TARGET):	$(ES_SRC) $(INC)
 	$(ESC) -I . -I $(ES_INCS) $< -o $@
 
 test:   $(ES_TARGET)
