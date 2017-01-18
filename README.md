@@ -4,11 +4,15 @@ the Alvin A.I. (an Artificial Intelligence).
 
 ## Sources for Alvin A.I.
 
+Get the sources:
+
+    $ git clone https://github.com/EnglishScript/english-script.git
+
 All sources for Alvin A.I. can be found from 'src/alvin'.
 
 ## To compile Alvin A.I.
 
-You need first the ES SDK from the http://www.englishscript.com.
+You need first the ES SDK from the http://www.englishscript.com/packages.
 After installing it, clone the english-script repo to your local
 computer, go to 'src/alvin' and run "make all".
 
