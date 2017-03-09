@@ -48,7 +48,7 @@
 >Tell me about the 2nd member of your family.
 <Ok.
 <Mary is a wife. 
-<I and Mary have a family.
+<I and Mary have the family.
 <I and Mary have a house. 
 <Mary is the member 2 of my family.
 <I and Mary have Hessu.
@@ -69,7 +69,7 @@
 <I am a man.
 <I and Mary have the family.
 <I and Mary have the house.
-<I am a member 1 of my family. 
+<I am the member 1 of my family. 
 <I and Mary have Hessu.
 <I have Sarah.
 <I have John.
@@ -84,13 +84,13 @@
 <John has a name "John".
 <John is a son.
 <John has the family.
-<John is a member 3 of my family.
+<John is the member 3 of my family.
 <I have John.
 >
 >Tell me about Hessu.
 <Ok.
 <Hessu has a name "Hessu".
-<Hessu is a member 5 of my family.
+<Hessu is the member 5 of my family.
 <Hessu is old.
 <Hessu is a dog.
 <I and Mary have Hessu.
@@ -113,7 +113,7 @@
 <Sarah has a name "Sarah".
 <Sarah is a doughter.
 <Sarah has the family.
-<Sarah is a member 4 of my family.
+<Sarah is the member 4 of my family.
 <I have Sarah.
 >
 >/* Tell Alvin something new and check if he remembers them. */

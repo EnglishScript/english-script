@@ -12,7 +12,7 @@ All sources for Alvin A.I. can be found from 'src/alvin'.
 
 ## To compile Alvin A.I.
 
-You need first the ES SDK from the http://www.englishscript.com/packages.
+You need first the latest ES SDK from the http://www.englishscript.com/packages.
 After installing it, clone the english-script repo to your local
 computer, go to 'src/alvin' and run "make all".
 
@@ -25,7 +25,7 @@ Go to 'src/alvin' and run "make test".
 Go to 'src/alvin' and run:
 
     $ es-sh alvin.eso
-    EnglishScript Shell v0.1.0
+    EnglishScript Shell v0.1.2
     Copyright (c) Tommi Manttari
 
     > Begin.
