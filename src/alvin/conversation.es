@@ -82,19 +82,25 @@ says "bye." to you, then someone closes the conversation with you.
 To have a 1st conversation with someone.
     Until someone closes the 1st conversation with you then.
         If someone tells you that somebody does something then.
+            /*Print "Remembering...".*/
             Remember something.
         End.
-        If someone asks you something then tell someone 
-        something.
+        If someone asks you something then.
+            /*Print "Telling...".*/
+            Tell someone something.
+        End.
         If someone asks you that does somebody do something,
-        then answer something.
-        /*
-        If someone asks you that you do something then.
+        then.
+            /*Print "Answering...".*/
+            Answer something.
+        End.
+        If someone asks you to do something then.
         /*TODO: If you know how to do something, then do something,
             else tell someone that you do not know how to do 
             something.*/
-        /*    Do something.*/
-        /*End.*/
+            /*Print "Doing...".*/
+            Start to do something.
+        End.
         If you want to know something /* TODO: and you don't know something */
         then ask someone something.
         /*

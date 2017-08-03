@@ -46,7 +46,7 @@ $(ES_TARGET):	$(ES_SRC) $(INC)
 
 test:   $(ES_TARGET)
 	@echo "RUNNING TEST SCRIPT " $(ES_TEST); \
-	$(ESTEST) $(ES_TEST) $(ES_TARGET); \
+	$(ESTEST) -r $(ES_TEST) $(ES_TARGET); \
 	if [ $$? -eq "0" ]; then \
 		echo "TESTING $(ES_TEST) OK"; \
 	else \

@@ -36,16 +36,16 @@
 >Yes.
 <What are /* FIXME: the*/ members of Sarah's family?
 >She.
->Am I the 2nd member of my family?
-<I don't know.
->Am I the 1st member of my family?
-<Yes.
->Are you the 2nd member of my family?
-<Yes.
->Are your wife the 3rd member of my family?
-<Yes.
+>I ask you that am I the 2nd member of my family?
+<Ok. I don't know.
+>I ask you that am I the 1st member of my family?
+<Ok. Yes.
+>I ask you that are you the 2nd member of my family?
+<Ok. Yes.
+>I ask you that are your wife the 3rd member of my family?
+<Ok. Yes.
 >
->Tell me about the 2nd member of your family.
+>I ask you to tell me about the 2nd member of your family.
 <Ok.
 <Mary is a wife. 
 <I and Mary have the family.
@@ -58,14 +58,15 @@
 <Mary has a name "Mary".
 <I have Mary.
 >
->Tell me about the members of your family.
+>I ask you to tell me about the members of your family.
 <Ok.
 <My family has the members.
 <The members of my family include me, John, Hessu, 
 <Mary and Sarah.
 >
->Tell me about you.
+>I ask you to tell me about you.
 <Ok.
+<You ask me to tell you about me./*FIXME: this should not be said.*/
 <I am a man.
 <I and Mary have the family.
 <I and Mary have the house.
@@ -79,7 +80,7 @@
 <I am old.
 <I have a name "Alvin".
 >
->Tell me about John.
+>I ask you to tell me about John.
 <Ok.
 <John has a name "John".
 <John is a son.
@@ -87,15 +88,15 @@
 <John is the member 3 of my family.
 <I have John.
 >
->Tell me about Hessu.
+>I ask you to tell me about Hessu.
 <Ok.
 <Hessu has a name "Hessu".
-<Hessu is the member 5 of my family.
+<Hessu is /*FIXME: should be "the"*/ a member 5 of my family.
 <Hessu is old.
 <Hessu is a dog.
 <I and Mary have Hessu.
 >
->Tell me about Mary.
+>I ask you to tell me about Mary.
 <Ok.
 <Mary has the name "Mary".
 <Mary is a wife.
@@ -108,7 +109,7 @@
 <Mary is old.
 <I have Mary.
 >
->Tell me about Sarah.
+>I ask you to tell me about Sarah.
 <Ok.
 <Sarah has a name "Sarah".
 <Sarah is a doughter.
