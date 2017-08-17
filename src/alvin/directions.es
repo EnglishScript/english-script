@@ -1,0 +1,2 @@
+"out" is an adverb.
+
