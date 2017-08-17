@@ -83,8 +83,14 @@ To have a 1st conversation with someone.
     Until someone closes the 1st conversation with you then.
         If someone tells you that somebody does something then.
             /*Print "Remembering...".*/
+            Say "Ok" to someone.
             Remember something.
         End.
+        /*TODO: If someone tells you that somebody does not do something then.
+            Say "Ok" to someone.
+            Remember something.
+        End.
+        */
         If someone asks you something then.
             /*Print "Telling...".*/
             Tell someone something.
@@ -99,6 +105,7 @@ To have a 1st conversation with someone.
             else tell someone that you do not know how to do 
             something.*/
             /*Print "Doing...".*/
+            Say "Ok" to someone.
             Start to do something.
         End.
         If you want to know something /* TODO: and you don't know something */

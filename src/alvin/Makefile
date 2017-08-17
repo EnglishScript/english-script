@@ -23,7 +23,7 @@
 ESC = es-c
 ESTEST = es-test
 AI_NAME = alvin
-ES_INCS = /usr/lib/es/include
+ES_INCS = ${ES_INCLUDE_PATH}
 ES_SRC = $(AI_NAME).es
 ES_TARGET = $(AI_NAME).eso
 ES_TEST = $(AI_NAME).test
@@ -46,7 +46,7 @@ $(ES_TARGET):	$(ES_SRC) $(INC)
 
 test:   $(ES_TARGET)
 	@echo "RUNNING TEST SCRIPT " $(ES_TEST); \
-	$(ESTEST) -r $(ES_TEST) $(ES_TARGET); \
+	$(ESTEST) -r -3 -b $(ES_TEST) $(ES_TARGET); \
 	if [ $$? -eq "0" ]; then \
 		echo "TESTING $(ES_TEST) OK"; \
 	else \

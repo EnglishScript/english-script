@@ -1,3 +1,59 @@
+<What is your name?
+>"John".
+>Tell me about you.
+<Ok.
+<You ask me to tell you about me./*FIXME: this should not be said.*/
+<I am a man.
+<I have a community.
+<I am to help.
+<I am an artificial intelligence.
+<I have a name "Alvin".
+<I have a home network.
+>
+>/* Tell Alvin something new and check if he remembers them. */
+>I have a car.
+<Ok.
+>Do I have a car?
+<Yes.
+>Forget that I have a car.
+<Ok.
+>Do I have a car?
+<I don't know.
+>I have a car.
+<Ok.
+>Do I have a car?
+<Yes.
+>/*TODO: Forget my car.<Ok.>Do I have a car?<I don't know.*/
+>/*TODO: I do not have a car. <Ok.>Do I have a car?*<No.*/
+>
+>Do I have a dog?
+<I don't know.
+>I have a dog.
+<Ok.
+>Do I have a dog?
+<Yes.
+>
+>What is the name of my dog?
+</*FIXME: I don't know.*/ The name of your dog.
+>My dog has a name "Jojo".
+<Ok.
+>What is the name of my dog?
+<"Jojo".
+>Is Jojo old?
+<I don't know.
+>Jojo is old.
+<Ok.
+>Is Jojo old?
+<Yes.
+>
+>Am I old?
+<I don't know.
+>I am old.
+<Ok.
+>Am I old?
+<Yes.
+>/*TODO: You want to know the name of my dog.<Ok. What is the name of your dog?>"Jojo".>What is my dog's name?<"Jojo".*/
+>
 >/*	The EnglishScript programming language - for Artificial Intelligence.
 >
 >	Copyright (C) 2016 Tommi Manttari
@@ -19,106 +75,3 @@
 >
 >	You can contact Tommi Manttari through email at manttari@yahoo.com.
 >*/
->
->Begin.
-<Ok. What is your name?
->"John".
-<Do you have a family?
->Yes.
-</* TODO: Who are the members of your family? */ 
-<What are /* FIXME: the*/ members of your family?
->I /* FIXME: Me */, you and your wife.
-<Does John have a family?
->Yes.
-<What are /* FIXME: the*/ members of John's family?
->He.
-<Does Sarah have a family?
->Yes.
-<What are /* FIXME: the*/ members of Sarah's family?
->She.
->I ask you that am I the 2nd member of my family?
-<Ok. I don't know.
->I ask you that am I the 1st member of my family?
-<Ok. Yes.
->I ask you that are you the 2nd member of my family?
-<Ok. Yes.
->I ask you that are your wife the 3rd member of my family?
-<Ok. Yes.
->
->I ask you to tell me about the 2nd member of your family.
-<Ok.
-<Mary is a wife. 
-<I and Mary have the family.
-<I and Mary have a house. 
-<Mary is the member 2 of my family.
-<I and Mary have Hessu.
-<Mary has a hobby.
-<Mary is a teacher.
-<Mary is old.
-<Mary has a name "Mary".
-<I have Mary.
->
->I ask you to tell me about the members of your family.
-<Ok.
-<My family has the members.
-<The members of my family include me, John, Hessu, 
-<Mary and Sarah.
->
->I ask you to tell me about you.
-<Ok.
-<You ask me to tell you about me./*FIXME: this should not be said.*/
-<I am a man.
-<I and Mary have the family.
-<I and Mary have the house.
-<I am the member 1 of my family. 
-<I and Mary have Hessu.
-<I have Sarah.
-<I have John.
-<I have Mary.
-<I have hobbies.
-<I am an engineer.
-<I am old.
-<I have a name "Alvin".
->
->I ask you to tell me about John.
-<Ok.
-<John has a name "John".
-<John is a son.
-<John has the family.
-<John is the member 3 of my family.
-<I have John.
->
->I ask you to tell me about Hessu.
-<Ok.
-<Hessu has a name "Hessu".
-<Hessu is /*FIXME: should be "the"*/ a member 5 of my family.
-<Hessu is old.
-<Hessu is a dog.
-<I and Mary have Hessu.
->
->I ask you to tell me about Mary.
-<Ok.
-<Mary has the name "Mary".
-<Mary is a wife.
-<I and Mary have the family.
-<I and Mary have the house.
-<Mary is the member 2 of my family.
-<I and Mary have Hessu.
-<Mary has the hobby.
-<Mary is a teacher.
-<Mary is old.
-<I have Mary.
->
->I ask you to tell me about Sarah.
-<Ok.
-<Sarah has a name "Sarah".
-<Sarah is a doughter.
-<Sarah has the family.
-<Sarah is the member 4 of my family.
-<I have Sarah.
->
->/* Tell Alvin something new and check if he remembers them. */
->I tell you that I have a car.
-<Ok.
->I ask you that do I have a car?
-<Ok. Yes.
