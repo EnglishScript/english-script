@@ -1,13 +1,25 @@
+<Hi.
+<My name is "Alvin".
+<I am an artificial intelligence.
+<I am your friend. I help you/*TODO: out*/.
 <What is your name?
 >"John".
+>
+>I have a friend.
+<Ok. What is /*FIXME: your friend's name*/a name of your friend?
+>"Mary".
+>
+>/*Do you have a friend?<Yes.*/
+>/*FIXME: Who is your friend? <You.*/
+>
 >Tell me about you.
 <Ok.
-<You ask me to tell you about me./*FIXME: this should not be said.*/
 <I am a man.
+</*I have friends.*/
 <I have a community.
-<I am to help.
+<I am to help you.
 <I am an artificial intelligence.
-<I have a name "Alvin".
+<I have the name "Alvin".
 <I have a home network.
 >
 >/* Tell Alvin something new and check if he remembers them. */
@@ -30,20 +42,18 @@
 <I don't know.
 >I have a dog.
 <Ok.
+<What is /*FIXME: the*/ a name of your dog?
+>"Fifi".
 >Do I have a dog?
 <Yes.
 >
 >What is the name of my dog?
-</*FIXME: I don't know.*/ The name of your dog.
->My dog has a name "Jojo".
-<Ok.
->What is the name of my dog?
-<"Jojo".
->Is Jojo old?
+<"Fifi".
+>Is /* FIXME: Fifi*/ my dog old?
 <I don't know.
->Jojo is old.
+>/*FIXME: Fifi*/ my dog is old.
 <Ok.
->Is Jojo old?
+>Is /*FIXME: Fifi*/ my dog old?
 <Yes.
 >
 >Am I old?

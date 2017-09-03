@@ -143,3 +143,7 @@ To ask someone about something.
 End.
 */
 
+To call someone by a name.
+  Say the name.
+End.
+

@@ -54,6 +54,7 @@ The noun "families" is the plural form of the noun "family".
 
 A human is a being.
 A human has hobbies and a profession.
+A human has a stomach.
 
 A man is a male.
 A man is a human.

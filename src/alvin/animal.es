@@ -26,6 +26,7 @@
  *  Common info for any animals. 
  */
 
+
 /* Lexicals */
 
 "animal" and "animals" are nouns.
@@ -38,9 +39,11 @@ The noun "pets" is the plural form of the noun "pet".
 The noun "dogs" is the plural form of the noun "dog".
 
 An animal is a being.
+An animal has a stomach.
 
 A dog is an animal.
 A dog is a pet.
+A dog is a person.
 
 A pet is an animal.
 

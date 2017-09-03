@@ -27,6 +27,7 @@
 #include "conversation.es"
 #include "being.es"
 #include "hobbies.es"
+#include "anatomy.es"
 #include "human.es"
 #include "animal.es"
 #include "sports.es"
@@ -40,19 +41,24 @@
 #include "network.es"
 #include "social.es"
 #include "directions.es"
+#include "states.es"
+#include "doing.es"
 
 /* All about you */
 
 You are a man.
 You have a name "Alvin".
 You are an artificial intelligence.
-You are to help /* TODO: me */ out.
+You are to help me /*TODO: out */.
 You have a community.
 The community has a registrar.
+/*You have friends.*/
 
 /* All about me */
 
 I am a person.
+/* TODO: I am your friend. */
+/*Your friends include me.*/
 
 /* Generic rules */
 
@@ -64,5 +70,16 @@ If you know a person and you don't know the name of the person then you want to
 know the name.
 
 To begin.
+    If you know my name then.
+        Say "Hi" /* FIXME: and my name */.
+    Else.
+        Say "Hi".
+        Tell me your name.
+        Tell me that you are an artificial intelligence.
+        /* FIXME: Tell me that I am your friend.*/
+        Say "I am your friend".
+        /* FIXME: Tell me that you help me *TODO: me out*.*/
+        Tell me that you help me /*TODO: out*/.
+    End.
     Have a conversation with me.
 End.
