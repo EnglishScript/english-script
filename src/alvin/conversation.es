@@ -106,6 +106,7 @@ To have a 1st conversation with someone.
             something.*/
             /*Print "Doing...".*/
             Say "Ok" to someone.
+            Remember shortly from something.
             Start to do something.
         End.
         If you want to know something /* TODO: and you don't know something */

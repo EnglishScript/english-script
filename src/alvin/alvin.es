@@ -43,6 +43,9 @@
 #include "directions.es"
 #include "states.es"
 #include "doing.es"
+#include "media.es"
+#include "ext_api.es"
+#include "electronics.es"
 
 /* All about you */
 

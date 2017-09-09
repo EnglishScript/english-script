@@ -49,11 +49,11 @@
 >
 >What is the name of my dog?
 <"Fifi".
->Is /* FIXME: Fifi*/ my dog old?
+>Is Fifi old?
 <I don't know.
->/*FIXME: Fifi*/ my dog is old.
+>Fifi is old.
 <Ok.
->Is /*FIXME: Fifi*/ my dog old?
+>Is Fifi old?
 <Yes.
 >
 >Am I old?
