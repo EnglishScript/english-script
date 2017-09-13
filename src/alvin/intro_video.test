@@ -1,0 +1,69 @@
+<Hi.
+<My name is "Alvin".
+<I am an artificial intelligence.
+<I am your friend. I help you/*TODO: out*/.
+<What is your name?
+>"John".
+>
+>/*I have a friend. <Ok. What is / *FIXME: your friend's name* /a name of your friend? >"Mary".*/
+>
+>/*Do you have friends? <Yes. */
+>/*FIXME: Who is your friend? <You.*/
+>/*Tell me about your friends.<Ok. You are my friend.*/
+>
+>Tell me about you.
+<Ok.
+<I am a man.
+</*I have friends.*/
+<I have a community.
+<I am to help you.
+<I am an artificial intelligence.
+<I have the name "Alvin".
+<I have a home network.
+>
+>/*FIXME: this should not be needed: */
+>You have a stomach.
+<Ok.
+>If your stomach is empty then you are hungry. /* FIXME: <Ok. */
+>Are you hungry?
+<I don't know.
+>Your stomach is empty.
+<Ok.
+>Are you hungry?
+<Yes.
+>
+>To make a dog to sit down. /*FIXME: <Yes?*/
+>Call the dog by /*its name*/ the name of the dog.
+<Ok.
+>/*FIXME: Order */ Ask the dog to sit.
+<Ok.
+>End.
+<Ok.
+>
+>I have a dog.
+<Ok. What is /* FIXME: its name */ a name of your dog?
+>"Fifi".
+>Make my dog to sit down.
+<Ok. Fifi. Sit/*TODO:!*/.
+>
+>/*	The EnglishScript programming language - for Artificial Intelligence.
+>
+>	Copyright (C) 2016 Tommi Manttari
+>
+>	This library is free software; you can redistribute it and/or modify
+>	it under the terms of the GNU Lesser General Public License as
+>	published by the Free Software Foundation; either version 2.1 of the
+>	License, or (at your option) any later version.
+>
+>	This library is distributed in the hope that it will be useful, but
+>	WITHOUT ANY WARRANTY; without even the implied warranty of
+>	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+>	Lesser General Public License for more details.
+>
+>	You should have received a copy of the GNU Lesser General Public
+>	License along with this library; if not, write to the Free Software
+>	Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307
+>	USA
+>
+>	You can contact Tommi Manttari through email at manttari@yahoo.com.
+>*/
