@@ -56,6 +56,7 @@ The verb "lives" is the 3rd person form of the verb "live".
 An age is years.
 Old and young are ages.
 
+A being is a thing.
 A being has a name and an age.
 
 A male and a female are sexes.

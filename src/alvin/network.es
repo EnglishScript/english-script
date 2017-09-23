@@ -48,7 +48,7 @@ A function "__tmp_disconnect_from_network".
 A dynamic library.
 The dynamic library has a name "TM Protocol Library".
 The dynamic library has a filename prefix "tmprotocol".
-The dynamic libraries of the runtime environment includes the dynamic library.
+/*The dynamic libraries of the runtime environment includes the dynamic library.*/
 
 To connect to a network.
     Call the function "__tmp_connect_to_network" with the network.

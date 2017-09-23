@@ -24,6 +24,10 @@
 
 #include "stdlib.es"
 #include "stdio.es"
+/*#include "time.es"*/
+/*#include "media.es"
+#include "runtime.es"
+#include "ext_api.es"*/
 #include "conversation.es"
 #include "being.es"
 #include "hobbies.es"
@@ -35,7 +39,6 @@
 #include "profession.es"
 #include "buildings.es"
 #include "ai.es"
-#include "runtime.es"
 #include "community.es"
 #include "institution.es"
 #include "network.es"
@@ -44,6 +47,7 @@
 #include "states.es"
 #include "doing.es"
 #include "media.es"
+/*#include "runtime.es"*/
 #include "ext_api.es"
 #include "electronics.es"
 

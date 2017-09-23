@@ -1,4 +1,7 @@
-
+A picture.
+It has a name "this image" and a name "this picture".
+I am in this image.
+                                                                                                                                                                         
 A function "__ext_select_image_from_gallery".
 A function "__ext_take_picture".
 A function "__ext_show_image".
@@ -16,7 +19,7 @@ To show an image.
     Call the function "__ext_show_image" with the image.
 End.
 
-To show settings.
+/*To show settings.
     Call the function "__ext_show_settings" with the settings.
-End.
+End.*/
 
