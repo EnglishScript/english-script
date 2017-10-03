@@ -1,6 +1,5 @@
 A picture.
 It has a name "this image" and a name "this picture".
-I am in this image.
                                                                                                                                                                          
 A function "__ext_select_image_from_gallery".
 A function "__ext_take_picture".

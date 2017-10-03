@@ -24,10 +24,10 @@
 
 #include "stdlib.es"
 #include "stdio.es"
-/*#include "time.es"*/
-/*#include "media.es"
+#include "time.es"
+#include "media.es"
 #include "runtime.es"
-#include "ext_api.es"*/
+#include "ext_api.es"
 #include "conversation.es"
 #include "being.es"
 #include "hobbies.es"
@@ -46,9 +46,9 @@
 #include "directions.es"
 #include "states.es"
 #include "doing.es"
-#include "media.es"
+/*#include "media.es"*/
 /*#include "runtime.es"*/
-#include "ext_api.es"
+/*#include "ext_api.es"*/
 #include "electronics.es"
 
 /* All about you */

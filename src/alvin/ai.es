@@ -5,6 +5,5 @@ The noun "intelligences" is the plural form of the noun "intelligence".
 
 "artificial", "personal" and "digital" are adjectives.
 
-/* FIXME: A personal _digital_ assistant is a digital assistant.*/
 A personal assistant is an artificial intelligence.
 
