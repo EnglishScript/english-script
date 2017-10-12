@@ -48,15 +48,38 @@ The noun "ages" is the plural form of the noun "age".
 The noun "members" is the plural form of the noun "member".
 
 "live", "lives" and "lived" are verbs.
+"living" is a noun.
 The verb "live" is the 1st form of the verb "live".
 The verb "lived" is the 2nd form of the verb "live".
 The verb "lived" is the 3rd form of the verb "live".
 The verb "lives" is the 3rd person form of the verb "live".
+The noun "living" is the noun form of the verb "live".
+
+"feeling" and "feelings" are nouns.
+The noun "feelings" is the plural form of the noun "feeling".
+
+"feel", "feels" and "felt" are verbs.
+The verb "feel" is the 1st form of the verb "feel".
+The verb "felt" is the 2nd form of the verb "feel".
+The verb "felt" is the 3rd form of the verb "feel".
+The verb "feels" is the 3rd person form of the verb "feel".
+The noun "feeling" is the noun form of the verb "feel".
+
+/* https://simple.wikipedia.org/wiki/List_of_emotions */
+"afraid", "angry", "sad", "happy" are adjectives.
+"fear", "anger", "sadness", "joy", "happiness", "disgust", "surprise", "trust", "anticipation" are nouns.
+Fear, anger, sadness, happiness, disgust, surprise, trust and anticipation are feelings.
+
+The adjective "afraid" is the adjective form of the noun "fear".
+The adjective "angry" is the adjective form of the noun "anger".
+The adjective "sad" is the adjective form of the noun "sadness".
+The adjective "happy" is the adjective form of the noun "happiness".
 
 An age is years.
 Old and young are ages.
 
 A being is a thing.
-A being has a name and an age.
+A being has a name, an age and feelings.
+The feelings include fear, anger, sadness, happiness, disgust, surprise, trust and anticipation.
 
 A male and a female are sexes.
