@@ -30,3 +30,27 @@ The verb "slept" is the 3rd form of the verb "sleep".
 The verb "sleeps" is the 3rd person form of the verb "sleep".
 The noun "sleeping" is the noun form of the verb "sleep".
 
+"call", "calls" and "called" are verbs.
+"calling" is a noun.
+The verb "call" is the 1st form of the verb "call".
+The verb "called" is the 2nd form of the verb "call".
+The verb "called" is the 3rd form of the verb "call".
+The verb "calls" is the 3rd person form of the verb "call".
+The noun "calling" is the noun form of the verb "call".
+
+"read", "reads" are verbs.
+"reading" is a noun.
+The verb "read" is the 1st form of the verb "read".
+The verb "read" is the 2nd form of the verb "read".
+The verb "read" is the 3rd form of the verb "read".
+The verb "reads" is the 3rd person form of the verb "read".
+The noun "reading" is the noun form of the verb "read".
+
+"continue", "continues", "continued" are verbs.
+"continuing" is a noun.
+The verb "continue" is the 1st form of the verb "continue".
+The verb "continued" is the 2nd form of the verb "continue".
+The verb "continued" is the 3rd form of the verb "continue".
+The verb "continues" is the 3rd person form of the verb "continue".
+The noun "continuing" is the noun form of the verb "continue".
+

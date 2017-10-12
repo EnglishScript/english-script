@@ -35,6 +35,7 @@
 #include "human.es"
 #include "animal.es"
 #include "sports.es"
+#include "politics.es"
 #include "world.es"
 #include "profession.es"
 #include "buildings.es"
@@ -50,6 +51,7 @@
 /*#include "runtime.es"*/
 /*#include "ext_api.es"*/
 #include "electronics.es"
+#include "news_skill.es"
 
 /* All about you */
 

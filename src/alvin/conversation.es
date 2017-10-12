@@ -103,7 +103,11 @@ To have a 1st conversation with someone.
         If someone asks you that does somebody do something,
         then.
             /*Print "Answering...".*/
-            Answer something.
+            /*If someone asks you that what are you then.
+               Tell someone about you.
+            Else.*/
+               Answer something.
+            /*End.*/
         End.
         If someone asks you to do something then.
         /*TODO: If you know how to do something, then do something,
@@ -121,7 +125,7 @@ To have a 1st conversation with someone.
         ask someone about something.
         */
         If you want to know /*TODO: if */that somebody does something then 
-        ask me /*TODO: if*/whether somebody does something.
+        ask someone /*TODO: if*/whether somebody does something.
         Wait.
     End.
     /*

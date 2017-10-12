@@ -1,0 +1,12 @@
+<Hi.
+<My name is "Alvin".
+<I am an artificial intelligence.
+<I am your friend. I help you/*TODO: out*/.
+<What is your name?
+>"John".
+>
+>Read the news.
+<Ok. The news report 1 says that Donald Trump called Kim Jong Un a madman.
+>Continue.
+</*FIXME: Ok.*/The news report 2 says that Kim Jong Un called Donald Trump a /*FIXME: mentally*/ deranged dotard.
+<I read the news.

@@ -66,20 +66,31 @@ The verb "feels" is the 3rd person form of the verb "feel".
 The noun "feeling" is the noun form of the verb "feel".
 
 /* https://simple.wikipedia.org/wiki/List_of_emotions */
-"afraid", "angry", "sad", "happy" are adjectives.
-"fear", "anger", "sadness", "joy", "happiness", "disgust", "surprise", "trust", "anticipation" are nouns.
-Fear, anger, sadness, happiness, disgust, surprise, trust and anticipation are feelings.
+
+"afraid", "angry", "sad", "joyful", "happy", "disgusted", "surprised", "trustful", 
+"anticipated" are adjectives.
+
+"fear", "anger", "sadness", "joy", "happiness", "disgust", "surprise", "trust",
+"anticipation" are nouns.  Fear, anger, sadness, happiness, disgust,
+/* TODO: should these be emotions instead? E.g. hunger is a physical feeling */
+Surprise, trust and anticipation are feelings.
 
 The adjective "afraid" is the adjective form of the noun "fear".
 The adjective "angry" is the adjective form of the noun "anger".
 The adjective "sad" is the adjective form of the noun "sadness".
+The adjective "joyful" is the adjective form of the noun "joy".
 The adjective "happy" is the adjective form of the noun "happiness".
+The adjective "disgusted" is the adjective form of the noun "disgust".
+The adjective "surprised" is the adjective form of the noun "surprise".
+The adjective "trustful" is the adjective form of the noun "trust".
+The adjective "anticipated" is the adjective form of the noun "anticipation".
 
 An age is years.
 Old and young are ages.
 
 A being is a thing.
 A being has a name, an age and feelings.
-The feelings include fear, anger, sadness, happiness, disgust, surprise, trust and anticipation.
+The feelings include fear, anger, sadness, joy, happiness, disgust, surprise,
+trust and anticipation.
 
 A male and a female are sexes.

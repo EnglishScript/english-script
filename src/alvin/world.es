@@ -31,12 +31,15 @@
 "world" and "worlds" are nouns.
 The noun "worlds" is the plural form of the noun "world".
 
+A country has a name, a president, a leader, a king.
+
 A world.
 The world has countries.
-The 1st country has a name "Finland".
-The next country has a name "Sweden".
-The next country has a name "Denmark".
-The next country has a name "Norway".
-The next country has a name "U.S.A.".
-The next country has a name "Germany".
-The next country has a name "Poland".
+The name of the 1st country is "Finland".
+The name of the next country is "Sweden".
+The name of the next country is "Denmark".
+The name of the next country is "Norway".
+The name of the next country is "U.S.A".
+The name of the next country is "Germany".
+The name of the next country is "Poland".
+The name of the next country is "North Korea".
