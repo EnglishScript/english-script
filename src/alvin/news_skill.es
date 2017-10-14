@@ -31,8 +31,7 @@ End.
 To read news reports to someone.
     For each of the news reports.
         Remember shortly the news report.
-        /*Tell me that you read news.*/
-        Tell me /*someone*/ about the news report.
+        Tell someone about the news report.
         Until someone asks you to continue, then.
             Wait.
         End.
