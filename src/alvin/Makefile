@@ -26,7 +26,7 @@ AI_NAME = alvin
 ES_INCS = ${ES_INCLUDE_PATH}
 ES_SRC = $(AI_NAME).es
 ES_TARGET = $(AI_NAME).eso
-TESTS = $(AI_NAME).test intro_video.test select_image.test news_skill.test
+TESTS = $(AI_NAME).test intro_video.test select_image.test news_skill.test take_picture.test
 
 INC = \
 animal.es \
