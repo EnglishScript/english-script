@@ -55,9 +55,10 @@
 <Ok.
 >The image has a file path "foo".
 <Ok.
->/*TODO: This is Jane.<Ok.*/
+>This is Jane.
+<Ok.
 >Tell me about the image.
-<Ok. /*Jane is in the image.*/ 
+<Ok. Jane is in the image. 
 <The image has the file path "foo".
 <The image is the picture.
 >
