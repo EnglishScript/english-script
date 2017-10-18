@@ -5,6 +5,7 @@ A function "__ext_select_image_from_gallery".
 A function "__ext_take_picture".
 A function "__ext_show_image".
 A function "__ext_show_settings".
+A function "__ext_change_tts_state".
 
 To select an image from a gallery.
     Call the function "__ext_select_image_from_gallery" with the image.
@@ -21,4 +22,16 @@ End.
 /*To show settings.
     Call the function "__ext_show_settings" with the settings.
 End.*/
+
+
+A thing.
+The thing has a name "TTS".
+
+To enable TTS.
+    Call the function "__ext_change_tts_state" with "on".
+End.
+
+To disable TTS.
+    Call the function "__ext_change_tts_state" with "off".
+End.
 

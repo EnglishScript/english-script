@@ -54,3 +54,19 @@ The verb "continued" is the 3rd form of the verb "continue".
 The verb "continues" is the 3rd person form of the verb "continue".
 The noun "continuing" is the noun form of the verb "continue".
 
+"enable", "enables", "enabled" are verbs.
+"enabling" is a noun.
+The verb "enable" is the 1st form of the verb "enable".
+The verb "enabled" is the 2nd form of the verb "enable".
+The verb "enabled" is the 3rd form of the verb "enable".
+The verb "enables" is the 3rd person form of the verb "enable".
+The noun "enabling" is the noun form of the verb "enable".
+
+"disable", "disables", "disabled" are verbs.
+"disabling" is a noun.
+The verb "disable" is the 1st form of the verb "disable".
+The verb "disabled" is the 2nd form of the verb "disable".
+The verb "disabled" is the 3rd form of the verb "disable".
+The verb "disables" is the 3rd person form of the verb "disable".
+The noun "disabling" is the noun form of the verb "disable".
+

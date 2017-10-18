@@ -27,8 +27,6 @@
 #include "time.es"
 #include "media.es"
 #include "runtime.es"
-#include "ext_api.es"
-#include "conversation.es"
 #include "being.es"
 #include "hobbies.es"
 #include "anatomy.es"
@@ -52,6 +50,8 @@
 /*#include "ext_api.es"*/
 #include "electronics.es"
 #include "news_skill.es"
+#include "ext_api.es"
+#include "conversation.es"
 
 /* All about you */
 
