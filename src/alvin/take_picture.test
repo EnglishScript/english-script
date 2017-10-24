@@ -8,6 +8,11 @@
 >To call the function "__ext_take_picture" with a picture.
 >End.
 <Ok.
+>To call the function "__ext_show_image" with an image.
+>    Tell me that you show the image.
+<    Ok.
+>End.
+<Ok.
 >I have a dog.
 <Ok. What is a name of your dog?
 >"Hessu".
@@ -57,3 +62,5 @@
 <The picture has the file path "foo".
 <The picture is the picture.
 >
+>Show Jane.
+<Ok. I show the picture.

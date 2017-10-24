@@ -19,6 +19,12 @@ To show an image.
     Call the function "__ext_show_image" with the image.
 End.
 
+To show something.
+    If something is in an image then.
+        Show the image.
+    End.
+End.
+
 /*To show settings.
     Call the function "__ext_show_settings" with the settings.
 End.*/

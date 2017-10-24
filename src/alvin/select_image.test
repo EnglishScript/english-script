@@ -8,6 +8,11 @@
 >To call the function "__ext_select_image_from_gallery" with an image.
 >End.
 <Ok.
+>To call the function "__ext_show_image" with an image.
+>    Tell me that you show the image.
+<    Ok.
+>End.
+<Ok.
 >I have a dog.
 <Ok. What is a name of your dog?
 >"Hessu".
@@ -62,3 +67,5 @@
 <The image has the file path "foo".
 <The image is the picture.
 >
+>Show Jane.
+<Ok. I show the image.
