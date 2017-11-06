@@ -84,7 +84,15 @@ To have a 1st conversation with someone.
         If someone tells you that somebody does something then.
             /*Print "Remembering...".*/
             If someone tells you that this is some thing then.
-                Remember that the thing is in this image.
+                Coordinates.
+                Remember the coordinates.
+                Remember that the thing is in this image in the coordinates.
+                Remember the 1st coordinate.
+                Remember the 2nd coordinate.
+                Remember the 3rd coordinate.
+                The 1st coordinate is the same as the 1st coordinate of the pointer.
+                The 2nd coordinate is the same as the 2nd coordinate of the pointer.
+                The 3rd coordinate is the same as the 3rd coordinate of the pointer.
             Else.
                 Remember something.
             End.

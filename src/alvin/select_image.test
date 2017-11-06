@@ -69,16 +69,6 @@
 <Ok.
 >The image has a file path "foo".
 <Ok.
->This is Jane.
-<Ok.
->Tell me about the image.
-<Ok. Jane is in the image. 
-<The image has the file path "foo".
-<The image is the picture.
->
->Show Jane.
-<Ok. I show the image.
->
 >Read the pointer.
 <Ok.
 >What is the coordinate 1 of the pointer.
@@ -87,3 +77,18 @@
 <3 units.
 >What is the coordinate 3 of the pointer.
 <4 units.  
+>This is Jane.
+<Ok.
+>Tell me about the image.
+<Ok. Jane is in the image in coordinates. 
+<The image has the file path "foo".
+<The image is the picture.
+>What is the 1st coordinate?
+<2 units.
+>What is the 2nd coordinate?
+<3 units.
+>What is the 3rd coordinate?
+<4 units.
+>
+>Show Jane.
+<Ok. I show the image.
