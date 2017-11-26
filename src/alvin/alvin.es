@@ -52,6 +52,9 @@
 #include "news_skill.es"
 #include "ext_api.es"
 #include "conversation.es"
+#include "physics.es"
+#include "slush_pitch.es"
+/*#include "NokiaRfVariants.es"*/
 
 /* All about you */
 
@@ -91,5 +94,7 @@ To begin.
         /* FIXME: Tell me that you help me *TODO: me out*.*/
         Tell me that you help me /*TODO: out*/.
     End.
-    Have a conversation with me.
+    /*If you are not having a conversation with me then.*/
+        Have a conversation with me.
+    /*End.*/
 End.
