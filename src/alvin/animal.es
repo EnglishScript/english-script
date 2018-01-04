@@ -117,9 +117,10 @@ The noun "donkeys" is the plural form of the noun "donkey".
 "chimpanzee" and "chimpanzees" are nouns.
 The noun "chimpanzees" is the plural form of the noun "chimpanzee".
 "penguin" and "penguins" are nouns.
-/*The noun "oxes" is the plural form of the noun "ox".
-"ox" and "oxes" are nouns.
-The noun "oxes" is the plural form of the noun "ox".
+The noun "penguins" is the plural form of the noun "penguin".
+"reindeer" and "reindeers" are nouns.
+The noun "reindeers" is the plural form of the noun "reindeer".
+/*
 "ox" and "oxes" are nouns.
 The noun "oxes" is the plural form of the noun "ox".
 "ox" and "oxes" are nouns.
