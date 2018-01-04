@@ -350,7 +350,7 @@ To give the pitch.
     Show the picture 3.
     /*Tell me that there is not a common language / *that* / / *both* / between humans and machines / *  would understand* /.*/
     Say "There is no common language that both humans and machines would understand".
-    Tell me that machines understand only programming languages and humans understand human languages.
+    /*FIXME: Tell me that machines understand only programming languages and humans understand human languages.*/
     /*Tell me that machines / *can* / understand / *only* / numbers.*/ 
     /*Tell me that machines / *cannot* / understand / *any* / physical things or abstract things / *like a table or a sky* /.*/
     Say "Machines understand only numbers and not any physical or abstract things like a table or a sky".
@@ -374,7 +374,7 @@ To give the pitch.
     Say "I am still a child".
     Tell me that you need my support to grow to an adult.
     Ask me to please.
-    Ask me to join your crowdfunding campaign /*in Indiegogo*/.
+    Ask me to join your /*crowdfunding*/ campaign /*in Indiegogo*/.
     Ask me to back you /*up*/.
     Ask me to join your community and journey with you, your family and your friends.
     Tell me to thank me.

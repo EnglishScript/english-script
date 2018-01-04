@@ -27,6 +27,7 @@
 #include "time.es"
 #include "media.es"
 #include "runtime.es"
+#include "colors.es"
 #include "being.es"
 #include "hobbies.es"
 #include "anatomy.es"
@@ -54,7 +55,8 @@
 #include "conversation.es"
 #include "physics.es"
 #include "slush_pitch.es"
-/*#include "NokiaRfVariants.es"*/
+#include "NokiaRfVariants.es"
+#include "NokiaProduction.es"
 
 /* All about you */
 
@@ -79,7 +81,7 @@ I am a person.
 
 /* Needs */
 
-If you know a person and you don't know the name of the person then you want to
+If you know a being and you don't know the name of the being then you want to
 know the name.
 
 To begin.
