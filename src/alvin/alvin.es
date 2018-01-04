@@ -55,8 +55,6 @@
 #include "conversation.es"
 #include "physics.es"
 #include "slush_pitch.es"
-#include "NokiaRfVariants.es"
-#include "NokiaProduction.es"
 
 /* All about you */
 
