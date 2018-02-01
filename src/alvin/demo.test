@@ -15,15 +15,10 @@
 >Tell me about you.
 <Ok.
 <I am a man.
-</*I have friends.*/
 <I have a community.
 <I am to help you.
 <I am an artificial intelligence.
 <I have the name "Alvin".
-<I have a family and friends.
-<I have a crowdfunding campaign.
-<I have a journey.
-<I have a home network.
 >
 >/* Tell Alvin something new and check if he remembers them. */
 >I have a car.

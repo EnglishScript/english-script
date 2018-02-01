@@ -22,13 +22,14 @@
 
 ESC = es-c
 ESTEST = es-test
-AI_NAME = alvin
+AI_NAME = demo
 ES_INCS = ${ES_INCLUDE_PATH}
 ES_SRC = $(AI_NAME).es
 ES_TARGET = $(AI_NAME).eso
 TESTS = $(AI_NAME).test intro_video.test select_image.test news_skill.test take_picture.test
 
 INC = \
+alvin.es \
 animal.es \
 being.es \
 buildings.es \
