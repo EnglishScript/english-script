@@ -40,8 +40,8 @@ The noun "girls" is the plural form of the noun "girl".
 "son" and "sons" are nouns.
 The noun "sons" is the plural form of the noun "son".
 
-"doughter" and "doughters" are nouns.
-The noun "doughters" is the plural form of the noun "doughter".
+"daughter" and "daughters" are nouns.
+The noun "daughters" is the plural form of the noun "daughter".
 
 "wife" and "wifes" are nouns.
 The noun "wifes" is the plural form of the noun "wife".
@@ -64,7 +64,7 @@ A boy and a son are men.
 A woman is a female.
 A woman is a human.
 
-A girl and a doughter are women.
+A girl and a daughter are women.
 
 A husband is a man.
 A wife is a woman.
