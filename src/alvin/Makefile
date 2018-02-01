@@ -22,7 +22,7 @@
 
 ESC = es-c
 ESTEST = es-test
-AI_NAME = demo
+AI_NAME = alvin
 ES_INCS = ${ES_INCLUDE_PATH}
 ES_SRC = $(AI_NAME).es
 ES_TARGET = $(AI_NAME).eso
