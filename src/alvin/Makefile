@@ -29,7 +29,7 @@ ES_TARGET = $(AI_NAME).eso
 TESTS = $(AI_NAME).test intro_video.test select_image.test news_skill.test take_picture.test
 
 INC = \
-alvin.es \
+alvin_basic.es \
 animal.es \
 being.es \
 buildings.es \
