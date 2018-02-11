@@ -15,8 +15,8 @@
 <Ok.
 <I am a man.
 </*I have friends.*/
-<I have a community.
 <I am to help you.
+<I have a community.
 <I am an artificial intelligence.
 <I have the name "Alvin".
 >
@@ -40,7 +40,7 @@
 <Ok.
 >
 >I have a dog.
-<Ok. What is /* FIXME: its name */ a name of your dog?
+<Ok. What is /* FIXME: its name */ a name of the dog?
 >"Fifi".
 >Make my dog to sit down.
 <Ok. Fifi. Sit/*TODO:!*/.

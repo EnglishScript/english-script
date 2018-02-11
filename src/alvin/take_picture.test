@@ -14,7 +14,7 @@
 >End.
 <Ok.
 >I have a dog.
-<Ok. What is a name of your dog?
+<Ok. What is a name of the dog?
 >"Hessu".
 >
 >Take a picture.
@@ -31,7 +31,7 @@
 <The picture is the picture.
 >
 >I have a son.
-<Ok. What is a name of your son?
+<Ok. What is a name of the son?
 >"Joe".
 >Take a picture.
 <Ok.
@@ -47,7 +47,7 @@
 <The picture is the picture.
 >
 >I have a daughter.
-<Ok. What is a name of your daughter?
+<Ok. What is a name of the daughter?
 >"Jane".
 >Take a picture.
 <Ok.

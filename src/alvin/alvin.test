@@ -6,7 +6,7 @@
 >"John".
 >
 >I have a friend.
-<Ok. What is /*FIXME: your friend's name*/a name of your friend?
+<Ok. What is /*FIXME: your friend's name*/a name of the friend?
 >"Mary".
 >
 >/*Do you have a friend?<Yes.*/
@@ -15,8 +15,8 @@
 >Tell me about you.
 <Ok.
 <I am a man.
-<I have a community.
 <I am to help you.
+<I have a community.
 <I am an artificial intelligence.
 <I have the name "Alvin".
 >
@@ -40,7 +40,7 @@
 <I don't know.
 >I have a dog.
 <Ok.
-<What is /*FIXME: the*/ a name of your dog?
+<What is /*FIXME: the*/ a name of the dog?
 >"Fifi".
 >Do I have a dog?
 <Yes.

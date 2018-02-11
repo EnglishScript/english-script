@@ -51,4 +51,5 @@
 #include "ext_api.es"
 #include "conversation.es"
 #include "physics.es"
+#include "industry.es"
 

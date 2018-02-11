@@ -23,7 +23,7 @@
 >End.
 <Ok.
 >I have a dog.
-<Ok. What is a name of your dog?
+<Ok. What is a name of the dog?
 >"Hessu".
 >
 >I have a mobile phone.
@@ -45,7 +45,7 @@
 <The image is the picture.
 >
 >I have a son.
-<Ok. What is a name of your son?
+<Ok. What is a name of the son?
 >"Joe".
 >Select an image from the gallery.
 <Ok.
@@ -61,7 +61,7 @@
 <The image is the picture.
 >
 >I have a daughter.
-<Ok. What is a name of your daughter?
+<Ok. What is a name of the daughter?
 >"Jane".
 >Select an image from the gallery.
 <Ok.
