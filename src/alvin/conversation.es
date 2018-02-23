@@ -79,6 +79,10 @@ If you are having a conversation with someone and someone
 says "bye." to you, then someone closes the conversation with you.
  */
 
+To know something.
+    Ask something.
+End.
+
 To have a 1st conversation with someone.
     Until someone closes the 1st conversation with you then.
         If someone tells you that somebody does something then.
@@ -125,14 +129,9 @@ To have a 1st conversation with someone.
             Remember shortly from something.
             Start to do something.
         End.
-        If you want to know something /* TODO: and you don't know something */
-        then ask someone something.
-        /*
-        If you want to know something about someone then
-        ask someone about something.
-        */
-        If you want to know /*TODO: if */that somebody does something then 
-        ask someone /*TODO: if*/whether somebody does something.
+        /* TODO: add evaluation of the verb a check that the "to"-verb is not 
+           being executed to avoid re-remembering the doing.*/
+        If you want to know something then remember that you want to know something.
         Wait.
     End.
     /*
