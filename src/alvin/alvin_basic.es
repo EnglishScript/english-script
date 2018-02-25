@@ -47,9 +47,12 @@
 #include "states.es"
 #include "doing.es"
 #include "electronics.es"
-#include "news_skill.es"
 #include "ext_api.es"
 #include "conversation.es"
 #include "physics.es"
 #include "industry.es"
+#include "life.es"
+#include "economy.es"
+#include "news_skill.es"
+#include "reminder_skill.es"
 

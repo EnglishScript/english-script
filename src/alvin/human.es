@@ -49,6 +49,21 @@ The noun "wifes" is the plural form of the noun "wife".
 "husband" and "husbands" are nouns.
 The noun "husbands" is the plural form of the noun "husband".
 
+"father" and "fathers" are nouns.
+The noun "fathers" is the plural form of the noun "father".
+
+"pop" and "pops" are nouns.
+The noun "pops" is the plural form of the noun "pop".
+
+"dad" and "dads" are nouns.
+The noun "dads" is the plural form of the noun "dad".
+
+"mother" and "mothers" are nouns.
+The noun "mothers" is the plural form of the noun "mother".
+
+"mom" and "moms" are nouns.
+The noun "moms" is the plural form of the noun "mom".
+
 "family" and "families" are nouns.
 The noun "families" is the plural form of the noun "family".
 
@@ -67,10 +82,18 @@ A woman is a human.
 A girl and a daughter are women.
 
 A husband is a man.
+/*FIXME: A husband has a wife.*/
+
 A wife is a woman.
+/*FIXME: A wife has a husband.*/
 
 A family has members and a home.
 
 A person is a human.
 A man and a woman are persons.
+
+A father is a man.
+A mother is a woman.
+A pop and a dad are fathers.
+A mom is a mother.
 
