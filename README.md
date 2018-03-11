@@ -24,7 +24,7 @@ Go to 'src/alvin' and run "make test".
 
 Go to 'src/alvin' and run:
 
-    $ es-sh alvin.eso
+    $ es-sh -r -3 alvin.eso
     EnglishScript Shell v0.1.2
     Copyright (c) Tommi Manttari
 
