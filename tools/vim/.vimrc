@@ -11,8 +11,8 @@ set modelines=0            " Prevent some security exploits
 set clipboard=unnamedplus
 syntax on
 
-" Set L2 path
-set path=.
+" Set path
+set path=**
 
 " Tab settings
 set ts=4 ts=4 sw=4
@@ -61,7 +61,6 @@ set showcmd
 set hidden
 set wildmenu
 set wildmode=list:longest
-set showmode
 set virtualedit=all
 nnoremap <leader>V :set virtualedit=all<CR>
 nnoremap <leader>v :set virtualedit=<CR>
@@ -188,8 +187,7 @@ inoremap <special> jk <ESC>mM:w<CR>
 
 "
 " CtrlP settings
-"
-set wildignore+=*/tmp/*,.so,*.swp,*.zip,*/.svn/*
+set wildignore+=*/bin/*,*/lib/*,*.so,*.swp,*.zip,*/.svn/*,*/.git/*
 let g:ctrlp_by_filename = 1
 let g:ctrlp_match_window = 'bottom,order:btt,min:1,max:20,results:50'
 let g:ctrlp_switch_buffer = 'Et'
@@ -382,10 +380,9 @@ let g:vc_max_open_files = 999     " Allow Ctrl-o to open all changed files to bu
 
 " 
 " Search helpers
-"
-nnoremap <leader>f *``:Ag! --cpp --ignore tst '<cword>'<CR>
-nnoremap <leader>ft *``:Ag! '<cword>' .<CR>
-nnoremap <leader>fa *``:Ag! '<cword>' .<CR>
+nnoremap <leader>f *:Ag '<cword>' src<CR>
+nnoremap <leader>ft *:Ag '<cword>' src/tests<CR>
+nnoremap <leader>fa *:Ag '<cword>' .<CR>
 
 " 
 " Edit helpers
@@ -408,6 +405,7 @@ if has("autocmd")
         autocmd!
         autocmd BufNewFile,BufRead *.es   set syntax=es
         autocmd BufNewFile,BufRead *.txt  set syntax=txt
+        autocmd BufNewFile,BufRead *.test set syntax=diff
     augroup end
 endif
 
@@ -435,9 +433,16 @@ iabbr <silent> cb {<C-r>=MyEatchar('\m\s')<CR>
 iabbr <silent> cbc }<C-r>=MyEatchar('\m\s')<CR>
 iabbr <silent> sb <BS>[<C-r>=MyEatchar('\m\s')<CR>
 iabbr <silent> sbc <BS>]<C-r>=MyEatchar('\m\s')<CR>
+iabbr <silent> st <BS>*<C-r>=MyEatchar('\m\s')<CR>
 iabbr <silent> et <BS>&<C-r>=MyEatchar('\m\s')<CR>
 iabbr <silent> h #<C-r>=MyEatchar('\m\s')<CR>
+iabbr <silent> etet <BS>&&<C-r>=MyEatchar('\m\s')<CR>
+iabbr <silent> o <BS>\|<C-r>=MyEatchar('\m\s')<CR>
+iabbr <silent> oo <BS>\|\|<C-r>=MyEatchar('\m\s')<CR>
 iabbr <silent> e =<C-r>=MyEatchar('\m\s')<CR>
+iabbr <silent> ee ==<C-r>=MyEatchar('\m\s')<CR>
+iabbr <silent> g ><C-r>=MyEatchar('\m\s')<CR>
+iabbr <silent> l <<C-r>=MyEatchar('\m\s')<CR>
 iabbr <silent> r <BS>-><C-r>=MyEatchar('\m\s')<CR>
 iabbr <silent> nt <BS>!<C-r>=MyEatchar('\m\s')<CR>
 iabbr <silent> n <CR><C-r>=MyEatchar('\m\s')<CR>
@@ -450,15 +455,6 @@ iabbr <silent> d <BS><BS><C-r>=MyEatchar('\m\s')<CR>
 iabbr <silent> dw <BS><ESC>diwi
 iabbr <silent> dd <BS><ESC>ddi<BS>
 iabbr <silent> y <BS><C-r>0
-
-"iabbr <silent> g ><C-r>=MyEatchar('\m\s')<CR>
-"iabbr <silent> l <<C-r>=MyEatchar('\m\s')<CR>
-"iabbr <silent> st <BS>*<C-r>=MyEatchar('\m\s')<CR>
-"iabbr <silent> sa <BS><ESC>:update<CR>i<Right><C-r>=MyEatchar('\m\s')<CR>
-"iabbr <silent> p <BS>.<C-r>=MyEatchar('\m\s')<CR>
-"iabbr <silent> c <BS>,<C-r>=MyEatchar('\m\s')<CR>
-"iabbr <silent> sc <BS>;<C-r>=MyEatchar('\m\s')<CR>
-"iabbr <silent> co <BS>:<C-r>=MyEatchar('\m\s')<CR>
 
 "
 " NERDTree
