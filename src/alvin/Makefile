@@ -26,7 +26,7 @@ AI_NAME = alvin
 ES_INCS = ${ES_INCLUDE_PATH}
 ES_SRC = $(AI_NAME).es
 ES_TARGET = $(AI_NAME).eso
-TESTS = $(AI_NAME).test intro_video.test select_image.test news_skill.test take_picture.test reminder_skill.test
+TESTS = $(AI_NAME).test intro_video.test select_image.test news_skill.test take_picture.test reminder_skill.test time_skill.test
 
 INC = \
 alvin_basic.es \
@@ -49,7 +49,7 @@ test:   $(ES_TARGET)
 	@export TESTS_OK="1"; \
 	for TEST in $(TESTS); do \
 		echo "RUNNING TEST SCRIPT " $${TEST}; \
-		$(ESTEST) -r -3 -b -s $${TEST} $(ES_TARGET); \
+		$(ESTEST) -r -3 -b -s $${TEST} $(ES_TARGET) > /dev/null; \
 		if [ $$? -eq "0" ]; then \
 			echo "TESTING $${TEST} OK"; \
 		else \
