@@ -28,6 +28,18 @@ ES_SRC = $(AI_NAME).es
 ES_TARGET = $(AI_NAME).eso
 TESTS = $(AI_NAME).test intro_video.test select_image.test news_skill.test take_picture.test reminder_skill.test time_skill.test
 
+ifdef DEBUG
+DEBUG_TARGET = /dev/stdout
+else
+DEBUG_TARGET = /dev/null
+endif
+
+ifdef MEMCHECK
+MEMCHECKER = valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all --num-callers=50 --suppressions=valgrind.supp
+else
+MEMCHECKER =
+endif
+
 INC = \
 alvin_basic.es \
 animal.es \
@@ -49,7 +61,7 @@ test:   $(ES_TARGET)
 	@export TESTS_OK="1"; \
 	for TEST in $(TESTS); do \
 		echo "RUNNING TEST SCRIPT " $${TEST}; \
-		$(ESTEST) -r -3 -b -s $${TEST} $(ES_TARGET) > /dev/null; \
+		$(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST} $(ES_TARGET) > $(DEBUG_TARGET); \
 		if [ $$? -eq "0" ]; then \
 			echo "TESTING $${TEST} OK"; \
 		else \
