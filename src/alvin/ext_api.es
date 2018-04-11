@@ -1,12 +1,13 @@
 A picture.
 It has a name "this image" and a name "this picture".
-                                                                                                                                                                         
+
 A function "__ext_select_image_from_gallery".
 A function "__ext_take_picture".
 A function "__ext_show_image".
 A function "__ext_show_settings".
 A function "__ext_change_tts_state".
 A function "__ext_get_pointer_coordinates".
+A function "__ext_call_phone_number".
 
 To select an image from a gallery.
     Call the function "__ext_select_image_from_gallery" with the image.
@@ -62,4 +63,18 @@ To read a pointer.
     the 2nd coordinate of the pointer and the 3rd coordinate of the pointer.
 End.
 
+To call a person to a phone number.
+    Call the function "__ext_call_phone_number" with the phone number.
+End.
+
+To call a person.
+    If unknown if the person has a phone number then.
+        Remember that the person has a phone number.
+        Ask the phone number of the person.
+    End.
+    If the person has a phone number then.
+        Tell me that you are calling the person.
+        Call the person to the phone number.
+    End.
+End.
 

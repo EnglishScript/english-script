@@ -111,12 +111,21 @@ To have a 1st conversation with someone.
             /*Print "Telling...".*/
             Tell someone something.
         End.
-        If someone asks you that does somebody do something,
-        then.
+        If someone asks you that does somebody do something then.
             /*Print "Answering...".*/
             /*If someone asks you that what are you then.
                Tell someone about you.
             Else.*/
+               /*Answer someone whether somebody does something.*/
+               Answer something.
+            /*End.*/
+        End.
+        If someone asks you that has somebody done something then.
+            /*Print "Answering...".*/
+            /*If someone asks you that what are you then.
+               Tell someone about you.
+            Else.*/
+               /*Answer someone whether somebody does something.*/
                Answer something.
             /*End.*/
         End.

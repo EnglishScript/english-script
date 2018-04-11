@@ -26,7 +26,7 @@ AI_NAME = alvin
 ES_INCS = ${ES_INCLUDE_PATH}
 ES_SRC = $(AI_NAME).es
 ES_TARGET = $(AI_NAME).eso
-TESTS = $(AI_NAME).test intro_video.test select_image.test news_skill.test take_picture.test reminder_skill.test time_skill.test
+TESTS = $(AI_NAME).test intro_video.test select_image.test news_skill.test take_picture.test reminder_skill.test time_skill.test call_skill.test
 
 ifdef DEBUG
 DEBUG_TARGET = /dev/stdout
