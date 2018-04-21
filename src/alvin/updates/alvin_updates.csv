@@ -1,0 +1,4 @@
+Alvin version code; english-script revision;Android versionCodes; Comment
+1;547af8b4e521277caadd485223e259c79e349509;1-3;Alvin version code is read from version line (first line, format "version <file-format-version> <Alvin-version-code> ...") of the alvin.eso file
+2;9fc4e1fc2cad29842ed0e770143190e90d18a0e1;4;Call a person API
+

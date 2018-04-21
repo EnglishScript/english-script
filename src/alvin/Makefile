@@ -20,6 +20,8 @@
 #	You can contact Tommi Manttari through email at manttari@yahoo.com.
 #
 
+VERSION = 2
+
 ESC = es-c
 ESTEST = es-test
 AI_NAME = alvin
@@ -55,7 +57,7 @@ world.es
 all: $(ES_TARGET)
 
 $(ES_TARGET):	$(ES_SRC) $(INC)
-	$(ESC) -I . -I $(ES_INCS) $< -o $@
+	$(ESC) --app-version=$(VERSION) -I . -I $(ES_INCS) $< -o $@
 
 test:   $(ES_TARGET)
 	@export TESTS_OK="1"; \
