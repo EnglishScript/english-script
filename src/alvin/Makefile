@@ -22,6 +22,8 @@
 
 VERSION = 2
 
+SHELL:= /bin/bash
+
 ESC = es-c
 ESTEST = es-test
 AI_NAME = alvin
@@ -70,6 +72,36 @@ test:   $(ES_TARGET)
 			echo "TESTING $${TEST} FAIL"; \
 			export TESTS_OK="0"; \
 		fi; \
+	done; \
+	if [ "$${TESTS_OK}" -eq "1" ]; then \
+		echo "TESTS OK"; \
+	else \
+		echo "TESTS FAILED"; \
+	fi;
+
+release: $(ES_TARGET)
+	cp $(ES_TARGET) releases/alvin.$(VERSION).eso
+	@export TESTS_OK="1"; \
+	REL=1; \
+	while [ $${REL} -lt $(VERSION) ]; do \
+		echo "TESTING UPDATE FOR REL $${REL}"; \
+		INPUTS=""; \
+		let NREL=$${REL}+1; \
+		while [ $${NREL} -le $(VERSION) ]; do \
+		    INPUTS="$${INPUTS} -i updates/$${NREL}.es "; \
+			let NREL=$${NREL}+1; \
+		done; \
+		for TEST in $(TESTS); do \
+			echo "RUNNING TEST SCRIPT " $${TEST}; \
+			$(MEMCHECKER) $(ESTEST) -r -3 -b -s $${INPUTS} $${TEST} releases/alvin.$${REL}.eso > $(DEBUG_TARGET); \
+			if [ $$? -eq "0" ]; then \
+				echo "TESTING $${TEST} OK"; \
+			else \
+				echo "TESTING $${TEST} FAIL"; \
+				export TESTS_OK="0"; \
+			fi; \
+		done; \
+		let REL=$${REL}+1; \
 	done; \
 	if [ "$${TESTS_OK}" -eq "1" ]; then \
 		echo "TESTS OK"; \
