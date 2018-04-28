@@ -65,6 +65,7 @@ test:   $(ES_TARGET)
 	@export TESTS_OK="1"; \
 	for TEST in $(TESTS); do \
 		echo "RUNNING TEST SCRIPT " $${TEST}; \
+		echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST} $(ES_TARGET); \
 		$(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST} $(ES_TARGET) > $(DEBUG_TARGET); \
 		if [ $$? -eq "0" ]; then \
 			echo "TESTING $${TEST} OK"; \
@@ -93,6 +94,7 @@ release: $(ES_TARGET)
 		done; \
 		for TEST in $(TESTS); do \
 			echo "RUNNING TEST SCRIPT " $${TEST}; \
+			echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $${INPUTS} $${TEST} releases/alvin.$${REL}.eso; \
 			$(MEMCHECKER) $(ESTEST) -r -3 -b -s $${INPUTS} $${TEST} releases/alvin.$${REL}.eso > $(DEBUG_TARGET); \
 			if [ $$? -eq "0" ]; then \
 				echo "TESTING $${TEST} OK"; \

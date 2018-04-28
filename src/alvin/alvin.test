@@ -16,9 +16,9 @@
 >
 >Tell me about you.
 <Ok.
-<I am to help you.
-<I am an artificial intelligence.
-<I have the name "Alvin".
+&<I am to help you.
+&<I am an artificial intelligence.
+&<I have the name "Alvin".
 >
 >/* Tell Alvin something new and check if he remembers them. */
 >I have a car.
