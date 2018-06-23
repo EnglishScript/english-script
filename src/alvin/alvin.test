@@ -60,6 +60,12 @@
 <Ok.
 >Am I old?
 <Yes.
+>You are a being.
+<Ok.
+>Your age is 6 years.
+<Ok.
+>What is your age?
+<6 years.
 >/*TODO: You want to know the name of my dog.<Ok. What is the name of your dog?>"Jojo".>What is my dog's name?<"Jojo".*/
 >
 >/*	The EnglishScript programming language - for Artificial Intelligence.

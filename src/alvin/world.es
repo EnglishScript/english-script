@@ -43,3 +43,12 @@ The name of the next country is "U.S.A".
 The name of the next country is "Germany".
 The name of the next country is "Poland".
 The name of the next country is "North Korea".
+
+A man.
+His name is "Donald Trump".
+He is the president of U.S.A.
+
+A man.
+His name is "Kim Jong Un".
+He is the leader of North Korea.
+

@@ -21,8 +21,8 @@ To show an image.
     Call the function "__ext_show_image" with the image.
 End.
 
-To show something.
-    If something is in an image then.
+To show a person.
+    If the person is in an image then.
         Show the image.
     End.
 End.

@@ -46,6 +46,13 @@ The verb "closed" is the 2nd form of the verb "close".
 The verb "closed" is the 3rd form of the verb "close".
 The verb "closes" is the 3rd person form of the verb "close".
 
+"introduce", "introduced" and "introduces" are verbs.
+
+The verb "introduce" is the 1st form of the verb "introduce".
+The verb "introduced" is the 2nd form of the verb "introduce".
+The verb "introduced" is the 3rd form of the verb "introduce".
+The verb "introduces" is the 3rd person form of the verb "introduce".
+
 "conversation" and "conversations" are nouns.
 The noun "conversations" is the plural form of the noun "conversation".
 
@@ -83,6 +90,11 @@ To know something.
     Ask something.
 End.
 
+To introduce you.
+    Tell me your name.
+    Tell me that you are an artificial intelligence.
+End.
+
 To have a 1st conversation with someone.
     Until someone closes the 1st conversation with you then.
         If someone tells you that somebody does something then.
@@ -112,33 +124,41 @@ To have a 1st conversation with someone.
             Tell someone something.
         End.
         If someone asks you that does somebody do something then.
-            /*Print "Answering...".*/
-            /*If someone asks you that what are you then.
-               Tell someone about you.
-            Else.*/
-               /*Answer someone whether somebody does something.*/
-               Answer something.
-            /*End.*/
+            If someone asks you that what are you then.
+                Introduce you.
+            Else.
+                If someone asks you that how are you then.
+                    Tell someone that you are fine.
+                Else.
+                    If someone asks you that how do you do then.
+                        Do not wait for a response.
+                        Ask someone that how does someone do.
+                        Wait for a response.
+                    Else.
+                        /*Answer someone whether somebody does something.*/
+                        Answer something.
+                    End.
+                End.
+            End.
         End.
         If someone asks you that has somebody done something then.
             /*Print "Answering...".*/
-            /*If someone asks you that what are you then.
-               Tell someone about you.
-            Else.*/
-               /*Answer someone whether somebody does something.*/
-               Answer something.
-            /*End.*/
+            Answer something.
         End.
         If someone asks you to do something then.
         /*TODO: If you know how to do something, then do something,
-            else tell someone that you do not know how to do 
+            else tell someone that you do not know how to do
             something.*/
             /*Print "Doing...".*/
             Say "Ok" to someone.
             Remember shortly from something.
             Start to do something.
         End.
-        /* TODO: add evaluation of the verb a check that the "to"-verb is not 
+        If someone asks you that /* TODO: what can you do */ can you do something then.
+            Tell someone that you remember things for someone and you do things for someone.
+            Tell someone that you /*TODO: can*/ help someone.
+        End.
+        /* TODO: add evaluation of the verb a check that the "to"-verb is not
            being executed to avoid re-remembering the doing.*/
         If you want to know something then remember that you want to know something.
         Wait.

@@ -10,4 +10,9 @@ The noun "birthdays" is the plural form of the noun "birthday".
 "present" and "presents" are nouns.
 The noun "presents" is the plural form of the noun "present".
 
+"bear", "bears", "bore" and "born" are verbs.
+The verb "bear" is the 1st form of the verb "bear".
+The verb "bore" is the 2nd form of the verb "bear".
+The verb "born" is the 3rd form of the verb "bear".
+The verb "bears" is the 3rd person form of the verb "bear".
 

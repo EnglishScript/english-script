@@ -4,14 +4,6 @@ The noun "reports" is the plural form of the noun "report".
 The noun "news" is uncountable.
 
 News reports.
-    
-A man.
-His name is "Donald Trump".
-He is the president of U.S.A.
-
-A man.
-His name is "Kim Jong Un".
-He is the leader of North Korea.
 
 "madman", "madmen" are nouns.
 The noun "madmen" is the plural form of the noun "madman".

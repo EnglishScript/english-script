@@ -89,7 +89,7 @@ An age is years.
 Old and young are ages.
 
 A being is a thing.
-A being has a name, an age and feelings.
+A being has a name, an age, a birthday and feelings.
 The feelings include fear, anger, sadness, joy, happiness, disgust, surprise,
 trust and anticipation.
 
