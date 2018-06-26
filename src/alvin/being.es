@@ -65,13 +65,24 @@ The verb "felt" is the 3rd form of the verb "feel".
 The verb "feels" is the 3rd person form of the verb "feel".
 The noun "feeling" is the noun form of the verb "feel".
 
+"liking" and "likings" are nouns.
+The noun "likings" is the plural form of the noun "liking".
+
+"like", "likes" and "liked" are verbs.
+The verb "like" is the 1st form of the verb "like".
+The verb "liked" is the 2nd form of the verb "like".
+The verb "liked" is the 3rd form of the verb "like".
+The verb "likes" is the 3rd person form of the verb "like".
+The noun "liking" is the noun form of the verb "like".
+
 /* https://simple.wikipedia.org/wiki/List_of_emotions */
 
 "afraid", "angry", "sad", "joyful", "happy", "disgusted", "surprised", "trustful", 
 "anticipated" are adjectives.
 
 "fear", "anger", "sadness", "joy", "happiness", "disgust", "surprise", "trust",
-"anticipation" are nouns.  Fear, anger, sadness, happiness, disgust,
+"anticipation" are nouns.
+Fear, anger, sadness, happiness, disgust,
 /* TODO: should these be emotions instead? E.g. hunger is a physical feeling */
 Surprise, trust and anticipation are feelings.
 

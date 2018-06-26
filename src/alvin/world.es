@@ -31,7 +31,11 @@
 "world" and "worlds" are nouns.
 The noun "worlds" is the plural form of the noun "world".
 
-A country has a name, a president, a leader, a king.
+"city" and "cities" are nouns.
+The noun "cities" is the plural form of the noun "city".
+
+A country has a name, a president, a leader, a king and cities.
+A city has a name.
 
 A world.
 The world has countries.

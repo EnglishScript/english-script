@@ -37,6 +37,7 @@
 #include "sports.es"
 #include "politics.es"
 #include "world.es"
+#include "languages.es"
 #include "profession.es"
 #include "buildings.es"
 #include "ai.es"
