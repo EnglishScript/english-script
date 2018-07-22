@@ -56,4 +56,5 @@
 #include "economy.es"
 #include "news_skill.es"
 #include "reminder_skill.es"
-
+#include "action.es"
+#include "senses.es"
