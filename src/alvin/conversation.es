@@ -155,7 +155,8 @@ To have a 1st conversation with someone.
             Start to do something.
         End.
         If someone asks you that /* TODO: what can you do */ can you do something then.
-            Tell someone that you remember things for someone and you do things for someone.
+            Tell someone that you remember things for someone /* FIXME: and you do things for someone*/.
+            Tell someone that you do things for someone.
             Tell someone that you /*TODO: can*/ help someone.
         End.
         /* TODO: add evaluation of the verb a check that the "to"-verb is not
