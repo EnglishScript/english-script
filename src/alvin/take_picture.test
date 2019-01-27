@@ -14,8 +14,11 @@
 >End.
 <Ok.
 >I have a dog.
-<Ok. What is a name of the dog?
->"Hessu".
+<Ok.
+""<Ok. What is a name of the dog?
+"">"Hessu".
+>Its name is "Hessu".
+<Ok.
 >
 >Take a picture.
 <Ok.
@@ -26,13 +29,16 @@
 >Hessu sleeps in the picture.
 <Ok.
 >Tell me about the picture.
-<Ok. Hessu sleeps in the picture. 
+<Ok. Hessu sleeps in the picture.
 <The picture has the file path "abc".
 <The picture is the picture.
 >
 >I have a son.
-<Ok. What is a name of the son?
->"Joe".
+<Ok.
+""<Ok. What is a name of the son?
+"">"Joe".
+>His name is "Joe".
+<Ok.
 >Take a picture.
 <Ok.
 >The picture is this picture.
@@ -42,13 +48,16 @@
 >Joe is in this picture.
 <Ok.
 >Tell me about the picture.
-<Ok. Joe is in the picture. 
+<Ok. He is in the picture.
 <The picture has the file path "def".
 <The picture is the picture.
 >
 >I have a daughter.
-<Ok. What is a name of the daughter?
->"Jane".
+<Ok.
+""<Ok. What is a name of the daughter?
+"">"Jane".
+>Her name is "Jane".
+<Ok.
 >Take a picture.
 <Ok.
 >The picture is this picture.
@@ -58,7 +67,7 @@
 >This is Jane.
 <Ok.
 >Tell me about the picture.
-<Ok. Jane is in the picture in coordinates. 
+<Ok. She is in the picture in coordinates. 
 <The picture has the file path "foo".
 <The picture is the picture.
 >

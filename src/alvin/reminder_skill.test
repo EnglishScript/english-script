@@ -7,8 +7,10 @@
 >
 >I have a mom.
 <Ok.
-<What is /*TODO: her name*/ a name of the mom?
->"July".
+""<What is /*TODO: her name*/ a name of the mom?
+"">"July".
+>Her name is "July".
+<Ok.
 >
 >Remind me tomorrow to buy a present for my mom.
 <Ok.

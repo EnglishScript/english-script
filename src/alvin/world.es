@@ -43,7 +43,7 @@ The name of the 1st country is "Finland".
 The name of the next country is "Sweden".
 The name of the next country is "Denmark".
 The name of the next country is "Norway".
-The name of the next country is "USA".
+The name of the next country is "the USA".
 /*The country has a name "The United States of America".*/
 The name of the next country is "Germany".
 The name of the next country is "Poland".
@@ -51,7 +51,7 @@ The name of the next country is "North Korea".
 
 A man.
 His name is "Donald Trump".
-He is the president of USA.
+He is the president of the USA.
 
 A man.
 His name is "Kim Jong Un".

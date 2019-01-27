@@ -13,56 +13,39 @@ The noun "politicians" is the plural form of the noun "politician".
 
 A politician has a political affiliation.
 A president is a politician.
-A president has a picture.
+A person has a picture.
 A vice president is a politician.
 A presidency has a president and vice presidents.
 A political affiliation is a string literal.
 A party has a name and a political affiliation.
 
 /*Presidency[a]   President   Prior office[b] Party[c]    Term[d] Vice President*/
-USA has parties, presidencies, presidents and vice presidents.
+The USA has parties, presidencies, presidents and vice presidents.
 
 The name of the 1st party is "Democrats".
 The name of the next party is "Republicans".
 
-Barack_Obama.jpg
+/*Barack_Obama.jpg
 Bill_Clinton.jpg
-Chester_Alan_Arthur.jpg
 Donald_Trump.jpg
 Eisenhower.jpg
 Franklin_D_Roosevelt.jpg
 George_H_W_Bush.jpg
-George_Washington.jpg
 George_W_Bush.jpeg
 Gerald_Ford.jpg
-Grover_Cleveland.jpg
 Hoover.jpg
-James_Abram_Garfield.jpg
-James_Buchanan.jpg
-James_Madison.jpg
-James_Monroe.jpg
 JimmyCarter.jpg
-JKP.jpg
-John_Adams.jpg
 John_F_Kennedy.jpg
-John_Quincy_Adams.jpg
 Lyndon_Johnson.jpg
-Martin_Van_Buren.jpg
 Mckinley.jpg
-Millard_Fillmore.jpg
 Reagan.jpg
 Richard_M_Nixon.jpg
 Roosevelt.jpg
-Rutherford_Hayes.jpg
-Thomas_Jefferson.jpg
 Truman.jpg
-Tyler_Daguerreo.jpg
-Ulysses_S_Grant.jpg
 Warren_G_Harding.jpg
-William_Henry_Harrison.jpg
 William_Howard_Taft.jpg
-Woodrow_Wilson.jpg
-Zachary_Taylor.jpg
+Woodrow_Wilson.jpg*/
+
 /* 1st */
 
 A man.
@@ -73,7 +56,7 @@ The man lived 67 years.
 The man is a politician.
 The man is the 1st president.
 The political affiliation of the man is "Unaffiliated".
-The file path of the picture of the man is "images/George_Washington.jpg".
+The file path of the picture of the man is "George_Washington.jpg".
 
 A man.
 The name of the man is "John Adams".
@@ -94,7 +77,7 @@ The man lived 90 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Federalist".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "John_Adams.jpg".
 
 A man.
 The name of the man is "Thomas Jefferson".
@@ -115,7 +98,7 @@ The man lived 83 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Democratic-Republican".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "Thomas_Jefferson.jpg".
 
 A man.
 The name of the man is "Aaron Burr".
@@ -142,7 +125,7 @@ The man lived 85 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Democratic-Republican".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "James_Madison.jpg".
 
 A man.
 The name of the man is "George Clinton".
@@ -169,7 +152,7 @@ The man lived 73 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Democratic-Republican".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "James_Monroe.jpg".
 
 A man.
 The name of the man is "Daniel D. Tompkins".
@@ -190,7 +173,7 @@ The man lived 80 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Democratic-Republican".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "John_Quincy_Adams.jpg".
 
 A man.
 The name of the man is "John C. Calhoun".
@@ -212,7 +195,6 @@ The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Democratic".
 The file path of the picture of the man is "Andrew_Jackson.jpg".
-
 
 A man.
 The name of the man is "John C. Calhoun".
@@ -239,7 +221,7 @@ The man lived 79 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Democratic".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "Martin_Van_Buren.jpg".
 
 A man.
 The name of the man is "Richard M. Johnson".
@@ -260,7 +242,7 @@ The man lived 68 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Whig".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "William_Henry_Harrison.jpg".
 
 A man.
 The name of the man is "John Tyler".
@@ -281,7 +263,7 @@ The man lived 71 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Whig".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "John_Tyler.jpg".
 
 The next presidency was between the 4th day of the 4th month of the year 1841 and the 4th day of the 3rd month of the year 1845.
 John Tyler is the president of the presidency.
@@ -296,7 +278,7 @@ The man lived 53 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Democratic".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "James_K_Polk.jpg".
 
 A man.
 The name of the man is "George M. Dallas".
@@ -317,7 +299,7 @@ The man lived 65 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Whig".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "Zachary_Taylor.jpg".
 
 A man.
 The name of the man is "Millard Fillmore".
@@ -338,7 +320,7 @@ The man lived 74 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Whig".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "Millard_Fillmore.jpg".
 
 The next presidency was between the 9th day of the 7th month of the year 1850 and the 4th day of the 3rd month of the year 1853.
 Millard Fillmore is the president of the presidency.
@@ -354,7 +336,6 @@ The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Democratic".
 The file path of the picture of the man is "Franklin_Pierce.jpg".
-
 
 A man.
 The name of the man is "William R. King".
@@ -375,7 +356,7 @@ The man lived 77 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Democratic".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "James_Buchanan.jpg".
 
 A man.
 The name of the man is "John C. Breckinridge".
@@ -438,7 +419,7 @@ The man lived 63 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Republican".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "Ulysses_S_Grant.jpg".
 
 A man.
 The name of the man is "Schuyler Colfax".
@@ -465,7 +446,7 @@ The man lived 70 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Republican".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "Rutherford_Hayes.jpg".
 
 A man.
 The name of the man is "William A. Wheeler".
@@ -486,7 +467,7 @@ The man lived 49 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Republican".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "James_Abram_Garfield.jpg".
 
 A man.
 The name of the man is "Chester A. Arthur".
@@ -507,7 +488,7 @@ The man lived 57 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Republican".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "Chester_Alan_Arthur.jpg".
 
 The next presidency was between the 19th day of the 9th month of the year 1881 and the 4th day of the 3rd month of the year 1885.
 Chester A. Arthur is the president of the presidency.
@@ -522,7 +503,7 @@ The man lived 71 years.
 The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Democratic".
-The file path of the picture of the man is "".
+The file path of the picture of the man is "Grover_Cleveland.jpg".
 
 A man.
 The name of the man is "Thomas A. Hendricks".
@@ -544,7 +525,6 @@ The man is a politician.
 The man is the next president.
 The political affiliation of the man is "Republican".
 The file path of the picture of the man is "Benjamin_Harrison.jpg".
-
 
 A man.
 The name of the man is "Levi P. Morton".

@@ -43,8 +43,8 @@
 "">"Fifi".
 >The name of my dog is "Fifi".
 <Ok.
->Make my dog to sit down.
-<Ok. Fifi. Sit/*TODO:!*/.
+""FIXME: >Make my dog to sit down.
+""<Ok. Fifi. Sit/*TODO:!*/.
 >
 >/*	The EnglishScript programming language - for Artificial Intelligence.
 >
