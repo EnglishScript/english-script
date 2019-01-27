@@ -98,6 +98,7 @@ The adjective "anticipated" is the adjective form of the noun "anticipation".
 
 An age is years.
 Old and young are ages.
+A name is a string literal.
 
 A being is a thing.
 A being has a name, an age, a birthday and feelings.
@@ -105,3 +106,5 @@ The feelings include fear, anger, sadness, joy, happiness, disgust, surprise,
 trust and anticipation.
 
 A male and a female are sexes.
+
+

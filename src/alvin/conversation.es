@@ -96,6 +96,7 @@ To introduce you.
 End.
 
 To have a 1st conversation with someone.
+    /*Focus on someone.*/
     Until someone closes the 1st conversation with you then.
         If someone tells you that somebody does something then.
             /*Print "Remembering...".*/
@@ -161,7 +162,16 @@ To have a 1st conversation with someone.
         End.
         /* TODO: add evaluation of the verb a check that the "to"-verb is not
            being executed to avoid re-remembering the doing.*/
-        If you want to know something then remember that you want to know something.
+        /*If you / *TODO: are focused* / focus on someone then.
+          If someone has something and you do not know something and you want to know something then.
+            Remember that you want to know something.
+          Else.
+            If someone has something and you want to know about something then.
+              Remember that you want to know about something.
+            End.
+          End.
+        End.*/
+        /*If you want to know something then remember that you want to know something.*/
         Wait.
     End.
     /*

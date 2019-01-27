@@ -90,6 +90,7 @@ A wife is a woman.
 A family has members and a home.
 
 A person is a human.
+A person has a name.
 A man and a woman are persons.
 
 A father is a man.

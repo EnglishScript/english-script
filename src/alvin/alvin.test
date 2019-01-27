@@ -3,13 +3,13 @@
 <I am an artificial intelligence.
 <I am your friend. I help you/*TODO: out*/.
 <What is your name?
->Do I have a car?
-<I don't know.
+"TODO: >Do I have a car?
+"TODO: <I don't know.
 >"John".
 >
->I have a friend.
-<Ok. What is /*FIXME: your friend's name*/a name of the friend?
->"Mary".
+"">I have a friend.
+""<Ok. What is /*FIXME: your friend's name*/a name of the friend?
+"">"Mary".
 >
 >/*Do you have a friend?<Yes.*/
 >/*FIXME: Who is your friend? <You.*/
@@ -41,8 +41,10 @@
 <I don't know.
 >I have a dog.
 <Ok.
-<What is /*FIXME: the*/ a name of the dog?
->"Fifi".
+>The name of the dog is "Fifi".
+<Ok.
+""<What is /*FIXME: the*/ a name of the dog?
+"">"Fifi".
 >Do I have a dog?
 <Yes.
 >

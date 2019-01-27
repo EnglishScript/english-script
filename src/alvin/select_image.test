@@ -23,8 +23,11 @@
 >End.
 <Ok.
 >I have a dog.
-<Ok. What is a name of the dog?
->"Hessu".
+<Ok.
+""<Ok. What is a name of the dog?
+"">"Hessu".
+>The name of my dog is "Hessu".
+<Ok.
 >
 >I have a mobile phone.
 <Ok.
@@ -45,15 +48,18 @@
 <The image is the picture.
 >
 >I have a son.
-<Ok. What is a name of the son?
->"Joe".
+<Ok.
+""<Ok. What is a name of the son?
+"">"Joe".
+>The name of my son is "Joe".
+<Ok.
 >Select an image from the gallery.
 <Ok.
 >The image is this image.
 <Ok.
 >The image has a file path "def".
 <Ok.
->Joe is in this image.
+>My son is in the image.
 <Ok.
 >Tell me about the image.
 <Ok. Joe is in the image. 
@@ -61,8 +67,11 @@
 <The image is the picture.
 >
 >I have a daughter.
-<Ok. What is a name of the daughter?
->"Jane".
+<Ok.
+""<Ok. What is a name of the daughter?
+"">"Jane".
+>The name of my daughter is "Jane".
+<Ok.
 >Select an image from the gallery.
 <Ok.
 >The image is this image.

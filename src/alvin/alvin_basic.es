@@ -34,6 +34,8 @@
 #include "anatomy.es"
 #include "human.es"
 #include "animal.es"
+#include "resources.es"
+#include "focus.es"
 #include "sports.es"
 #include "politics.es"
 #include "world.es"

@@ -38,8 +38,11 @@
 <Ok.
 >
 >I have a dog.
-<Ok. What is /* FIXME: its name */ a name of the dog?
->"Fifi".
+<Ok.
+""<Ok. What is /* FIXME: its name */ a name of the dog?
+"">"Fifi".
+>The name of my dog is "Fifi".
+<Ok.
 >Make my dog to sit down.
 <Ok. Fifi. Sit/*TODO:!*/.
 >
