@@ -1,0 +1,42 @@
+< Hi. My name is "Alvin".
+<I am an artificial intelligence.
+<I am your friend. I help you.
+<What is your name?
+>"Tom".
+
+>To call the function "__ext_show_image" with a picture.
+>    Tell me that you show the picture.
+<    Ok.
+>End.
+<Ok.
+
+> You have a file.
+< Ok.
+> The file path of the file is "usa.es".
+< Ok.
+> Read the file.
+< Ok.
+
+> Tell me about the presidents.
+< Ok. I show a picture of the presidents.
+< The presidents have the picture.
+< The USA has parties, presidencies, the presidents and vice presidents.
+< The presidents include 23 presidents.
+
+> Which of them are men?
+< 23 presidents.
+
+> Tell me about the 1st president.
+< Ok.
+&< I show George Washington's picture.
+&< He is the president of the USA's 1st presidency.
+&< He has the picture.
+&< He is unaffiliated.
+&< He is the USA's 1st president.
+&< He is a politician.
+&< He lived 67 years.
+&< He died at the year 1799.
+&< George Washington was born at the year 1732.
+&< He has a name "George Washington".
+&< He is a man.
+
