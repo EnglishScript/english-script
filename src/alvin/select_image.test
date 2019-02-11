@@ -8,7 +8,7 @@
 >To call the function "__ext_select_image_from_gallery" with an image.
 >End.
 <Ok.
->To call the function "__ext_show_image" with an image.
+>To call the function "__ext_show_image" with a image.
 >    Tell me that you show the image.
 <    Ok.
 >End.

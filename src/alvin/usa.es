@@ -1,6 +1,8 @@
 "presidency", "presidencies", "president", "presidents", "prior", "priors", "party", "parties", 
 "term", "terms", "vice", "vices", "affiliation", "affiliations", "politician", "politicians" are nouns.
 
+"democrat", "democrats", "republican", "republicans", "whig", "whigs", "federalist", "federalists" are nouns.
+
 The noun "presidencies" is the plural form of the noun "presidency".
 The noun "presidents" is the plural form of the noun "president".
 The noun "priors" is the plural form of the noun "prior".
@@ -9,21 +11,39 @@ The noun "terms" is the plural form of the noun "term".
 The noun "vices" is the plural form of the noun "vice".
 The noun "politicians" is the plural form of the noun "politician".
 
+The noun "democrats" is the plural form of the noun "democrat".
+The noun "republicans" is the plural form of the noun "republican".
+The noun "whigs" is the plural form of the noun "whig".
+The noun "federalists" is the plural form of the noun "federalist".
+
 "political" is an adjective.
+"unaffiliated" is an adjective.
 
 A politician has a political affiliation.
 A president is a politician.
 A person has a picture.
 A vice president is a politician.
 A presidency has a president and vice presidents.
-A political affiliation is a string literal.
 A party has a name and a political affiliation.
+
+To show a president.
+    Show the picture of the president.
+End.
+
+To show someone a president.
+    Show the picture of the president.
+End.
+
+To tell someone about a president.
+    Show the president.
+    Tell someone about the president.
+End.
 
 /*Presidency[a]   President   Prior office[b] Party[c]    Term[d] Vice President*/
 The USA has parties, presidencies, presidents and vice presidents.
 
-The name of the 1st party is "Democrats".
-The name of the next party is "Republicans".
+/*The name of the 1st party is "Democrats".
+The name of the next party is "Republicans".*/
 
 /*Barack_Obama.jpg
 Bill_Clinton.jpg
@@ -55,7 +75,7 @@ The man died at the year 1799.
 The man lived 67 years.
 The man is a politician.
 The man is the 1st president.
-The political affiliation of the man is "Unaffiliated".
+The man is unaffiliated.
 The file path of the picture of the man is "George_Washington.jpg".
 
 A man.
@@ -76,7 +96,7 @@ The man died at the year 1826.
 The man lived 90 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Federalist".
+The man is a federalist.
 The file path of the picture of the man is "John_Adams.jpg".
 
 A man.
@@ -97,7 +117,8 @@ The man died at the year 1826.
 The man lived 83 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Democratic-Republican".
+The man is a democrat.
+The man is a republican.
 The file path of the picture of the man is "Thomas_Jefferson.jpg".
 
 A man.
@@ -124,7 +145,8 @@ The man died at the year 1836.
 The man lived 85 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Democratic-Republican".
+The man is a democrat.
+The man is a republican.
 The file path of the picture of the man is "James_Madison.jpg".
 
 A man.
@@ -151,7 +173,8 @@ The man died at the year 1831.
 The man lived 73 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Democratic-Republican".
+The man is a democrat.
+The man is a republican.
 The file path of the picture of the man is "James_Monroe.jpg".
 
 A man.
@@ -172,7 +195,8 @@ The man died at the year 1848.
 The man lived 80 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Democratic-Republican".
+The man is a democrat.
+The man is a republican.
 The file path of the picture of the man is "John_Quincy_Adams.jpg".
 
 A man.
@@ -193,7 +217,7 @@ The man died at the year 1845.
 The man lived 78 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Democratic".
+The man is a democrat.
 The file path of the picture of the man is "Andrew_Jackson.jpg".
 
 A man.
@@ -220,7 +244,7 @@ The man died at the year 1862.
 The man lived 79 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Democratic".
+The man is a democrat.
 The file path of the picture of the man is "Martin_Van_Buren.jpg".
 
 A man.
@@ -241,7 +265,7 @@ The man died at the year 1841.
 The man lived 68 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Whig".
+The man is a whig.
 The file path of the picture of the man is "William_Henry_Harrison.jpg".
 
 A man.
@@ -262,7 +286,7 @@ The man died at the year 1862.
 The man lived 71 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Whig".
+The man is a whig.
 The file path of the picture of the man is "John_Tyler.jpg".
 
 The next presidency was between the 4th day of the 4th month of the year 1841 and the 4th day of the 3rd month of the year 1845.
@@ -277,7 +301,7 @@ The man died at the year 1849.
 The man lived 53 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Democratic".
+The man is a democrat.
 The file path of the picture of the man is "James_K_Polk.jpg".
 
 A man.
@@ -298,7 +322,7 @@ The man died at the year 1850.
 The man lived 65 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Whig".
+The man is a whig.
 The file path of the picture of the man is "Zachary_Taylor.jpg".
 
 A man.
@@ -319,7 +343,7 @@ The man died at the year 1874.
 The man lived 74 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Whig".
+The man is a whig.
 The file path of the picture of the man is "Millard_Fillmore.jpg".
 
 The next presidency was between the 9th day of the 7th month of the year 1850 and the 4th day of the 3rd month of the year 1853.
@@ -334,7 +358,7 @@ The man died at the year 1869.
 The man lived 64 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Democratic".
+The man is a democrat.
 The file path of the picture of the man is "Franklin_Pierce.jpg".
 
 A man.
@@ -355,7 +379,7 @@ The man died at the year 1868.
 The man lived 77 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Democratic".
+The man is a democrat.
 The file path of the picture of the man is "James_Buchanan.jpg".
 
 A man.
@@ -376,7 +400,7 @@ The man died at the year 1865.
 The man lived 56 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Republican".
+The man is a republican.
 The file path of the picture of the man is "Abraham_Lincoln.jpg".
 
 A man.
@@ -403,7 +427,7 @@ The man died at the year 1875.
 The man lived 66 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Democratic".
+The man is a democrat.
 The file path of the picture of the man is "Andrew_Johnson.jpg".
 
 The next presidency was between the 15th day of the 4th month of the year 1865 and the 4th day of the 3rd month of the year 1869.
@@ -418,7 +442,7 @@ The man died at the year 1885.
 The man lived 63 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Republican".
+The man is a republican.
 The file path of the picture of the man is "Ulysses_S_Grant.jpg".
 
 A man.
@@ -445,7 +469,7 @@ The man died at the year 1893.
 The man lived 70 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Republican".
+The man is a republican.
 The file path of the picture of the man is "Rutherford_Hayes.jpg".
 
 A man.
@@ -466,7 +490,7 @@ The man died at the year 1881.
 The man lived 49 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Republican".
+The man is a republican.
 The file path of the picture of the man is "James_Abram_Garfield.jpg".
 
 A man.
@@ -487,7 +511,7 @@ The man died at the year 1886.
 The man lived 57 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Republican".
+The man is a republican.
 The file path of the picture of the man is "Chester_Alan_Arthur.jpg".
 
 The next presidency was between the 19th day of the 9th month of the year 1881 and the 4th day of the 3rd month of the year 1885.
@@ -502,7 +526,7 @@ The man died at the year 1908.
 The man lived 71 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Democratic".
+The man is a democrat.
 The file path of the picture of the man is "Grover_Cleveland.jpg".
 
 A man.
@@ -523,7 +547,7 @@ The man died at the year 1901.
 The man lived 67 years.
 The man is a politician.
 The man is the next president.
-The political affiliation of the man is "Republican".
+The man is a republican.
 The file path of the picture of the man is "Benjamin_Harrison.jpg".
 
 A man.
