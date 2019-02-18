@@ -71,7 +71,7 @@ To begin.
         Say "I am your friend".
         /* FIXME: Tell me that you help me *TODO: me out*.*/
         Tell me that you help me /*TODO: out*/.
-        Ask me my name.
+        /*Ask me my name.*/
     End.
     /*If you are not having a conversation with me then.*/
     Have a conversation with me.

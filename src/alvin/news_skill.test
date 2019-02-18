@@ -2,9 +2,9 @@
 <My name is "Alvin".
 <I am an artificial intelligence.
 <I am your friend. I help you/*TODO: out*/.
-<What is your name?
->"John".
->
+""<What is your name?
+"">"John".
+
 >Read the news.
 <Ok. The news report 1 says that Donald Trump called Kim Jong Un a madman.
 >Continue.

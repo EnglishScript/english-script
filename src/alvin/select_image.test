@@ -2,9 +2,9 @@
 <My name is "Alvin".
 <I am an artificial intelligence.
 <I am your friend. I help you/*TODO: out*/.
-<What is your name?
->"John".
->
+""<What is your name?
+"">"John".
+
 >To call the function "__ext_select_image_from_gallery" with an image.
 >End.
 <Ok.

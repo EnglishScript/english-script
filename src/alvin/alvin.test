@@ -2,11 +2,11 @@
 <My name is "Alvin".
 <I am an artificial intelligence.
 <I am your friend. I help you/*TODO: out*/.
-<What is your name?
+""<What is your name?
 "TODO: >Do I have a car?
 "TODO: <I don't know.
->"John".
->
+"">"John".
+
 "">I have a friend.
 ""<Ok. What is /*FIXME: your friend's name*/a name of the friend?
 "">"Mary".
