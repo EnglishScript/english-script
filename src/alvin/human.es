@@ -31,61 +31,17 @@
 "profession" and "professions" are nouns.
 The noun "professions" is the plural form of the noun "profession".
 
-"boy" and "boys" are nouns.
-The noun "boys" is the plural form of the noun "boy".
-
-"girl" and "girls" are nouns.
-The noun "girls" is the plural form of the noun "girl".
-
-"son" and "sons" are nouns.
-The noun "sons" is the plural form of the noun "son".
-
-"daughter" and "daughters" are nouns.
-The noun "daughters" is the plural form of the noun "daughter".
-
 "wife" and "wifes" are nouns.
 The noun "wifes" is the plural form of the noun "wife".
 
 "husband" and "husbands" are nouns.
 The noun "husbands" is the plural form of the noun "husband".
 
-"father" and "fathers" are nouns.
-The noun "fathers" is the plural form of the noun "father".
-
-"pop" and "pops" are nouns.
-The noun "pops" is the plural form of the noun "pop".
-
-"dad" and "dads" are nouns.
-The noun "dads" is the plural form of the noun "dad".
-
-"mother" and "mothers" are nouns.
-The noun "mothers" is the plural form of the noun "mother".
-
-"mom" and "moms" are nouns.
-The noun "moms" is the plural form of the noun "mom".
-
-"family" and "families" are nouns.
-The noun "families" is the plural form of the noun "family".
-
-"sister" and "sisters" are nouns.
-The noun "sisters" is the plural form of the noun "sister".
-
-"brother" and "brothers" are nouns.
-The noun "brothers" is the plural form of the noun "brother".
-
 A human is a being.
-A human has hobbies and a profession.
-A human has a stomach.
+A human has hobbies, a profession and pets.
 
-A man is a male.
-A man is a human.
-
-A boy and a son are men.
-
-A woman is a female.
-A woman is a human.
-
-A girl and a daughter are women.
+A man is a male and a human.
+A woman is a female and a human.
 
 A husband is a man.
 /*FIXME: A husband has a wife.*/
@@ -96,11 +52,6 @@ A wife is a woman.
 A family has members and a home.
 
 A person is a human.
-A person has a name, a father, a mother, sisters, brothers, friends and pets.
 A man and a woman are persons.
 
-A father is a man.
-A mother is a woman.
-A pop and a dad are fathers.
-A mom is a mother.
 

@@ -35,11 +35,47 @@ The noun "beings" is the plural form of the noun "being".
 The noun "males" is the plural form of the noun "male".
 The noun "females" is the plural form of the noun "female".
 
+"boy" and "boys" are nouns.
+The noun "boys" is the plural form of the noun "boy".
+
+"girl" and "girls" are nouns.
+The noun "girls" is the plural form of the noun "girl".
+
+"son" and "sons" are nouns.
+The noun "sons" is the plural form of the noun "son".
+
+"daughter" and "daughters" are nouns.
+The noun "daughters" is the plural form of the noun "daughter".
+
+"father" and "fathers" are nouns.
+The noun "fathers" is the plural form of the noun "father".
+
+"dad" and "dads" are nouns.
+The noun "dads" is the plural form of the noun "dad".
+
+"mother" and "mothers" are nouns.
+The noun "mothers" is the plural form of the noun "mother".
+
+"mom" and "moms" are nouns.
+The noun "moms" is the plural form of the noun "mom".
+
+"family" and "families" are nouns.
+The noun "families" is the plural form of the noun "family".
+
+"sister" and "sisters" are nouns.
+The noun "sisters" is the plural form of the noun "sister".
+
+"brother" and "brothers" are nouns.
+The noun "brothers" is the plural form of the noun "brother".
+
 "sex" and "sexes" are nouns.
 The noun "sexes" is the plural form of the noun "sex".
 
 "age" and "ages" are nouns.
 The noun "ages" is the plural form of the noun "age".
+
+"pop" and "pops" are nouns.
+The noun "pops" is the plural form of the noun "pop".
 
 "old" is an adjective.
 "young" is an adjective.
@@ -101,10 +137,19 @@ An age is years.
 A name is a string literal.
 
 A being is a thing.
-A being has a name, an age, a birthday and feelings.
+A being has a name, an age, a birthday, a father, a mother, sisters, brothers, friends
+and feelings.
+
 The feelings include fear, anger, sadness, joy, happiness, disgust, surprise,
 trust and anticipation.
 
-A male and a female are sexes.
+A male and a female are beings.
+
+A father is a male.
+A mother is a female.
+A pop and a dad are fathers.
+A mom is a mother.
+A boy and a son are males.
+A girl and a daughter are women.
 
 

@@ -135,7 +135,8 @@ The noun "oxes" is the plural form of the noun "ox".
 "castrated" is an adjective.
 
 An animal is a being.
-An animal has a stomach.
+An animal has a name, a father, a mother, sisters, brothers and friends.
+A friend is a being.
 
 A parrot is a bird.
 A bunny is a rabbit.
