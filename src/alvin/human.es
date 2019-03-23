@@ -67,6 +67,12 @@ The noun "moms" is the plural form of the noun "mom".
 "family" and "families" are nouns.
 The noun "families" is the plural form of the noun "family".
 
+"sister" and "sisters" are nouns.
+The noun "sisters" is the plural form of the noun "sister".
+
+"brother" and "brothers" are nouns.
+The noun "brothers" is the plural form of the noun "brother".
+
 A human is a being.
 A human has hobbies and a profession.
 A human has a stomach.
@@ -90,7 +96,7 @@ A wife is a woman.
 A family has members and a home.
 
 A person is a human.
-A person has a name.
+A person has a name, a father, a mother, sisters, brothers, friends and pets.
 A man and a woman are persons.
 
 A father is a man.

@@ -96,8 +96,8 @@ The adjective "surprised" is the adjective form of the noun "surprise".
 The adjective "trustful" is the adjective form of the noun "trust".
 The adjective "anticipated" is the adjective form of the noun "anticipation".
 
-An age is years.
 Old and young are ages.
+An age is years.
 A name is a string literal.
 
 A being is a thing.
