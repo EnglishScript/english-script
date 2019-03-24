@@ -77,6 +77,14 @@ The noun "ages" is the plural form of the noun "age".
 "pop" and "pops" are nouns.
 The noun "pops" is the plural form of the noun "pop".
 
+"pet" and "pets" are nouns.
+The noun "pets" is the plural form of the noun "pet".
+
+"dog" and "dogs" are nouns.
+The noun "dogs" is the plural form of the noun "dog".
+"cat" and "cats" are nouns.
+The noun "cats" is the plural form of the noun "cat".
+
 "old" is an adjective.
 "young" is an adjective.
 
@@ -137,8 +145,11 @@ An age is years.
 A name is a string literal.
 
 A being is a thing.
-A being has a name, an age, a birthday, a father, a mother, sisters, brothers, friends
+A being has a name, an age, a birthday, a father, a mother, sisters, brothers, friends,
+pets, /* FIXME: these should not be needed since we got "pets" already */ cats, dogs
 and feelings.
+
+A friend is a being.
 
 The feelings include fear, anger, sadness, joy, happiness, disgust, surprise,
 trust and anticipation.

@@ -32,12 +32,6 @@
 "animal" and "animals" are nouns.
 The noun "animals" is the plural form of the noun "animal".
 
-"pet" and "pets" are nouns.
-The noun "pets" is the plural form of the noun "pet".
-"dog" and "dogs" are nouns.
-The noun "dogs" is the plural form of the noun "dog".
-"cat" and "cats" are nouns.
-The noun "cats" is the plural form of the noun "cat".
 "turtle" and "turtles" are nouns.
 The noun "turtles" is the plural form of the noun "turtle".
 "bird" and "birds" are nouns.
@@ -135,8 +129,6 @@ The noun "oxes" is the plural form of the noun "ox".
 "castrated" is an adjective.
 
 An animal is a being.
-An animal has a name, a father, a mother, sisters, brothers and friends.
-A friend is a being.
 
 A parrot is a bird.
 A bunny is a rabbit.
@@ -144,7 +136,9 @@ A rhino is a rhinoceros.
 
 A dog, a cat, a turtle, a bird, a bunny, a rabbit, a spider, a snake are animals.
 
-If a human has an animal then the animal is a pet.
+A dog and a cat are pets.
+A pet is an animal.
+
 /*FIXME: If a cow is a male and the cow is castrated then the cow is an ox.*/
 /*FIXME: If a cow is a male and the cow is not castrated then the cow is a bull.*/
 

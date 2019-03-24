@@ -21,6 +21,7 @@
 &<I am to help you.
 &<I am an artificial intelligence.
 &<I have the name "Alvin".
+&</*FIXME: remove this:*/ I have an year.
 >
 >/* Tell Alvin something new and check if he remembers them. */
 >I have a car.
