@@ -24,6 +24,7 @@
 
 #include "stdlib.es"
 #include "stdio.es"
+#include "adjectives.es"
 #include "time.es"
 #include "media.es"
 #include "runtime.es"
@@ -62,3 +63,17 @@
 #include "senses.es"
 #include "dimensions.es"
 #include "clothes.es"
+#include "chemistry.es"
+#include "education.es"
+#include "food.es"
+#include "forms.es"
+#include "games.es"
+#include "geography.es"
+#include "geology.es"
+#include "man_made.es"
+#include "plants.es"
+#include "seasons.es"
+#include "universe.es"
+#include "works.es"
+
+

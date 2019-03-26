@@ -1,5 +1,5 @@
 "network", "networks", "server", "servers", "client", "clients",
-"gateway", "gateways", "home", "homes", "TMP", "URL", "URLs",
+"gateway", "gateways", "TMP", "URL", "URLs",
 "URI" and "URIs" are nouns.
 
 /* TODO: move this to stdio.es */
@@ -15,7 +15,6 @@ The noun "networks" is the plural form of the noun "network".
 The noun "servers" is the plural form of the noun "server".
 The noun "clients" is the plural form of the noun "client".
 The noun "gateways" is the plural form of the noun "gateway".
-The noun "homes" is the plural form of the noun "home".
 The noun "URLs" is the plural form of the noun "URL".
 The noun "URIs" is the plural form of the noun "URI".
 

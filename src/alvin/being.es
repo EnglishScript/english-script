@@ -82,8 +82,12 @@ The noun "pets" is the plural form of the noun "pet".
 
 "dog" and "dogs" are nouns.
 The noun "dogs" is the plural form of the noun "dog".
+
 "cat" and "cats" are nouns.
 The noun "cats" is the plural form of the noun "cat".
+
+"home" and "homes" are nouns.
+The noun "homes" is the plural form of the noun "home".
 
 "old" is an adjective.
 "young" is an adjective.
@@ -119,6 +123,9 @@ The verb "liked" is the 3rd form of the verb "like".
 The verb "likes" is the 3rd person form of the verb "like".
 The noun "liking" is the noun form of the verb "like".
 
+"favourite" and "favourites" are nouns.
+The noun "favourites" is the plural form of the noun "favourite".
+
 /* https://simple.wikipedia.org/wiki/List_of_emotions */
 
 "afraid", "angry", "sad", "joyful", "happy", "disgusted", "surprised", "trustful", 
@@ -146,8 +153,8 @@ A name is a string literal.
 
 A being is a thing.
 A being has a name, an age, a birthday, a father, a mother, sisters, brothers, friends,
-pets, /* FIXME: these should not be needed since we got "pets" already */ cats, dogs
-and feelings.
+pets, /* FIXME: these should not be needed since we got "pets" already */ cats, dogs,
+feelings and a home.
 
 A friend is a being.
 

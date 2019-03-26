@@ -29,6 +29,22 @@
 
 /* Lexicals */
 
+"wildlife", "elk", "elks", "moose", "mooses", "fox", "foxes", "lynx", "lynxes",
+"viper", "vipers", "swan", "swans", "seagull", "seagulls", "owl", "owls", "crow", "crows",
+"perch", "perches" are nouns.
+
+The noun "wildlife" is the plural form of the noun "wildlife".
+The noun "elks" is the plural form of the noun "elk".
+The noun "mooses" is the plural form of the noun "moose".
+The noun "foxes" is the plural form of the noun "fox".
+The noun "lynxes" is the plural form of the noun "lynx".
+The noun "vipers" is the plural form of the noun "viper".
+The noun "swans" is the plural form of the noun "swan".
+The noun "seagulls" is the plural form of the noun "seagull".
+The noun "owls" is the plural form of the noun "owl".
+The noun "crows" is the plural form of the noun "crow".
+The noun "perches" is the plural form of the noun "perch".
+
 "animal" and "animals" are nouns.
 The noun "animals" is the plural form of the noun "animal".
 
@@ -48,8 +64,8 @@ The noun "spiders" is the plural form of the noun "spider".
 The noun "snakes" is the plural form of the noun "snake".
 "bear" and "bears" are nouns.
 The noun "bears" is the plural form of the noun "bear".
-"wolf" and "wolfs" are nouns.
-The noun "wolfs" is the plural form of the noun "wolf".
+"wolf" and "wolves" are nouns.
+The noun "wolves" is the plural form of the noun "wolf".
 "lion" and "lions" are nouns.
 The noun "lions" is the plural form of the noun "lion".
 "horse" and "horses" are nouns.
@@ -114,6 +130,10 @@ The noun "chimpanzees" is the plural form of the noun "chimpanzee".
 The noun "penguins" is the plural form of the noun "penguin".
 "reindeer" and "reindeers" are nouns.
 The noun "reindeers" is the plural form of the noun "reindeer".
+"seal" and "seals" are nouns.
+The noun "seals" is the plural form of the noun "seal".
+"pike" and "pikes" are nouns.
+The noun "pikes" is the plural form of the noun "pike".
 /*
 "ox" and "oxes" are nouns.
 The noun "oxes" is the plural form of the noun "ox".
@@ -134,7 +154,12 @@ A parrot is a bird.
 A bunny is a rabbit.
 A rhino is a rhinoceros.
 
-A dog, a cat, a turtle, a bird, a bunny, a rabbit, a spider, a snake are animals.
+A dog, a cat, a turtle, a bird, a bunny, a rabbit, a spider, a snake, an elk, a moose, a fox,
+a wolf, a lynx, a squirrel, a ringed seal, a viper, a swan, a seagull, an owl, a perch,
+a pike, a crow, a bear, a lion, a horse, a tiger, a deer, a leapard, a cow, an ox, a bull,
+a rhinoceros, a pig, a frog, a bat, a lizard, a giraffe, a weasel, a goat, a raccoon,
+a hippopotamus, a hippo, an otter, an armadillo, a crocodile, a antelope, a hyena,
+a gorilla, a goose, a donkey, a chimpanzee, a penguin, a reindeer are animals.
 
 A dog and a cat are pets.
 A pet is an animal.

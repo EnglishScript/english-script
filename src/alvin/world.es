@@ -23,18 +23,28 @@
 */
 
 /*
- *  Common info for the World. 
+ *  Common info for the World.
  */
 
 /* Lexicals */
 
-"world" and "worlds" are nouns.
+"world", "worlds", "country", "countries", "county", "counties", "population", "populations",
+"city" and "cities", "town", "towns", "resident", "residents" are nouns.
+
 The noun "worlds" is the plural form of the noun "world".
-
-"city" and "cities" are nouns.
+The noun "countries" is the plural form of the noun "country".
+The noun "counties" is the plural form of the noun "county".
+The noun "populations" is the plural form of the noun "population".
 The noun "cities" is the plural form of the noun "city".
+The noun "towns" is the plural form of the noun "town".
+The noun "residents" is the plural form of the noun "resident".
 
-A country has a name, a president, a leader, a king and cities.
+"anthem", "anthems", "flag" and "flags" are nouns.
+
+The noun "anthems" is the plural form of the noun "anthem".
+The noun "flags" is the plural form of the noun "flag".
+
+A country has a name, a president, a leader, a king and counties.
 A city has a name.
 
 A world.
@@ -56,4 +66,9 @@ He is the president of the USA.
 A man.
 His name is "Kim Jong Un".
 He is the leader of North Korea.
+
+"Swede" and "Swedes" are nouns.
+The noun "Swedes" is the plural form of the noun "Swede".
+
+"finnish", "baltic", "national", "boreal", "karelian" are adjectives.
 

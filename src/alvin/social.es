@@ -20,6 +20,9 @@ The noun "relations" is the plural form of the noun "relation".
 "friend" and "friends" are nouns.
 The noun "friends" is the plural form of the noun "friend".
 
+"party" and "parties" are nouns.
+The noun "parties" is the plural form of the noun "party".
+
 /*A friend predicates a relation.*/
 
 /*
