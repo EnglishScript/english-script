@@ -1,0 +1,2 @@
+"always" is an adverb.
+
