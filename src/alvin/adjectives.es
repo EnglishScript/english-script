@@ -45,4 +45,6 @@ The adjective "squeakiest" is the 3rd form of the adjective "squeaky".
 
 "sour" and "ringed" are adjectives.
 
+"famous" is an adjective.
+"typical" is an adjective.
 

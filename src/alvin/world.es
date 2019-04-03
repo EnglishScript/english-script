@@ -44,8 +44,16 @@ The noun "residents" is the plural form of the noun "resident".
 The noun "anthems" is the plural form of the noun "anthem".
 The noun "flags" is the plural form of the noun "flag".
 
-A country has a name, a president, a leader, a king and counties.
-A city has a name.
+"citizen" and "citizens" are nouns.
+The noun "citizens" is the plural form of the noun "citizen".
+
+"finnish", "baltic", "national", "boreal", "karelian" are adjectives.
+
+A country has a name, citizens, a population, presidents, leaders, kings, counties, cities,
+towns, national animals, typical trees, typical berries.
+A city has a name and a population.
+A town has a name and a population.
+A population is citizens.
 
 A world.
 The world has countries.
@@ -67,8 +75,13 @@ A man.
 His name is "Kim Jong Un".
 He is the leader of North Korea.
 
-"Swede" and "Swedes" are nouns.
-The noun "Swedes" is the plural form of the noun "Swede".
+"Finn" and "Finns" are nouns.
+The noun "Finns" is the plural form of the noun "Finn".
 
-"finnish", "baltic", "national", "boreal", "karelian" are adjectives.
+"Lapland" and "Laplands" are nouns.
+The noun "Laplands" is the plural form of the noun "Lapland".
+
+Finland has a Lapland, a Finnish forest, a midnight sun and Finnish design.
+Finns.
+The citizens of Finland are the Finns.
 

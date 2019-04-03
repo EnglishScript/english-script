@@ -60,4 +60,15 @@ The verb "came" is the 2nd form of the verb "come".
 The verb "come" is the 3rd form of the verb "come".
 The verb "comes" is the 3rd person form of the verb "come".
 
+"see", "saw", "seen" and "sees" are verbs.
+The verb "see" is the 1st form of the verb "see".
+The verb "saw" is the 2nd form of the verb "see".
+The verb "seen" is the 3rd form of the verb "see".
+The verb "sees" is the 3rd person form of the verb "see".
+
+"love", "loved", "loves" are verbs.
+The verb "love" is the 1st form of the verb "love".
+The verb "loved" is the 2nd form of the verb "love".
+The verb "loved" is the 3rd form of the verb "love".
+The verb "loves" is the 3rd person form of the verb "love".
 

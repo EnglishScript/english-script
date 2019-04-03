@@ -51,6 +51,9 @@ The noun "salads" is the plural form of the noun "salad".
 The noun "drinks" is the plural form of the noun "drink".
 The noun "soups" is the plural form of the noun "soup".
 
+"Swede" and "Swedes" are nouns.
+The noun "Swedes" is the plural form of the noun "Swede".
+
 /* Does this cause problems? */
 The noun "food" is uncountable.
 

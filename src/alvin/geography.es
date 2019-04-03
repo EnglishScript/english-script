@@ -5,3 +5,5 @@ The noun "easts" is the plural form of the noun "east".
 The noun "souths" is the plural form of the noun "south".
 The noun "wests" is the plural form of the noun "west".
 
+"northern" is an adjective.
+

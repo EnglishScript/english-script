@@ -13,3 +13,5 @@ The noun "rivers" is the plural form of the noun "river".
 The noun "fields" is the plural form of the noun "field".
 The noun "swamps" is the plural form of the noun "swamp".
 
+A forest has typical berries, typical trees.
+
