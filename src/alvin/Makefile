@@ -26,7 +26,7 @@ SHELL:= /bin/bash
 
 ESC = es-c
 ESTEST = es-test
-AI_NAME = alvin
+AI_NAME = main
 ES_INCS = ${ES_INCLUDE_PATH}
 ES_SRC = $(AI_NAME).es
 ES_TARGET = $(AI_NAME).eso

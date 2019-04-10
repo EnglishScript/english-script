@@ -1,7 +1,3 @@
-#include "alvin_basic.es"
-#include "tmp_network.es"
-/*#include "usa.es"*/
-
 To know something.
   Focus on something.
   Ask me something.
@@ -60,23 +56,4 @@ know the name.*/
 You want to know about the friend of a person.*/
 /*You want to know about the family of a person.
 You want to know the members of the family of a person.*/
-
-To begin.
-    If you know my name then.
-        Say "Hi". /* FIXME: and my name */
-        Say my name.
-    Else.
-        Say "Hi".
-        Tell me your name.
-        Tell me that you are an artificial intelligence.
-        /* FIXME: Tell me that I am your friend.*/
-        Say "I am your friend".
-        /* FIXME: Tell me that you help me *TODO: me out*.*/
-        Tell me that you help me /*TODO: out*/.
-        /*Ask me my name.*/
-    End.
-    /*If you are not having a conversation with me then.*/
-    Have a conversation with me.
-    /*End.*/
-End.
 

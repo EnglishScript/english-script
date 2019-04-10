@@ -70,7 +70,7 @@
 #include "action.es"
 #include "senses.es"
 #include "dimensions.es"
-#include "clothes.es"
+/*#include "clothes.es"*/
 #include "chemistry.es"
 #include "education.es"
 #include "forms.es"
