@@ -31,7 +31,8 @@
 >Are you hungry?
 <Yes.
 >
->To make a dog to sit down. /*FIXME: <Yes?*/
+>To make a dog to sit down.
+<Yes.
 >Call the dog by /*its name*/ the name of the dog.
 <Ok.
 >/*FIXME: Order */ Ask the dog to sit.

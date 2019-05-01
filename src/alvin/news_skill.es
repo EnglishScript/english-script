@@ -27,6 +27,7 @@ To read news reports to someone.
         Until someone asks you to continue, then.
             Wait.
         End.
+        Forget that someone asks you to continue.
     End.
 End.
 

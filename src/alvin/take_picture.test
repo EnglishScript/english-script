@@ -6,9 +6,11 @@
 "">"John".
 >
 >To call the function "__ext_take_picture" with a picture.
+<Yes.
 >End.
 <Ok.
 >To call the function "__ext_show_image" with an image.
+<Yes.
 >    Tell me that you show the image.
 <    Ok.
 >End.
