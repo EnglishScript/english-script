@@ -43,6 +43,11 @@ The adjective "squeaky" is the 1st form of the adjective "squeaky".
 The adjective "squeakier" is the 2nd form of the adjective "squeaky".
 The adjective "squeakiest" is the 3rd form of the adjective "squeaky".
 
+"nice", "nicer" and "nicest" are adjectives.
+The adjective "nice" is the 1st form of the adjective "nice".
+The adjective "nicer" is the 2nd form of the adjective "nice".
+The adjective "nicest" is the 3rd form of the adjective "nice".
+
 "sour" and "ringed" are adjectives.
 
 "famous" is an adjective.

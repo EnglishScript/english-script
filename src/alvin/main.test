@@ -1,3 +1,25 @@
+"
+"	The EnglishScript programming language - for Artificial Intelligence.
+"
+"	Copyright (C) 2016 Tommi Manttari
+"
+"	This library is free software; you can redistribute it and/or modify
+"	it under the terms of the GNU Lesser General Public License as
+"	published by the Free Software Foundation; either version 2.1 of the
+"	License, or (at your option) any later version.
+"
+"	This library is distributed in the hope that it will be useful, but
+"	WITHOUT ANY WARRANTY; without even the implied warranty of
+"	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+"	Lesser General Public License for more details.
+"
+"	You should have received a copy of the GNU Lesser General Public
+"	License along with this library; if not, write to the Free Software
+"	Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307
+"	USA
+"
+"	You can contact Tommi Manttari through email at manttari@yahoo.com.
+"
 <Hi.
 <My name is "Alvin".
 <I am an artificial intelligence.
@@ -72,25 +94,58 @@
 >What is your age?
 <6 years.
 >/*TODO: You want to know the name of my dog.<Ok. What is the name of your dog?>"Jojo".>What is my dog's name?<"Jojo".*/
->
->/*	The EnglishScript programming language - for Artificial Intelligence.
->
->	Copyright (C) 2016 Tommi Manttari
->
->	This library is free software; you can redistribute it and/or modify
->	it under the terms of the GNU Lesser General Public License as
->	published by the Free Software Foundation; either version 2.1 of the
->	License, or (at your option) any later version.
->
->	This library is distributed in the hope that it will be useful, but
->	WITHOUT ANY WARRANTY; without even the implied warranty of
->	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
->	Lesser General Public License for more details.
->
->	You should have received a copy of the GNU Lesser General Public
->	License along with this library; if not, write to the Free Software
->	Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307
->	USA
->
->	You can contact Tommi Manttari through email at manttari@yahoo.com.
->*/
+
+>How to have a conversation with someone?
+<To have a conversation 1 with someone.
+<    Until someone closes the 1st conversation with you.
+<        If someone tells you that somebody does something.
+<            If someone tells you that this is a thing.
+<                Coordinates.
+<                Remember the coordinates.
+<                Remember that the thing is in this image in the coordinates.
+<                Remember the 1st coordinate.
+<                Remember the 2nd coordinate.
+<                Remember the 3rd coordinate.
+<                The 1st coordinate is the same as the 1st coordinate of the pointer.
+<                The 2nd coordinate is the same as the 2nd coordinate of the pointer.
+<                The 3rd coordinate is the same as the 3rd coordinate of the pointer.
+<            Else.
+<                Remember something.
+<            End.
+<            Say "Ok" to someone.
+<        End.
+<        If someone asks you something.
+<            Tell someone something.
+<        End.
+<        If someone asks you that does somebody do something.
+<            If someone asks you that what are you, then introduce you.
+<            Else.
+<                If someone asks you that how are you, then tell someone that you are fine.
+<                Else.
+<                    If someone asks you that how do you do.
+<                        Do not wait for a response.
+<                        Ask someone that how does someone do.
+<                        Wait for a response.
+<                    Else.
+<                        Answer something.
+<                    End.
+<                End.
+<            End.
+<        End.
+<        If someone asks you that did somebody do something.
+<            Answer something.
+<        End.
+<        If someone asks you to do something.
+<            Say "Ok" to someone.
+<            Remember shortly from something.
+<            Start to do something.
+<        End.
+<        If someone asks you that can you do something.
+<            Tell someone that you remember things for someone.
+<            Tell someone that you do things for someone.
+<            Tell someone that you help someone.
+<        End.
+<        Wait.
+<    End.
+<End.
+

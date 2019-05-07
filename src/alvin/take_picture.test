@@ -33,7 +33,7 @@
 >Tell me about the picture.
 <Ok. Hessu sleeps in the picture.
 <The picture has the file path "abc".
-<The picture is the picture.
+<The picture is this image.
 >
 >I have a son.
 <Ok.
@@ -52,7 +52,7 @@
 >Tell me about the picture.
 <Ok. He is in the picture.
 <The picture has the file path "def".
-<The picture is the picture.
+<The picture is this image.
 >
 >I have a daughter.
 <Ok.
@@ -71,7 +71,7 @@
 >Tell me about the picture.
 <Ok. She is in the picture in coordinates. 
 <The picture has the file path "foo".
-<The picture is the picture.
+<The picture is this image.
 >
 >Show Jane.
 <Ok. I show the picture.

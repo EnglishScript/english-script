@@ -6,7 +6,17 @@
 "">"John".
 
 >Read the news.
-<Ok. The news report 1 says that Donald Trump called Kim Jong Un a madman.
+<Ok. The 1st news report says that Donald Trump called Kim Jong Un a madman.
 >Continue.
-</*FIXME: Ok.*/The news report 2 says that Kim Jong Un called Donald Trump a /*FIXME: mentally*/ deranged dotard.
+</*FIXME: Ok.*/The 2nd news report says that Kim Jong Un called Donald Trump a /*FIXME: mentally*/ deranged dotard.
 <I read the news.
+
+>The 3rd news report says that you are an artificial intelligence.
+<Ok.
+>Read the news.
+<Ok. The 1st news report says that Donald Trump called Kim Jong Un a madman.
+>Continue.
+<The 3rd news report says that /*FIXME:Alvin*/I am an artificial intelligence.
+<The 2nd news report says that Kim Jong Un called Donald Trump a /*FIXME: mentally*/ deranged dotard.
+<I read the news.
+

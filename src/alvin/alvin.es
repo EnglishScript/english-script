@@ -27,8 +27,7 @@ You are to help me /*TODO: out */.
 You have a picture.
 The picture has a file path "Alvin.png".
 
-To show you.
-    /*Call the function "__ext_show_image" with your picture.*/
+To show yourself.
     Show your picture.
 End.
 

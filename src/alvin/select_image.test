@@ -48,7 +48,7 @@
 >Tell me about the image.
 <Ok. Hessu sleeps in the image. 
 <The image has the file path "abc".
-<The image is the picture.
+<The image is this image.
 >
 >I have a son.
 <Ok.
@@ -67,7 +67,7 @@
 >Tell me about the image.
 <Ok. He is in the image. 
 <The image has the file path "def".
-<The image is the picture.
+<The image is this image.
 >
 >I have a daughter.
 <Ok.
@@ -94,7 +94,7 @@
 >Tell me about the image.
 <Ok. She is in the image in coordinates.
 <The image has the file path "foo".
-<The image is the picture.
+<The image is this image.
 >What is the 1st coordinate?
 <2 units.
 >What is the 2nd coordinate?
