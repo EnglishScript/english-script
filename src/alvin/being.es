@@ -89,6 +89,24 @@ The noun "cats" is the plural form of the noun "cat".
 "home" and "homes" are nouns.
 The noun "homes" is the plural form of the noun "home".
 
+"relative" and "relatives" are nouns.
+The noun "relatives" is the plural form of the noun "relative".
+
+"aunt" and "aunts" are nouns.
+The noun "aunts" is the plural form of the noun "aunt".
+
+"uncle" and "uncles" are nouns.
+The noun "uncles" is the plural form of the noun "uncle".
+
+"grandmother" and "grandmothers" are nouns.
+The noun "grandmothers" is the plural form of the noun "grandmother".
+
+"grandfather" and "grandfathers" are nouns.
+The noun "grandfathers" is the plural form of the noun "grandfather".
+
+"cousin" and "cousins" are nouns.
+The noun "cousins" is the plural form of the noun "cousin".
+
 "old" is an adjective.
 "young" is an adjective.
 
@@ -152,9 +170,9 @@ An age is years.
 A name is a string literal.
 
 A being is a thing.
-A being has a name, an age, a birthday, a father, a mother, sisters, brothers, friends,
-pets, /* FIXME: these should not be needed since we got "pets" already */ cats, dogs,
-feelings and a home.
+A being has a name, an age, a birthday, a father, a mother, sisters, sons, daughters, brothers,
+sisters, aunts, uncles, grandmothers, grandfathers, friends, pets, /* FIXME: these should not
+be needed since we got "pets" already */ cats, dogs, feelings, hobbies, heroes and a home.
 
 A friend is a being.
 
@@ -163,11 +181,10 @@ trust and anticipation.
 
 A male and a female are beings.
 
-A father is a male.
-A mother is a female.
+A father, a boy, a son, a brother, an uncle, a grandfather are men.
+A mother, a girl, a daughter, a sister, an aunt, a grandmother are women.
 A pop and a dad are fathers.
 A mom is a mother.
-A boy and a son are males.
-A girl and a daughter are women.
-
+A father, a mother, a daughter, a son, a sister, a brother, a cousin, an aunt, an uncle, a grandmother, a grandfather are relatives.
+A relative is a being.
 

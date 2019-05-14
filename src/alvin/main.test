@@ -97,9 +97,9 @@
 
 >How to have a conversation with someone?
 <To have a conversation 1 with someone.
-<    Until someone closes the 1st conversation with you.
-<        If someone tells you that somebody does something.
-<            If someone tells you that this is a thing.
+<    Until someone closes the 1st conversation with you then.
+<        If someone tells you that somebody does something then.
+<            If someone tells you that this is a thing then.
 <                Coordinates.
 <                Remember the coordinates.
 <                Remember that the thing is in this image in the coordinates.
@@ -114,15 +114,17 @@
 <            End.
 <            Say "Ok" to someone.
 <        End.
-<        If someone asks you something.
+<        If someone asks you something then.
 <            Tell someone something.
 <        End.
-<        If someone asks you that does somebody do something.
-<            If someone asks you that what are you, then introduce you.
+<        If someone asks you that does somebody do something then.
+<            If someone asks you that what are you then.
+<                Introduce you.
 <            Else.
-<                If someone asks you that how are you, then tell someone that you are fine.
+<                If someone asks you that how are you then.
+<                    Tell someone that you are fine.
 <                Else.
-<                    If someone asks you that how do you do.
+<                    If someone asks you that how do you do then.
 <                        Do not wait for a response.
 <                        Ask someone that how does someone do.
 <                        Wait for a response.
@@ -132,15 +134,15 @@
 <                End.
 <            End.
 <        End.
-<        If someone asks you that did somebody do something.
+<        If someone asks you that did somebody do something then.
 <            Answer something.
 <        End.
-<        If someone asks you to do something.
+<        If someone asks you to do something then.
 <            Say "Ok" to someone.
 <            Remember shortly from something.
 <            Start to do something.
 <        End.
-<        If someone asks you that can you do something.
+<        If someone asks you that can you do something then.
 <            Tell someone that you remember things for someone.
 <            Tell someone that you do things for someone.
 <            Tell someone that you help someone.

@@ -81,7 +81,7 @@ The noun "Finns" is the plural form of the noun "Finn".
 "Lapland" and "Laplands" are nouns.
 The noun "Laplands" is the plural form of the noun "Lapland".
 
-Finland has a Lapland, a Finnish forest, a midnight sun and Finnish design.
+Finland has a Lapland, a Finnish forest, a midnight sun, a Finnish summer, a Finnish nature and Finnish design.
 Finns.
-The citizens of Finland are the Finns.
+The finns are the citizens of Finland.
 
