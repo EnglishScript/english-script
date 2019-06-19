@@ -77,5 +77,6 @@
 #include "games.es"
 #include "man_made.es"
 #include "baking.es"
+#include "device.es"
 
 
