@@ -28,14 +28,9 @@
 > Tell me about the 1st president.
 < Ok.
 &< I show George Washington's picture.
-&< He is the president of the USA's 1st presidency.
-&< He has the picture.
-&< He is unaffiliated.
-&< He is the USA's 1st president.
-&< He is a politician.
+&< He is the president of the USA's 1st presidency, unaffiliated and the USA's 1st president.
+&< He has the picture and a name "George Washington".
 &< He lived 67 years.
 &< He died at the year 1799.
 &< George Washington was born at the year 1732.
-&< He has a name "George Washington".
-&< He is a man.
 

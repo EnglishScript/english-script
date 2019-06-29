@@ -4,7 +4,7 @@
 <I am your friend. I help you/*TODO: out*/.
 ""<What is your name?
 "">"John".
->
+
 >To call the function "__ext_take_picture" with a picture.
 <Yes.
 >End.
@@ -21,7 +21,7 @@
 "">"Hessu".
 >Its name is "Hessu".
 <Ok.
->
+
 >Take a picture.
 <Ok.
 >The picture is this picture.
@@ -31,10 +31,11 @@
 >Hessu sleeps in the picture.
 <Ok.
 >Tell me about the picture.
-<Ok. Hessu sleeps in the picture.
-<The picture has the file path "abc".
-<The picture is this image.
->
+<Ok.
+&<Hessu sleeps in the picture.
+&<The picture has the file path "abc".
+&<The picture is this image.
+
 >I have a son.
 <Ok.
 ""<Ok. What is a name of the son?
@@ -50,10 +51,11 @@
 >Joe is in this picture.
 <Ok.
 >Tell me about the picture.
-<Ok. He is in the picture.
-<The picture has the file path "def".
-<The picture is this image.
->
+<Ok.
+&<He is in the picture.
+&<The picture has the file path "def".
+&<The picture is this image.
+
 >I have a daughter.
 <Ok.
 ""<Ok. What is a name of the daughter?
@@ -69,9 +71,10 @@
 >This is Jane.
 <Ok.
 >Tell me about the picture.
-<Ok. She is in the picture in coordinates. 
-<The picture has the file path "foo".
-<The picture is this image.
->
+<Ok.
+&<She is in the picture in coordinates.
+&<The picture has the file path "foo".
+&<The picture is this image.
+
 >Show Jane.
 <Ok. I show the picture.
