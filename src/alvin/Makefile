@@ -24,13 +24,23 @@ VERSION = 2
 
 SHELL:= /bin/bash
 
+ROOT = ../..
 ESC = es-c
 ESTEST = es-test
-AI_NAME = main
-ES_INCS = ${ES_INCLUDE_PATH}
-ES_SRC = $(AI_NAME).es
-ES_TARGET = $(AI_NAME).eso
-TESTS = $(AI_NAME).test intro_video.test select_image.test news_skill.test take_picture.test reminder_skill.test time_skill.test call_skill.test usa_presidents.test
+AI_NAME = alvin
+ES_INCS = ${ES_INCLUDE_PATH} -I es
+ES_SRC = es/main.es
+ES_TARGET = $(ROOT)/bin/$(AI_NAME).eso
+TESTS = \
+  test/main.test \
+  test/intro_video.test \
+  test/select_image.test \
+  test/news_skill.test \
+  test/take_picture.test \
+  test/reminder_skill.test \
+  test/time_skill.test \
+  test/call_skill.test \
+  test/usa_presidents.test
 
 ifdef DEBUG
 DEBUG_TARGET = /dev/stdout
@@ -45,16 +55,16 @@ MEMCHECKER =
 endif
 
 INC = \
-alvin_basic.es \
-animal.es \
-being.es \
-buildings.es \
-conversation.es \
-hobbies.es \
-human.es \
-profession.es \
-sports.es \
-world.es
+  es/alvin_basic.es \
+  es/animal.es \
+  es/being.es \
+  es/buildings.es \
+  es/conversation.es \
+  es/hobbies.es \
+  es/human.es \
+  es/profession.es \
+  es/sports.es \
+  es/world.es
 
 all: $(ES_TARGET)
 

@@ -11,7 +11,7 @@
 
 > You have a file.
 < Ok.
-> The file path of the file is "usa.es".
+> The file path of the file is "test/usa.es".
 < Ok.
 > Read the file.
 < Ok.
