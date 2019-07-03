@@ -20,22 +20,11 @@
 "
 "	You can contact Tommi Manttari through email at manttari@yahoo.com.
 "
-<Hi.
-<My name is "Alvin".
-<I am an artificial intelligence.
-<I am your friend. I help you/*TODO: out*/.
-""<What is your name?
-"TODO: >Do I have a car?
-"TODO: <I don't know.
-"">"John".
+?<Hi.
+?<My name is "Alvin".
+?<I am an artificial intelligence.
+?<I am your friend. I help you/*TODO: out*/.
 
-"">I have a friend.
-""<Ok. What is /*FIXME: your friend's name*/a name of the friend?
-"">"Mary".
->
->/*Do you have a friend?<Yes.*/
->/*FIXME: Who is your friend? <You.*/
->
 >Tell me about you.
 <Ok.
 &<I have a picture and the name "Alvin".
