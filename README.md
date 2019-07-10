@@ -2,9 +2,17 @@
 Open source SW development for EnglishScript related products, mainly now
 the Alvin A.I. (an Artificial Intelligence).
 
+## Android app for Alvin A.I.
+
+To use Alvin A.I. you can install the Alvin A.I. Assistant Android app from Google Play:
+
+    https://play.google.com/store/apps/details?id=com.simua.alvinai
+
+The app comes with a preinstalled version of the Alvin A.I.
+
 ## Sources for Alvin A.I.
 
-Get the sources:
+In case you want to build Alvin A.I. from sources you can get them from GitHub:
 
     $ git clone https://github.com/EnglishScript/english-script.git
 
