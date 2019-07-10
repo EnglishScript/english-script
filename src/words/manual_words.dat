@@ -1,0 +1,610 @@
+#
+# Common words for ES applications
+#
+</s> 0 0
+alpha_A 2 0
+alpha_B 2 0
+alpha_C 2 0
+alpha_D 2 0
+alpha_E 2 0
+alpha_F 2 0
+alpha_G 2 0
+alpha_H 2 0
+alpha_I 2 0
+alpha_J 2 0
+alpha_K 2 0
+alpha_L 2 0
+alpha_M 2 0
+alpha_N 2 0
+alpha_O 2 0
+alpha_P 2 0
+alpha_Q 2 0
+alpha_R 2 0
+alpha_S 2 0
+alpha_T 2 0
+alpha_U 2 0
+alpha_V 2 0
+alpha_W 2 0
+alpha_X 2 0
+alpha_Y 2 0
+alpha_Z 2 0
+zero 40 0 zeros
+zeros 40 80 zero
+one 40 0 ones
+ones 40 80 one
+two 40 0 twos
+twos 40 80 two
+three 40 0 threes
+threes 40 80 three
+four 40 0 fours
+fours 40 80 four
+five 40 0 fives
+fives 40 80 five
+six 40 0 sixes
+sixes 40 80 six
+seven 40 0 sevens
+sevens 40 80 seven
+eight 40 0 eights
+eights 40 80 eight
+nine 40 0 nines
+nines 40 80 nine
+ten 40 0 tens
+tens 40 80 ten
+eleven 40 0 elevens
+elevens 40 80 eleven
+twelve 40 0 twelves
+twelves 40 80 twelve
+thirteen 40 0 thirteens
+thirteens 40 80 thirteen
+fourteen 40 0 fourteens
+fourteens 40 80 fourteen
+fifteen 40 0 fifteens
+fifteens 40 80 fifteen
+sixteen 40 0 sixteens
+sixteens 40 80 sixteen
+seventeen 40 0 seventeens
+seventeens 40 80 seventeen
+eighteen 40 0 eighteens
+eighteens 40 80 eighteen
+nineteen 40 0 nineteens
+nineteens 40 80 nineteen
+twenty 40 0 twenties
+twenties 40 80 twenty
+thirty 40 0 thirties
+thirties 40 80 thirty
+forty 40 0 forties
+forties 40 80 forty
+fifty 40 0 fifties
+fifties 40 80 fifty
+sixty 40 0 sixties
+sixties 40 80 sixty
+seventy 40 0 seventies
+seventies 40 80 seventy
+eighty 40 0 eighties
+eighties 40 80 eighty
+ninety 40 0 nineties
+nineties 40 80 ninety
+hundred 40 0 hundreds
+hundreds 40 80 hundred
+thousand 40 0 thousands
+thousands 40 80 thousand
+million 40 0 millions
+millions 40 80 million
+billion 40 0 billions
+billions 40 80 billion
+trillion 40 0 trillions
+trillions 40 80 trillion
+mega 40 0 megas
+megas 40 80 mega
+giga 40 0 gigas
+gigas 40 80 giga
+tera 40 0 teras
+teras 40 80 tera
+first 2 0
+third 2 0
+fourth 2 0
+fifth 2 0
+sixth 2 0
+seventh 2 0
+eighth 2 0
+ninth 2 0
+tenth 2 0
+eleventh 2 0
+twelfth 2 0
+thirteenth 2 0
+fourteenth 2 0
+fifteenth 2 0
+sixteenth 2 0
+seventeenth 2 0
+eighteenth 2 0
+nineteenth 2 0
+twentieth 2 0
+thirtieth 2 0
+fortieth 2 0
+fiftieth 2 0
+sixtieth 2 0
+seventieth 2 0
+eightieth 2 0
+ninetieth 2 0
+hundredth 2 0
+thousandth 2 0
+billionth 2 0
+trillionth 2 0
+string 2 0 strings
+strings 2 80 string
+literal 2 0 literals
+literals 2 80 literal
+thing 2 0 things
+things 2 80 thing
+quote 3 1 quotes quoted quoting
+quotes 3 89 quote
+quoted 1 6 quote
+quoting 2 0 quote
+take 3 1 takes taken taking
+takes 3 89 take
+took 1 2 take
+taken 1 4 take
+taking 2 0 take
+work 3 1 works worked
+works 3 89 work
+worked 1 6 work
+next 4 10
+previous 4 10
+number 2 0 numbers
+numbers 2 80 number
+amount 2 0 amounts
+amounts 2 80 amount
+sequence 2 0 sequences
+sequences 2 80 sequence
+print 3 1 prints printed
+prints 3 89 print
+printed 1 6 print
+position 3 1 positions positioned positioning
+positions 3 89 position
+positioned 1 6 position
+positioning 2 0 position
+preposition 2 0 prepositions
+prepositions 2 80 preposition
+conjunction 2 0 conjunction
+conjunctions 2 80 conjunction
+refer 1 1 refers referred
+refers 1 9 refer
+referred 1 6 refer
+use 3 1 uses used
+uses 3 89 use
+used 1 6 use
+great 4 10 greater greatest
+greater 4 20 great
+greatest 2 40 great
+small 4 10 smaller smallest
+smaller 4 20 small
+smallest 2 40 small
+representation 2 0 representations
+representations 2 80 representation
+at 20 0
+for 20 0
+than 20 0
+s 0 0
+property 2 0 properties
+properties 2 80 property
+include 1 1 includes included
+includes 1 9 include
+included 1 6 include
+from 20 0
+know 1 1 knows knew known
+knows 1 9 know
+knew 1 2 know
+known 5 14 know
+repeat 1 1 repeats repeated
+repeats 1 9 repeat
+repeated 1 2 repeat
+wait 1 1 waits waited waiting
+waits 1 9 wait
+waited 1 2 wait
+waiting 2 0 wait
+person 2 0 persons
+persons 2 80 person
+memory 2 0 memories
+memories 2 80 memory
+count 3 1 counts counted counting
+counts 3 89 count
+counted 1 6 count
+counting 2 0 count
+countable 4 10
+uncountable 4 10
+measurable 4 10
+short 4 10 shorter shortest shortly
+shorter 4 20 short
+shortest 4 40 short
+procedural 4 10
+with 20 0
+begin 3 1 begins began begun
+begins 3 89 begin
+began 1 2 begin
+begun 1 4 begin
+end 3 1 ends ended
+ends 3 89 end
+ended 1 6 end
+equal 4 10
+noun 2 0 nouns
+adjective 2 0 adjectives
+adverb 2 0 adverbs
+verb 2 0 verbs
+nouns 2 80 noun
+adjectives 2 80 adjective
+adverbs 2 80 adverb
+verbs 2 80 verb
+plural 4 10
+form 3 1 forms formed
+forms 3 89 form
+formed 1 6 form
+there 80 0
+this 80 0
+these 80 0
+those 80 0
+my 100 0
+your 100 0
+its 100 0
+his 100 0
+our 100 0
+their 100 0
+mine 80 0
+yours 80 0
+hers 80 0
+ours 80 0
+theirs 80 0
+myself 80 0
+yourself 80 0
+itself 80 0
+himself 80 0
+herself 80 0
+ourselves 80 0
+yourselves 80 0
+themselves 80 0
+name 3 1 names named # test comment
+names 3 89 name
+named 1 6 name
+blue 4 10
+red 4 10
+green 4 10
+yellow 4 10
+white 4 10
+black 4 10
+brown 4 10
+purple 4 10
+violet 4 10
+magenta 4 10
+turquoise 4 10
+orange 6 10 oranges
+oranges 2 80 orange
+being 2 0 beings
+beings 2 80 being
+save 3 1 saves saved
+saves 3 89 save
+saved 1 6 save
+"save_state" 2 0
+today 2 0
+"today" 2 0
+"current time" 2 0
+current 6 10 currents
+currents 2 80 current
+yesterday 2 0 yesterdays
+yesterdays 2 80 yesterday
+tomorrow 2 0 tomorrows
+tomorrows 2 80 tomorrow
+january 2 100
+february 2 100
+march 2 100
+april 2 100
+may 2 100
+june 2 100
+july 2 100
+august 2 100
+september 2 100
+october 2 100
+november 2 100
+december 2 100
+day 2 0 days
+days 2 80 day
+year 2 0 years
+years 2 80 year
+hour 2 0 hours
+hours 2 80 hour
+minute 2 0 minutes
+minutes 2 80 minute
+second 2 0 seconds
+seconds 2 80 second
+weekday 2 0 weekdays
+weekdays 2 80 weekday
+month 2 0 months
+months 2 80 month
+week 2 0 weeks
+weeks 2 80 week
+meter 2 400 meters
+meters 2 480 meter
+length 2 0 lengths
+lengths 2 80 length
+width 2 0 widths
+widths 2 80 width
+height 2 0 heights
+heights 2 80 height
+ok 400 0
+yes 400 0
+no 408 0
+sorry 400 0
+maybe 400 0
+function 3 1 functions functioned
+functioned 1 6 function
+functions 3 89 function
+dynamic 4 10
+library 2 0 libraries
+libraries 2 80 library
+time 2 0 times
+times 2 80 time
+happy 4 10
+sad 4 10
+angry 4 10
+down 224 10
+load 3 1
+call 3 1 calls called
+calls 3 89 call
+called 1 6 call
+ascend 1 1 ascends ascended
+ascends 1 9 ascend
+ascended 1 6 ascend
+descend 1 1 descends descended
+descends 1 9 descend
+descended 1 6 descend
+multiply 1 1 multiplies multiplied
+multiplies 1 9 multiply
+multiplied 1 6 multiply
+assign 1 1 assigns assigned
+assigns 1 9 assign
+assigned 1 6 assign
+divide 3 1 divides divided
+divides 3 89 divide
+divided 1 6 divide
+sum 3 1 sums summed
+sums 3 89 sum
+summed 1 6 sum
+substract 3 1 substracts substracted
+substracts 3 89 substract
+substracted 1 6 substract
+show 3 1 shown
+see 1 1 sees saw seen
+sees 1 9 see
+saw 1 2 see
+seen 1 4 see
+shown 3 6 show
+clock 2 0 clocks
+t 0 0
+do 1 1 does did done doing doings
+doesn 0 0
+don 0 0
+done 1 4 do
+doing 2 0 do
+doings 2 80 do
+open 5 11
+gone 1 4 go
+went 1 2 go
+go 3 1 went gone
+close 1 1
+start 3 1 starts started starting
+starts 3 89 start
+started 1 2 start
+starting 2 1 start
+stop 3 1 stops stopped stopping
+stops 3 89 stop
+stopped 1 2 stop
+stopping 3 1 stop
+suspend 3 1 suspends suspended suspending
+suspends 3 89 suspend
+suspended 1 2 suspend
+suspending 2 1 suspend
+resume 3 1 resumes resumed resuming
+resumes 3 89 resume
+resumed 1 2 resume
+resuming 2 1 resume
+man 2 0 men
+men 2 80 man
+woman 2 0 women
+women 2 80 woman
+male 2 0 males
+males 2 80 male
+female 2 0 females
+females 2 80 female
+human 6 10 humans
+humans 2 80 human
+is 1 9 be
+reboot 3 1
+the 0 0
+she 80 0
+not 8 0
+I 80 0
+need 3 1
+to 20 0
+as 20 0
+of 20 0
+in 20 0
+by 20 0
+about 20 0
+after 20 0
+between 20 0
+make 1 1
+her 180 0
+are 1 1 be
+or 10 0
+if 10 0
+and 10 0
+only 1c 10
+everyone 80 0
+everybody 80 0
+everything 80 0
+every 80 0
+anyone 80 0
+anybody 80 0
+anything 80 0
+any 88 0
+over 88 0
+none 80 0
+nobody 80 0
+nothing 80 0
+someone 80 0
+somebody 80 0
+some 88 0
+other 88 0
+few 88 0
+many 88 0
+each 80 0
+then 10 0
+he 80 0
+something 80 0
+somewhere 80 0
+sometime 80 0
+more 8 0
+be 1 1 is are was were been
+why 10 0
+that 10 0
+whether 10 0
+a 0 0
+you 80 0
+needs 3 89 need
+eat 1 1 ate eaten eats
+eats 1 9 eat
+ate 1 2 eat
+speak 1 1 speaks spoke spoken
+speaks 1 9 speak
+spoke 1 2 speak
+spoken 1 4 speak
+food 2 0
+turn 3 1
+on 20 0
+ago 8 0
+home 2 0
+me 80 0
+him 80 0
+us 80 0
+them 80 0
+same 80 0
+we 80 0
+they 80 0
+an 0 0
+it 80 0
+clocks 2 80 clock
+ask 1 1 asks asked
+asks 1 9 ask
+asked 1 6 ask
+tell 1 1 tells told telling
+told 1 6 tell
+tells 1 9 tell
+telling 3 1 tell
+eaten 1 4 eat
+was 1 a be
+were 1 2 be
+been 1 4 be
+have 1 1 has had having
+has 1 9 have
+had 1 6 have
+having 3 1 have
+am 1 1 be
+else 10 0
+hi 400 0
+hello 400 0
+dunno 400 0
+want 1 1 wants wanted wanting
+wanted 1 6 want
+wants 1 9 want
+wanting 3 1 want
+fine 4 10
+bad 4 10
+lousy 4 10
+good 4 10 better best
+better 4 20 good
+best 4 40 good
+which 80 0
+what 80 0
+where 8 0
+when 80 0
+who 80 0
+how 80 0
+does 1 9 do
+did 1 2 do
+will 1 1
+won 1 1 will
+cannot 1 1 can
+would 1 1
+can 1 1
+could 1 1
+wouldn 1 1
+couldn 1 1
+didn 1 2 do
+ain 1 1 be
+aren 1 1 be
+isn 1 1 be
+wasn 1 2 be
+weren 1 a be
+haven 1 1 have
+hasn 1 9 have
+car 2 0 cars
+cars 2 80 car
+probably 8 0
+all 80 0
+lots 8 0
+lot 8 0
+remember 1 1 remembers remembered
+remembers 1 9 remember
+remembered 1 6 remember
+forget 1 1 forgets forgot
+forgets 1 9 forget
+forgot 1 6 forget
+execute 1 1 executes executed
+executes 1 9 execute
+executed 1 6 execute
+select 1 1 selects selected
+selects 1 9 select
+selected 1 6 select
+if_unknown_if 10 0
+unknown 4 10
+sure 4 10
+if_unsure_if 10 0
+unsure 4 10
+while 10 0
+until 10 0
+exit 3 1 exits exited exiting
+exits 3 89 exit
+exited 1 2 exit
+exiting 2 1 exit
+shortly 8 0 short
+randomly 8 0
+text 2 0 texts
+texts 2 80 text
+line 2 0 lines
+lines 2 80 line
+column 2 0 columns
+columns 2 80 column
+word 2 0 words
+words 2 80 word
+understand 1 1 understands understood
+understands 1 9 understand
+understood 1 6 understand
+contact 3 1 contacts
+contacts 3 89 contact
+shy 4 10
+quiet 4 10
+people 2 0 peoples
+peoples 2 80 people
+last 1 1 lasts lasted
+lasts 1 9 last
+lasted 1 6 last
+relaxed 4 10
+beautiful 4 10
+relative 2 0 relatives
+relatives 2 80 relative
+because 10 0
+hero 2 0 heroes
+heroes 2 80 hero
+app 2 0 apps
+apps 2 80 app
+installed 4 10
+device 2 0 devices
+devices 2 80 device

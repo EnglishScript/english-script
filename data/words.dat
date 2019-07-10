@@ -1,0 +1,2778 @@
+# warning: word 'bound' is already defined
+# warning: word 'found' is already defined
+# warning: word 'ground' is already defined
+# warning: word 'wound' is already defined
+# warning: word 'backslid' is already defined
+</s> 0 0
+alpha_A 2 0
+alpha_B 2 0
+alpha_C 2 0
+alpha_D 2 0
+alpha_E 2 0
+alpha_F 2 0
+alpha_G 2 0
+alpha_H 2 0
+alpha_I 2 0
+alpha_J 2 0
+alpha_K 2 0
+alpha_L 2 0
+alpha_M 2 0
+alpha_N 2 0
+alpha_O 2 0
+alpha_P 2 0
+alpha_Q 2 0
+alpha_R 2 0
+alpha_S 2 0
+alpha_T 2 0
+alpha_U 2 0
+alpha_V 2 0
+alpha_W 2 0
+alpha_X 2 0
+alpha_Y 2 0
+alpha_Z 2 0
+zero 40 0 zeros
+zeros 40 80 zero
+one 40 0 ones
+ones 40 80 one
+two 40 0 twos
+twos 40 80 two
+three 40 0 threes
+threes 40 80 three
+four 40 0 fours
+fours 40 80 four
+five 40 0 fives
+fives 40 80 five
+six 40 0 sixes
+sixes 40 80 six
+seven 40 0 sevens
+sevens 40 80 seven
+eight 40 0 eights
+eights 40 80 eight
+nine 40 0 nines
+nines 40 80 nine
+ten 40 0 tens
+tens 40 80 ten
+eleven 40 0 elevens
+elevens 40 80 eleven
+twelve 40 0 twelves
+twelves 40 80 twelve
+thirteen 40 0 thirteens
+thirteens 40 80 thirteen
+fourteen 40 0 fourteens
+fourteens 40 80 fourteen
+fifteen 40 0 fifteens
+fifteens 40 80 fifteen
+sixteen 40 0 sixteens
+sixteens 40 80 sixteen
+seventeen 40 0 seventeens
+seventeens 40 80 seventeen
+eighteen 40 0 eighteens
+eighteens 40 80 eighteen
+nineteen 40 0 nineteens
+nineteens 40 80 nineteen
+twenty 40 0 twenties
+twenties 40 80 twenty
+thirty 40 0 thirties
+thirties 40 80 thirty
+forty 40 0 forties
+forties 40 80 forty
+fifty 40 0 fifties
+fifties 40 80 fifty
+sixty 40 0 sixties
+sixties 40 80 sixty
+seventy 40 0 seventies
+seventies 40 80 seventy
+eighty 40 0 eighties
+eighties 40 80 eighty
+ninety 40 0 nineties
+nineties 40 80 ninety
+hundred 40 0 hundreds
+hundreds 40 80 hundred
+thousand 40 0 thousands
+thousands 40 80 thousand
+million 40 0 millions
+millions 40 80 million
+billion 40 0 billions
+billions 40 80 billion
+trillion 40 0 trillions
+trillions 40 80 trillion
+mega 40 0 megas
+megas 40 80 mega
+giga 40 0 gigas
+gigas 40 80 giga
+tera 40 0 teras
+teras 40 80 tera
+first 2 0
+third 2 0
+fourth 2 0
+fifth 2 0
+sixth 2 0
+seventh 2 0
+eighth 2 0
+ninth 2 0
+tenth 2 0
+eleventh 2 0
+twelfth 2 0
+thirteenth 2 0
+fourteenth 2 0
+fifteenth 2 0
+sixteenth 2 0
+seventeenth 2 0
+eighteenth 2 0
+nineteenth 2 0
+twentieth 2 0
+thirtieth 2 0
+fortieth 2 0
+fiftieth 2 0
+sixtieth 2 0
+seventieth 2 0
+eightieth 2 0
+ninetieth 2 0
+hundredth 2 0
+thousandth 2 0
+billionth 2 0
+trillionth 2 0
+string 2 0 strings
+strings 2 80 string
+literal 2 0 literals
+literals 2 80 literal
+thing 2 0 things
+things 2 80 thing
+quote 3 1 quotes quoted quoting
+quotes 3 89 quote
+quoted 1 6 quote
+quoting 2 0 quote
+take 3 1 takes taken taking
+takes 3 89 take
+took 1 2 take
+taken 1 4 take
+taking 2 0 take
+work 3 1 works worked
+works 3 89 work
+worked 1 6 work
+next 4 10
+previous 4 10
+number 2 0 numbers
+numbers 2 80 number
+amount 2 0 amounts
+amounts 2 80 amount
+sequence 2 0 sequences
+sequences 2 80 sequence
+print 3 1 prints printed
+prints 3 89 print
+printed 1 6 print
+position 3 1 positions positioned positioning
+positions 3 89 position
+positioned 1 6 position
+positioning 2 0 position
+preposition 2 0 prepositions
+prepositions 2 80 preposition
+conjunction 2 0 conjunction
+conjunctions 2 80 conjunction
+refer 1 1 refers referred
+refers 1 9 refer
+referred 1 6 refer
+use 3 1 uses used
+uses 3 89 use
+used 1 6 use
+great 4 10 greater greatest
+greater 4 20 great
+greatest 2 40 great
+small 4 10 smaller smallest
+smaller 4 20 small
+smallest 2 40 small
+representation 2 0 representations
+representations 2 80 representation
+at 20 0
+for 20 0
+than 20 0
+s 0 0
+property 2 0 properties
+properties 2 80 property
+include 1 1 includes included
+includes 1 9 include
+included 1 6 include
+from 20 0
+know 1 1 knows knew known
+knows 1 9 know
+knew 1 2 know
+known 5 14 know
+repeat 1 1 repeats repeated
+repeats 1 9 repeat
+repeated 1 2 repeat
+wait 1 1 waits waited waiting
+waits 1 9 wait
+waited 1 2 wait
+waiting 2 0 wait
+person 2 0 persons
+persons 2 80 person
+memory 2 0 memories
+memories 2 80 memory
+count 3 1 counts counted counting
+counts 3 89 count
+counted 1 6 count
+counting 2 0 count
+countable 4 10
+uncountable 4 10
+measurable 4 10
+short 4 10 shorter shortest shortly
+shorter 4 20 short
+shortest 4 40 short
+procedural 4 10
+with 20 0
+begin 3 1 begins began begun
+begins 3 89 begin
+began 1 2 begin
+begun 1 4 begin
+end 3 1 ends ended
+ends 3 89 end
+ended 1 6 end
+equal 4 10
+noun 2 0 nouns
+adjective 2 0 adjectives
+adverb 2 0 adverbs
+verb 2 0 verbs
+nouns 2 80 noun
+adjectives 2 80 adjective
+adverbs 2 80 adverb
+verbs 2 80 verb
+plural 4 10
+form 3 1 forms formed
+forms 3 89 form
+formed 1 6 form
+there 80 0
+this 80 0
+these 80 0
+those 80 0
+my 100 0
+your 100 0
+its 100 0
+his 100 0
+our 100 0
+their 100 0
+mine 80 0
+yours 80 0
+hers 80 0
+ours 80 0
+theirs 80 0
+myself 80 0
+yourself 80 0
+itself 80 0
+himself 80 0
+herself 80 0
+ourselves 80 0
+yourselves 80 0
+themselves 80 0
+name 3 1 names named
+names 3 89 name
+named 1 6 name
+blue 5 11
+red 4 10
+green 6 10
+yellow 4 10
+white 6 10
+black 4 10
+brown 4 10
+purple 4 10
+violet 4 10
+magenta 4 10
+turquoise 4 10
+orange 6 10 oranges
+oranges 2 80 orange
+being 2 0 beings
+beings 2 80 being
+save 3 1 saves saved
+saves 3 89 save
+saved 1 6 save
+"save_state" 2 0
+today 2 0
+"today" 2 0
+"current time" 2 0
+current 6 10 currents
+currents 2 80 current
+yesterday 2 0 yesterdays
+yesterdays 2 80 yesterday
+tomorrow 2 0 tomorrows
+tomorrows 2 80 tomorrow
+january 2 100
+february 2 100
+march 2 100
+april 2 100
+may 2 100
+june 2 100
+july 2 100
+august 2 100
+september 2 100
+october 2 100
+november 2 100
+december 2 100
+day 2 0 days
+days 2 80 day
+year 2 0 years
+years 2 80 year
+hour 2 0 hours
+hours 2 80 hour
+minute 2 0 minutes
+minutes 2 80 minute
+second 3 1 seconds
+seconds 2 80 second
+weekday 2 0 weekdays
+weekdays 2 80 weekday
+month 2 0 months
+months 2 80 month
+week 2 0 weeks
+weeks 2 80 week
+meter 2 400 meters
+meters 2 480 meter
+length 2 0 lengths
+lengths 2 80 length
+width 2 0 widths
+widths 2 80 width
+height 2 0 heights
+heights 2 80 height
+ok 400 0
+yes 400 0
+no 40a 0
+sorry 400 0
+maybe 400 0
+function 3 1 functions functioned
+functioned 1 6 function
+functions 3 89 function
+dynamic 4 10
+library 2 0 libraries
+libraries 2 80 library
+time 2 0 times
+times 2 80 time
+happy 4 10
+sad 4 10
+angry 4 10
+down 224 10
+load 3 1
+call 3 1 calls called
+calls 3 89 call
+called 1 6 call
+ascend 1 1 ascends ascended
+ascends 1 9 ascend
+ascended 1 6 ascend
+descend 1 1 descends descended
+descends 1 9 descend
+descended 1 6 descend
+multiply 1 1 multiplies multiplied
+multiplies 1 9 multiply
+multiplied 1 6 multiply
+assign 1 1 assigns assigned
+assigns 1 9 assign
+assigned 1 6 assign
+divide 3 1 divides divided
+divides 3 89 divide
+divided 1 6 divide
+sum 3 1 sums summed
+sums 3 89 sum
+summed 1 6 sum
+substract 3 1 substracts substracted
+substracts 3 89 substract
+substracted 1 6 substract
+show 3 1 shown
+see 1 1 sees saw seen
+sees 1 9 see
+saw 1 2 see
+seen 1 4 see
+shown 3 6 show
+clock 2 0 clocks
+t 0 0
+do 1 1 does did done doing doings
+doesn 0 0
+don 0 0
+done 1 4 do
+doing 2 0 do
+doings 2 80 do
+open 5 11
+gone 1 4 go
+went 1 2 go
+go 3 1 went gone
+close 1 1
+start 3 1 starts started starting
+starts 3 89 start
+started 1 2 start
+starting 2 1 start
+stop 3 1 stops stopped stopping
+stops 3 89 stop
+stopped 1 2 stop
+stopping 3 1 stop
+suspend 3 1 suspends suspended suspending
+suspends 3 89 suspend
+suspended 1 2 suspend
+suspending 2 1 suspend
+resume 3 1 resumes resumed resuming
+resumes 3 89 resume
+resumed 1 2 resume
+resuming 2 1 resume
+man 2 0 men
+men 2 80 man
+woman 2 0 women
+women 2 80 woman
+male 2 0 males
+males 2 80 male
+female 2 0 females
+females 2 80 female
+human 6 10 humans
+humans 2 80 human
+is 1 9 be
+reboot 3 1
+the 0 0
+she 80 0
+not 8 0
+I 80 0
+need 3 1
+to 20 0
+as 20 0
+of 20 0
+in 20 0
+by 20 0
+about 20 0
+after 20 0
+between 20 0
+make 1 1
+her 180 0
+are 1 1 be
+or 10 0
+if 10 0
+and 10 0
+only 1c 10
+everyone 80 0
+everybody 80 0
+everything 80 0
+every 80 0
+anyone 80 0
+anybody 80 0
+anything 80 0
+any 88 0
+over 88 0
+none 80 0
+nobody 80 0
+nothing 80 0
+someone 80 0
+somebody 80 0
+some 88 0
+other 8a 0
+few 88 0
+many 88 0
+each 80 0
+then 10 0
+he 80 0
+something 80 0
+somewhere 80 0
+sometime 80 0
+more 8 0
+be 1 1 is are was were been
+why 10 0
+that 10 0
+whether 10 0
+a 0 0
+you 80 0
+needs 3 89 need
+eat 1 1 ate eaten eats
+eats 1 9 eat
+ate 1 2 eat
+speak 1 1 speaks spoke spoken
+speaks 1 9 speak
+spoke 1 2 speak
+spoken 1 4 speak
+food 2 0
+turn 3 1
+on 20 0
+ago 8 0
+home 2 0
+me 80 0
+him 80 0
+us 80 0
+them 80 0
+same 80 0
+we 80 0
+they 80 0
+an 0 0
+it 80 0
+clocks 2 80 clock
+ask 1 1 asks asked
+asks 1 9 ask
+asked 1 6 ask
+tell 1 1 tells told telling
+told 1 6 tell
+tells 1 9 tell
+telling 3 1 tell
+eaten 1 4 eat
+was 1 a be
+were 1 2 be
+been 1 4 be
+have 1 1 has had having
+has 1 9 have
+had 1 6 have
+having 3 1 have
+am 1 1 be
+else 10 0
+hi 400 0
+hello 400 0
+dunno 400 0
+want 1 1 wants wanted wanting
+wanted 1 6 want
+wants 1 9 want
+wanting 3 1 want
+fine 4 10
+bad 4 10
+lousy 4 10
+good 4 10 better best
+better 4 20 good
+best 4 40 good
+which 80 0
+what 80 0
+where 8 0
+when 80 0
+who 80 0
+how 80 0
+does 1 9 do
+did 1 2 do
+will 3 1
+won 1 1 will
+cannot 1 1 can
+would 1 1
+can 1 1
+could 1 1
+wouldn 1 1
+couldn 1 1
+didn 1 2 do
+ain 1 1 be
+aren 1 1 be
+isn 1 1 be
+wasn 1 2 be
+weren 1 a be
+haven 1 1 have
+hasn 1 9 have
+car 2 0 cars
+cars 2 80 car
+probably 8 0
+all 80 0
+lots a 80 lot
+lot a 0 lots
+remember 1 1 remembers remembered
+remembers 1 9 remember
+remembered 1 6 remember
+forget 1 1 forgets forgot
+forgets 1 9 forget
+forgot 1 6 forget
+execute 1 1 executes executed
+executes 1 9 execute
+executed 1 6 execute
+select 1 1 selects selected
+selects 1 9 select
+selected 1 6 select
+if_unknown_if 10 0
+unknown 4 10
+sure 4 10
+if_unsure_if 10 0
+unsure 4 10
+while 12 0
+until 10 0
+exit 3 1 exits exited exiting
+exits 3 89 exit
+exited 1 2 exit
+exiting 2 1 exit
+shortly 8 0 short
+randomly 8 0
+text 2 0 texts
+texts 2 80 text
+line 2 0 lines
+lines 2 80 line
+column 2 0 columns
+columns 2 80 column
+word 3 1 words
+words 2 80 word
+understand 1 1 understands understood understanding
+understands 1 9 understand
+understood 1 6 understand
+contact 3 1 contacts
+contacts 3 89 contact
+shy 4 10
+quiet 4 10
+people 2 0 peoples
+peoples 2 80 people
+last 1 1 lasts lasted
+lasts 1 9 last
+lasted 1 6 last
+relaxed 4 10
+beautiful 4 10
+relative 2 0 relatives
+relatives 2 80 relative
+because 10 0
+hero 2 0 heroes
+heroes 2 80 hero
+app 2 0 apps
+apps 2 80 app
+installed 4 10
+device 2 0 devices
+devices 2 80 device
+way 2 0 ways
+ways 2 80 way
+government 2 80 government
+world 2 0 worlds
+worlds 2 80 world
+life 2 0 lives
+lives 2 80 life
+part 2 0 parts
+parts 2 80 part
+house 2 0 houses
+houses 2 80 house
+course 2 0 courses
+courses 2 80 course
+case 2 0 cases
+cases 2 80 case
+system 2 0 systems
+systems 2 80 system
+place 2 0 places
+places 2 80 place
+group 2 0 groups
+groups 2 80 group
+company 2 0 companies
+companies 2 80 company
+party 2 0 parties
+parties 2 80 party
+information 2 0 informations
+informations 2 80 information
+school 2 0 schools
+schools 2 80 school
+fact 2 0 facts
+facts 2 80 fact
+money 2 0 moneys
+moneys 2 80 money
+point 2 0 points
+points 2 80 point
+example 2 0 examples
+examples 2 80 example
+state 2 0 states
+states 2 80 state
+business 2 0 businesses
+businesses 2 80 business
+night 2 0 nights
+nights 2 80 night
+area 2 0 areas
+areas 2 80 area
+water 2 0
+family 2 0 families
+families 2 80 family
+head 3 1 heads
+heads 2 80 head
+hand 3 1 hands
+hands 2 80 hand
+order 2 0 orders
+orders 2 80 order
+side 2 0 sides
+sides 2 80 side
+homes 2 80 home
+development 2 0 developments
+developments 2 80 development
+power 2 0 powers
+powers 2 80 power
+country 2 0 countries
+countries 2 80 country
+council 2 0 councils
+councils 2 80 council
+service 2 0 services
+services 2 80 service
+room 2 0 rooms
+rooms 2 80 room
+market 2 0 markets
+markets 2 80 market
+problem 2 0 problems
+problems 2 80 problem
+court 2 0 courts
+courts 2 80 court
+war 2 0 wars
+wars 2 80 war
+police 2 0 polices
+polices 2 80 police
+interest 2 0 interests
+interests 2 80 interest
+law 2 0 laws
+laws 2 80 law
+road 2 0 roads
+roads 2 80 road
+face 2 0 faces
+faces 2 80 face
+education 2 0 educations
+educations 2 80 education
+policy 2 0 policies
+policies 2 80 policy
+research 2 0 researches
+researches 2 80 research
+sort 2 0 sorts
+sorts 2 80 sort
+office 2 0 offices
+offices 2 80 office
+body 2 0 bodies
+bodies 2 80 body
+health 2 0 healths
+healths 2 80 health
+mother 2 0 mothers
+mothers 2 80 mother
+question 2 0 questions
+questions 2 80 question
+period 2 0 periods
+periods 2 80 period
+book 2 0 books
+books 2 80 book
+level 2 0 levels
+levels 2 80 level
+child 2 0 children
+children 2 80 child
+control 2 0 controls
+controls 2 80 control
+society 2 0 societies
+societies 2 80 society
+minister 2 0 ministers
+ministers 2 80 minister
+view 2 0 views
+views 2 80 view
+door 2 0 doors
+doors 2 80 door
+community 2 0 communities
+communities 2 80 community
+south 2 0 souths
+souths 2 80 south
+city 2 0 cities
+cities 2 80 city
+god 2 0 gods
+gods 2 80 god
+father 2 0 fathers
+fathers 2 80 father
+centre 2 0 centres
+centres 2 80 centre
+effect 2 0 effects
+effects 2 80 effect
+staff 2 0 staffs
+staffs 2 80 staff
+kind 2 0 kinds
+kinds 2 80 kind
+job 3 1 jobs jobbed jobbing
+jobs 3 89 job
+action 2 0 actions
+actions 2 80 action
+management 2 0 managements
+managements 2 80 management
+act 2 0 acts
+acts 2 80 act
+process 2 0 processes
+processes 2 80 process
+north 2 0 norths
+norths 2 80 north
+age 3 1 ages
+ages 2 80 age
+evidence 2 0 evidences
+evidences 2 80 evidence
+idea 2 0 ideas
+ideas 2 80 idea
+west 2 0 wests
+wests 2 80 west
+support 2 0 supports
+supports 2 80 support
+moment 2 0 moments
+moments 2 80 moment
+sense 2 0 senses
+senses 2 80 sense
+report 2 0 reports
+reports 2 80 report
+mind 3 1 minds
+minds 2 80 mind
+church 2 0 churches
+churches 2 80 church
+morning 2 0 mornings
+mornings 2 80 morning
+death 2 0
+change 2 0
+industry 2 0 industries
+industries 2 80 industry
+land 3 1
+care 2 0
+century 2 0 centuries
+centuries 2 80 century
+range 2 0
+table 2 0
+back 2 0
+trade 2 0
+history 2 0 histories
+histories 2 80 history
+study 2 0 studies
+studies 2 80 study
+street 2 0
+committee 2 0
+rate 2 0
+foods 2 80 food
+language 2 0
+experience 2 0
+result 2 0
+team 2 0
+sir 2 0 sirs
+sirs 2 80 sir
+section 2 0
+programme 2 0
+air 2 0
+authority 2 0 authorities
+authorities 2 80 authority
+role 2 0
+reason 2 0
+price 2 0
+town 2 0
+class 2 0 classes
+classes 2 80 class
+nature 2 0
+subject 2 0
+department 2 0
+union 2 0
+bank 2 0
+member 2 0
+value 2 0
+east 2 0
+practice 2 0 practices
+practices 2 80 practice
+type 2 0
+paper 2 0
+date 2 0
+decision 2 0
+figure 2 0
+right 2 0
+wife 2 0 wives
+wives 2 80 wife
+president 2 0
+university 2 0 universities
+universities 2 80 university
+friend 3 1
+club 3 1 clubbed clubs clubbing
+quality 2 0 qualities
+qualities 2 80 quality
+voice 2 0
+lord 3 1
+stage 2 0
+king 2 0
+situation 2 0
+light 2 0
+tax 2 0 taxes
+taxes 2 80 tax
+production 2 0
+marches 2 80 march
+secretary 2 0 secretaries
+secretaries 2 80 secretary
+art 2 0
+board 3 1
+mays 2 80 may
+hospital 2 0
+music 2 0 musics
+musics 2 80 music
+cost 2 0
+field 3 1
+award 3 1
+issue 2 0
+bed 3 1 bedded beds bedding
+project 2 0
+chapter 2 0
+girl 2 0
+game 2 0
+basis 2 0 bases
+bases 2 80 basis
+knowledge 2 0 knowledges
+knowledges 2 80 knowledge
+approach 2 0 approaches
+approaches 2 80 approach
+series 2 80 series
+love 2 0
+top 2 0
+news 2 80 news
+front 2 0
+future 2 0
+manager 2 0
+account 2 0
+computer 2 0
+security 2 0 securities
+securities 2 80 security
+rest 2 0
+labour 2 0
+structure 2 0
+hair 2 0
+bill 2 0
+heart 2 0
+force 2 0
+attention 2 0
+movement 2 0
+success 2 0 successes
+successes 2 80 success
+letter 2 0
+agreement 2 0
+capital 2 0
+analysis 2 0 analyses
+analyses 2 80 analysis
+population 2 0
+environment 2 0
+performance 2 0
+model 2 0
+material 2 0
+theory 2 0 theories
+theories 2 80 theory
+growth 2 0
+fire 2 0
+chance 2 0
+boy 2 0 boys
+boys 2 80 boy
+relationship 2 0
+son 2 0
+sea 2 0
+record 3 1
+size 2 0 sizes
+sizes 2 80 size
+space 2 0
+term 2 0
+director 2 0
+plan 2 0
+behaviour 2 0 behaviours
+behaviours 2 80 behaviour
+treatment 2 0
+energy 2 0 energies
+energies 2 80 energy
+income 2 0
+cup 2 0
+scheme 2 0
+design 2 0
+response 2 0
+association 2 0
+choice 2 0
+pressure 2 0
+hall 2 0
+couple 2 0
+technology 2 0 technologies
+technologies 2 80 technology
+defence 2 0
+list 2 0
+chairman 2 0 chairmen
+chairmen 2 80 chairman
+loss 2 0 losses
+losses 2 80 loss
+activity 2 0 activities
+activities 2 80 activity
+contract 2 0
+county 2 0 counties
+counties 2 80 county
+wall 2 0
+difference 2 0
+army 2 0 armies
+armies 2 80 army
+hotel 2 0
+sun 2 0
+product 2 0
+summer 2 0
+set 2 0
+village 2 0
+colour 2 0 colours
+colours 2 80 colour
+floor 2 0
+season 2 0
+unit 2 0
+park 2 0
+investment 2 0
+test 2 0
+garden 2 0
+husband 2 0
+employment 2 0
+style 2 0
+science 2 0
+look 3 1 looked looks
+deal 2 0
+charge 2 0
+help 2 0 helps
+helps 2 80 help
+economy 2 0 economies
+economies 2 80 economy
+page 2 0
+risk 2 0
+advice 2 0
+event 2 0
+picture 2 0
+commission 2 0
+fish 2 80 fish
+college 2 0
+oil 2 0
+doctor 2 0
+opportunity 2 0 opportunities
+opportunities 2 80 opportunity
+film 2 0
+conference 2 0
+operation 2 0
+application 2 0
+press 2 0 presses
+presses 2 80 press
+extent 2 0
+addition 2 0
+station 2 0
+window 2 0
+shop 2 0
+access 2 0 accesses
+accesses 2 80 access
+region 2 0
+doubt 2 0
+majority 2 0 majorities
+majorities 2 80 majority
+degree 2 0
+television 2 0
+blood 3 1
+statement 2 0
+sound 3 1
+election 2 0
+parliament 2 0
+site 2 0
+mark 2 0
+importance 2 0
+title 2 0
+species 2 80 species
+increase 2 0
+return 2 0
+concern 2 0
+public 2 0 publics
+publics 2 80 public
+competition 2 0
+software 2 0
+glass 2 0 glasses
+glasses 2 80 glass
+lady 2 0 ladies
+ladies 2 80 lady
+answer 2 0
+earth 2 0
+daughter 2 0 daughters
+daughters 2 80 daughter
+purpose 2 0
+responsibility 2 0 responsibilities
+responsibilities 2 80 responsibility
+leader 2 0
+river 2 0
+eye 2 0 eyes
+eyes 2 80 eye
+ability 2 0 abilities
+abilities 2 80 ability
+appeal 2 0
+opposition 2 0
+campaign 2 0
+respect 2 0
+task 2 0
+instance 2 0
+sale 2 0
+whole 2 0
+officer 2 0
+method 2 0
+division 2 0
+source 2 0
+piece 2 0
+pattern 2 0
+lack 2 0
+disease 2 0
+equipment 2 0 equipments
+equipments 2 80 equipment
+surface 2 0
+demand 3 1
+post 2 0
+mouth 2 0
+radio 2 0
+provision 2 0
+attempt 2 0
+sector 2 0
+firm 2 0
+status 2 0 statuses
+statuses 2 80 status
+peace 2 0 peaces
+peaces 2 80 peace
+variety 2 0 varieties
+varieties 2 80 variety
+teacher 2 0
+shows 2 80 show
+speaker 2 0
+baby 2 0 babies
+babies 2 80 baby
+arm 2 0
+base 3 1
+miss 2 0 misses
+misses 2 80 miss
+safety 2 0 safeties
+safeties 2 80 safety
+trouble 2 0
+culture 2 0
+direction 2 0
+context 2 0
+character 2 0 characters
+characters 2 80 character
+box 2 0 boxes
+boxes 2 80 box
+discussion 2 0
+past 2 0
+weight 2 0
+organisation 2 0 organisations
+organisations 2 80 organisation
+brother 2 0 brothers
+brothers 2 80 brother
+league 2 0
+condition 2 0
+machine 2 0
+argument 2 0
+sex 2 0 sexes
+sexes 2 80 sex
+budget 2 0
+english 2 0 englishes
+englishes 2 80 english
+transport 2 0
+share 2 0
+mum 2 0
+cash 2 0 cashes
+cashes 2 80 cash
+principle 2 0
+exchange 2 0
+aid 3 1
+version 2 0
+rule 2 0
+tea 2 0
+balance 3 1
+afternoon 2 0
+reference 2 0
+protection 2 0
+truth 2 0 truths
+truths 2 80 truth
+district 2 0
+smith 2 0
+review 2 0
+duty 2 0 duties
+duties 2 80 duty
+survey 2 0
+presence 2 0
+influence 2 0
+stone 2 0 stones
+stones 2 80 stone
+dog 2 0
+benefit 2 0
+collection 2 0
+executive 2 0
+speech 2 0 speeches
+speeches 2 80 speech
+queen 2 0
+marriage 2 0
+stock 2 0
+failure 2 0
+kitchen 2 0
+student 2 0
+effort 2 0
+holiday 2 0
+career 2 0
+attack 2 0
+horse 2 0
+progress 2 0 progresses
+progresses 2 80 progress
+plant 2 0
+visit 2 0
+relation 2 0
+ball 2 0
+bar 2 0
+opinion 2 0
+quarter 2 0
+impact 2 0
+scale 2 0
+race 2 0
+image 2 0
+trust 2 0
+justice 2 0
+edge 2 0
+gas 2 0 gases
+gases 2 80 gas
+railway 2 0
+expression 2 0
+advantage 3 1
+gold 2 0
+wood 2 0
+network 2 0
+forest 2 0
+sister 2 0
+chair 2 0
+cause 2 0
+foot 2 0 feet
+feet 2 80 foot
+rise 2 0
+half 2 0 halves
+halves 2 80 half
+winter 2 0
+corner 2 0
+insurance 2 0 insurances
+insurances 2 80 insurance
+step 2 0
+damage 2 0
+credit 2 0 credits
+credits 2 80 credit
+pain 2 0
+possibility 2 0 possibilities
+possibilities 2 80 possibility
+legislation 2 0 legislations
+legislations 2 80 legislation
+strength 2 0
+speed 3 1 sped speeds speeding
+crime 2 0
+hill 2 0
+debate 2 0
+supply 2 0 supplies
+supplies 2 80 supply
+present 2 0
+confidence 2 0
+patient 2 0
+wind 3 1 wound winds winding
+solution 2 0
+band 3 1
+museum 2 0 museums
+museums 2 80 museum
+farm 2 0
+pound 3 1
+match 2 0 matches
+matches 2 80 match
+assessment 2 0
+message 2 0
+football 2 0
+noes 2 80 no
+animal 2 0
+skin 2 0
+scene 2 0
+article 3 1
+stuff 2 0 stuffs
+stuffs 2 80 stuff
+introduction 2 0
+play 2 0
+administration 2 0 administrations
+administrations 2 80 administration
+fear 2 0
+dad 2 0
+proportion 2 0
+island 2 0
+claim 2 0
+kingdom 2 0
+video 2 0 videos
+videos 2 80 video
+tv 2 0 tvs
+tvs 2 80 tv
+existence 2 0
+telephone 2 0
+move 2 0
+traffic 3 1
+distance 2 0
+relief 2 0
+cabinet 2 0
+unemployment 2 0
+reality 2 0 realities
+realities 2 80 reality
+target 2 0
+trial 2 0
+rock 2 0
+concept 2 0
+spirit 2 0
+accident 2 0
+organization 2 0
+construction 2 0
+coffee 2 0
+phone 2 0
+distribution 2 0
+train 2 0
+sight 2 0
+difficulty 2 0 difficulties
+difficulties 2 80 difficulty
+factor 2 0
+exercise 2 0
+weekend 3 1
+battle 3 1
+prison 2 0
+grant 2 0
+aircraft 2 80 aircraft
+tree 2 0 trees
+trees 2 80 tree
+bridge 3 1
+strategy 2 0 strategies
+strategies 2 80 strategy
+contrast 2 0
+communication 2 0
+background 3 1
+shape 2 0
+wine 2 0
+star 2 0
+hope 2 0
+selection 2 0
+detail 2 0
+user 2 0
+path 2 0
+client 2 0
+search 2 0 searches
+searches 2 80 search
+master 2 0
+rain 2 0 rains
+rains 2 80 rain
+offer 2 0
+goal 2 0
+dinner 2 0
+freedom 2 0
+attitude 2 0
+agency 2 0 agencies
+agencies 2 80 agency
+seat 2 0
+manner 2 0
+favour 2 0
+fig. 2 80 fig.
+pair 2 0 pairs
+pairs 2 80 pair
+crisis 2 0 crises
+crises 2 80 crisis
+smile 2 0
+prince 2 0
+danger 2 0
+capacity 2 0 capacities
+capacities 2 80 capacity
+output 2 0
+note 2 0
+procedure 2 0
+theatre 2 0
+tour 2 0
+recognition 2 0 recognitions
+recognitions 2 80 recognition
+middle 2 0
+absence 2 0 absences
+absences 2 80 absence
+sentence 2 0
+package 2 0
+track 2 0
+card 3 1
+sign 2 0
+commitment 2 0
+player 2 0
+threat 2 0
+weather 2 0
+element 2 0
+conflict 2 0
+notice 2 0
+victory 2 0 victories
+victories 2 80 victory
+bottom 2 0
+finance 2 0
+fund 3 1
+violence 2 0
+file 2 0
+profit 2 0
+standard 2 0
+route 2 0
+expenditure 2 0 expenditures
+expenditures 2 80 expenditure
+discipline 2 0
+cell 2 0
+pp. 2 0
+reaction 2 0
+castle 2 0
+congress 2 0 congresses
+congresses 2 80 congress
+individual 2 0
+lead 3 1 led leaded leads leading
+consideration 2 0
+debt 2 0
+option 2 0
+payment 2 0
+exhibition 2 0
+reform 2 0
+emphasis 2 0 emphases
+emphases 2 80 emphasis
+spring 2 0
+audience 2 0
+feature 2 0
+touch 2 0 touches
+touches 2 80 touch
+estate 2 0
+assembly 2 0 assemblies
+assemblies 2 80 assembly
+volume 2 0
+youth 2 0
+contribution 2 0
+curriculum 2 0 curricula
+curricula 2 80 curriculum
+appearance 2 0
+boat 2 0
+institute 2 0
+membership 2 0
+branch 2 0 branches
+branches 2 80 branch
+bus 2 0 buses
+buses 2 80 bus
+waste 2 0
+heat 2 0
+neck 2 0
+object 2 0
+captain 2 0
+driver 2 0
+challenge 2 0
+conversation 2 0
+occasion 2 0
+code 2 0
+crown 2 0
+birth 2 0
+silence 2 0 silences
+silences 2 80 silence
+literature 2 0 literatures
+literatures 2 80 literature
+faith 2 0
+hell 2 0
+entry 2 0 entries
+entries 2 80 entry
+transfer 2 0
+gentleman 2 0 gentlemen
+gentlemen 2 80 gentleman
+bag 2 0
+coal 2 0
+investigation 2 0
+leg 2 0
+belief 2 0
+total 2 0
+major 2 0
+document 2 0
+description 2 0
+murder 2 0
+aim 2 0
+manchester 2 0
+flight 2 0
+conclusion 2 0
+drug 2 0
+tradition 2 0
+pleasure 2 0
+connection 2 0
+owner 2 0
+treaty 2 0 treaties
+treaties 2 80 treaty
+desire 2 0 desires
+desires 2 80 desire
+professor 2 0
+copy 2 0 copies
+copies 2 80 copy
+ministry 2 0 ministries
+ministries 2 80 ministry
+acid 2 0
+palace 2 0
+address 2 0 addresses
+addresses 2 80 address
+institution 2 0
+lunch 2 0 lunches
+lunches 2 80 lunch
+generation 2 0
+partner 2 0
+engine 2 0
+newspaper 2 0
+cross 2 0 crosses
+crosses 2 80 cross
+reduction 2 0
+welfare 2 0 welfares
+welfares 2 80 welfare
+definition 2 0
+key 2 0
+release 2 0
+vote 2 0
+examination 2 0
+judge 2 0
+atmosphere 2 0
+leadership 2 0
+sky 2 0 skies
+skies 2 80 sky
+breath 2 0
+creation 2 0
+row 2 0
+guide 2 0
+milk 2 0
+cover 2 0
+screen 2 0
+intention 2 0
+criticism 2 0
+silver 2 0
+customer 2 0
+journey 2 0
+explanation 2 0
+measure 2 0
+brain 2 0
+significance 2 0
+phase 2 0
+injury 2 0 injuries
+injuries 2 80 injury
+run 2 0
+coast 2 0
+technique 2 0
+valley 2 0
+drink 2 0
+magazine 2 0
+potential 2 0
+drive 2 0
+revolution 2 0
+bishop 2 0
+settlement 2 0
+metal 2 0
+motion 2 0
+index 2 0 indexes
+indexes 2 80 index
+adult 2 0
+inflation 2 0
+sport 2 0
+surprise 2 0
+pension 2 0
+factory 2 0 factories
+factories 2 80 factory
+tape 2 0
+flow 2 0
+iron 2 0
+trip 2 0
+lane 2 0
+pool 2 0
+independence 2 0
+hole 2 0
+flat 2 0
+content 2 0
+pay 2 0
+noise 2 0
+combination 2 0
+session 2 0
+appointment 2 0
+fashion 2 0
+consumer 2 0
+accommodation 2 0
+temperature 2 0
+religion 2 0
+author 2 0
+nation 2 0
+northern 2 0
+sample 2 0
+assistance 2 0 assistances
+assistances 2 80 assistance
+interpretation 2 0
+aspect 2 0
+display 2 0 displays
+displays 2 80 display
+shoulder 2 0
+agent 2 0
+gallery 2 0 galleries
+galleries 2 80 gallery
+republic 2 0
+cancer 2 0
+proposal 2 0
+ship 2 0
+interview 2 0
+vehicle 2 0
+democracy 2 0 democracies
+democracies 2 80 democracy
+improvement 2 0
+involvement 2 0 involvements
+involvements 2 80 involvement
+general 2 0
+enterprise 2 0
+van 2 0
+meal 2 0
+breakfast 2 0
+motor 2 0
+channel 2 0
+impression 2 0
+tone 2 0
+sheet 2 0
+pollution 2 0
+beauty 2 0 beauties
+beauties 2 80 beauty
+square 2 0
+vision 2 0
+spot 2 0
+distinction 2 0
+crowd 3 1
+fuel 2 0
+desk 2 0
+decline 2 0
+revenue 2 0
+fall 2 0
+diet 2 0
+bedroom 2 0
+soil 2 0
+reader 2 0
+shock 2 0
+fruit 2 0
+behalf 2 0 behalves
+behalves 2 80 behalf
+deputy 2 0 deputies
+deputies 2 80 deputy
+roof 2 0 roofs
+roofs 2 80 roof
+nose 2 0
+steel 2 0
+co 2 0
+artist 2 0
+graham 2 0
+plate 2 0
+song 2 0
+maintenance 2 0 maintenances
+maintenances 2 80 maintenance
+formation 2 0
+grass 2 0 grasses
+grasses 2 80 grass
+spokesman 2 0 spokesmen
+spokesmen 2 80 spokesman
+ice 2 0
+talk 2 0
+program 2 0
+link 2 0
+ring 2 0
+expert 2 0
+establishment 2 0
+plastic 2 0
+candidate 2 0
+rail 2 0
+passage 2 0
+parish 2 0 parishes
+parishes 2 80 parish
+ref 2 0
+emergency 2 0 emergencies
+emergencies 2 80 emergency
+liability 2 0 liabilities
+liabilities 2 80 liability
+identity 2 0 identities
+identities 2 80 identity
+location 2 0
+framework 2 0
+strike 2 0
+countryside 2 0
+map 2 0
+lake 2 0
+household 2 0
+approval 2 0
+border 2 0
+bottle 3 1
+bird 3 1
+constitution 2 0
+autumn 2 0
+cat 2 0
+agriculture 2 0
+concentration 2 0 concentrations
+concentrations 2 80 concentration
+guy 2 0
+dress 2 0 dresses
+dresses 2 80 dress
+victim 2 0
+mountain 2 0
+editor 2 0
+theme 2 0
+error 2 0
+loan 2 0
+stress 2 0 stresses
+stresses 2 80 stress
+recovery 2 0 recoveries
+recoveries 2 80 recovery
+electricity 2 0 electricities
+electricities 2 80 electricity
+recession 2 0
+wealth 2 0 wealths
+wealths 2 80 wealth
+request 2 0
+comparison 2 0
+lewis 2 0 lewises
+lewises 2 80 lewis
+walk 2 0
+focus 2 0 foci
+foci 2 80 focus
+focuses 2 80 focus
+chief 2 0
+parent 2 0
+sleep 2 0
+mass 2 0 masses
+masses 2 80 mass
+bush 2 0 bushes
+bushes 2 80 bush
+foundation 2 0
+bath 2 0
+item 2 0
+lifespan 2 0
+lee 2 0 lees
+lees 2 80 lee
+publication 2 0
+decade 2 0
+beach 2 0 beaches
+beaches 2 80 beach
+sugar 2 0
+charity 2 0 charities
+charities 2 80 charity
+writer 2 0
+panel 2 0
+struggle 2 0
+dream 2 0
+outcome 2 0
+efficiency 2 0 efficiencies
+efficiencies 2 80 efficiency
+offence 2 0 offences
+offences 2 80 offence
+resolution 2 0
+reputation 2 0
+specialist 2 0
+taylor 2 0 taylors
+taylors 2 80 taylor
+pub 2 0
+co-operation 2 0
+port 2 0
+incident 2 0
+bread 3 1
+chain 2 0
+initiative 2 0
+clause 2 0
+resistance 2 0
+mistake 2 0
+worker 2 0
+advance 3 1
+empire 2 0
+notion 2 0
+mirror 2 0
+delivery 2 0 deliveries
+deliveries 2 80 delivery
+chest 2 0
+licence 2 0 licences
+licences 2 80 licence
+average 3 1
+awareness 2 0 awarenesses
+awarenesses 2 80 awareness
+travel 2 0
+expansion 2 0
+block 2 0
+alternative 2 0
+chancellor 2 0
+meat 2 0
+store 2 0
+self 2 0 selves
+selves 2 80 self
+break 2 0
+drama 2 0 dramas
+dramas 2 80 drama
+corporation 2 0
+currency 2 0 currencies
+currencies 2 80 currency
+extension 2 0
+convention 2 0
+partnership 2 0
+skill 2 0
+furniture 2 0 furnitures
+furnitures 2 80 furniture
+round 3 1
+regime 2 0
+inquiry 2 0 inquiries
+inquiries 2 80 inquiry
+rugby 2 0 rugbies
+rugbies 2 80 rugby
+philosophy 2 0 philosophies
+philosophies 2 80 philosophy
+scope 2 0
+gate 2 0
+minority 2 0 minorities
+minorities 2 80 minority
+intelligence 2 0
+restaurant 2 0
+consequence 2 0
+mill 2 0
+golf 2 0
+retirement 2 0
+priority 2 0 priorities
+priorities 2 80 priority
+plane 2 0
+gun 2 0
+gap 2 0
+core 2 0
+uncle 2 0
+fun 2 0
+arrival 2 0
+snow 2 0
+no. 2 0 nos.
+nos. 2 80 no.
+command 3 1 commands
+commands 2 80 command
+abuse 3 1
+limit 2 0
+championship 2 0
+baa 1 1
+cha-cha 1 1
+concertina 1 1
+conga 1 1
+henna 1 1
+polka 1 1
+rhumba 1 1
+samba 1 1
+subpoena 1 1
+visa 1 1
+absorb 1 1
+adsorb 1 1
+barb 1 1
+blab 1 1
+blob 1 1
+bomb 1 1
+boob 1 1
+chemisorb 1 1
+climb 1 1
+comb 1 1
+crumb 1 1
+curb 1 1
+currycomb 1 1
+daub 1 1
+desorb 1 1
+disturb 1 1
+dive-bomb 1 1
+ebb 1 1
+entomb 1 1
+firebomb 1 1
+garb 1 1
+honeycomb 1 1
+lamb 1 1
+perturb 1 1
+plumb 1 1
+reabsorb 1 1
+recumb 1 1
+resorb 1 1
+sorb 1 1
+succumb 1 1
+thumb 1 1
+bob 1 1 bobbed bobs bobbing
+bobbed 1 6 bob
+bobs 1 9 bob
+bobbing 3 10 bob
+clubbed 1 6 club
+clubs 1 9 club
+clubbing 3 10 club
+confab 1 1 confabbed confabs confabbing
+confabbed 1 6 confab
+confabs 1 9 confab
+confabbing 3 10 confab
+crab 1 1 crabbed crabs crabbing
+crabbed 1 6 crab
+crabs 1 9 crab
+crabbing 3 10 crab
+crib 1 1 cribbed cribs cribbing
+cribbed 1 6 crib
+cribs 1 9 crib
+cribbing 3 10 crib
+cub 1 1 cubbed cubs cubbing
+cubbed 1 6 cub
+cubs 1 9 cub
+cubbing 3 10 cub
+dab 1 1 dabbed dabs dabbing
+dabbed 1 6 dab
+dabs 1 9 dab
+dabbing 3 10 dab
+drub 1 1 drubbed drubs drubbing
+drubbed 1 6 drub
+drubs 1 9 drub
+drubbing 3 10 drub
+dub 1 1 dubbed dubs dubbing
+dubbed 1 6 dub
+dubs 1 9 dub
+dubbing 3 10 dub
+fib 1 1 fibbed fibs fibbing
+fibbed 1 6 fib
+fibs 1 9 fib
+fibbing 3 10 fib
+flub 1 1 flubbed flubs flubbing
+flubbed 1 6 flub
+flubs 1 9 flub
+flubbing 3 10 flub
+grab 1 1 grabbed grabs grabbing
+grabbed 1 6 grab
+grabs 1 9 grab
+grabbing 3 10 grab
+hob 1 1 hobbed hobs hobbing
+hobbed 1 6 hob
+hobs 1 9 hob
+hobbing 3 10 hob
+jab 1 1 jabbed jabs jabbing
+jabbed 1 6 jab
+jabs 1 9 jab
+jabbing 3 10 jab
+jib 1 1 jibbed jibs jibbing
+jibbed 1 6 jib
+jibs 1 9 jib
+jibbing 3 10 jib
+jobbed 1 6 job
+jobbing 3 10 job
+lob 1 1 lobbed lobs lobbing
+lobbed 1 6 lob
+lobs 1 9 lob
+lobbing 3 10 lob
+mob 1 1 mobbed mobs mobbing
+mobbed 1 6 mob
+mobs 1 9 mob
+mobbing 3 10 mob
+rib 1 1 ribbed ribs ribbing
+ribbed 1 6 rib
+ribs 1 9 rib
+ribbing 3 10 rib
+rob 1 1 robbed robs robbing
+robbed 1 6 rob
+robs 1 9 rob
+robbing 3 10 rob
+rub 1 1 rubbed rubs rubbing
+rubbed 1 6 rub
+rubs 1 9 rub
+rubbing 3 10 rub
+scab 1 1 scabbed scabs scabbing
+scabbed 1 6 scab
+scabs 1 9 scab
+scabbing 3 10 scab
+scrub 1 1 scrubbed scrubs scrubbing
+scrubbed 1 6 scrub
+scrubs 1 9 scrub
+scrubbing 3 10 scrub
+snub 1 1 snubbed snubs snubbing
+snubbed 1 6 snub
+snubs 1 9 snub
+snubbing 3 10 snub
+sob 1 1 sobbed sobs sobbing
+sobbed 1 6 sob
+sobs 1 9 sob
+sobbing 3 10 sob
+stab 1 1 stabbed stabs stabbing
+stabbed 1 6 stab
+stabs 1 9 stab
+stabbing 3 10 stab
+sub 1 1 subbed subs subbing
+subbed 1 6 sub
+subs 1 9 sub
+subbing 3 10 sub
+swab 1 1 swabbed swabs swabbing
+swabbed 1 6 swab
+swabs 1 9 swab
+swabbing 3 10 swab
+swob 1 1 swobbed swobs swobbing
+swobbed 1 6 swob
+swobs 1 9 swob
+swobbing 3 10 swob
+throb 1 1 throbbed throbs throbbing
+throbbed 1 6 throb
+throbs 1 9 throb
+throbbing 3 10 throb
+web 1 1 webbed webs webbing
+webbed 1 6 web
+webs 1 9 web
+webbing 3 10 web
+antic 1 1
+bivouac 1 1
+frolic 1 1
+lyric 1 1
+mimic 1 1
+panic 1 1
+picnic 1 1
+shellac 1 1
+arc 1 1 arced arcked arcs arcing arcking
+arced 1 6 arc
+arcked 1 6 arc
+arcs 1 9 arc
+arcing 3 10 arc
+arcking 3 10 arc
+talc 1 1 talced talcs talcing
+talced 1 6 talc
+talcs 1 9 talc
+talcing 3 10 talc
+tarmac 1 1 tarmaced tarmacked tarmacs tarmacing tarmacking
+tarmaced 1 6 tarmac
+tarmacked 1 6 tarmac
+tarmacs 1 9 tarmac
+tarmacing 3 10 tarmac
+tarmacking 3 10 tarmac
+abound 1 1
+abscond 1 1
+accord 1 1
+add 1 1
+afford 1 1
+amend 1 1
+append 1 1
+applaud 1 1
+apprehend 1 1
+attend 1 1
+avoid 1 1
+backhand 1 1
+bard 1 1
+bead 1 1
+beard 1 1
+behold 1 1
+blend 1 1
+blind 1 1
+blindfold 1 1
+bombard 1 1
+bond 1 1
+bottlefeed 1 1
+bound 1 7 bind
+braid 1 1
+brand 1 1
+breastfeed 1 1
+brood 1 1
+butt-weld 1 1
+buttweld 1 1
+chord 1 1
+clapboard 1 1
+cloud 1 1
+commend 1 1
+compound 1 1
+comprehend 1 1
+concord 1 1
+condescend 1 1
+contend 1 1
+cord 1 1
+correspond 1 1
+countermand 1 1
+crossbreed 1 1
+cuckold 1 1
+defend 1 1
+defraud 1 1
+depend 1 1
+despond 1 1
+disband 1 1
+discard 1 1
+discord 1 1
+disregard 1 1
+distend 1 1
+download 1 1
+dread 1 1
+enfold 1 1
+exceed 1 1
+expand 1 1
+expend 1 1
+expound 1 1
+extend 1 1
+fend 1 1
+feud 1 1
+flood 1 1
+fold 1 1
+ford 1 1
+foreground 1 1
+forward 1 1
+found 1 7 find
+freeload 1 1
+garland 1 1
+goad 1 1
+grandstand 1 1
+ground 1 7 grind
+guard 1 1
+hazard 1 1
+heed 1 1
+herald 1 1
+herd 1 1
+hoard 1 1
+homestead 1 1
+hood 1 1
+hound 1 1
+hyperextend 1 1
+impend 1 1
+impound 1 1
+intend 1 1
+interdepend 1 1
+invalid 1 1
+lard 1 1
+laud 1 1
+lipread 1 1
+manifold 1 1
+maraud 1 1
+mastermind 1 1
+meld 1 1
+mend 1 1
+misapprehend 1 1
+mold 1 1
+mould 1 1
+mound 1 1
+offend 1 1
+overcrowd 1 1
+overload 1 1
+placard 1 1
+plod 1 1
+pollard 1 1
+poniard 1 1
+portend 1 1
+prehend 1 1
+pretend 1 1
+proceed 1 1
+propound 1 1
+pyramid 1 1
+raid 1 1
+railroad 1 1
+rebound 1 1
+recommend 1 1
+refund 1 1
+regard 1 1
+remand 1 1
+remind 1 1
+reprehend 1 1
+reprimand 1 1
+rescind 1 1
+resound 1 1
+resplend 1 1
+respond 1 1
+resuspend 1 1
+retard 1 1
+retread 1 1
+reward 1 1
+reword 1 1
+safeguard 1 1
+sand 1 1
+scaffold 1 1
+scald 1 1
+scold 1 1
+seed 1 1
+shepherd 1 1
+shield 1 1
+shroud 1 1
+sightread 1 1
+skateboard 1 1
+snowboard 1 1
+spearhead 1 1
+spot-weld 1 1
+spotweld 1 1
+starboard 1 1
+succeed 1 1
+superintend 1 1
+surfboard 1 1
+surround 1 1
+tend 1 1
+thread 1 1
+transcend 1 1
+trend 1 1
+unbraid 1 1
+unfold 1 1
+unfriend 1 1
+unload 1 1
+upbraid 1 1
+upend 1 1
+upload 1 1
+vagabond 1 1
+vend 1 1
+void 1 1
+ward 1 1
+weed 1 1
+weld 1 1
+wound 1 7 wind
+yield 1 1
+bedded 1 6 bed
+beds 1 9 bed
+bedding 3 10 bed
+bid 1 1 bidded bids bidding
+bidded 1 6 bid
+bids 1 9 bid
+bidding 3 10 bid
+bobsled 1 1 bobsledded bobsleds bobsledding
+bobsledded 1 6 bobsled
+bobsleds 1 9 bobsled
+bobsledding 3 10 bobsled
+brad 1 1 bradded brads bradding
+bradded 1 6 brad
+brads 1 9 brad
+bradding 3 10 brad
+bud 1 1 budded buds budding
+budded 1 6 bud
+buds 1 9 bud
+budding 3 10 bud
+cheerlead 1 1 cheerled cheerleads cheerleading
+cheerled 1 6 cheerlead
+cheerleads 1 9 cheerlead
+cheerleading 3 10 cheerlead
+copyread 1 7 copyreads copyreading
+copyreads 1 9 copyread
+copyreading 3 10 copyread
+dogsled 1 1 dogsledded dogsleds dogsledding
+dogsledded 1 6 dogsled
+dogsleds 1 9 dogsled
+dogsledding 3 10 dogsled
+force-feed 1 1 force-fed force-feds force-feeding
+force-fed 1 6 force-feed
+force-feds 1 9 force-feed
+force-feeding 3 10 force-feed
+geld 1 1 gelt gelted gelds gelding
+gelt 1 6 geld
+gelted 1 6 geld
+gelds 1 9 geld
+gelding 3 10 geld
+gild 1 1 gilt gilded gilds gilding
+gilt 1 6 gild
+gilded 1 6 gild
+gilds 1 9 gild
+gilding 3 10 gild
+interbreed 1 1 interbred interbreeds interbreeding
+interbred 1 6 interbreed
+interbreeds 1 9 interbreed
+interbreeding 3 10 interbreed
+mislead 1 1 misled misleaded misleads misleading
+misleaded 1 6 mislead
+misled 1 6 mislead
+misleads 1 9 mislead
+misleading 3 10 mislead
+misread 1 7 misleads misleading
+misreads 1 9 misread
+misreading 3 10 misread
+misunderstand 1 1 misunderstood misunderstands misunderstanding
+misunderstood 1 6 misunderstand
+misunderstands 1 9 misunderstand
+misunderstanding 3 10 misunderstand
+mud 1 1 mudded muds mudding
+mudded 1 6 mud
+muds 1 9 mud
+mudding 3 10 mud
+nod 1 1 nodded nods nodding
+nodded 1 6 nod
+nods 1 9 nod
+nodding 3 10 nod
+outbid 1 7 outbids outbidding
+outbids 1 9 outbid
+outbidding 3 10 outbid
+overbid 1 7 overbids overbidding
+overbids 1 9 overbid
+overbidding 3 10 overbid
+overfeed 1 1 overfed overfeeds overfeeding
+overfed 1 6 overfeed
+overfeeds 1 9 overfeed
+overfeeding 3 10 overfeed
+overspend 1 1 overspent overspends overspending
+overspent 1 6 overspend
+overspends 1 9 overspend
+overspending 3 10 overspending
+pad 1 1 padded pads padding
+padded 1 6 pad
+pads 1 9 pad
+padding 3 10 pad
+plead 1 1 pled pleads pleading
+pled 1 6 plead
+pleads 1 9 plead
+pleading 3 10 plead
+pod 1 1 podded pods podding
+podded 1 6 pod
+pods 1 9 pod
+podding 3 10 pod
+prod 1 1 prodded prods prodding
+prodded 1 6 prod
+prods 1 9 prod
+prodding 3 10 prod
+proofread 1 7 proofreads proofreading
+proofreads 1 9 proofread
+proofreading 3 10 proofread
+rebuild 1 1 rebuilt rebuilds rebuilding
+rebuilt 1 6 rebuild
+rebuilds 1 9 rebuild
+rebuilding 3 10 rebuild
+rid 1 1 ridded rids ridding
+ridded 1 6 rid
+rids 1 9 rid
+ridding 3 10 rid
+scud 1 1 scudded scuds scudding
+scudded 1 6 scud
+scuds 1 9 scud
+scudding 3 10 scud
+shred 1 1 shredded shreds shredding
+shredded 1 6 shred
+shreds 1 9 shred
+shredding 3 10 shred
+skid 1 1 skidded skids skidding
+skidded 1 6 skid
+skids 1 9 skid
+skidding 3 10 skid
+sled 1 1 sledded sleds sledding
+sledded 1 6 sled
+sleds 1 9 sled
+sledding 3 10 sled
+sod 1 1 sodded sods sodding
+sodded 1 6 sod
+sods 1 9 sod
+sodding 3 10 sod
+sped 1 6 speed
+speeds 1 9 speed
+speeding 3 10 speed
+spellbind 1 1 spellbound spellbinds spellbinding
+spellbound 1 6 spellbind
+spellbinds 1 9 spellbind
+spellbinding 3 10 spellbind
+spoonfeed 1 1 spoonfed spoonfeeds spoonfeeding
+spoonfed 1 6 spoonfeed
+spoonfeeds 1 9 spoonfeed
+spoonfeeding 3 10 spoonfeed
+stud 1 1 studded studs studding
+studded 1 6 stud
+studs 1 9 stud
+studding 3 10 stud
+thud 1 1 thudded thuds thudding
+thudded 1 6 thud
+thuds 1 9 thud
+thudding 3 10 thud
+tread 1 2 trod tread trodden treaded treads treading
+trod 1 2 tread
+trodden 1 4 tread
+treaded 1 6 tread
+treads 1 9 tread
+treading 3 10 tread
+unbend 1 1 unbent unbends unbending
+unbent 1 6 unbend
+unbends 1 9 unbend
+unbending 3 10 unbend
+unbind 1 1 unbound unbinds unbinding
+unbound 1 6 unbind
+unbinds 1 9 unbind
+unbinding 3 10 unbind
+underbid 1 7 underbids underbidding
+underbids 1 9 underbid
+underbidding 3 10 underbid
+underspend 1 1 underspent underspends underspending
+underspent 1 6 underspend
+underspends 1 9 underspend
+underspending 3 10 underspend
+unwind 1 1 unwound unwounds unwinding
+unwound 1 6 unwind
+unwounds 1 9 unwind
+unwinding 3 10 unwind
+uphold 1 1 upheld upholds upholding
+upheld 1 6 uphold
+upholds 1 9 uphold
+upholding 3 10 uphold
+wad 1 1 wadded wads wadding
+wadded 1 6 wad
+wads 1 9 wad
+wadding 3 10 wad
+wed 1 7 weds wedding
+weds 1 9 wed
+wedding 3 10 wed
+withhold 1 1 withheld withholds withholding
+withheld 1 6 withhold
+withholds 1 9 withhold
+withholding 3 10 withhold
+withstand 1 1 withstood withstands withstanding
+withstood 1 6 withstand
+withstands 1 9 withstand
+withstanding 3 10 withstand
+bend 1 1 bent bends bending
+bent 1 6 bend
+bends 1 9 bend
+bending 3 10 bend
+bind 1 1 bound binds binding
+binds 1 9 bind
+binding 3 10 bind
+bleed 1 1 bled bleeds bleeding
+bled 1 6 bleed
+bleeds 1 9 bleed
+bleeding 3 10 bleed
+breed 1 1 bred breeds breeding
+bred 1 6 breed
+breeds 1 9 breed
+breeding 3 10 breed
+build 1 1 built builds building
+built 1 6 build
+builds 1 9 build
+building 3 10 build
+feed 1 1 fed feeds feeding
+fed 1 6 feed
+feeds 1 9 feed
+feeding 3 10 feed
+find 1 1 found finds finding
+finds 1 9 find
+finding 3 10 find
+forbid 1 3 forbade forbad forbidden forbids forbidding
+forbidden 1 4 forbid
+forbade 1 6 forbid
+forbad 1 6 forbid
+forbids 1 9 forbid
+forbidding 3 10 forbid
+grind 1 1 ground grinds grinding
+grinds 1 9 grind
+grinding 3 10 grind
+hold 1 1 held holds holding
+held 1 6 hold
+holds 1 9 hold
+holding 3 10 hold
+leaded 1 6 lead
+led 1 6 lead
+leads 1 9 lead
+leading 3 10 lead
+lend 1 1 lent lends lending
+lent 1 6 lend
+lends 1 9 lend
+lending 3 10 lend
+read 1 7 reads reading
+reads 1 9 read
+reading 3 10 read
+send 1 1 sent sends sending
+sent 1 6 send
+sends 1 9 send
+sending 3 10 send
+shed 1 7 sheds shedding
+sheds 1 9 shed
+shedding 3 10 shed
+spend 1 1 spent spends spending
+spent 1 6 spend
+spends 1 9 spend
+spending 3 10 spend
+stand 1 1 stood stands standing
+stood 1 6 stand
+stands 1 9 stand
+standing 3 10 stand
+understanding 3 10 understand
+winds 1 9 wind
+winding 3 10 wind
+abase 1 1
+abate 1 1
+abbreviate 1 1
+abdicate 1 1
+abjure 1 1
+ablate 1 1
+abnegate 1 1
+abominate 1 1
+abrade 1 1
+abridge 1 1
+abrogate 1 1
+abscise 1 1
+absolve 1 1
+accede 1 1
+accelerate 1 1
+accentuate 1 1
+acclimate 1 1
+acclimatise 1 1
+acclimatize 1 1
+accommodate 1 1
+accrete 1 1
+accrue 1 1
+acculturate 1 1
+accumulate 1 1
+accuse 1 1
+acerbate 1 1
+acetylate 1 1
+acetylize 1 1
+ache 1 1
+achieve 1 1
+achromatize 1 1
+acidulate 1 1
+acknowledge 1 1
+acquiesce 1 1
+acquire 1 1
+activate 1 1
+actualise 1 1
+actualize 1 1
+actuate 1 1
+acuminate 1 1
+adhere 1 1
+adjudicate 1 1
+adjure 1 1
+administrate 1 1
+admire 1 1
+adolesce 1 1
+adore 1 1
+adulate 1 1
+adulterate 1 1
+adventure 1 1
+advertise 1 1
+advertize 1 1
+advise 1 1
+advocate 1 1
+aerate 1 1
+aerosolise 1 1
+aerosolize 1 1
+aestivate 1 1
+affiliate 1 1
+agglomerate 1 1
+agglutinate 1 1
+aggrade 1 1
+aggrandise 1 1
+aggrandize 1 1
+aggravate 1 1
+aggregate 1 1
+agitate 1 1
+agonise 1 1
+agonize 1 1
+alchemize 1 1
+alcoholize 1 1
+alienate 1 1
+alkalize 1 1
+allege 1 1
+allegorise 1 1
+allegorize 1 1
+alleviate 1 1
+alliterate 1 1
+allocate 1 1
+allowance 1 1
+allude 1 1
+allure 1 1
+alphabetise 1 1
+alphabetize 1 1
+alternate 1 1
+aluminise 1 1
+aluminize 1 1
+amalgamate 1 1
+amaze 1 1
+amble 1 1
+ambulate 1 1
+ambuscade 1 1
+ameliorate 1 1
+amerce 1 1
+americanise 1 1
+americanize 1 1
+ammoniate 1 1
+amortise 1 1
+amortize 1 1
+amputate 1 1
+amuse 1 1
+anaesthetise 1 1
+anaesthetize 1 1
+anagrammatise 1 1
+anagrammatize 1 1
+analogise 1 1
+analogize 1 1
+analyse 1 1
+analyze 1 1
+anathematise 1 1
+anathematize 1 1
+anatomise 1 1
+anatomize 1 1
+anesthetise 1 1
+anesthetize 1 1
+angle 1 1
+anglicise 1 1
+anglicize 1 1
+angulate 1 1
+animalise 1 1
+animalize 1 1
+animate 1 1
+annihilate 1 1
+annotate 1 1
+announce 1 1
+annunciate 1 1
+antagonise 1 1
+antagonize 1 1
+antecede 1 1
+anthologise 1 1
+anthologize 1 1
+anthropomorphise 1 1
+anthropomorphize 1 1
+anticipate 1 1
+antiquate 1 1
+antique 1 1
+aphorise 1 1
+aphorize 1 1
+apologise 1 1
+apologize 1 1
+apostatise 1 1
+apostatize 1 1
+apostrophise 1 1
+apostrophize 1 1
+apotheosise 1 1
+apotheosize 1 1
+appease 1 1
+apperceive 1 1
+appose 1 1
+appraise 1 1
+appreciate 1 1
+apprentice 1 1
+apprise 1 1
+approbate 1 1
+appropriate 1 1
+approve 1 1
+approximate 1 1
+aquaplane 1 1
+arbitrage 1 1
+arbitrate 1 1
+arborise 1 1
+arborize 1 1
+archaise 1 1
+archaize 1 1
+archive 1 1
+argue 1 1
+aromatise 1 1
+aromatize 1 1
+arouse 1 1
+arrange 1 1
+arrive 1 1
+arrogate 1 1
+articulate 1 1
+ascribe 1 1
+asperse 1 1
+asphyxiate 1 1
+aspirate 1 1
+aspire 1 1
+assassinate 1 1
+assemble 1 1
+asseverate 1 1
+assibilate 1 1
+assimilate 1 1
+associate 1 1
+assonate 1 1
+assuage 1 1
+assume 1 1
+assure 1 1
+astringe 1 1
+astrogate 1 1
+atomise 1 1
+atomize 1 1
+atone 1 1
+attenuate 1 1
+attire 1 1
+attitudinise 1 1
+attitudinize 1 1
+attribute 1 1
+auscultate 1 1
+auspicate 1 1
+authenticate 1 1
+authorise 1 1
+authorize 1 1
+autoclave 1 1
+automate 1 1
+automatise 1 1
+automatize 1 1
+automobile 1 1
+autotomize 1 1
+avalanche 1 1
+avenge 1 1
+aviate 1 1
+avulse 1 1
+awe 1 1
+axe 1 1
+azure 1 1
+babble 1 1
+backfire 1 1
+backspace 1 1
+backstroke 1 1
+bacterise 1 1
+bacterize 1 1
+badge 1 1
+baffle 1 1
+bake 1 1
+bale 1 1
+bandage 1 1
+baptise 1 1
+baptize 1 1
+barbarise 1 1
+barbarize 1 1
+barbecue 1 1
+barge 1 1
+baronetize 1 1
+barrage 1 1
+barricade 1 1
+bastardise 1 1
+bastardize 1 1
+baste 1 1
+bathe 1 1
+beetle 1 1
+befuddle 1 1
+begrudge 1 1
+beguile 1 1
+behave 1 1
+believe 1 1
+bellyache 1 1
+bemuse 1 1
+benefice 1 1
+beneficiate 1 1
+besiege 1 1
+bestialize 1 1
+bicycle 1 1
+bifurcate 1 1
+bike 1 1
+bilge 1 1
+binge 1 1
+birdlime 1 1
+bituminize 1 1
+blame 1 1
+blare 1 1
+blaspheme 1 1
+blaze 1 1
+blockade 1 1
+boldface 1 1
+bolshevise 1 1
+bolshevize 1 1
+bombilate 1 1
+bombinate 1 1
+bone 1 1
+boondoggle 1 1
+booze 1 1
+bore 1 1
+botanise 1 1
+botanize 1 1
+bounce 1 1
+bowdlerise 1 1
+bowdlerize 1 1
+brace 1 1
+brachiate 1 1
+braille 1 1
+brake 1 1
+brave 1 1
+breaststroke 1 1
+breathe 1 1
+brecciate 1 1
+breeze 1 1
+bribe 1 1
+bridle 1 1
+brigade 1 1
+brine 1 1
+bristle 1 1
+broadside 1 1
+brocade 1 1
+bromate 1 1
+brominate 1 1
+bronze 1 1
+browse 1 1
+bruise 1 1
+brutalise 1 1
+brutalize 1 1
+bubble 1 1
+buckle 1 1
+bugle 1 1
+bulge 1 1
+bulldoze 1 1
+bumble 1 1
+bundle 1 1
+bungle 1 1
+burglarise 1 1
+burglarize 1 1
+burgle 1 1
+ace 1 1 aced aces acing
+aced 1 6 ace
+aces 1 9 ace
+acing 3 10 ace
+agree 1 1 agreed agrees agreeing
+agreed 1 6 agree
+agrees 1 9 agree
+agreeing 3 10 agree
+ante 1 1 anteed anted antes anteing
+anteed 1 6 ante
+anted 1 6 ante
+antes 1 9 ante
+anteing 3 10 ante
+ape 1 1 aped apes apeing apeing
+aped 1 6 ape
+apes 1 9 ape
+apeing 3 10 ape
+aping 3 10 ape
+applique 1 1 appliqued appliques appliqueing
+appliqued 1 6 applique
+appliques 1 9 applique
+appliqueing 3 10 applique
+bereave 1 1 bereft bereaved bereaves bereaving
+bereft 1 6 bereave
+bereaved 1 6 bereave
+bereaves 1 9 bereave
+bereaving 3 10 bereave
+birdie 1 1 birdied birdies birdieing
+birdied 1 6 birdie
+birdies 1 9 birdie
+birdieing 3 10 birdie
+boogie 1 1 boogied boogies boogieing
+boogied 1 6 boogie
+boogies 1 9 boogie
+boogieing 3 10 boogie
+abide 1 1 abode abides abiding
+abode 1 6 abide
+abides 1 9 abide
+abiding 3 10 abide
+arise 1 1 arose arisen arises arising
+arose 1 2 arise
+arisen 1 4 arise
+arises 1 9 arise
+arising 3 10 arise
+backbite 1 1 backbit backbitten backbites backbitting
+backbit 1 2 backbite
+backbitten 1 4 backbite
+backbites 1 9 backbite
+backbitting 3 10 backbite
+backslide 1 1 backslid backslid backslides backsliding
+backslid 1 6 backslide
+backslides 1 9 backslide
+backsliding 3 10 backslide
+bite 1 1 bit bitten bites bitting
+bit 1 2 bite
+bitten 1 4 bite
+bites 1 9 bite
+bitting 3 10 bite
+looked 1 6 look
+looks 1 9 look
