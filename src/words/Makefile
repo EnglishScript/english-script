@@ -8,8 +8,9 @@ all: $(TARGET)
 
 $(TARGET): $(PYS) $(SRCS)
 	python3 add_nouns.py manual_words.dat nouns.csv > words.dat.tmp
-	python3 combine_dats.py words.dat.tmp verbs.dat > $@
+	python3 add_nouns.py words.dat.tmp nouns_wordnet31.csv > words2.dat.tmp
+	python3 combine_dats.py words2.dat.tmp verbs.dat > $@
 
 clean::
-	rm -f $(TARGET) words.dat.tmp
+	rm -f $(TARGET) words.dat.tmp words2.dat.tmp
 

@@ -17,6 +17,10 @@ http://sourceforge.net/projects/wnsql/files/wnsql3/sqlite/3.1/sqlite-31.db.zip/d
 
 3. Export it to CSV.
 
-4. Write new Python script to combine words in CSV to words.dat.
+4. Remove duplicate lines:
+
+   sort -u unsorted.csv > sorted.csv
+
+5. Write new Python script to combine words in CSV to words.dat.
 
 
