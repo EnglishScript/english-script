@@ -200,7 +200,7 @@ known 5 14 know
 repeat 3 1 repeats repeated
 repeats 1 9 repeat
 repeated 1 2 repeat
-wait 3 1 waits waited waiting
+wait 1 1 waits waited waiting
 waits 1 9 wait
 waited 1 2 wait
 waiting 2 0 wait
@@ -373,9 +373,9 @@ substract 3 1 substracts substracted
 substracts 3 89 substract
 substracted 1 6 substract
 show 3 1 shown
-see 3 1 sees saw seen
+see 1 1 sees saw seen
 sees 1 9 see
-saw 3 2 see
+saw 1 2 see
 seen 1 4 see
 shown 3 6 show
 clock 2 0 clocks
@@ -434,7 +434,7 @@ after 20 0
 between 20 0
 make 3 1
 her 180 0
-are 3 1 be
+are 1 1 be
 or 10 0
 if 10 0
 and 10 0
@@ -458,14 +458,14 @@ other 88 0
 few 88 0
 many 88 0
 each 80 0
-then 12 0
+then 10 0
 he 80 0
 something 80 0
 somewhere 80 0
 sometime 80 0
 more a 0
 be 1 1 is are was were been
-why 12 0
+why 10 0
 that 10 0
 whether 10 0
 a 0 0
@@ -504,7 +504,7 @@ eaten 1 4 eat
 was 1 a be
 were 1 2 be
 been 1 4 be
-have 3 1 has had having
+have 1 1 has had having
 has 1 9 have
 had 1 6 have
 having 3 1 have
@@ -535,7 +535,7 @@ will 3 1
 won 3 1 will
 cannot 1 1 can
 would 1 1
-can 3 1
+can 1 1
 could 1 1
 wouldn 1 1
 couldn 1 1
@@ -570,7 +570,7 @@ unknown 4 10
 sure 4 10
 if_unsure_if 10 0
 unsure 4 10
-while 12 0
+while 10 0
 until 10 0
 exit 3 1 exits exited exiting
 exits 3 89 exit
@@ -1812,9 +1812,7 @@ championship 2 0
 1990s 2 0
 1-dodecanol 2 0
 1-hitter 2 0
-20/20 2 0
 .22 2 0
-24/7 2 0
 2-hitter 2 0
 3d 2 0
 3-d 2 0
@@ -1828,7 +1826,6 @@ championship 2 0
 5-hydroxytryptamine 2 0
 8vo 2 0
 9-11 2 0
-9/11 2 0
 aa 2 0
 aaa 2 0
 aachen 2 0
@@ -1876,7 +1873,6 @@ abbreviator 2 0
 abc 2 0
 abcoulomb 2 0
 abcs 2 0
-abc's 2 0
 abdias 2 0
 abdication 2 0
 abdicator 2 0
@@ -2055,7 +2051,6 @@ abyss 2 0
 abyssinia 2 0
 abyssinian 2 0
 ac 2 0
-a/c 2 0
 acacia 2 0
 academe 2 0
 academia 2 0
@@ -3036,7 +3031,6 @@ akmola 2 0
 akron 2 0
 aku 2 0
 akvavit 2 0
-akwa'ala 2 0
 al 2 0
 ala 2 0
 ala. 2 0
@@ -3359,7 +3353,6 @@ almanac 2 0
 almandine 2 0
 almandite 2 0
 almaty 2 0
-al-ma'unah 2 0
 almighty 2 0
 almond 2 0
 almoner 2 0
@@ -3412,8 +3405,6 @@ alprazolam 2 0
 alps 2 0
 al-qaeda 2 0
 al-qaida 2 0
-al-qa'ida 2 0
-al-qur'an 2 0
 als 2 0
 alsace 2 0
 alsatia 2 0
@@ -3471,14 +3462,12 @@ alveolus 2 0
 alyssum 2 0
 alytes 2 0
 alzheimers 2 0
-alzheimer's 2 0
 amadavat 2 0
 amaethon 2 0
 amah 2 0
 amalgam 2 0
 amalgamation 2 0
 amalgamator 2 0
-a'man 2 0
 amanita 2 0
 amanuensis 2 0
 amaranth 2 0
@@ -5892,7 +5881,6 @@ babbling 2 0
 babe 2 0
 babel 2 0
 babesiidae 2 0
-babies'-breath 2 0
 babinski 2 0
 babiroussa 2 0
 babirusa 2 0
@@ -6780,7 +6768,6 @@ beggar 2 0
 beggarman 2 0
 beggar-my-neighbor 2 0
 beggar-my-neighbour 2 0
-beggar's-ticks 2 0
 beggar-ticks 2 0
 beggarweed 2 0
 beggarwoman 2 0
@@ -8063,8 +8050,6 @@ boselaphus 2 0
 bosh 2 0
 bosie 2 0
 bosk 2 0
-bo's'n 2 0
-bos'n 2 0
 bosnia 2 0
 bosnia-herzegovina 2 0
 bosom 2 0
@@ -8075,7 +8060,6 @@ bossism 2 0
 boston 2 0
 bostonian 2 0
 bosun 2 0
-bo'sun 2 0
 boswell 2 0
 boswellia 2 0
 bot 2 0
@@ -8892,7 +8876,6 @@ bullock 2 0
 bullpen 2 0
 bullring 2 0
 bullrush 2 0
-bull's-eye 2 0
 bullshit 2 0
 bullshot 2 0
 bull-snake 2 0
@@ -9148,7 +9131,6 @@ buzzard 2 0
 buzzer 2 0
 buzzword 2 0
 bvd 2 0
-bvd's 2 0
 bw 2 0
 bwr 2 0
 by-and-by 2 0
@@ -10313,17 +10295,12 @@ catling 2 0
 catmint 2 0
 catnap 2 0
 catnip 2 0
-cat-o'-nine-tails 2 0
 catoptrics 2 0
 catoptrophorus 2 0
 catostomid 2 0
 catostomidae 2 0
 catostomus 2 0
-cat's-claw 2 0
-cat's-ear 2 0
 catskills 2 0
-cat's-paw 2 0
-cat's-tail 2 0
 catsup 2 0
 cattail 2 0
 cattalo 2 0
@@ -11041,7 +11018,6 @@ cheetah 2 0
 cheever 2 0
 cheewink 2 0
 chef 2 0
-chef-d'oeuvre 2 0
 cheilanthes 2 0
 cheilitis 2 0
 cheiloschisis 2 0
@@ -11074,7 +11050,6 @@ chemise 2 0
 chemisorption 2 0
 chemist 2 0
 chemistry 2 0
-chemist's 2 0
 chemnitz 2 0
 chemoimmunology 2 0
 chemoreceptor 2 0
@@ -11136,7 +11111,6 @@ chewing 2 0
 chewink 2 0
 cheyenne 2 0
 chi 2 0
-ch'i 2 0
 chianti 2 0
 chiaroscuro 2 0
 chiasm 2 0
@@ -11226,7 +11200,6 @@ chimp 2 0
 chimpanzee 2 0
 chimwini 2 0
 chin 2 0
-ch'in 2 0
 china 2 0
 chinaberry 2 0
 chinaman 2 0
@@ -11240,7 +11213,6 @@ chinchillon 2 0
 chinchona 2 0
 chine 2 0
 chinese 2 0
-ch'ing 2 0
 chingpo 2 0
 chink 2 0
 chinkapin 2 0
@@ -11486,7 +11458,6 @@ christmastide 2 0
 christmastime 2 0
 christology 2 0
 christopher 2 0
-christ's-thorn 2 0
 chroma 2 0
 chromaesthesia 2 0
 chromate 2 0
@@ -11548,7 +11519,6 @@ chucker-out 2 0
 chuckhole 2 0
 chuckle 2 0
 chuckwalla 2 0
-chuck-will's-widow 2 0
 chuddar 2 0
 chufa 2 0
 chug 2 0
@@ -13717,7 +13687,6 @@ countryfolk 2 0
 countryman 2 0
 countryseat 2 0
 countrywoman 2 0
-counts/minute 2 0
 coup 2 0
 coupe 2 0
 couperin 2 0
@@ -14627,7 +14596,6 @@ cycas 2 0
 cyclades 2 0
 cyclamen 2 0
 cycle 2 0
-cycles/second 2 0
 cyclicity 2 0
 cycling 2 0
 cycliophora 2 0
@@ -15065,7 +15033,6 @@ davy 2 0
 davys 2 0
 daw 2 0
 dawah 2 0
-da'wah 2 0
 dawdler 2 0
 dawdling 2 0
 dawes 2 0
@@ -15121,8 +15088,6 @@ deadlight 2 0
 deadline 2 0
 deadliness 2 0
 deadlock 2 0
-dead-man's-fingers 2 0
-dead-men's-fingers 2 0
 deadness 2 0
 deadwood 2 0
 deaf 2 0
@@ -15313,8 +15278,6 @@ deer 2 0
 deerberry 2 0
 deere 2 0
 deerhound 2 0
-deer's-ear 2 0
-deer's-ears 2 0
 deerskin 2 0
 deerstalker 2 0
 deerstalking 2 0
@@ -15932,13 +15895,9 @@ dhava 2 0
 dhawa 2 0
 dhegiha 2 0
 dhodhekanisos 2 0
-d'holbach 2 0
 dhole 2 0
 dhoti 2 0
 dhow 2 0
-dhu'l-hijja 2 0
-dhu'l-hijjah 2 0
-dhu'l-qa'dah 2 0
 dia 2 0
 diabeta 2 0
 diabetes 2 0
@@ -16898,7 +16857,6 @@ donna 2 0
 donne 2 0
 donor 2 0
 do-nothing 2 0
-don't-know 2 0
 donut 2 0
 doob 2 0
 doodad 2 0
@@ -17486,7 +17444,6 @@ dustrag 2 0
 dustup 2 0
 dutch 2 0
 dutchman 2 0
-dutchman's-pipe 2 0
 dutifulness 2 0
 duvalier 2 0
 duvet 2 0
@@ -17508,7 +17465,6 @@ dybbuk 2 0
 dye 2 0
 dyeing 2 0
 dyer 2 0
-dyer's-broom 2 0
 dyestuff 2 0
 dyeweed 2 0
 dyewood 2 0
@@ -18055,7 +18011,6 @@ elephant 2 0
 elephantiasis 2 0
 elephantidae 2 0
 elephantopus 2 0
-elephant's-foot 2 0
 elephant-tusk 2 0
 elephas 2 0
 elettaria 2 0
@@ -18547,7 +18502,6 @@ entoprocta 2 0
 entourage 2 0
 entozoan 2 0
 entozoon 2 0
-entr'acte 2 0
 entrails 2 0
 entrance 2 0
 entrancement 2 0
@@ -20800,7 +20754,6 @@ foaminess 2 0
 fob 2 0
 focalisation 2 0
 focalization 2 0
-fo'c'sle 2 0
 focusing 2 0
 focussing 2 0
 fodder 2 0
@@ -21320,7 +21273,6 @@ frg 2 0
 fri 2 0
 friability 2 0
 friar 2 0
-friar's-cowl 2 0
 friary 2 0
 fricandeau 2 0
 fricassee 2 0
@@ -21387,7 +21339,6 @@ frogfish 2 0
 froghopper 2 0
 frogman 2 0
 frogmouth 2 0
-frog's-bit 2 0
 frolic 3 1
 frolicsomeness 2 0
 frond 2 0
@@ -22164,7 +22115,6 @@ gentile 2 0
 gentility 2 0
 gentlefolk 2 0
 gentleman-at-arms 2 0
-gentleman's-cane 2 0
 gentleness 2 0
 gentlewoman 2 0
 gentrification 2 0
@@ -23660,7 +23610,6 @@ gyrus 2 0
 gywn 2 0
 h 2 0
 h2o 2 0
-ha 2 0
 haart 2 0
 haastia 2 0
 habacuc 2 0
@@ -23832,7 +23781,6 @@ hairpiece 2 0
 hairpin 2 0
 hair-raiser 2 0
 hairsbreadth 2 0
-hair's-breadth 2 0
 hairsplitter 2 0
 hairsplitting 2 0
 hairspring 2 0
@@ -23926,7 +23874,6 @@ halliard 2 0
 hallmark 2 0
 halloo 2 0
 halloween 2 0
-hallowe'en 2 0
 hallowmas 2 0
 hallowmass 2 0
 hallstand 2 0
@@ -24100,7 +24047,6 @@ hanuman 2 0
 hao 2 0
 haoma 2 0
 hap 2 0
-ha'penny 2 0
 haphazardness 2 0
 haphtarah 2 0
 haphtorah 2 0
@@ -24110,7 +24056,6 @@ haplopappus 2 0
 haplosporidia 2 0
 haplosporidian 2 0
 haplotype 2 0
-ha'p'orth 2 0
 happening 2 0
 happenstance 2 0
 happiness 2 0
@@ -24217,7 +24162,6 @@ harte 2 0
 hartebeest 2 0
 hartford 2 0
 hartley 2 0
-hart's-tongue 2 0
 harum-scarum 2 0
 harvard 2 0
 harvest 2 0
@@ -24305,7 +24249,6 @@ havoc 2 0
 haw 2 0
 haw. 2 0
 hawaii 2 0
-hawai'i 2 0
 hawaiian 2 0
 hawala 2 0
 hawfinch 2 0
@@ -24318,8 +24261,6 @@ hawking 2 0
 hawkins 2 0
 hawkishness 2 0
 hawkmoth 2 0
-hawk's-beard 2 0
-hawk's-beards 2 0
 hawksbill 2 0
 hawkshaw 2 0
 hawkweed 2 0
@@ -24794,8 +24735,6 @@ herbivore 2 0
 herculaneum 2 0
 hercules 2 0
 hercules-club 2 0
-hercules'-club 2 0
-hercules'-clubs 2 0
 herculius 2 0
 herd 3 1
 herder 2 0
@@ -25442,7 +25381,6 @@ honours 2 0
 honshu 2 0
 hooch 2 0
 hood 3 1
-'hood 2 0
 hoodlum 2 0
 hoodmold 2 0
 hoodmould 2 0
@@ -25631,7 +25569,6 @@ houghton 2 0
 houhere 2 0
 hoummos 2 0
 hound 3 1
-hound's-tongue 2 0
 hourglass 2 0
 houri 2 0
 housatonic 2 0
@@ -25681,7 +25618,6 @@ howard 2 0
 howdah 2 0
 how-do-you-do 2 0
 howdy 2 0
-how-d'ye-do 2 0
 howe 2 0
 howells 2 0
 howitzer 2 0
@@ -27039,7 +26975,6 @@ infanticide 2 0
 infantilism 2 0
 infantry 2 0
 infantryman 2 0
-infant's-breath 2 0
 infarct 2 0
 infarction 2 0
 infatuation 2 0
@@ -27911,7 +27846,6 @@ jackknife 2 0
 jackknife-fish 2 0
 jacklight 2 0
 jack-o-lantern 2 0
-jack-o'-lantern 2 0
 jackpot 2 0
 jackrabbit 2 0
 jacks 2 0
@@ -28057,7 +27991,6 @@ jealousy 2 0
 jean 2 0
 jeans 2 0
 jeddah 2 0
-jed'dah 2 0
 jeep 2 0
 jeer 2 0
 jeerer 2 0
@@ -28137,8 +28070,6 @@ jewess 2 0
 jewfish 2 0
 jewison 2 0
 jewry 2 0
-jew's-ear 2 0
-jew's-ears 2 0
 jezebel 2 0
 jfk 2 0
 jhvh 2 0
@@ -28518,7 +28449,6 @@ kandinski 2 0
 kandinsky 2 0
 kandy 2 0
 kangaroo 2 0
-kangaroo's-foot 2 0
 kannada 2 0
 kansa 2 0
 kansan 2 0
@@ -29038,7 +28968,6 @@ k-lyte 2 0
 klyuchevskaya 2 0
 km 2 0
 k-meson 2 0
-km/h 2 0
 knack 2 0
 knacker 2 0
 knackwurst 2 0
@@ -29412,8 +29341,6 @@ ladanum 2 0
 ladder 2 0
 ladder-back 2 0
 laddie 2 0
-ladies'-eardrop 2 0
-ladies'-eardrops 2 0
 ladin 2 0
 lading 2 0
 ladino 2 0
@@ -29428,12 +29355,8 @@ lady-in-waiting 2 0
 ladylikeness 2 0
 ladylove 2 0
 lady-of-the-night 2 0
-lady's-eardrop 2 0
-lady's-eardrops 2 0
-lady's-finger 2 0
 ladyship 2 0
 lady-slipper 2 0
-lady's-slipper 2 0
 laelia 2 0
 laertes 2 0
 laetrile 2 0
@@ -29508,8 +29431,6 @@ lambkill 2 0
 lambkin 2 0
 lambrequin 2 0
 lambskin 2 0
-lamb's-quarter 2 0
-lamb's-quarters 2 0
 lame 2 0
 lamedh 2 0
 lamella 2 0
@@ -29682,7 +29603,6 @@ lapsing 2 0
 laptop 2 0
 laputa 2 0
 lapwing 2 0
-l'aquila 2 0
 laramie 2 0
 larboard 2 0
 larcener 2 0
@@ -30128,7 +30048,6 @@ lender 2 0
 lending 3 10 lend
 lendl 2 0
 lend-lease 2 0
-l'enfant 2 0
 lengthening 2 0
 lengthiness 2 0
 lenience 2 0
@@ -30169,7 +30088,6 @@ leonurus 2 0
 leopard 2 0
 leopardbane 2 0
 leopardess 2 0
-leopard's-bane 2 0
 leopoldville 2 0
 leotard 2 0
 leotards 2 0
@@ -30316,7 +30234,6 @@ levi 2 0
 leviathan 2 0
 levirate 2 0
 levis 2 0
-levi's 2 0
 levisticum 2 0
 levi-strauss 2 0
 levitation 2 0
@@ -30470,7 +30387,6 @@ light-mindedness 2 0
 lightness 2 0
 lightning 2 0
 light-of-love 2 0
-light-o'-love 2 0
 lightship 2 0
 lightsomeness 2 0
 lights-out 2 0
@@ -30653,7 +30569,6 @@ lioness 2 0
 lionet 2 0
 lionfish 2 0
 lion-hunter 2 0
-lion's-ear 2 0
 liopelma 2 0
 liopelmidae 2 0
 liothyronine 2 0
@@ -30825,7 +30740,6 @@ livy 2 0
 liza 2 0
 lizard 2 0
 lizardfish 2 0
-lizard's-tail 2 0
 ljubljana 2 0
 llama 2 0
 llano 2 0
@@ -31082,7 +30996,6 @@ loosestrife 2 0
 loot 2 0
 looter 2 0
 looting 2 0
-lo/ovral 2 0
 lope 2 0
 lophiidae 2 0
 lophius 2 0
@@ -31544,7 +31457,6 @@ m2 2 0
 m3 2 0
 ma 2 0
 maalox 2 0
-ma'am 2 0
 maar 2 0
 maarianhamina 2 0
 mac 2 0
@@ -33072,7 +32984,6 @@ menorrhagia 2 0
 menorrhea 2 0
 menotti 2 0
 menotyphla 2 0
-men's 2 0
 mensa 2 0
 mensch 2 0
 menses 2 0
@@ -33668,7 +33579,6 @@ millenniumism 2 0
 millepede 2 0
 miller 2 0
 millerite 2 0
-miller's-thumb 2 0
 millet 2 0
 millettia 2 0
 mill-girl 2 0
@@ -34992,7 +34902,6 @@ mutamycin 2 0
 mutant 2 0
 mutation 2 0
 mutawa 2 0
-mutawa'een 2 0
 mutchkin 2 0
 mute 2 0
 muteness 2 0
@@ -35501,7 +35410,6 @@ nd 2 0
 n.d. 2 0
 ndebele 2 0
 ndjamena 2 0
-n'djamena 2 0
 ne 2 0
 neandertal 2 0
 neanderthal 2 0
@@ -35579,7 +35487,6 @@ needy 2 0
 neel 2 0
 neem 2 0
 neencephalon 2 0
-ne'er-do-well 2 0
 nefariousness 2 0
 nefazodone 2 0
 nefertiti 2 0
@@ -36294,7 +36201,6 @@ nopalea 2 0
 noradrenaline 2 0
 nordic 2 0
 nord-pas-de-calais 2 0
-nor'-east 2 0
 noreaster 2 0
 noreg 2 0
 norepinephrine 2 0
@@ -36325,8 +36231,6 @@ norman-french 2 0
 normodyne 2 0
 normothermia 2 0
 norn 2 0
-nor'-nor'-east 2 0
-nor'-nor'-west 2 0
 nor-q-d 2 0
 norris 2 0
 norrish 2 0
@@ -36356,7 +36260,6 @@ norvasc 2 0
 norvir 2 0
 norway 2 0
 norwegian 2 0
-nor'-west 2 0
 nosebag 2 0
 noseband 2 0
 nosebleed 2 0
@@ -36711,7 +36614,6 @@ obnoxiousness 2 0
 oboe 2 0
 oboist 2 0
 obolus 2 0
-o'brien 2 0
 obscenity 2 0
 obscurantism 2 0
 obscurantist 2 0
@@ -36754,7 +36656,6 @@ obviation 2 0
 obviousness 2 0
 oca 2 0
 ocarina 2 0
-o'casey 2 0
 occam 2 0
 occasions 2 0
 occident 2 0
@@ -36801,7 +36702,6 @@ ochronosis 2 0
 ochs 2 0
 ocimum 2 0
 ockham 2 0
-o'connor 2 0
 ocotillo 2 0
 oct 2 0
 octad 2 0
@@ -36935,7 +36835,6 @@ offside 2 0
 offspring 2 0
 offstage 2 0
 off-white 2 0
-o'flaherty 2 0
 ofo 2 0
 oftenness 2 0
 ogalala 2 0
@@ -36949,7 +36848,6 @@ ogler 2 0
 ogre 2 0
 ogress 2 0
 oh 2 0
-o'hara 2 0
 ohio 2 0
 ohioan 2 0
 ohm 2 0
@@ -36982,7 +36880,6 @@ okapi 2 0
 okapia 2 0
 okay 2 0
 okeechobee 2 0
-o'keeffe 2 0
 okeh 2 0
 oken 2 0
 okenfuss 2 0
@@ -37132,7 +37029,6 @@ one-hundred-millionth 2 0
 one-hundredth 2 0
 one-hundred-thousandth 2 0
 oneida 2 0
-o'neill 2 0
 oneirism 2 0
 oneiromancer 2 0
 oneiromancy 2 0
@@ -37662,7 +37558,6 @@ otolaryngologist 2 0
 otolaryngology 2 0
 otologist 2 0
 otology 2 0
-o'toole 2 0
 otoplasty 2 0
 otorhinolaryngologist 2 0
 otorhinolaryngology 2 0
@@ -37980,7 +37875,6 @@ p 2 0
 pa 2 0
 p.a. 2 0
 pa. 2 0
-pa'anga 2 0
 paba 2 0
 pabir 2 0
 pablum 2 0
@@ -38571,7 +38465,6 @@ parking 2 0
 parkinson 2 0
 parkinsonia 2 0
 parkinsonism 2 0
-parkinson's 2 0
 parkland 2 0
 parks 2 0
 parkway 2 0
@@ -39167,7 +39060,6 @@ pennisetum 2 0
 pennon 2 0
 pennoncel 2 0
 pennoncelle 2 0
-penn'orth 2 0
 pennsylvania 2 0
 pennsylvanian 2 0
 penny 2 0
@@ -39700,7 +39592,6 @@ phasmidia 2 0
 phd 2 0
 ph.d. 2 0
 pheasant 2 0
-pheasant's-eye 2 0
 phegopteris 2 0
 pheidias 2 0
 phellem 2 0
@@ -40415,7 +40306,6 @@ pizzaz 2 0
 pizzazz 2 0
 pizzeria 2 0
 pizzicato 2 0
-pj's 2 0
 pkd 2 0
 pku 2 0
 placard 3 1
@@ -41817,9 +41707,6 @@ primulales 2 0
 primus 2 0
 princedom 2 0
 princeling 2 0
-prince-of-wales'-heath 2 0
-prince's-feather 2 0
-prince's-plume 2 0
 princess 2 0
 princeton 2 0
 princewood 2 0
@@ -42724,7 +42611,6 @@ pussy 2 0
 pussycat 2 0
 pussy-paw 2 0
 pussy-paws 2 0
-pussy's-paw 2 0
 pussytoes 2 0
 pustule 2 0
 put 2 0
@@ -43381,7 +43267,6 @@ ramphomicron 2 0
 rampion 2 0
 ramrod 2 0
 ramses 2 0
-ram's-head 2 0
 ramsons 2 0
 ramus 2 0
 rana 2 0
@@ -44883,7 +44768,6 @@ rockford 2 0
 rockies 2 0
 rockiness 2 0
 rockingham 2 0
-rock'n'roll 2 0
 rockrose 2 0
 rockslide 2 0
 rockweed 2 0
@@ -45485,15 +45369,12 @@ sailing 2 0
 sailing-race 2 0
 sailmaker 2 0
 sailor 2 0
-sailor's-choice 2 0
 sailplane 2 0
 sailplaning 2 0
 saimiri 2 0
 sainfoin 2 0
 saint 2 0
-saint-bernard's-lily 2 0
 sainthood 2 0
-saint-john's-bread 2 0
 saintliness 2 0
 saint-mihiel 2 0
 saintpaulia 2 0
@@ -45690,7 +45571,6 @@ samuel 2 0
 samurai 2 0
 sana 2 0
 sanaa 2 0
-sana'a 2 0
 sanatarium 2 0
 sanatorium 2 0
 sanchez 2 0
@@ -46289,7 +46169,6 @@ schoolfriend 2 0
 schoolgirl 2 0
 schoolhouse 2 0
 schooling 2 0
-schoolma'am 2 0
 schoolman 2 0
 schoolmarm 2 0
 schoolmaster 2 0
@@ -47301,7 +47180,6 @@ sg 2 0
 sgml 2 0
 sgraffito 2 0
 shaaban 2 0
-sha'ban 2 0
 shabbiness 2 0
 shabu 2 0
 shabuoth 2 0
@@ -47548,7 +47426,6 @@ shih-tzu 2 0
 shiism 2 0
 shiitake 2 0
 shiite 2 0
-shi'ite 2 0
 shikoku 2 0
 shiksa 2 0
 shikse 2 0
@@ -47679,7 +47556,6 @@ shoo-in 2 0
 shook 2 0
 shoot 2 0
 shoot-down 2 0
-shoot-'em-up 2 0
 shooter 2 0
 shooting 2 0
 shootout 2 0
@@ -47730,7 +47606,6 @@ shouter 2 0
 shouting 2 0
 shove 2 0
 shove-halfpenny 2 0
-shove-ha'penny 2 0
 shovel 2 0
 shovelboard 2 0
 shoveler 2 0
@@ -47924,7 +47799,6 @@ signalisation 2 0
 signalization 2 0
 signaller 2 0
 signalman 2 0
-signal/noise 2 0
 signal-to-noise 2 0
 signatory 2 0
 signature 2 0
@@ -48585,7 +48459,6 @@ smuttiness 2 0
 smyrna 2 0
 smyrnium 2 0
 sn 2 0
-s/n 2 0
 snack 2 0
 snacker 2 0
 snaffle 2 0
@@ -48892,7 +48765,6 @@ solo 2 0
 soloist 2 0
 solomon 2 0
 solomons 2 0
-solomon's-seal 2 0
 solon 2 0
 solresol 2 0
 solstice 2 0
@@ -49036,8 +48908,6 @@ soubrette 2 0
 soubriquet 2 0
 souchong 2 0
 soudan 2 0
-sou'-east 2 0
-sou'easter 2 0
 souffle 2 0
 soufflot 2 0
 souk 2 0
@@ -49073,8 +48943,6 @@ sousaphone 2 0
 souse 2 0
 sousing 2 0
 souslik 2 0
-sou'-sou'-east 2 0
-sou'-sou'-west 2 0
 sousse 2 0
 soutache 2 0
 soutane 2 0
@@ -49099,8 +48967,6 @@ soutine 2 0
 souvenir 2 0
 souvlaki 2 0
 souvlakia 2 0
-sou'-west 2 0
-sou'wester 2 0
 sovereign 2 0
 sovereignty 2 0
 soviet 2 0
@@ -49945,7 +49811,6 @@ stayer 2 0
 stayman 2 0
 stays 2 0
 staysail 2 0
-st.-bruno's-lily 2 0
 std 2 0
 stead 2 0
 steadfastness 2 0
@@ -51748,7 +51613,6 @@ tammany 2 0
 tammerfors 2 0
 tammuz 2 0
 tammy 2 0
-tam-o'-shanter 2 0
 tamoxifen 2 0
 tamp 2 0
 tampa 2 0
@@ -52017,7 +51881,6 @@ tayassuidae 2 0
 tayra 2 0
 tay-sachs 2 0
 tazicef 2 0
-ta'ziyeh 2 0
 tb 2 0
 t.b. 2 0
 t-bar 2 0
@@ -52031,7 +51894,6 @@ tchaikovsky 2 0
 tchotchke 2 0
 tchotchkeleh 2 0
 tcp 2 0
-tcp/ip 2 0
 tdt 2 0
 te 2 0
 teaberry 2 0
@@ -53016,7 +52878,6 @@ tie 2 0
 tieback 2 0
 tiebreaker 2 0
 tie-in 2 0
-t'ien-ching 2 0
 tien-pao 2 0
 tientsin 2 0
 tiepin 2 0
@@ -54485,7 +54346,6 @@ turkmenistan 2 0
 turkoman 2 0
 turkomen 2 0
 turko-tatar 2 0
-turk's-cap 2 0
 turmeric 2 0
 turmoil 2 0
 turnabout 2 0
@@ -57114,7 +56974,6 @@ willies 2 0
 willing 2 0
 willingness 2 0
 willis 2 0
-will-o'-the-wisp 2 0
 willow 2 0
 willowherb 2 0
 willow-pattern 2 0

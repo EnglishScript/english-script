@@ -21,13 +21,25 @@ for line_nr, line in enumerate(nouns_csv):
     if len(nouns) > 1 and (nouns[1] == "" or nouns[1].isspace()):
         nouns.pop()
 
-    if nouns[0].isdigit() or nouns[0].find(' ') != -1 or nouns[0] == "i":
+    if nouns[0].isdigit() or \
+            nouns[0].find(' ') != -1 or \
+            nouns[0].find('/') != -1 or \
+            nouns[0].find('\'') != -1 or \
+            nouns[0] == "i" or \
+            nouns[0] == "are" or \
+            nouns[0] == "can" or \
+            nouns[0] == "have" or \
+            nouns[0] == "wait" or \
+            nouns[0] == "see" or \
+            nouns[0] == "ha" or \
+            nouns[0] == "saw":
         continue
 
     if nouns[0] in words and (words[nouns[0]]["type"] == "40" or \
             words[nouns[0]]["type"] == "4" or \
             words[nouns[0]]["type"] == "80" or \
             words[nouns[0]]["type"] == "88" or \
+            words[nouns[0]]["type"] == "10" or \
             len(nouns[0]) < 3):
         continue
 
