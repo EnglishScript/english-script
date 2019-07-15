@@ -610,6 +610,12 @@ apps 2 80 app
 installed 4 10
 device 2 0 devices
 devices 2 80 device
+drive 3 1 drove driven drives driving
+drove 3 2 drive
+driven 1 4 drive
+drives 1 9 drive
+driving 2 0 drive
+jump 3 1
 way 2 0 ways
 ways 2 80 way
 government 2 80 government
@@ -1501,7 +1507,6 @@ valley 2 0
 drink 2 0
 magazine 2 0
 potential 2 0
-drive 2 0
 revolution 2 0
 bishop 2 0
 settlement 2 0
@@ -17175,7 +17180,6 @@ drivel 2 0
 driveller 2 0
 driveshaft 2 0
 driveway 2 0
-driving 2 0
 drixoral 2 0
 drizzle 2 0
 drms 2 0
@@ -17216,7 +17220,6 @@ drosophyllum 2 0
 dross 2 0
 drought 2 0
 drouth 2 0
-drove 2 0
 drover 2 0
 drowse 2 0
 drowsiness 2 0
@@ -28286,7 +28289,6 @@ jumbal 2 0
 jumble 2 0
 jumbojet 2 0
 jument 2 0
-jump 2 0
 jumper 2 0
 jumpiness 2 0
 jumping 2 0
