@@ -148,7 +148,7 @@ taking 2 0 take
 work 3 1 works worked
 works 3 89 work
 worked 1 6 work
-next 4 10
+next 24 10
 previous 4 10
 number 2 0 numbers
 numbers 2 80 number
@@ -344,7 +344,7 @@ times 2 80 time
 happy 4 10
 sad 4 10
 angry 4 10
-down 224 10
+down 220 10
 load 3 1
 call 3 1 calls called
 calls 3 89 call
@@ -445,7 +445,7 @@ anyone 80 0
 anybody 80 0
 anything 80 0
 any 88 0
-over 88 0
+over a8 0
 none 80 0
 nobody 80 0
 nothing 80 0
@@ -569,7 +569,7 @@ sure 4 10
 if_unsure_if 10 0
 unsure 4 10
 while 10 0
-until 10 0
+until 30 0
 exit 3 1 exits exited exiting
 exits 3 89 exit
 exited 1 2 exit
@@ -614,3 +614,51 @@ driven 1 4 drive
 drives 1 9 drive
 driving 2 0 drive
 jump 1 1
+aboard 20 0
+above 20 0
+across 20 0
+against 20 0
+along 20 0
+amid 20 0
+among 20 0
+around 20 0
+before 20 0
+behind 20 0
+below 20 0
+beneath 20 0
+beside 20 0
+beyond 20 0
+but 20 0
+concerning 20 0
+considering 20 0
+despite 20 0
+during 20 0
+except 20 0
+following 20 0
+inside 20 0
+into 20 0
+like 20 0
+minus 20 0
+near 20 0
+off 20 0
+onto 20 0
+opposite 20 0
+out 20 0
+outside 20 0
+past 20 0
+per 20 0
+plus 20 0
+regarding 20 0
+round 20 0
+since 20 0
+through 20 0
+toward 20 0
+under 20 0
+underneath 20 0
+unlike 20 0
+up 20 0
+upon 20 0
+versus 20 0
+via 20 0
+within 20 0
+without 20 0
