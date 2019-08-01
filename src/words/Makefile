@@ -10,7 +10,7 @@ $(TARGET): $(PYS) $(SRCS)
 	python3 add_nouns.py manual_words.dat nouns.csv > words.dat.tmp
 	python3 add_nouns.py words.dat.tmp nouns_wordnet31.csv > words2.dat.tmp
 	python3 add_adverbs.py words2.dat.tmp adverbs_wordnet31.csv > words3.dat.tmp
-	python3 add_verbs.py words2.dat.tmp verbs_wordnet31.csv > words4.dat.tmp
+	python3 add_verbs.py words3.dat.tmp verbs_wordnet31.csv > words4.dat.tmp
 	python3 combine_dats.py words4.dat.tmp verbs.dat > $@
 
 clean::

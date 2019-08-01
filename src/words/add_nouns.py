@@ -48,9 +48,9 @@ for line_nr, line in enumerate(nouns_csv):
             print("line " + str(line_nr) + ":" + str(noun_nr) + ":" + noun)
 
     if len(nouns) > 1 and nouns[0] != nouns[1]:
-        refs = { nouns[1] }
+        refs = [ nouns[1] ]
     else:
-        refs = {}
+        refs = []
 
     if len(nouns) > 0:
         word1 = None
@@ -68,7 +68,7 @@ for line_nr, line in enumerate(nouns_csv):
             if debug:
                 print("word1 " + nouns[0] + " is an old word")
             word1["type"] = "%01x" % (int(word1["type"], 16) | 0x2)
-            if word2 and not nouns[1] in word1["refs"] and nouns[1] != nouns[0]:
+            if len(nouns) > 1 and not nouns[1] in word1["refs"] and nouns[1] != nouns[0]:
                 word1["refs"].append(nouns[1])
         else:
             words[nouns[0]] = {"type": "2", "form": "0", "refs": refs}
@@ -86,7 +86,7 @@ for line_nr, line in enumerate(nouns_csv):
                 if not nouns[0] in word2["refs"] and nouns[1] != nouns[0]:
                     word2["refs"].append(nouns[0])
             else:
-                words[nouns[1]] = {"type": "2", "form": "80", "refs": {nouns[0]}}
+                words[nouns[1]] = {"type": "2", "form": "80", "refs": [nouns[0]]}
                 word2 = words[nouns[1]]
                 if debug:
                     print("word2 " + nouns[1] + " is a new word")

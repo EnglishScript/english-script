@@ -23,7 +23,9 @@ for line_nr, line in enumerate(adverbs_csv):
 
     if adverbs[0].find(' ') != -1 or \
             adverbs[0].find('/') != -1 or \
-            adverbs[0].find('\'') != -1:
+            adverbs[0].find('\'') != -1 or \
+            adverbs[0] == "then" or \
+            adverbs[0] == "home":
         continue
 
     if debug:
@@ -31,13 +33,12 @@ for line_nr, line in enumerate(adverbs_csv):
             print("line " + str(line_nr) + ":" + str(adverb_nr) + ":" + adverb)
 
     if len(adverbs) > 1 and adverbs[0] != adverbs[1]:
-        refs = { adverbs[1] }
+        refs = [ adverbs[1] ]
     else:
-        refs = {}
+        refs = []
 
     if len(adverbs) > 0:
         word1 = None
-        word2 = None
         if adverbs[0] in words:
             word1 = words[adverbs[0]]
             if debug:
@@ -47,7 +48,7 @@ for line_nr, line in enumerate(adverbs_csv):
             if debug:
                 print("word1 " + adverbs[0] + " is an old word")
             word1["type"] = "%01x" % (int(word1["type"], 16) | 0x8)
-            if word2 and not adverbs[1] in word1["refs"] and adverbs[1] != adverbs[0]:
+            if len(adverbs) > 1 and not adverbs[1] in word1["refs"] and adverbs[1] != adverbs[0]:
                 word1["refs"].append(adverbs[1])
         else:
             words[adverbs[0]] = {"type": "8", "form": "0", "refs": refs}

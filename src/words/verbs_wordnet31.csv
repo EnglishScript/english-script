@@ -12,7 +12,7 @@ aberrate
 abet
 abhor
 abide
-abide by
+abide +by
 abjure
 ablactate
 ablate
@@ -21,7 +21,7 @@ abolish
 abominate
 abort
 abound
-abound in
+abound +in
 about-face
 abrade
 abrase
@@ -58,7 +58,7 @@ accomplish
 accord
 accost
 account
-account for
+account +for
 accouter
 accoutre
 accredit
@@ -92,7 +92,7 @@ act as
 act involuntarily
 action
 activate
-act on
+act +on
 act out
 act reflexively
 act superior
@@ -106,7 +106,7 @@ adapt
 add
 addict
 addle
-add on
+add +on
 address
 add to
 add together
@@ -658,7 +658,7 @@ bear down on
 bear down upon
 bear in mind
 bear off
-bear on
+bear +on
 bear out
 bear up
 bear upon
@@ -775,9 +775,9 @@ benefit
 benficiate
 benight
 benumb
-be on
-be on cloud nine
-be on the ball
+be +on
+be +on cloud nine
+be +on the ball
 beplaster
 bequeath
 be quiet
@@ -813,7 +813,7 @@ betake oneself
 bethink
 betide
 betoken
-bet on
+bet +on
 betray
 betroth
 better
@@ -1050,7 +1050,7 @@ bootstrap
 booze
 bop
 border
-border on
+border +on
 bore
 borrow
 bosom
@@ -1226,7 +1226,7 @@ brush
 brush aside
 brush down
 brush off
-brush on
+brush -on
 brush up
 brutalise
 brutalize
@@ -1257,7 +1257,7 @@ bugle
 bug out
 build
 build in
-build on
+build -on
 build up
 build upon
 bulge
@@ -1348,7 +1348,7 @@ butterfly
 butter up
 butt in
 button
-butt on
+butt -on
 buttonhole
 button up
 buttress
@@ -1356,7 +1356,7 @@ buttweld
 butt-weld
 butylate
 buy
-buy at
+buy -at
 buy back
 buy food
 buy in
@@ -1412,9 +1412,9 @@ calliper
 call it a day
 call it quits
 call off
-call on
+call +on
 call one's bluff
-call on the carpet
+call -on the carpet
 callous
 call out
 call the shots
@@ -1558,7 +1558,7 @@ cast down
 castigate
 castle
 cast off
-cast on
+cast -on
 cast out
 castrate
 cat
@@ -1576,7 +1576,7 @@ catch a wink
 catch cold
 catch fire
 catch it
-catch on
+catch +on
 catch one's breath
 catch out
 catch sight
@@ -1623,7 +1623,7 @@ censor
 censure
 census
 center
-center on
+center -on
 center punch
 centralise
 centralize
@@ -1653,7 +1653,7 @@ chamfer
 champ
 champion
 chance
-chance on
+chance -on
 chance upon
 chandelle
 change
@@ -1704,7 +1704,7 @@ chauffeur
 chaw
 cheapen
 cheat
-cheat on
+cheat -on
 check
 checker
 check in
@@ -1856,7 +1856,7 @@ clangour
 clank
 clap
 clapboard
-clap on
+clap +on
 clapperclaw
 clap together
 clap up
@@ -1897,7 +1897,7 @@ click open
 climax
 climb
 climb down
-climb on
+climb -on
 climb up
 clinch
 cling
@@ -1911,7 +1911,7 @@ clobber
 clock
 clock in
 clock off
-clock on
+clock -on
 clock out
 clock up
 clog
@@ -2058,7 +2058,7 @@ come into being
 come near
 come of age
 come off
-come on
+come -on
 come out
 come out of the closet
 come over
@@ -2149,7 +2149,7 @@ conceive
 conceive of
 concenter
 concentrate
-concentrate on
+concentrate -on
 concentre
 conceptualise
 conceptualize
@@ -2367,7 +2367,7 @@ cost
 co-star
 costume
 cotton
-cotton on
+cotton +on
 cotton up
 couch
 cough
@@ -2400,11 +2400,11 @@ counterstrike
 countervail
 counterweight
 count off
-count on
+count +on
 count out
 country-dance
 couple
-couple on
+couple -on
 couple up
 course
 court
@@ -2606,7 +2606,7 @@ cut to ribbons
 cut up
 cybernate
 cycle
-cycle on
+cycle -on
 cyclostyle
 cypher
 dab
@@ -2763,7 +2763,7 @@ defame
 defang
 defat
 default
-default on
+default -on
 defeat
 defecate
 defect
@@ -2892,7 +2892,7 @@ deoxidize
 deoxygenate
 depart
 depend
-depend on
+depend +on
 depend upon
 depersonalise
 depersonalize
@@ -2940,7 +2940,7 @@ desalinize
 desalt
 descale
 descant
-descant on
+descant -on
 descend
 describe
 descry
@@ -3018,7 +3018,7 @@ devitalize
 devitrify
 devoice
 devolve
-devolve on
+devolve -on
 devote
 devour
 diabolise
@@ -3369,7 +3369,7 @@ drag a bunt
 drag down
 draggle
 drag in
-drag on
+drag +on
 drag one's feet
 drag one's heels
 dragoon
@@ -3435,7 +3435,7 @@ drive out
 drive up
 drizzle
 drone
-drone on
+drone +on
 drool
 drool over
 droop
@@ -3498,7 +3498,7 @@ dusk
 dust
 dwarf
 dwell
-dwell on
+dwell -on
 dwindle
 dwindle away
 dwindle down
@@ -3520,7 +3520,7 @@ eat at
 eat away
 eat in
 eat into
-eat on
+eat -on
 eat out
 eat up
 eavesdrop
@@ -3595,7 +3595,7 @@ embalm
 embank
 embargo
 embark
-embark on
+embark +on
 embarrass
 embattle
 embed
@@ -4011,7 +4011,7 @@ fashion
 fast
 fast dye
 fasten
-fasten on
+fasten +on
 fat
 fate
 father
@@ -4041,7 +4041,7 @@ fee
 feed
 feed back
 feed in
-feed on
+feed +on
 feed upon
 feel
 feel for
@@ -4273,7 +4273,7 @@ fly high
 fly in the face of
 fly in the teeth of
 fly off the handle
-fly on
+fly -on
 fly open
 fly the coop
 foal
@@ -4284,7 +4284,7 @@ fob off
 focalise
 focalize
 focus
-focus on
+focus -on
 fodder
 fog
 fog up
@@ -4447,7 +4447,7 @@ frost over
 froth
 froth at the mouth
 frown
-frown on
+frown +on
 frown upon
 fructify
 fruit
@@ -4604,10 +4604,10 @@ get married
 get moving
 get off
 get off the ground
-get on
+get +on
 get one's lumps
 get onto
-get on with
+get +on with
 get out
 get over
 get rid of
@@ -4787,7 +4787,7 @@ go off half-cocked
 goofproof
 goof-proof
 google
-go on
+go +on
 goose
 goose step
 go out
@@ -4897,7 +4897,7 @@ guesstimate
 guffaw
 guggle
 guide
-guide on
+guide -on
 guillotine
 gull
 gulp
@@ -4921,7 +4921,7 @@ habit
 habituate
 hack
 hackle
-hack on
+hack -on
 had best
 haemagglutinate
 haggle
@@ -4966,7 +4966,7 @@ hang by a hair
 hang by a thread
 hang glide
 hang in
-hang on
+hang +on
 hang out
 hang together
 hang up
@@ -4995,7 +4995,7 @@ harpoon
 harrow
 harry
 harshen
-harsh on
+harsh -on
 harvest
 hash
 hash out
@@ -5028,7 +5028,7 @@ have it away
 have it coming
 have it off
 have kittens
-have on
+have +on
 have sex
 have the best
 have the distinction
@@ -5113,7 +5113,7 @@ hike up
 hill
 hinder
 hinge
-hinge on
+hinge +on
 hinge upon
 hint
 hire
@@ -5159,7 +5159,7 @@ hold firm
 hold forth
 hold in
 hold off
-hold on
+hold +on
 hold one's own
 hold open
 hold out
@@ -5202,7 +5202,7 @@ hoodwink
 hoof
 hoof it
 hook
-hook on
+hook -on
 hook up
 hook up with
 hoop
@@ -5210,7 +5210,7 @@ hoot
 hoover
 hop
 hope
-hop on
+hop +on
 hop out
 hopple
 hop-skip
@@ -5369,7 +5369,7 @@ impend
 imperil
 impersonate
 impinge
-impinge on
+impinge +on
 implant
 implement
 implicate
@@ -5582,7 +5582,7 @@ intromit
 introspect
 introvert
 intrude
-intrude on
+intrude +on
 intrust
 intubate
 intuit
@@ -5724,7 +5724,7 @@ jumble
 jump
 jump for joy
 jump off
-jump on
+jump +on
 jump out
 jumpstart
 jump-start
@@ -5742,7 +5742,7 @@ keel over
 keen
 keep
 keep abreast
-keep an eye on
+keep an eye -on
 keep apart
 keep away
 keep back
@@ -5755,7 +5755,7 @@ keep in line
 keep mum
 keep note
 keep off
-keep on
+keep +on
 keep one's distance
 keep one's eyes off
 keep one's eyes open
@@ -5770,7 +5770,7 @@ keep out
 keep pace
 keep quiet
 keep step
-keep tabs on
+keep tabs -on
 keep to oneself
 keep track
 keep up
@@ -5837,7 +5837,7 @@ know
 know apart
 know as
 know the score
-know what's going on
+know what's going -on
 know what's what
 knuckle
 knuckle down
@@ -5896,7 +5896,7 @@ lasso
 last
 last out
 latch
-latch on
+latch +on
 lateralize
 lather
 latinise
@@ -5918,12 +5918,12 @@ lay away
 lay claim
 lay down
 layer
-lay eyes on
-lay hands on
+lay eyes -on
+lay hands -on
 lay in
 lay into
 lay off
-lay on the line
+lay -on the line
 lay out
 lay over
 lay to rest
@@ -5935,7 +5935,7 @@ lead
 lead astray
 lead by the nose
 lead off
-lead on
+lead +on
 lead up
 leaf
 league
@@ -5945,7 +5945,7 @@ leak out
 lean
 lean against
 lean back
-lean on
+lean +on
 leap
 leapfrog
 leap out
@@ -5991,7 +5991,7 @@ let in
 let it go
 let loose
 let off
-let on
+let +on
 let out
 letter
 letter bomb
@@ -6084,7 +6084,7 @@ live in
 live it up
 liven
 liven up
-live on
+live +on
 live out
 live over
 live together
@@ -6114,7 +6114,7 @@ log
 log in
 log-in
 log off
-log on
+log +on
 log out
 logroll
 log up
@@ -6133,14 +6133,14 @@ look at
 look away
 look back
 look backward
-look down on
+look down -on
 look for
 look forward
 look into
 look like
-look on
+look +on
 look out
-look out on
+look out -on
 look out over
 look sharp
 look to
@@ -6305,7 +6305,7 @@ marbleise
 marbleize
 marcel
 march
-march on
+march +on
 march out
 marginalise
 marginalize
@@ -6576,7 +6576,7 @@ moon
 moon about
 moon around
 moonlight
-moon on
+moon -on
 moonshine
 moor
 moot
@@ -6628,7 +6628,7 @@ move in
 move in on
 move into
 move involuntarily
-move on
+move +on
 move out
 move over
 move reflexively
@@ -6857,7 +6857,7 @@ open
 open fire
 open up
 operate
-operate on
+operate +on
 opine
 oppose
 oppress
@@ -7080,7 +7080,7 @@ pace
 pacify
 pack
 package
-pack on
+pack +on
 pack together
 pad
 paddle
@@ -7174,7 +7174,7 @@ pass away
 pass by
 pass judgment
 pass off
-pass on
+pass -on
 pass out
 pass over
 pass through
@@ -7360,7 +7360,7 @@ pinion
 pink
 pinkify
 pinnacle
-pin on
+pin -on
 pinpoint
 pin up
 pioneer

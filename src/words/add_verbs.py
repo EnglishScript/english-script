@@ -37,16 +37,23 @@ for line_nr, line in enumerate(verbs_csv):
         for verb_nr, verb in enumerate(verbs):
             print("# line " + str(line_nr) + ":" + str(verb_nr) + ":" + verb)
 
+
+    #TODO: if the second word suffices other words e.g. "call -on the carpet", then
+    # ignore whole line. This is needed to avoid contradictory definitions e.g. with "call +on".
+
+
     refs = []
     for word_nr, word in enumerate(verbs):
-        if word_nr > 0 and word_nr < 2 and verbs[0] != word:
-            if word in words:
-                if (int(words[word]["type"], 16) & 0x8) == 0x8 or (int(words[word]["type"], 16) & 0x20) == 0x20:
-                    refs.append( word )
+        if word_nr > 0 and word_nr < 2:
+            if word[0] == "+":
+                word = word[1:]
+                if  verbs[0] != word and word in words:
+                    if (int(words[word]["type"], 16) & 0x8) == 0x8 or (int(words[word]["type"], 16) & 0x20) == 0x20:
+                        refs.append( word )
+                    else:
+                        print("# WARNING:: Word " + word + " not an adverb/prep")
                 else:
-                    print("# WARNING:: Word " + word + " not an adverb/prep")
-            else:
-                print("# WARNING:: Word " + word + " not known")
+                    print("# WARNING:: Word " + word + " not known")
 
     if len(verbs) > 0:
         word1 = None
