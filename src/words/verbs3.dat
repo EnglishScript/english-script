@@ -1,0 +1,197 @@
+#
+# Word ending to "F"
+#  -ed
+#  -s
+#  -ing
+#
+
+beef 1 1
+biff 1 1
+bluff 1 1
+bombproof 1 1
+brief 1 1
+buff 1 1
+bulletproof 1 1
+cuff 1 1
+deaf 1 1
+debrief 1 1
+dwarf 1 1
+enfeoff 1 1
+fluff 1 1
+golf 1 1
+goof 1 1
+handcuff 1 1
+hoof 1 1
+huff 1 1
+leaf 1 1
+loaf 1 1
+luff 1 1
+miff 1 1
+muff 1 1
+proof 1 1
+puff 1 1
+quaff 1 1
+rebuff 1 1
+reproof 1 1
+riff 1 1
+roof 1 1
+ruff 1 1
+scarf 1 1
+sclaff 1 1
+scoff 1 1
+scuff 1 1
+sniff 1 1
+snuff 1 1
+spoof 1 1
+staff 1 1
+stuff 1 1
+surf 1 1
+tariff 1 1
+unstuff 1 1
+waterproof 1 1
+wharf 1 1
+whiff 1 1
+
+# Nonconforming verbs
+
+coif 1 1 coifs coifed coiffed coifing coiffing
+coifs 1 9 coif
+coifed 1 6 coif
+coiffed 1 6 coif
+coifing 1 10 coif
+coiffing 1 10 coif
+
+#
+# Word ending to "G"
+#  -ged
+#  -s
+#  -ging
+#
+
+backlog 1 1
+bag 1 1
+beg 1 1
+blackleg 1 1
+bootleg 1 1
+brag 1 1
+bug 1 1
+bulldog 1 1
+chug 1 1
+clog 1 1
+cog 1 1
+debug 1 1
+drag 1 1
+drug 1 1
+dung 1 1
+egg 1 1
+flag 1 1
+fling 1 1
+flog 1 1
+fog 1 1
+footslog 1 1
+frog 1 1
+gag 1 1
+gang 1 1
+gong 1 1
+hamstring 1 1
+hang 1 1
+hog 1 1
+hug 1 1
+humbug 1 1
+jag 1 1
+jig 1 1
+jitterbug 1 1
+jog 1 1
+jug 1 1
+lag 1 1
+leapfrog 1 1
+log 1 1
+long 1 1
+lug 1 1
+mug 1 1
+nag 1 1
+overhang 1 1
+peg 1 1
+pettifog 1 1
+pig 1 1
+ping 1 1
+plug 1 1
+prolong 1 1
+rag 1 1
+rig 1 1
+ring 1 1
+sag 1 1
+sandbag 1 1
+scrag 1 1
+shag 1 1
+shrug 1 1
+sing 1 1
+singsong 1 1
+slang 1 1
+sling 1 1
+slog 1 1
+slug 1 1
+snag 1 1
+snog 1 1
+spring 1 1
+sting 1 1
+string 1 1
+swig 1 1
+swing 1 1
+tag 1 1
+throng 1 1
+ting 1 1
+tug 1 1
+twang 1 1
+twig 1 1
+unclog 1 1
+unplug 1 1
+unstring 1 1
+wag 1 1
+whang 1 1
+whirligig 1 1
+wing 1 1
+wring 1 1
+wrong 1 1
+zigzag 1 1
+
+
+# Nonconforming verbs
+
+bang 1 1 bangs banged banging
+bangs 1 9 bang
+banged 1 6 bang
+banging 3 10 bang
+
+belong 1 1 belongs belonged delonging
+belongs 1 9 belong
+belonged 1 6 belong
+belonging 3 10 belong
+
+boomerang 1 1 boomerangs boomeranged boomeranging
+boomerangs 1 9 boomerang
+boomeranged 1 6 boomerang
+boomeranging 3 10 boomerang
+
+bring 1 1 brings brought brang brung bringing
+brings 1 9 bring
+brought 1 6 bring
+brang 1 2 bring
+brung 1 4 bring
+bringing 3 10 bring
+
+bung 1 1
+catalog 1 1
+clang 1 1
+
+dig 1 1 digs dug digged digging
+digs 1 9 dig
+dug 1 6 dig
+digged 1 6 dig
+digging 3 10 dig
+
+
+
+
+
+
