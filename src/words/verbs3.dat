@@ -82,22 +82,15 @@ cog 1 1
 debug 1 1
 drag 1 1
 drug 1 1
-dung 1 1
 egg 1 1
 flag 1 1
-fling 1 1
 flog 1 1
 fog 1 1
 footslog 1 1
 frog 1 1
 gag 1 1
-gang 1 1
-gong 1 1
-hamstring 1 1
-hang 1 1
 hog 1 1
 hug 1 1
-humbug 1 1
 jag 1 1
 jig 1 1
 jitterbug 1 1
@@ -106,20 +99,14 @@ jug 1 1
 lag 1 1
 leapfrog 1 1
 log 1 1
-long 1 1
 lug 1 1
 mug 1 1
 nag 1 1
-overhang 1 1
 peg 1 1
-pettifog 1 1
 pig 1 1
-ping 1 1
 plug 1 1
-prolong 1 1
 rag 1 1
 rig 1 1
-ring 1 1
 sag 1 1
 sandbag 1 1
 scrag 1 1
@@ -189,6 +176,77 @@ digs 1 9 dig
 dug 1 6 dig
 digged 1 6 dig
 digging 3 10 dig
+
+dung 1 1
+
+fling 1 1 flings flung flinging
+flings 1 9 fling
+flung 1 6 fling
+flinging 3 10 fling
+
+gang 1 1
+
+gong 1 1
+
+hamstring 1 1 hamstrings hamstrung hamstringing
+hamstrings 1 9 hamstring
+hamstrung 1 6 hamstring
+hamstringing 3 10 hamstring
+
+hang 1 1 hangs hung hanging
+hangs 1 9 hang
+hung 1 6 hang
+hanging 3 10 hang
+
+humbug 1 1 humbugs humbuged humbugged humbuging humbugging
+humbugs 1 9 humbug
+humbuged 1 6 humbug
+humbugged 1 6 humbug
+humbuging 3 10 humbug
+humbugging 3 10 humbug
+
+long 1 1 longs longed longing
+longs 1 9 long
+longed 1 6 long
+longing 3 10 long
+
+overhang 1 1 overhangs overhung overhanging
+overhangs 1 9 overhang
+overhung 1 6 overhang
+overhanging 3 10 overhang
+
+pettifog 1 1 pettifogs pettifoged pettifogged pettifoging pettifogging
+pettifogs 1 9 pettifog
+pettifoged 1 6 pettifog
+pettifogged 1 6 pettifog
+pettifoging 3 10 pettifog
+pettifogging 3 10 pettifog
+
+ping 1 1 pings pinged pinging
+pings 1 9 ping
+pinged 1 6 ping
+pinging 3 10 ping
+
+prolong 1 1 prolongs prolonged prolonging
+prolongs 1 9 prolong
+prolonged 1 6 prolong
+prolonging 3 10 prolong
+
+ring 1 1 rings ringed rang rung ringing
+rings 1 9 ring
+ringed 1 6 ring
+rang 1 2 ring
+rung 1 4 ring
+ringing 3 10 ring
+
+
+
+
+
+
+
+
+
 
 
 
