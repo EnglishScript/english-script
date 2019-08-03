@@ -24,8 +24,9 @@ waltz 1 1
 accompany 1 1
 acetify 1 1
 acidify 1 1
-aerify
-ally
+aerify 1 1
+ally 1 1
+
 
 #
 # Word ending to "Y"
@@ -35,6 +36,10 @@ ally
 #
 
 alkalify 1 1
+amnesty 1 1
+baby 1 1
+basify 1 1
+beatify 1 1
 
 
 #
@@ -46,7 +51,16 @@ alkalify 1 1
 
 allay 1 1
 alloy 1 1
-
+ammonify 1 1
+amplify 1 1
+annoy 1 1
+apply 1 1
+array 1 1
+assay 1 1
+atrophy 1 1
+autopsy 1 1
+bay 1 1
+beautify 1 1
 
 #
 # Ei säännöillä
