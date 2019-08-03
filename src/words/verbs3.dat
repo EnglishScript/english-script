@@ -1110,4 +1110,450 @@ treks 1 9 trek
 trekked 1 6 trek
 trekking 3 10 trek
 
+#
+# Word ending to "L"
+#  -ed
+#  -s
+#  -ing
+#
+
+ail 1 1
+airmail 1 1
+appeal 1 1
+assail 1 1
+avail 1 1
+bail 1 1
+ball 1 1
+bawl 1 1
+befoul 1 1
+bell 1 1
+bill 1 1
+blackball 1 1
+blackmail 1 1
+boil 1 1
+bowl 1 1
+brawl 1 1
+broil 1 1
+bull 1 1
+burl 1 1
+call 1 1
+cartwheel 1 1
+catcall 1 1
+caterwaul 1 1
+charcoal 1 1
+chill 1 1
+coal 1 1
+coil 1 1
+conceal 1 1
+congeal 1 1
+cool 1 1
+cowl 1 1
+crawl 1 1
+cull 1 1
+curl 1 1
+curtail 1 1
+derail 1 1
+despoil 1 1
+detail 1 1
+distill 1 1
+dovetail 1 1
+drawl 1 1
+drill 1 1
+drool 1 1
+dull 1 1
+e-mail 1 1
+email 1 1
+embroil 1 1
+enroll 1 1
+entail 1 1
+enthrall 1 1
+expel 1 1
+extol 1 1
+eyeball 1 1
+fail 1 1
+fall 1 1
+feel 1 1
+fell 1 1
+fill 1 1
+fingerspell 1 1
+flail 1 1
+foal 1 1
+foil 1 1
+fool 1 1
+forestall 1 1
+foretell 1 1
+foul 1 1
+fowl 1 1
+freewheel 1 1
+fuel 1 1
+fulfil 1 1
+fulfill 1 1
+full 1 1
+funnel 1 1
+gall 1 1
+gambol 1 1
+gaol 1 1
+gel 1 1
+general 1 1
+gnarl 1 1
+gravel 1 1
+grill 1 1
+grovel 1 1
+growl 1 1
+gull 1 1
+hail 1 1
+haul 1 1
+heal 1 1
+heel 1 1
+hill 1 1
+hobnail 1 1
+howl 1 1
+hull 1 1
+hurl 1 1
+impel 1 1
+indwell 1 1
+initial 1 1
+instal 1 1
+install 1 1
+instil 1 1
+instill 1 1
+jail 1 1
+jewel 1 1
+kennel 1 1
+kill 1 1
+kneel 1 1
+knell 1 1
+label 1 1
+level 1 1
+libel 1 1
+logroll 1 1
+lull 1 1
+madrigal 1 1
+mail 1 1
+marshal 1 1
+marvel 1 1
+maul 1 1
+metal 1 1
+mill 1 1
+minstrel 1 1
+misdeal 1 1
+misspell 1 1
+model 1 1
+mothball 1 1
+mull 1 1
+nail 1 1
+nickel 1 1
+oil 1 1
+overhaul 1 1
+pal 1 1
+pall 1 1
+panel 1 1
+parallel 1 1
+parcel 1 1
+patrol 1 1
+peal 1 1
+pearl 1 1
+pedal 1 1
+peel 1 1
+pencil 1 1
+peril 1 1
+poll 1 1
+pool 1 1
+prevail 1 1
+propel 1 1
+prowl 1 1
+pull 1 1
+purl 1 1
+quarrel 1 1
+quell 1 1
+rail 1 1
+ravel 1 1
+rebel 1 1
+recall 1 1
+recoil 1 1
+reel 1 1
+refill 1 1
+refuel 1 1
+repeal 1 1
+repel 1 1
+retail 1 1
+reveal 1 1
+revel 1 1
+rival 1 1
+roll 1 1
+sail 1 1
+school 1 1
+scowl 1 1
+scrawl 1 1
+scroll 1 1
+scull 1 1
+seal 1 1
+sell 1 1
+shell 1 1
+shill 1 1
+shoal 1 1
+shovel 1 1
+shrill 1 1
+signal 1 1
+skirl 1 1
+smell 1 1
+snail 1 1
+snarl 1 1
+snivel 1 1
+snorkel 1 1
+snowball 1 1
+soil 1 1
+spell 1 1
+spiel 1 1
+spill 1 1
+spiral 1 1
+spoil 1 1
+spool 1 1
+sprawl 1 1
+squall 1 1
+squeal 1 1
+stall 1 1
+steal 1 1
+steamroll 1 1
+steel 1 1
+stencil 1 1
+still 1 1
+stonewall 1 1
+stool 1 1
+stroll 1 1
+swell 1 1
+swill 1 1
+swirl 1 1
+swivel 1 1
+tail 1 1
+teetotal 1 1
+tell 1 1
+thrill 1 1
+till 1 1
+tinsel 1 1
+toil 1 1
+toll 1 1
+tool 1 1
+total 1 1
+towel 1 1
+trail 1 1
+trammel 1 1
+travail 1 1
+travel 1 1
+trawl 1 1
+trill 1 1
+troll 1 1
+trowel 1 1
+tunnel 1 1
+twill 1 1
+twirl 1 1
+uncoil 1 1
+undersell 1 1
+unfurl 1 1
+unravel 1 1
+unseal 1 1
+unsnarl 1 1
+unspell 1 1
+unveil 1 1
+veil 1 1
+victual 1 1
+wail 1 1
+wall 1 1
+wassail 1 1
+wheel 1 1
+whirl 1 1
+whirlpool 1 1
+will 1 1
+yell 1 1
+yodel 1 1
+yowl 1 1
+
+# Nonconformant verbs
+
+annul 1 1 annuls annulled annulling
+annuls 1 9 annul
+annulled 1 6 annul
+annulling 3 10 annul
+
+apparel 1 1 apparels appareled apparelled appareling apparelling
+apparels 1 9 apparel
+appareled 1 6 apparel
+apparelled 1 6 apparel
+appareling 3 10 apparel
+apparelling 3 10 apparel
+
+barrel 1 1 barrels barreled barrelled barreling barrelling
+barrels 1 9 barrel
+barreled 1 6 barrel
+barrelled 1 6 barrel
+barreling 3 10 barrel
+barrelling 3 10 barrel
+
+bedevil 1 1 bedevils bedeviled bedevilled bedeviling bedevilling
+bedevils 1 9 bedevil
+bedeviled 1 6 bedevil
+bedevilled 1 6 bedevil
+bedeviling 3 10 bedevil
+bedevilling 3 10 bedevil
+
+bevel 1 1 bevels beveled bevelled beveling bevelling
+bevels 1 9 bevel
+beveled 1 6 bevel
+bevelled 1 6 bevel
+beveling 3 10 bevel
+bevelling 3 10 bevel
+
+cabal 1 1 cabals caballed caballing
+cabals 1 9 cabal
+caballed 1 6 cabal
+caballing 3 10 cabal
+
+canal 1 1 canals canaled canalled canaling canalling
+canals 1 9 canal
+canaled 1 6 canal
+canalled 1 6 canal
+canaling 3 10 canal
+canalling 3 10 canal
+
+cancel 1 1 cancels canceled cancelled canceling cancelling
+cancels 1 9 cancel
+canceled 1 6 cancel
+cancelled 1 6 cancel
+canceling 3 10 cancel
+cancelling 3 10 cancel
+
+carol 1 1 carols caroled carolled caroling carolling
+carols 1 9 carol
+caroled 1 6 carol
+carolled 1 6 carol
+caroling 3 10 carol
+carolling 3 10 carol
+
+cavil 1 1 cavils caviled cavilled caviling cavilling
+cavils 1 9 cavil
+caviled 1 6 cavil
+cavilled 1 6 cavil
+caviling 3 10 cavil
+cavilling 3 10 cavil
+
+channel 1 1 channels channeled channelled channeling channelling
+channels 1 9 channel
+channeled 1 6 channel
+channelled 1 6 channel
+channeling 3 10 channel
+channelling 3 10 channel
+
+chisel 1 1 chisels chiseled chiselled chiseling chiselling
+chisels 1 9 chisel
+chiseled 1 6 chisel
+chiselled 1 6 chisel
+chiseling 3 10 chisel
+chiselling 3 10 chisel
+
+compel 1 1 compels compelled compelling
+compels 1 9 compel
+compelled 1 6 compel
+compelling 3 10 compel
+
+control 1 1 controls controlled controlling
+controls 1 9 control
+controlled 1 6 control
+controlling 3 10 control
+
+corbel 1 1 corbels corbelled corbelling
+corbels 1 9 corbel
+corbelled 1 6 corbel
+corbelling 3 10 corbel
+
+corral 1 1 corrals corraled corralled corraling corralling
+corrals 1 9 corral
+corraled 1 6 corral
+corralled 1 6 corral
+corraling 3 10 corral
+corralling 3 10 corral
+
+counsel 1 1 counsels counseled counselled counseling counselling
+counsels 1 9 counsel
+counseled 1 6 counsel
+counselled 1 6 counsel
+counseling 3 10 counsel
+counselling 3 10 counsel
+
+court-martial 1 1 court-martials court-martialed court-martialled court-martialing court-martialling
+court-martials 1 9 court-martial
+court-martialed 1 6 court-martial
+court-martialled 1 6 court-martial
+court-martialing 3 10 court-martial
+court-martialling 3 10 court-martial
+
+cudgel 1 1 cudgels cudgeled cudgelled cudgeling cudgelling
+cudgels 1 9 cudgel
+cudgeled 1 6 cudgel
+cudgelled 1 6 cudgel
+cudgeling 3 10 cudgel
+cudgelling 3 10 cudgel
+
+deal 1 1 deals dealt dealing
+deals 1 9 deal
+dealt 1 6 deal
+dealing 3 10 deal
+
+devil 1 1 devils deviled devilled deviling devilling
+devils 1 9 devil
+deviled 1 6 devil
+devilled 1 6 devil
+deviling 3 10 devil
+devilling 3 10 devil
+
+dial 1 1 dials dialed dialled dialing dialling
+dials 1 9 dial
+dialed 1 6 dial
+dialled 1 6 dial
+dialing 3 10 dial
+dialling 3 10 dial
+
+drivel 1 1 drivels driveled drivelled driveling drivelling
+drivels 1 9 drivel
+driveled 1 6 drivel
+drivelled 1 6 drivel
+driveling 3 10 drivel
+drivelling 3 10 drivel
+
+duel 1 1 duels dueled duelled dueling duelling
+duels 1 9 duel
+dueled 1 6 duel
+duelled 1 6 duel
+dueling 3 10 duel
+duelling 3 10 duel
+
+dwell 1 1 dwells dwelled dwelt dwelling
+dwells 1 9 dwell
+dwelled 1 6 dwell
+dwelt 1 6 dwell
+dwelling 3 10 dwell
+
+enamel 1 1 enamels enameled enamelled enameling enamelling
+enamels 1 9 enamel
+enameled 1 6 enamel
+enamelled 1 6 enamel
+enameling 3 10 enamel
+enamelling 3 10 enamel
+
+enrol 1 1 enrols enrolled enrolling
+enrols 1 9 enrol
+enrolled 1 6 enrol
+enrolling 3 10 enrol
+
+equal 1 1 equals equaled equalled equaling equalling
+equals 1 9 equal
+equaled 1 6 equal
+equalled 1 6 equal
+equaling 3 10 equal
+equalling 3 10 equal
+
+excel 1 1 excels excelled excelling
+excels 1 9 excel
+excelled 1 6 excel
+excelling 3 10 excel
+
 
