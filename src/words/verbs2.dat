@@ -14,6 +14,39 @@ razz 1 1
 spritz 1 1
 waltz 1 1
 
+#
+# Word ending to "Y"
+#  -ied ("Y" replaced with "I" when applying the rule)
+#  -s
+#  -ing ("Y" replaced with "I" when applying the rule)
+#
+
+accompany 1 1
+acetify 1 1
+acidify 1 1
+aerify
+ally
+
+#
+# Word ending to "Y"
+#  -ied ("Y" replaced with "I" when applying the rule)
+#  -ies ("Y" replaced with "I" when applying the rule)
+#  -ing
+#
+
+alkalify 1 1
+
+
+#
+# Word ending to "Y"
+#  -ed
+#  -s
+#  -ing
+#
+
+allay 1 1
+alloy 1 1
+
 
 #
 # Ei säännöillä
