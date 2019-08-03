@@ -946,17 +946,13 @@ spacewalk 1 1
 spank 1 1
 spark 1 1
 spatchcock 1 1
-speak 1 1
 speck 1 1
 spelunk 1 1
 spook 1 1
 spot-check 1 1
 squawk 1 1
-squeak 1 1
 stack 1 1
 stalk 1 1
-stick 1 1
-stink 1 1
 stock 1 1
 streak 1 1
 streetwalk 1 1
@@ -966,14 +962,12 @@ tack 1 1
 talk 1 1
 tank 1 1
 task 1 1
-think 1 1
 thumbtack 1 1
 thwack 1 1
 tick 1 1
 ticktock 1 1
 tomahawk 1 1
 track 1 1
-trek 1 1
 trick 1 1
 truck 1 1
 tuck 1 1
@@ -1076,5 +1070,44 @@ sank 1 2 sink
 sunk 1 4 sink
 sinking 3 10 sink
 
-sneak 1 1
+sneak 1 1 sneaks sneaked snuck sneaking
+sneaks 1 9 sneak
+sneaked 1 6 sneak
+snuck 1 6 sneak
+sneaking 3 10 sneak
+
+speak 1 1 speaks spoke spoken spake speaking
+speaks 1 9 speak
+spoke 1 2 speak
+spoken 1 4 speak
+spake 1 4 speak
+speaking 3 10 speak
+
+squeak 1 1 squeaks squeaked squoke squeaking
+squeaks 1 9 squeak
+squeaked 1 6 squeak
+squoke 1 6 squeak
+squeaking 3 10 squeak
+
+stick 1 1 sticks stuck sticking
+sticks 1 9 stick
+stuck 1 6 stick
+sticking 3 10 stick
+
+stink 1 1 stinks stank stunk stinking
+stinks 1 9 stink
+stank 1 2 stink
+stunk 1 6 stink
+stinking 3 10 stink
+
+think 1 1 thinks thought thinking
+thinks 1 9 think
+thought 1 6 think
+thinking 3 10 think
+
+trek 1 1 treks trekked trekking
+treks 1 9 trek
+trekked 1 6 trek
+trekking 3 10 trek
+
 
