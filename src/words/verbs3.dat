@@ -151,9 +151,20 @@ brang 1 2 bring
 brung 1 4 bring
 bringing 3 10 bring
 
-bung 1 1
-catalog 1 1
-clang 1 1
+bung 1 1 bungs bunged bunging
+bungs 1 9 bung
+bunged 1 6 bung
+bunging 3 10 bung
+
+catalog 1 1 catalogs cataloged cataloging
+catalogs 1 9 catalog
+cataloged 1 6 catalog
+cataloging 3 10 catalog
+
+clang 1 1 clangs clanged clanging
+clangs 1 9 clang
+clanged 1 6 clang
+clanging 3 10 clang
 
 dig 1 1 digs dug digged digging
 digs 1 9 dig
@@ -161,16 +172,25 @@ dug 1 6 dig
 digged 1 6 dig
 digging 3 10 dig
 
-dung 1 1
+dung 1 1 dungs dunged dunging
+dungs 1 9 dung
+dunged 1 6 dung
+dunging 3 10 dung
 
 fling 1 1 flings flung flinging
 flings 1 9 fling
 flung 1 6 fling
 flinging 3 10 fling
 
-gang 1 1
+gang 1 1 gangs ganged ganging
+gangs 1 9 gang
+ganged 1 6 gang
+ganging 3 10 gang
 
-gong 1 1
+gong 1 1 gongs gonged gonging
+gongs 1 9 gong
+gonged 1 6 gong
+gonging 3 10 gong
 
 hamstring 1 1 hamstrings hamstrung hamstringing
 hamstrings 1 9 hamstring
@@ -281,8 +301,6 @@ twang 1 1 twangs twanged twanging
 twangs 1 9 twang
 twanged 1 6 twang
 twanging 3 10 twang
-
-unstring 1 1
 
 unstring 1 1 unstrings unstrung unstringing
 unstrings 1 9 unstring
@@ -412,12 +430,10 @@ itch 1 1
 languish 1 1
 lash 1 1
 latch 1 1
-laugh 1 1
 launch 1 1
 leach 1 1
 leash 1 1
 leech 1 1
-lithograph 1 1
 lunch 1 1
 lurch 1 1
 lynch 1 1
@@ -426,27 +442,20 @@ march 1 1
 mash 1 1
 match 1 1
 mesh 1 1
-mimeograph 1 1
 mismatch 1 1
 monish 1 1
 mooch 1 1
-mouth 1 1
 mulch 1 1
 munch 1 1
 mush 1 1
-neigh 1 1
 nosh 1 1
 notch 1 1
 nourish 1 1
-paragraph 1 1
 patch 1 1
 perch 1 1
-photograph 1 1
 pinch 1 1
 pitch 1 1
-pith 1 1
 plash 1 1
-plough 1 1
 poach 1 1
 polish 1 1
 pouch 1 1
@@ -480,19 +489,13 @@ scratch 1 1
 screech 1 1
 scrunch 1 1
 search 1 1
-sigh 1 1
 sketch 1 1
 skirmish 1 1
 slash 1 1
-sleigh 1 1
-sleuth 1 1
 slouch 1 1
-slough 1 1
 smash 1 1
 smirch 1 1
 smooch 1 1
-smooth 1 1
-snatch 1 1
 snitch 1 1
 splash 1 1
 splotch 1 1
@@ -500,14 +503,11 @@ squelch 1 1
 starch 1 1
 stash 1 1
 stitch 1 1
-stomach 1 1
 stretch 1 1
 swash 1 1
 swish 1 1
 switch 1 1
 tarnish 1 1
-teach 1 1
-telegraph 1 1
 thatch 1 1
 thrash 1 1
 thresh 1 1
@@ -515,7 +515,6 @@ torch 1 1
 touch 1 1
 trash 1 1
 trench 1 1
-triumph 1 1
 twitch 1 1
 undernourish 1 1
 unhitch 1 1
@@ -526,7 +525,6 @@ varnish 1 1
 vouch 1 1
 wash 1 1
 watch 1 1
-weigh 1 1
 welsh 1 1
 wench 1 1
 whitewash 1 1
@@ -627,5 +625,107 @@ hunches 1 9 hunch
 hunchs 1 9 hunch
 hunched 1 6 hunch
 hunching 3 10 hunch
+
+laugh 1 1 laughs laughed laughing
+laughs 1 9 laugh
+laughed 1 6 laugh
+laughing 3 10 laugh
+
+lithograph 1 1 lithographs lithographed lithographing
+lithographs 1 9 lithograph
+lithographed 1 6 lithograph
+lithographing 3 10 lithograph
+
+mimeograph 1 1 mimeographs mimeographed mimeographing
+mimeographs 1 9 mimeograph
+mimeographed 1 6 mimeograph
+mimeographing 3 10 mimeograph
+
+mouth 1 1 mouths mouthed mouthing
+mouths 1 9 mouth
+mouthed 1 6 mouth
+mouthing 3 10 mouth
+
+neigh 1 1 neighs neighed neighing
+neighs 1 9 neigh
+neighed 1 6 neigh
+neighing 3 10 neigh
+
+paragraph 1 1 paragraphs paragraphed paragraphing
+paragraphs 1 9 paragraph
+paragraphed 1 6 paragraph
+paragraphing 3 10 paragraph
+
+photograph 1 1 photographs photographed photographing
+photographs 1 9 photograph
+photographed 1 6 photograph
+photographing 3 10 photograph
+
+pith 1 1 piths pithed pithing
+piths 1 9 pith
+pithed 1 6 pith
+pithing 3 10 pith
+
+plough 1 1 ploughs ploughed ploughing
+ploughs 1 9 plough
+ploughed 1 6 plough
+ploughing 3 10 plough
+
+sigh 1 1 sighs sighed sighing
+sighs 1 9 sigh
+sighed 1 6 sigh
+sighing 3 10 sigh
+
+sleigh 1 1 sleighs sleighed sleighing
+sleighs 1 9 sleigh
+sleighed 1 6 sleigh
+sleighing 3 10 sleigh
+
+sleuth 1 1 sleuths sleuthed sleuthing
+sleuths 1 9 sleuth
+sleuthed 1 6 sleuth
+sleuthing 3 10 sleuth
+
+slough 1 1 sloughs sloughed sloughing
+sloughs 1 9 slough
+sloughed 1 6 slough
+sloughing 3 10 slough
+
+smooth 1 1 smooths smoothes smoothed smoothing
+smooths 1 9 smooth
+smoothes 1 9 smooth
+smoothed 1 6 smooth
+smoothing 3 10 smooth
+
+snatch 1 1 snatches snatched snaught snatching
+snatches 1 9 snatch
+snatched 1 6 snatch
+snaught 1 6 snatch
+snatching 3 10 snatch
+
+stomach 1 1 stomachs stomached stomaching
+stomachs 1 9 stomach
+stomached 1 6 stomach
+stomaching 3 10  stomach
+
+teach 1 1 teaches taught teaching
+teaches 1 9 teach
+taught 1 6 teach
+teaching 3 10 teach
+
+telegraph 1 1 telegraphs telegraphed telegraphing
+telegraphs 1 9 telegraph
+telegraphed 1 6 telegraph
+telegraphing 3 10 telegraph
+
+triumph 1 1 triumphs triumphed triumphing
+triumphs 1 9 triumph
+triumphed 1 6 triumph
+triumphing 3 10 triumph
+
+weigh 1 1 weighs weighed weighing
+weighs 1 9 weigh
+weighed 1 6 weigh
+weighing 3 10 weigh
 
 
