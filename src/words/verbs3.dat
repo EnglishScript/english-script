@@ -112,34 +112,18 @@ sandbag 1 1
 scrag 1 1
 shag 1 1
 shrug 1 1
-sing 1 1
-singsong 1 1
-slang 1 1
-sling 1 1
 slog 1 1
 slug 1 1
 snag 1 1
 snog 1 1
-spring 1 1
-sting 1 1
-string 1 1
 swig 1 1
-swing 1 1
 tag 1 1
-throng 1 1
-ting 1 1
 tug 1 1
-twang 1 1
 twig 1 1
 unclog 1 1
 unplug 1 1
-unstring 1 1
 wag 1 1
-whang 1 1
 whirligig 1 1
-wing 1 1
-wring 1 1
-wrong 1 1
 zigzag 1 1
 
 
@@ -238,6 +222,97 @@ ringed 1 6 ring
 rang 1 2 ring
 rung 1 4 ring
 ringing 3 10 ring
+
+sing 1 1 sings sang sung singing
+sings 1 9 sing
+sang 1 2 sing
+sung 1 4 sing
+singing 3 10 sing
+
+singsong 1 1 singsongs singsonged singsonging
+singsongs 1 9 sing
+singsonged 1 6 sing
+singsonging 3 10 sing
+
+slang 1 1 slangs slanged slanging
+slangs 1 9 slang
+slanged 1 6 slang
+slanging 3 10 slang
+
+sling 1 1 slings slung slang slinging
+slings 1 9 sling
+slung 1 6 sling
+slang 1 4 sling
+slinging 3 10 sling
+
+spring 1 1 springs sprang sprung springing
+springs 1 9 spring
+sprang 1 2 spring
+sprung 1 6 spring
+springing 3 10 spring
+
+sting 1 1 stings stung stinging
+sting 1 9 sting
+stung 1 6 sting
+stinging 3 10 sting
+
+string 1 1 strings stringed strung stringing
+strings 1 9 string
+stringed 1 6 string
+strung 1 6 string
+stringing 3 10 string
+
+swing 1 1 swings swung swinging
+swings 1 9 swing
+swung 1 6 swing
+swinging 3 10 swing
+
+throng 1 1 throngs thronged thronging
+throngs 1 9 throng
+thronged 1 6 throng
+thronging 3 10 throng
+
+ting 1 1 tings tinged tinging
+tings 1 9 ting
+tinged 1 6 ting
+tinging 3 10 ting
+
+twang 1 1 twangs twanged twanging
+twangs 1 9 twang
+twanged 1 6 twang
+twanging 3 10 twang
+
+unstring 1 1
+
+unstring 1 1 unstrings unstrung unstringing
+unstrings 1 9 unstring
+unstrung 1 6 unstring
+unstringing 3 10 unstring
+
+whang 1 1 whangs whanged whanging
+whangs 1 9 whang
+whanged 1 6 whang
+whanging 3 10 whang
+
+wing 1 1 wings winged winging
+wings 1 9 wing
+winged 1 6 wing
+winging 3 10 wing
+
+wring 1 1 wrings wrang wrung wringing
+wrings 1 9 wring
+wrang 1 2 wring
+wrung 1 6 wring
+wringing 3 10 wring
+
+wrong 1 1 wrongs wronged wronging
+wrongs 1 9 wrong
+wronged 1 6 wrong
+wronging 3 10 wrong
+
+
+
+
 
 
 
