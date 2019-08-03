@@ -310,21 +310,322 @@ wrongs 1 9 wrong
 wronged 1 6 wrong
 wronging 3 10 wrong
 
+#
+# Word ending to "H"
+#  -ed
+#  -es
+#  -ing
+#
 
+abolish 1 1
+accomplish 1 1
+admonish 1 1
+airbrush 1 1
+ambush 1 1
+anguish 1 1
+approach 1 1
+arch 1 1
+ash 1 1
+astonish 1 1
+attach 1 1
+backlash 1 1
+backstitch 1 1
+banish 1 1
+bash 1 1
+batch 1 1
+beach 1 1
+belch 1 1
+bench 1 1
+bewitch 1 1
+birch 1 1
+birdwatch 1 1
+bitch 1 1
+blandish 1 1
+bleach 1 1
+blemish 1 1
+blotch 1 1
+blush 1 1
+botch 1 1
+branch 1 1
+brandish 1 1
+breach 1 1
+brooch 1 1
+brunch 1 1
+brush 1 1
+bunch 1 1
+burnish 1 1
+bush 1 1
+cash 1 1
+church 1 1
+cinch 1 1
+clash 1 1
+clench 1 1
+clinch 1 1
+clutch 1 1
+coach 1 1
+contradistinguish 1 1
+cosh 1 1
+crash 1 1
+crosshatch 1 1
+crouch 1 1
+crunch 1 1
+crush 1 1
+dash 1 1
+debauch 1 1
+demolish 1 1
+despatch 1 1
+detach 1 1
+diminish 1 1
+disestablish 1 1
+dish 1 1
+dispatch 1 1
+distinguish 1 1
+ditch 1 1
+embellish 1 1
+encroach 1 1
+enrich 1 1
+entrench 1 1
+establish 1 1
+etch 1 1
+extinguish 1 1
+finish 1 1
+fish 1 1
+flash 1 1
+flinch 1 1
+flourish 1 1
+flush 1 1
+furnish 1 1
+garnish 1 1
+gash 1 1
+grouch 1 1
+gush 1 1
+handwash 1 1
+hash 1 1
+hatch 1 1
+hemstitch 1 1
+hitch 1 1
+hush 1 1
+impeach 1 1
+impoverish 1 1
+inch 1 1
+itch 1 1
+languish 1 1
+lash 1 1
+latch 1 1
+laugh 1 1
+launch 1 1
+leach 1 1
+leash 1 1
+leech 1 1
+lithograph 1 1
+lunch 1 1
+lurch 1 1
+lynch 1 1
+malnourish 1 1
+march 1 1
+mash 1 1
+match 1 1
+mesh 1 1
+mimeograph 1 1
+mismatch 1 1
+monish 1 1
+mooch 1 1
+mouth 1 1
+mulch 1 1
+munch 1 1
+mush 1 1
+neigh 1 1
+nosh 1 1
+notch 1 1
+nourish 1 1
+paragraph 1 1
+patch 1 1
+perch 1 1
+photograph 1 1
+pinch 1 1
+pitch 1 1
+pith 1 1
+plash 1 1
+plough 1 1
+poach 1 1
+polish 1 1
+pouch 1 1
+preach 1 1
+publish 1 1
+punch 1 1
+punish 1 1
+push 1 1
+quench 1 1
+ranch 1 1
+ravish 1 1
+reach 1 1
+refinish 1 1
+refresh 1 1
+refurbish 1 1
+rehash 1 1
+relinquish 1 1
+relish 1 1
+replenish 1 1
+reproach 1 1
+republish 1 1
+research 1 1
+retch 1 1
+retrench 1 1
+roach 1 1
+rush 1 1
+sandwich 1 1
+scorch 1 1
+scotch 1 1
+scratch 1 1
+screech 1 1
+scrunch 1 1
+search 1 1
+sigh 1 1
+sketch 1 1
+skirmish 1 1
+slash 1 1
+sleigh 1 1
+sleuth 1 1
+slouch 1 1
+slough 1 1
+smash 1 1
+smirch 1 1
+smooch 1 1
+smooth 1 1
+snatch 1 1
+snitch 1 1
+splash 1 1
+splotch 1 1
+squelch 1 1
+starch 1 1
+stash 1 1
+stitch 1 1
+stomach 1 1
+stretch 1 1
+swash 1 1
+swish 1 1
+switch 1 1
+tarnish 1 1
+teach 1 1
+telegraph 1 1
+thatch 1 1
+thrash 1 1
+thresh 1 1
+torch 1 1
+touch 1 1
+trash 1 1
+trench 1 1
+triumph 1 1
+twitch 1 1
+undernourish 1 1
+unhitch 1 1
+unlash 1 1
+vanish 1 1
+vanquish 1 1
+varnish 1 1
+vouch 1 1
+wash 1 1
+watch 1 1
+weigh 1 1
+welsh 1 1
+wench 1 1
+whitewash 1 1
+winch 1 1
+wish 1 1
+witch 1 1
+wrench 1 1
 
+# nonconformant verbs
 
+autograph 1 1 autographs autographed autographing
+autographs 1 9 autograph
+autographed 1 6 autograph
+autographing 3 10 autograph
 
+bequeath 1 1 bequeaths bequeathed bequeathing
+bequeaths 1 9 bequeath
+bequeathed 1 6 bequeath
+bequeathing 3 10 bequeath
 
+berth 1 1 berths berthed berthing
+berths 1 9 berth
+berthed 1 6 berth
+berthing 3 10 berth
 
+betroth 1 1 betroths betrothed betrothing
+betroths 1 9 betroth
+betrothed 1 6 betroth
+betrothing 3 10 betroth
 
+birth 1 1 births birthed birthing
+births 1 9 birth
+birthed 1 6 birth
+birthing 3 10 birth
 
+calligraph 1 1 calligraphs calligraphed calligraphing
+calligraphs 1 9 calligraph
+calligraphed 1 6 calligraph
+calligraphing 3 10 calligraph
 
+catch 1 1 catches caught catching
+catches 1 9 catch
+caught 1 6 catch
+catching 3 10 catch
 
+choreograph 1 1 choreographs choreographed choreographing
+choreographs 1 9 choreograph
+choreographed 1 6 choreograph
+choreographing 3 10 choreograph
 
+cough 1 1 coughs coughed coughing
+coughs 1 9 cough
+coughed 1 6 cough
+coughing 3 10 cough
 
+earth 1 1 earths earthed earthing
+earths 1 9 earth
+earthed 1 6 earth
+earthing 3 10 earth
 
+froth 1 1 froths frothed frothing
+froths 1 9 froth
+frothed 1 6 froth
+frothing 3 10 froth
 
+furlough 1 1 furloughs furloughed furloughing
+furloughs 1 9 furlough
+furloughed 1 6 furlough
+furloughing 3 10 furlough
 
+girth 1 1 girths girthed girthing
+girths 1 9 girth
+girthed 1 6 girth
+girthing 3 10 girth
 
+graph 1 1 graphs graphed graphing
+graphs 1 9 graph
+graphed 1 6  graph
+graphing 3 10 graph
+
+hectograph 1 1 hectographs hectographed hectographing
+hectographs 1 9 hectograph
+hectographed 1 6 hectograph
+hectographing 3 10 hectograph
+
+heliograph 1 1 heliographs heliographed heliographing
+heliographs 1 9 heliograph
+heliographed 1 6 heliograph
+heliographing 3 10 heliograph
+
+hiccough 1 1 hiccoughs hiccoughed hiccoughing
+hiccoughs 1 9 hiccough
+hiccoughed 1 6 hiccough
+hiccoughing 3 10 hiccough
+
+hunch 1 1 hunches hunchs hunched hunching
+hunches 1 9 hunch
+hunchs 1 9 hunch
+hunched 1 6 hunch
+hunching 3 10 hunch
 
 
