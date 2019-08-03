@@ -728,4 +728,353 @@ weighs 1 9 weigh
 weighed 1 6 weigh
 weighing 3 10 weigh
 
+#
+# Word ending to "I"
+#
+
+alibi 1 1 alibies alibied alibiing
+alibies 1 9 alibi
+alibied 1 6 alibi
+alibiing 3 10 alibi
+
+hibachi 1 1 hibachis hibachied hibachiing
+hibachis 1 9 hibachi
+hibachied 1 6 hibachi
+hibachiing 3 10 hibachi
+
+shanghai 1 1 shanghais shanghaied shanghaiing
+shanghais 1 9 shanghai
+shanghaied 1 6 shanghai
+shanghaiing 3 10 shanghai
+
+ski 1 1 skis skies skied skiing
+skis 1 9 ski
+skies 1 9 ski
+skied 1 6 ski
+skiing 3 10 ski
+
+taxi 1 1 taxis taxies taxied taxiing taxying
+taxis 1 9 taxi
+taxies 1 9 taxi
+taxied 1 6 taxi
+taxiing 3 10 taxi
+taxying 3 10 taxi
+
+#
+# Word ending to "J"
+#
+
+DJ 1 1 DJs DJed DJing
+DJs 1 9 DJ
+DJed 1 6 DJ
+DJing 3 10 DJ
+
+#
+# Word ending to "K"
+#  -ed
+#  -s
+#  -ing
+#
+
+ask 1 1
+asterisk 1 1
+attack 1 1
+back 1 1
+backpack 1 1
+balk 1 1
+bank 1 1
+bark 1 1
+barrack 1 1
+batik 1 1
+baulk 1 1
+beak 1 1
+black 1 1
+block 1 1
+book 1 1
+bootlick 1 1
+bottleneck 1 1
+buck 1 1
+bulwark 1 1
+bunk 1 1
+bushwhack 1 1
+cakewalk 1 1
+calk 1 1
+carjack 1 1
+chalk 1 1
+check 1 1
+cheek 1 1
+chink 1 1
+chock 1 1
+chunk 1 1
+clack 1 1
+clank 1 1
+clerk 1 1
+click 1 1
+clink 1 1
+cloak 1 1
+clock 1 1
+cluck 1 1
+clunk 1 1
+cock 1 1
+conk 1 1
+cook 1 1
+cork 1 1
+counterattack 1 1
+crack 1 1
+crank 1 1
+creak 1 1
+crick 1 1
+croak 1 1
+crock 1 1
+crook 1 1
+cross-link 1 1
+debark 1 1
+debunk 1 1
+disembark 1 1
+dock 1 1
+double-check 1 1
+drop-kick 1 1
+dropkick 1 1
+duck 1 1
+dunk 1 1
+earmark 1 1
+embank 1 1
+embark 1 1
+fink 1 1
+flank 1 1
+fleck 1 1
+flick 1 1
+flock 1 1
+fork 1 1
+frisk 1 1
+frock 1 1
+fullback 1 1
+goldbrick 1 1
+hack 1 1
+hawk 1 1
+highjack 1 1
+hijack 1 1
+hock 1 1
+honk 1 1
+hook 1 1
+hulk 1 1
+husk 1 1
+ink 1 1
+interlock 1 1
+jack 1 1
+jaywalk 1 1
+jerk 1 1
+junk 1 1
+kayak 1 1
+kick 1 1
+kink 1 1
+knock 1 1
+lack 1 1
+lark 1 1
+leak 1 1
+lick 1 1
+link 1 1
+lipstick 1 1
+lock 1 1
+look 1 1
+lurk 1 1
+mark 1 1
+mask 1 1
+milk 1 1
+mock 1 1
+muck 1 1
+murk 1 1
+nark 1 1
+neck 1 1
+network 1 1
+nick 1 1
+nitpick 1 1
+overlook 1 1
+overstock 1 1
+pack 1 1
+padlock 1 1
+park 1 1
+peak 1 1
+peck 1 1
+peek 1 1
+pick 1 1
+pitchfork 1 1
+place-kick 1 1
+plank 1 1
+plonk 1 1
+pluck 1 1
+plunk 1 1
+pock 1 1
+postmark 1 1
+prick 1 1
+quack 1 1
+quarterback 1 1
+rack 1 1
+rank 1 1
+ransack 1 1
+remark 1 1
+rick 1 1
+risk 1 1
+rock 1 1
+rubberneck 1 1
+ruck 1 1
+scrimshank 1 1
+shack 1 1
+shank 1 1
+shark 1 1
+shipwreck 1 1
+shirk 1 1
+shock 1 1
+shriek 1 1
+shuck 1 1
+shuttlecock 1 1
+sick 1 1
+skank 1 1
+skulk 1 1
+skunk 1 1
+slack 1 1
+slam-dunk 1 1
+sleepwalk 1 1
+slick 1 1
+smack 1 1
+smirk 1 1
+smock 1 1
+snack 1 1
+snick 1 1
+soak 1 1
+spacewalk 1 1
+spank 1 1
+spark 1 1
+spatchcock 1 1
+speak 1 1
+speck 1 1
+spelunk 1 1
+spook 1 1
+spot-check 1 1
+squawk 1 1
+squeak 1 1
+stack 1 1
+stalk 1 1
+stick 1 1
+stink 1 1
+stock 1 1
+streak 1 1
+streetwalk 1 1
+suck 1 1
+sulk 1 1
+tack 1 1
+talk 1 1
+tank 1 1
+task 1 1
+think 1 1
+thumbtack 1 1
+thwack 1 1
+tick 1 1
+ticktock 1 1
+tomahawk 1 1
+track 1 1
+trek 1 1
+trick 1 1
+truck 1 1
+tuck 1 1
+tusk 1 1
+tweak 1 1
+unblock 1 1
+uncork 1 1
+understock 1 1
+undock 1 1
+unhook 1 1
+unlock 1 1
+unmask 1 1
+unpack 1 1
+walk 1 1
+wank 1 1
+whack 1 1
+whelk 1 1
+whisk 1 1
+wink 1 1
+wisecrack 1 1
+work 1 1
+wrack 1 1
+wreck 1 1
+wrick 1 1
+yack 1 1
+yank 1 1
+
+# Nonconformant verbs
+
+blink 1 1 blinks blinked blunk blinking
+blinks 1 9 blink
+blinked 1 6 blink
+blunk 1 6 blink
+blinking 3 10 blink
+
+break 1 1 breaks broke broken breaking
+breaks 1 9 break
+broke 1 2 break
+broken 1 4 break
+breaking 3 10 break
+
+countersink 1 1 countersinks countersank countersunk countersinking
+countersinks 1 9 countersink
+countersank 1 2 countersink
+countersunk 1 4 countersink
+countersinking 3 10 countersink
+
+drink 1 1 drinks drank drunk drinked drinking
+drinks 1 9 drink
+drank 1 6 drink
+drunk 1 6 drink
+drinked 1 6 drink
+drinking 3 10 drink
+
+fuck 1 1 fucks fucked fucking fuckin fucken
+fucks 1 9 fuck
+fucked 1 6 fuck
+fucking 3 10 fuck
+fuckin 3 10 fuck
+fucken 3 10 fuck
+
+overwork 1 1 overworks overworked overwrought overworking
+overworks 1 9 overwork
+overworked 1 6 overwork
+overwrought 1 6 overwork
+overworking 3 10 overwork
+
+reek 1 1 reeks reeked reeking reekin
+reeks 1 9 reek
+reeked 1 6 reek
+reeking 3 10 reek
+reekin 3 10 reek
+
+rethink 1 1 rethinks rethought rethinking
+rethinks 1 9 rethink
+rethought 1 6 rethink
+rethinking 3 10 rethink
+
+sack 1 1 sacks sacked sackt sacking
+sacks 1 9 sack
+sacked 1 6 sack
+sackt 1 6 sack
+sacking 3 10 sack
+
+seek 1 1 seeks sought seeking
+seeks 1 9 seek
+sought 1 6 seek
+seeking 3 10 seek
+
+shrink 1 1 shrinks shrank shrunk shrunken shrinking
+shrinks 1 9 shrink
+shrank 1 2 shrink
+shrunk 1 6 shrink
+shrunken 1 4 shrink
+shrinking 3 10 shrink
+
+sink 1 1 sinks sank sunk sinking
+sinks 1 9 sink
+sank 1 2 sink
+sunk 1 4 sink
+sinking 3 10 sink
+
+sneak 1 1
 
