@@ -1270,7 +1270,6 @@ scrawl 1 1
 scroll 1 1
 scull 1 1
 seal 1 1
-sell 1 1
 shell 1 1
 shill 1 1
 shoal 1 1
@@ -1278,14 +1277,12 @@ shovel 1 1
 shrill 1 1
 signal 1 1
 skirl 1 1
-smell 1 1
 snail 1 1
 snarl 1 1
 snivel 1 1
 snorkel 1 1
 snowball 1 1
 soil 1 1
-spell 1 1
 spiel 1 1
 spill 1 1
 spiral 1 1
@@ -1295,7 +1292,6 @@ sprawl 1 1
 squall 1 1
 squeal 1 1
 stall 1 1
-steal 1 1
 steamroll 1 1
 steel 1 1
 stencil 1 1
@@ -1303,13 +1299,11 @@ still 1 1
 stonewall 1 1
 stool 1 1
 stroll 1 1
-swell 1 1
 swill 1 1
 swirl 1 1
 swivel 1 1
 tail 1 1
 teetotal 1 1
-tell 1 1
 thrill 1 1
 till 1 1
 tinsel 1 1
@@ -1775,36 +1769,240 @@ pedalled 1 6 pedal
 pedaling 3 10 pedal
 pedalling 3 10 pedal
 
-xxxx 1 1 xxxxs xxxxed xxxxled xxxxing xxxxling
-xxxxs 1 9 xxxx
-xxxxed 1 6 xxxx
-xxxxled 1 6 xxxx
-xxxxing 3 10 xxxx
-xxxxling 3 10 xxxx
+pencil 1 1 pencils penciled pencilled penciling pencilling
+pencils 1 9 pencil
+penciled 1 6 pencil
+pencilled 1 6 pencil
+penciling 3 10 pencil
+pencilling 3 10 pencil
 
-xxxx 1 1 xxxxs xxxxed xxxxled xxxxing xxxxling
-xxxxs 1 9 xxxx
-xxxxed 1 6 xxxx
-xxxxled 1 6 xxxx
-xxxxing 3 10 xxxx
-xxxxling 3 10 xxxx
+peril 1 1 perils periled perilled periling perilling
+perils 1 9 peril
+periled 1 6 peril
+perilled 1 6 peril
+periling 3 10 peril
+perilling 3 10 peril
 
-xxxx 1 1 xxxxs xxxxed xxxxled xxxxing xxxxling
-xxxxs 1 9 xxxx
-xxxxed 1 6 xxxx
-xxxxled 1 6 xxxx
-xxxxing 3 10 xxxx
-xxxxling 3 10 xxxx
+propel 1 1 propels propelled propelling
+propels 1 9 propel
+propelled 1 6 propel
+propelling 3 10 propel
 
-xxxx 1 1 xxxxs xxxxed xxxxled xxxxing xxxxling
-xxxxs 1 9 xxxx
-xxxxed 1 6 xxxx
-xxxxled 1 6 xxxx
-xxxxing 3 10 xxxx
-xxxxling 3 10 xxxx
+quarrel 1 1 quarrels quarreled quarrelled quarreling quarrelling
+quarrels 1 9 quarrel
+quarreled 1 6 quarrel
+quarrelled 1 6 quarrel
+quarreling 3 10 quarrel
+quarrelling 3 10 quarrel
 
-yyyy 1 1 yyyys yyyyled yyyyling
-yyyys 1 9 yyyy
-yyyyled 1 6 yyyy
-yyyyling 3 10 yyyy
+ravel 1 1 ravels raveled ravelled raveling ravelling
+ravels 1 9 ravel
+raveled 1 6 ravel
+ravelled 1 6 ravel
+raveling 3 10 ravel
+ravelling 3 10 ravel
+
+rebel 1 1 rebels rebelled rebelling
+rebels 1 9 rebel
+rebelled 1 6 rebel
+rebelling 3 10 rebel
+
+refuel 1 1 refuels refueled refuelled refueling refuelling
+refuels 1 9 refuel
+refueled 1 6 refuel
+refuelled 1 6 refuel
+refueling 3 10 refuel
+refuelling 3 10 refuel
+
+repel 1 1 repels repelled repelling
+repels 1 9 repel
+repelled 1 6 repel
+repelling 3 10 repel
+
+revel 1 1 revels reveled revelled reveling revelling
+revels 1 9 revel
+reveled 1 6 revel
+revelled 1 6 revel
+reveling 3 10 revel
+revelling 3 10 revel
+
+rival 1 1 rivals rivaled rivalled rivaling rivalling
+rivals 1 9 rival
+rivaled 1 6 rival
+rivalled 1 6 rival
+rivaling 3 10 rival
+rivalling 3 10 rival
+
+sell 1 1 sells sold selling
+sells 1 9 sell
+sold 1 6 sell
+selling 3 10 sell
+
+shovel 1 1 shovels shoveled shovelled shoveling shovelling
+shovels 1 9 shovel
+shoveled 1 6 shovel
+shovelled 1 6 shovel
+shoveling 3 10 shovel
+shovelling 3 10 shovel
+
+signal 1 1 signals signaled signalled signaling signalling
+signals 1 9 signal
+signaled 1 6 signal
+signalled 1 6 signal
+signaling 3 10 signal
+signalling 3 10 signal
+
+smell 1 1 smells smelled smelt smelling
+smells 1 9 smell
+smelled 1 6 smell
+smelt 1 6 smell
+smelling 3 10 smell
+
+snivel 1 1 snivels sniveled snivelled sniveling snivelling
+snivels 1 9 snivel
+sniveled 1 6 snivel
+snivelled 1 6 snivel
+sniveling 3 10 snivel
+snivelling 3 10 snivel
+
+snorkel 1 1 snorkels snorkeled snorkelled snorkeling snorkelling
+snorkels 1 9 snorkel
+snorkeled 1 6 snorkel
+snorkelled 1 6 snorkel
+snorkeling 3 10 snorkel
+snorkelling 3 10 snorkel
+
+spell 1 1 spells spelled spelt spelling
+spells 1 9 spell
+spelled 1 6 spell
+spelt 1 6 spell
+spelling 3 10 spell
+
+spill 1 1 spills spilled spilt spilling
+spills 1 9 spill
+spilled 1 6 spill
+spilt 1 6 spill
+spilling 3 10 spill
+
+spiral 1 1 spirals spiraled spiralled spiraling spiralling
+spirals 1 9 spiral
+spiraled 1 6 spiral
+spiralled 1 6 spiral
+spiraling 3 10 spiral
+spiralling 3 10 spiral
+
+spoil 1 1 spoils spoiled spoilt spoiling
+spoils 1 9 spoil
+spoiled 1 6 spoil
+spoilt 1 6 spoil
+spoiling 3 10 spoil
+
+steal 1 1 steals stole stolen stealing
+steals 1 9 steal
+stole 1 2 steal
+stolen 1 4 steal
+stealing 3 10 steal
+
+stencil 1 1 stencils stenciled stencilled stenciling stencilling
+stencils 1 9 stencil
+stenciled 1 6 stencil
+stencilled 1 6 stencil
+stenciling 3 10 stencil
+stencilling 3 10 stencil
+
+swell 1 1 swells swelled swole swollen swelling
+swells 1 9 swell
+swelled 1 6 swell
+swole 1 6 swell
+swollen 1 4 swell
+swelling 3 10 swell
+
+swivel 1 1 swivels swiveled swivelled swiveling swivelling
+swivels 1 9 swivel
+swiveled 1 6 swivel
+swivelled 1 6 swivel
+swiveling 3 10 swivel
+swivelling 3 10 swivel
+
+tell 1 1 tells told tould telt telling
+tells 1 9 tell
+told 1 6 tell
+tould 1 6 tell
+telt 1 6 tell
+telling 3 10 tell
+
+tinsel 1 1 tinsels tinseled tinselled tinseling tinselling
+tinsels 1 9 tinsel
+tinseled 1 6 tinsel
+tinselled 1 6 tinsel
+tinseling 3 10 tinsel
+tinselling 3 10 tinsel
+
+total 1 1 totals totaled totalled totaling totalling
+totals 1 9 total
+totaled 1 6 total
+totalled 1 6 total
+totaling 3 10 total
+totalling 3 10 total
+
+towel 1 1 towels toweled towelled toweling towelling
+towels 1 9 towel
+toweled 1 6 towel
+towelled 1 6 towel
+toweling 3 10 towel
+towelling 3 10 towel
+
+trammel 1 1 trammels trammeled trammelled trammeling trammelling
+trammels 1 9 trammel
+trammeled 1 6 trammel
+trammelled 1 6 trammel
+trammeling 3 10 trammel
+trammelling 3 10 trammel
+
+travel 1 1 travels traveled travelled traveling travelling
+travels 1 9 travel
+traveled 1 6 travel
+travelled 1 6 travel
+traveling 3 10 travel
+travelling 3 10 travel
+
+trowel 1 1 trowels troweled trowelled troweling trowelling
+trowels 1 9 trowel
+troweled 1 6 trowel
+trowelled 1 6 trowel
+troweling 3 10 trowel
+trowelling 3 10 trowel
+
+tunnel 1 1 tunnels tunneled tunnelled tunneling tunnelling
+tunnels 1 9 tunnel
+tunneled 1 6 tunnel
+tunnelled 1 6 tunnel
+tunneling 3 10 tunnel
+tunnelling 3 10 tunnel
+
+undersell 1 1 undersells undersold underselling
+undersells 1 9 undersell
+undersold 1 6 undersell
+underselling 3 10 undersell
+
+unravel 1 1 unravels unraveled unravelled unraveling unravelling
+unravels 1 9 unravel
+unraveled 1 6 unravel
+unravelled 1 6 unravel
+unraveling 3 10 unravel
+unravelling 3 10 unravel
+
+victual 1 1 victuals victualed victualled victualing victualling
+victuals 1 9 victual
+victualed 1 6 victual
+victualled 1 6 victual
+victualing 3 10 victual
+victualling 3 10 victual
+
+yodel 1 1 yodels yodeled yodelled yodeling yodelling
+yodels 1 9 yodel
+yodeled 1 6 yodel
+yodelled 1 6 yodel
+yodeling 3 10 yodel
+yodelling 3 10 yodel
 
