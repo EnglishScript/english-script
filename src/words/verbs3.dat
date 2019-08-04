@@ -1167,12 +1167,8 @@ embroil 1 1
 enroll 1 1
 entail 1 1
 enthrall 1 1
-expel 1 1
-extol 1 1
 eyeball 1 1
 fail 1 1
-fall 1 1
-feel 1 1
 fell 1 1
 fill 1 1
 fingerspell 1 1
@@ -1181,29 +1177,22 @@ foal 1 1
 foil 1 1
 fool 1 1
 forestall 1 1
-foretell 1 1
 foul 1 1
 fowl 1 1
 freewheel 1 1
-fuel 1 1
-fulfil 1 1
 fulfill 1 1
 full 1 1
 funnel 1 1
 gall 1 1
-gambol 1 1
 gaol 1 1
 gel 1 1
-general 1 1
 gnarl 1 1
-gravel 1 1
 grill 1 1
 grovel 1 1
 growl 1 1
 gull 1 1
 hail 1 1
 haul 1 1
-heal 1 1
 heel 1 1
 hill 1 1
 hobnail 1 1
@@ -1211,17 +1200,12 @@ howl 1 1
 hull 1 1
 hurl 1 1
 impel 1 1
-indwell 1 1
-initial 1 1
-instal 1 1
 install 1 1
-instil 1 1
 instill 1 1
 jail 1 1
 jewel 1 1
 kennel 1 1
 kill 1 1
-kneel 1 1
 knell 1 1
 label 1 1
 level 1 1
@@ -1236,8 +1220,6 @@ maul 1 1
 metal 1 1
 mill 1 1
 minstrel 1 1
-misdeal 1 1
-misspell 1 1
 model 1 1
 mothball 1 1
 mull 1 1
@@ -1556,4 +1538,273 @@ excels 1 9 excel
 excelled 1 6 excel
 excelling 3 10 excel
 
+expel 1 1 expels expelled expelling
+expels 1 9 expel
+expelled 1 6 expel
+expelling 3 10 expel
+
+extol 1 1 extols extolled extolling
+extols 1 9 extol
+extolled 1 6 extol
+extolling 3 10 extol
+
+fall 1 1 falls fell fallen falled falling
+falls 1 9 fall
+fell 1 2 fall
+fallen 1 4 fall
+falled 1 6 fall
+falling 3 10 fall
+
+feel 1 1 feels felt feeling
+feels 1 9 feel
+felt 1 6 feel
+feeling 3 10 feel
+
+foretell 1 1 foretells foretold foretelling
+foretells 1 9 foretell
+foretold 1 6 foretell
+foretelling 3 10 foretell
+
+fuel 1 1 fuels fueled fuelled fueling fuelling
+fuels 1 9 fuel
+fueled 1 6 fuel
+fuelled 1 6 fuel
+fueling 3 10 fuel
+fuelling 3 10 fuel
+
+fulfil 1 1 fulfils fulfilled fulfilling
+fulfils 1 9 fulfil
+fulfilled 1 6 fulfil
+fulfilling 3 10 fulfil
+
+funnel 1 1 funnels funneled funnelled funneling funnelling
+funnels 1 9 funnel
+funneled 1 6 funnel
+funnelled 1 6 funnel
+funneling 3 10 funnel
+funnelling 3 10 funnel
+
+gambol 1 1 gambols gamboled gambolled gamboling gambolling
+gambols 1 9 gambol
+gamboled 1 6 gambol
+gambolled 1 6 gambol
+gamboling 3 10 gambol
+gambolling 3 10 gambol
+
+gel 1 1 gels gelled gelling
+gels 1 9 gel
+gelled 1 6 gel
+gelling 3 10 gel
+
+general 1 1 generals generaled generalled generaling generalling
+generals 1 9 general
+generaled 1 6 general
+generalled 1 6 general
+generaling 3 10 general
+generalling 3 10 general
+
+gravel 1 1 gravels graveled gravelled graveling gravelling
+gravels 1 9 gravel
+graveled 1 6 gravel
+gravelled 1 6 gravel
+graveling 3 10 gravel
+gravelling 3 10 gravel
+
+grovel 1 1 grovels groveled grovelled groveling grovelling
+grovels 1 9 grovel
+groveled 1 6 grovel
+grovelled 1 6 grovel
+groveling 3 10 grovel
+grovelling 3 10 grovel
+
+heal 1 1 heals healed hole holen healing
+heals 1 9 heal
+healed 1 6 heal
+hole 1 2 heal
+holen 1 4 heal
+healing 3 10 heal
+
+impel 1 1 impels impelled impelling
+impels 1 9 impel
+impelled 1 6 impel
+impelling 3 10 impel
+
+indwell 1 1 indwell indwell indwell indwell
+indwells 1 9 indwell
+indwelled 1 6 indwell
+indwelt 1 6 indwell
+indwelling 3 10 indwell
+
+initial 1 1 initials initialed initialled initialing initialling
+initials 1 9 initial
+initialed 1 6 initial
+initialled 1 6 initial
+initialing 3 10 initial
+initialling 3 10 initial
+
+instal 1 1 instals installed installing
+instals 1 9 instal
+installed 1 6 instal
+installing 3 10 instal
+
+instil 1 1 instils instilled instilling
+instils 1 9 instil
+instilled 1 6 instil
+instilling 3 10 instil
+
+jewel 1 1 jewels jeweled jewelled jeweling jewelling
+jewels 1 9 jewel
+jeweled 1 6 jewel
+jewelled 1 6 jewel
+jeweling 3 10 jewel
+jewelling 3 10 jewel
+
+kennel 1 1 kennels kenneled kennelled kenneling kennelling
+kennels 1 9 kennel
+kenneled 1 6 kennel
+kennelled 1 6 kennel
+kenneling 3 10 kennel
+kennelling 3 10 kennel
+
+kneel 1 1 kneels kneeled knelt kneeling
+kneels 1 9 kneel
+kneeled 1 6 kneel
+knelt 1 6 kneel
+kneeling 3 10 kneel
+
+label 1 1 labels labeled labelled labeling labelling
+labels 1 9 label
+labeled 1 6 label
+labelled 1 6 label
+labeling 3 10 label
+labelling 3 10 label
+
+level 1 1 levels leveled levelled leveling levelling
+levels 1 9 level
+leveled 1 6 level
+levelled 1 6 level
+leveling 3 10 level
+levelling 3 10 level
+
+libel 1 1 libels libeled libelled libeling libelling
+libels 1 9 libel
+libeled 1 6 libel
+libelled 1 6 libel
+libeling 3 10 libel
+libelling 3 10 libel
+
+marshal 1 1 marshals marshaled marshalled marshaling marshalling
+marshals 1 9 marshal
+marshaled 1 6 marshal
+marshalled 1 6 marshal
+marshaling 3 10 marshal
+marshalling 3 10 marshal
+
+marvel 1 1 marvels marveled marvelled marveling marvelling
+marvels 1 9 marvel
+marveled 1 6 marvel
+marvelled 1 6 marvel
+marveling 3 10 marvel
+marvelling 3 10 marvel
+
+metal 1 1 metals metalled metalling
+metals 1 9 metal
+metalled 1 6 metal
+metalling 3 10 metal
+
+misdeal 1 1 misdeals misdealt misdealing
+misdeals 1 9 misdeal
+misdealt 1 6 misdeal
+misdealing 3 10 misdeal
+
+misspell 1 1 misspells misspelled misspelt misspelling
+misspells 1 9 misspell
+misspelled 1 6 misspell
+misspelt 1 6 misspell
+misspelling 3 10 misspell
+
+model 1 1 models modeled modelled modeling modelling
+models 1 9 model
+modeled 1 6 model
+modelled 1 6 model
+modeling 3 10 model
+modelling 3 10 model
+
+nickel 1 1 nickels nickeled nickelled nickeling nickelling
+nickels 1 9 nickel
+nickeled 1 6 nickel
+nickelled 1 6 nickel
+nickeling 3 10 nickel
+nickelling 3 10 nickel
+
+pal 1 1 pals palled palling
+pals 1 9 pal
+palled 1 6 pal
+palling 3 10 pal
+
+panel 1 1 panels paneled panelled paneling panelling
+panels 1 9 panel
+paneled 1 6 panel
+panelled 1 6 panel
+paneling 3 10 panel
+panelling 3 10 panel
+
+parallel 1 1 parallels paralleled parallelled paralleling parallelling
+parallels 1 9 parallel
+paralleled 1 6 parallel
+parallelled 1 6 parallel
+paralleling 3 10 parallel
+parallelling 3 10 parallel
+
+parcel 1 1 parcels parceled parcelled parceling parcelling
+parcels 1 9 parcel
+parceled 1 6 parcel
+parcelled 1 6 parcel
+parceling 3 10 parcel
+parcelling 3 10 parcel
+
+patrol 1 1 patrols patrolled patrolling
+patrols 1 9 patrol
+patrolled 1 6 patrol
+patrolling 3 10 patrol
+
+pedal 1 1 pedals pedaled pedalled pedaling pedalling
+pedals 1 9 pedal
+pedaled 1 6 pedal
+pedalled 1 6 pedal
+pedaling 3 10 pedal
+pedalling 3 10 pedal
+
+xxxx 1 1 xxxxs xxxxed xxxxled xxxxing xxxxling
+xxxxs 1 9 xxxx
+xxxxed 1 6 xxxx
+xxxxled 1 6 xxxx
+xxxxing 3 10 xxxx
+xxxxling 3 10 xxxx
+
+xxxx 1 1 xxxxs xxxxed xxxxled xxxxing xxxxling
+xxxxs 1 9 xxxx
+xxxxed 1 6 xxxx
+xxxxled 1 6 xxxx
+xxxxing 3 10 xxxx
+xxxxling 3 10 xxxx
+
+xxxx 1 1 xxxxs xxxxed xxxxled xxxxing xxxxling
+xxxxs 1 9 xxxx
+xxxxed 1 6 xxxx
+xxxxled 1 6 xxxx
+xxxxing 3 10 xxxx
+xxxxling 3 10 xxxx
+
+xxxx 1 1 xxxxs xxxxed xxxxled xxxxing xxxxling
+xxxxs 1 9 xxxx
+xxxxed 1 6 xxxx
+xxxxled 1 6 xxxx
+xxxxing 3 10 xxxx
+xxxxling 3 10 xxxx
+
+yyyy 1 1 yyyys yyyyled yyyyling
+yyyys 1 9 yyyy
+yyyyled 1 6 yyyy
+yyyyling 3 10 yyyy
 
