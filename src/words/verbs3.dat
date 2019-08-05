@@ -2006,3 +2006,209 @@ yodelled 1 6 yodel
 yodeling 3 10 yodel
 yodelling 3 10 yodel
 
+#
+# Word ending to "M"
+#  -ed
+#  -s
+#  -ing
+#
+
+anagram 1 1 anagrams anagrammed anagramming
+anagrams 1 9 anagram
+anagrammed 1 6 anagram
+anagramming 3 10 anagram
+
+brim 1 1 brims brimmed brimming
+brims 1 9 brim
+brimmed 1 6 brim
+brimming 3 10 brim
+
+buckram 1 1 buckrams buckramed buckrammed buckramming
+buckrams 1 9 buckram
+buckramed 1 6 buckram
+buckrammed 1 6 buckram
+buckraming 3 10 buckram
+
+bum 1 1 bums bummed bumming
+bums 1 9 bum
+bummed 1 6 bum
+bumming 3 10 bum
+
+clam 1 1 clams clammed clamming
+clams 1 9 clam
+clammed 1 6 clam
+clamming 3 10 clam
+
+cram 1 1 crams crammed cramming
+crams 1 9 cram
+crammed 1 6 cram
+cramming 3 10 cram
+
+dam 1 1 dams dammed damming
+dams 1 9 dam
+dammed 1 6 dam
+damming 3 10 dam
+
+daydream 1 1 daydreams daydreamed daydreamt daydreaming
+daydreams 1 9 daydream
+daydreamed 1 6 daydream
+daydreamt 1 6 daydream
+daydreaming 3 10 daydream
+
+diagram 1 1 diagrams diagramed diagrammed diagraming  diagramming
+diagrams 1 9 diagram
+diagramed 1 6 diagram
+diagrammed 1 6 diagram
+diagraming 3 10 diagram
+diagramming 3 10 diagram
+
+dream 1 1 dreams dreamed dreamt dreaming
+dreams 1 9 dream
+dreamed 1 6 dream
+dreamt 1 6 dream
+dreaming 3 10 dream
+
+drum 1 1 drums drummed drumming
+drums 1 9 drum
+drummed 1 6 drum
+drumming 3 10 drum
+
+flim-flam 1 1 flim-flams flim-flammed flim-flamming
+flim-flams 1 9 flim-flam
+flim-flammed 1 6 flim-flam
+flim-flamming 3 10 flim-flam
+
+gum 1 1 gums gummed gumming
+gums 1 9 gum
+gummed 1 6 gum
+gumming 3 10 gum
+
+ham 1 1 hams hammed hamming
+hams 1 9 ham
+hammed 1 6 ham
+hamming 3 10 ham
+
+hem 1 1 hems hemmed hemming
+hems 1 9 hem
+hemmed 1 6 hem
+hemming 3 10 hem
+
+hum 1 1 hums hummed humming
+hums 1 9 hum
+hummed 1 6 hum
+humming 3 10 hum
+
+jam 1 1 jams jammed jamming
+jams 1 9 jam
+jammed 1 6 jam
+jamming 3 10 jam
+
+lam 1 1 lams lammed lamming
+lams 1 9 lam
+lammed 1 6 lam
+lamming 3 10 lam
+
+program 1 1 programs programmed programming
+programs 1 9 program
+programmed 1 6 program
+programming 3 10 program
+
+ram 1 1 rams rammed ramming
+rams 1 9 ram
+rammed 1 6 ram
+ramming 3 10 ram
+
+rim 1 1 rims rimmed rimming
+rims 1 9 rim
+rimmed 1 6 rim
+rimming 3 10 rim
+
+scam 1 1 scams scammed scamming
+scams 1 9 scam
+scammed 1 6 scam
+scamming 3 10 scam
+
+scum 1 1 scums scummed scumming
+scums 1 9 scum
+scummed 1 6 scum
+scumming 3 10 scum
+
+sham 1 1 shams shammed shamming
+shams 1 9 sham
+shammed 1 6 sham
+shamming 3 10 sham
+
+skim 1 1 skims skimmed skimming
+skims 1 9 skim
+skimmed 1 6 skim
+skimming 3 10 skim
+
+slam 1 1 slams slammed slamming
+slams 1 9 slam
+slammed 1 6 slam
+slamming 3 10 slam
+
+xxxx 1 1 xxxxs xxxxed xxxxmed xxxxming
+xxxxs 1 9 xxxx
+xxxxed 1 6 xxxx
+xxxxmed 1 6 xxxx
+xxxxing 3 10 xxxx
+
+xxxx 1 1 xxxxs xxxxed xxxxmed xxxxming
+xxxxs 1 9 xxxx
+xxxxed 1 6 xxxx
+xxxxmed 1 6 xxxx
+xxxxing 3 10 xxxx
+
+xxxx 1 1 xxxxs xxxxed xxxxmed xxxxming
+xxxxs 1 9 xxxx
+xxxxed 1 6 xxxx
+xxxxmed 1 6 xxxx
+xxxxing 3 10 xxxx
+
+xxxx 1 1 xxxxs xxxxed xxxxmed xxxxming
+xxxxs 1 9 xxxx
+xxxxed 1 6 xxxx
+xxxxmed 1 6 xxxx
+xxxxing 3 10 xxxx
+
+yyyy 1 1 yyyys yyyymed yyyyming
+yyyys 1 9 yyyy
+yyyymed 1 6 yyyy
+yyyyming 3 10 yyyy
+
+yyyy 1 1 yyyys yyyymed yyyyming
+yyyys 1 9 yyyy
+yyyymed 1 6 yyyy
+yyyyming 3 10 yyyy
+
+yyyy 1 1 yyyys yyyymed yyyyming
+yyyys 1 9 yyyy
+yyyymed 1 6 yyyy
+yyyyming 3 10 yyyy
+
+yyyy 1 1 yyyys yyyymed yyyyming
+yyyys 1 9 yyyy
+yyyymed 1 6 yyyy
+yyyyming 3 10 yyyy
+
+yyyy 1 1 yyyys yyyymed yyyyming
+yyyys 1 9 yyyy
+yyyymed 1 6 yyyy
+yyyyming 3 10 yyyy
+
+yyyy 1 1 yyyys yyyymed yyyyming
+yyyys 1 9 yyyy
+yyyymed 1 6 yyyy
+yyyyming 3 10 yyyy
+
+yyyy 1 1 yyyys yyyymed yyyyming
+yyyys 1 9 yyyy
+yyyymed 1 6 yyyy
+yyyyming 3 10 yyyy
+
+yyyy 1 1 yyyys yyyymed yyyyming
+yyyys 1 9 yyyy
+yyyymed 1 6 yyyy
+yyyyming 3 10 yyyy
+
