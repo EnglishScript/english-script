@@ -2013,6 +2013,122 @@ yodelling 3 10 yodel
 #  -ing
 #
 
+acclaim 1 1
+affirm 1 1
+aim 1 1
+alarm 1 1
+anagram 1 1
+arm 1 1
+barnstorm 1 1
+beam 1 1
+bloom 1 1
+blossom 1 1
+boom 1 1
+bosom 1 1
+bottom 1 1
+brainstorm 1 1
+brim 1 1
+broom 1 1
+buckram 1 1
+bum 1 1
+calm 1 1
+carom 1 1
+charm 1 1
+chloroform 1 1
+claim 1 1
+clam 1 1
+confirm 1 1
+conform 1 1
+counterclaim 1 1
+cram 1 1
+cream 1 1
+dam 1 1
+daydream 1 1
+declaim 1 1
+deform 1 1
+diagram 1 1
+disarm 1 1
+disclaim 1 1
+disesteem 1 1
+doom 1 1
+dream 1 1
+drum 1 1
+embalm 1 1
+esteem 1 1
+exclaim 1 1
+farm 1 1
+fathom 1 1
+film 1 1
+flim-flam 1 1
+foam 1 1
+form 1 1
+gleam 1 1
+groom 1 1
+gum 1 1
+ham 1 1
+harm 1 1
+hem 1 1
+hum 1 1
+inform 1 1
+jam 1 1
+lam 1 1
+maim 1 1
+microfilm 1 1
+misinform 1 1
+mushroom 1 1
+palm 1 1
+perform 1 1
+perm 1 1
+preform 1 1
+proclaim 1 1
+program 1 1
+psalm 1 1
+ram 1 1
+ransom 1 1
+reaffirm 1 1
+ream 1 1
+rearm 1 1
+reclaim 1 1
+redeem 1 1
+reform 1 1
+rim 1 1
+roam 1 1
+room 1 1
+salaam 1 1
+scam 1 1
+scream 1 1
+scum 1 1
+seam 1 1
+sham 1 1
+skim 1 1
+slalom 1 1
+slam 1 1
+slum 1 1
+squirm 1 1
+steam 1 1
+stem 1 1
+storm 1 1
+stream 1 1
+strong-arm 1 1
+strum 1 1
+sum 1 1
+swarm 1 1
+swim 1 1
+team 1 1
+teem 1 1
+term 1 1
+thrum 1 1
+tram 1 1
+transform 1 1
+trim 1 1
+underperform 1 1
+uniform 1 1
+vacuum 1 1
+warm 1 1
+zoom 1 1
+
+# Nonconformant verbs
+
 anagram 1 1 anagrams anagrammed anagramming
 anagrams 1 9 anagram
 anagrammed 1 6 anagram
@@ -2148,67 +2264,456 @@ slams 1 9 slam
 slammed 1 6 slam
 slamming 3 10 slam
 
-xxxx 1 1 xxxxs xxxxed xxxxmed xxxxming
+slum 1 1 slums slummed slumming
+slums 1 9 slum
+slummed 1 6 slum
+slumming 3 10 slum
+
+stem 1 1 stems stemmed stemming
+stems 1 9 stem
+stemmed 1 6 stem
+stemming 3 10 stem
+
+strum 1 1 strums strummed strumming
+strums 1 9 strum
+strummed 1 6 strum
+strumming 3 10 strum
+
+sum 1 1 sums summed summing
+sums 1 9 sum
+summed 1 6 sum
+summing 3 10 sum
+
+swim 1 1 swims swam swimming
+swims 1 9 swim
+swam 1 6 swim
+swimmimg 3 10 swim
+
+thrum 1 1 thrums thrummed thrumming
+thrums 1 9 thrum
+thrummed 1 6 thrum
+thrumming 3 10 thrum
+
+tram 1 1 trams trammed tramming
+trams 1 9 tram
+trammed 1 6 tram
+tramming 3 10 tram
+
+trim 1 1 trims trimmed trimming
+trims 1 9 trim
+trimmed 1 6 trim
+trimming 3 10 trim
+
+#
+# Word ending to "N"
+#  -ed
+#  -s
+#  -ing
+#
+
+abstain 1 1
+action 1 1
+adjoin 1 1
+adjourn 1 1
+adorn 1 1
+air-condition 1 1
+align 1 1
+ambition 1 1
+appertain 1 1
+apportion 1 1
+arraign 1 1
+ascertain 1 1
+assign 1 1
+attain 1 1
+auction 1 1
+audition 1 1
+awaken 1 1
+balloon 1 1
+ban 1 1
+bargain 1 1
+batten 1 1
+beacon 1 1
+bean 1 1
+begin 1 1
+bin 1 1
+blacken 1 1
+blazon 1 1
+bludgeon 1 1
+brain 1 1
+brighten 1 1
+brown 1 1
+bulletin 1 1
+burden 1 1
+burn 1 1
+burthen 1 1
+button 1 1
+cabin 1 1
+campaign 1 1
+can 1 1
+cannon 1 1
+canton 1 1
+caparison 1 1
+captain 1 1
+caption 1 1
+caravan 1 1
+careen 1 1
+cartoon 1 1
+caution 1 1
+cavern 1 1
+chagrin 1 1
+chain 1 1
+chairman 1 1
+champion 1 1
+chaperon 1 1
+charleston 1 1
+christen 1 1
+churn 1 1
+clarion 1 1
+claxon 1 1
+clean 1 1
+clown 1 1
+cocoon 1 1
+coffin 1 1
+coin 1 1
+commission 1 1
+companion 1 1
+complain 1 1
+complexion 1 1
+con 1 1
+concern 1 1
+condemn 1 1
+condition 1 1
+confection 1 1
+conjoin 1 1
+consign 1 1
+contain 1 1
+corn 1 1
+cosign 1 1
+countersign 1 1
+cozen 1 1
+crayon 1 1
+crimson 1 1
+croon 1 1
+crown 1 1
+curtain 1 1
+cushion 1 1
+damn 1 1
+dampen 1 1
+darken 1 1
+darn 1 1
+dawn 1 1
+deaden 1 1
+deepen 1 1
+derequisition 1 1
+design 1 1
+detain 1 1
+dimension 1 1
+din 1 1
+discern 1 1
+disdain 1 1
+dishearten 1 1
+disillusion 1 1
+disjoin 1 1
+disown 1 1
+down 1 1
+dragoon 1 1
+drain 1 1
+drown 1 1
+dun 1 1
+earn 1 1
+enjoin 1 1
+enlighten 1 1
+enliven 1 1
+entertain 1 1
+envision 1 1
+even 1 1
+explain 1 1
+falcon 1 1
+fan 1 1
+fashion 1 1
+fasten 1 1
+fawn 1 1
+feign 1 1
+festoon 1 1
+fin 1 1
+flatten 1 1
+foreordain 1 1
+forewarn 1 1
+fraction 1 1
+freshen 1 1
+frighten 1 1
+frown 1 1
+function 1 1
+gain 1 1
+garden 1 1
+garrison 1 1
+gin 1 1
+gladden 1 1
+glean 1 1
+glisten 1 1
+govern 1 1
+gown 1 1
+grain 1 1
+green 1 1
+grin 1 1
+groan 1 1
+gun 1 1
+happen 1 1
+harden 1 1
+harpoon 1 1
+hearten 1 1
+honeymoon 1 1
+horn 1 1
+houseclean 1 1
+hymn 1 1
+hyphen 1 1
+imprison 1 1
+inspan 1 1
+intern 1 1
+iron 1 1
+japan 1 1
+join 1 1
+keen 1 1
+kern 1 1
+kitten 1 1
+lampoon 1 1
+lean 1 1
+learn 1 1
+leaven 1 1
+lengthen 1 1
+lighten 1 1
+limn 1 1
+listen 1 1
+loan 1 1
+loosen 1 1
+louden 1 1
+maintain 1 1
+malfunction 1 1
+malign 1 1
+man 1 1
+maroon 1 1
+mean 1 1
+mention 1 1
+misalign 1 1
+misgovern 1 1
+moan 1 1
+moisten 1 1
+moon 1 1
+motion 1 1
+mourn 1 1
+munition 1 1
+obtain 1 1
+occasion 1 1
+omen 1 1
+open 1 1
+ordain 1 1
+orphan 1 1
+outspan 1 1
+overburden 1 1
+overrun 1 1
+overstrain 1 1
+overturn 1 1
+own 1 1
+pain 1 1
+pan 1 1
+pardon 1 1
+partition 1 1
+pattern 1 1
+pawn 1 1
+pen 1 1
+pension 1 1
+pertain 1 1
+petition 1 1
+pin 1 1
+pinion 1 1
+plan 1 1
+plea-bargain 1 1
+poison 1 1
+portion 1 1
+position 1 1
+prawn 1 1
+precondition 1 1
+preordain 1 1
+proportion 1 1
+proposition 1 1
+provision 1 1
+pun 1 1
+queen 1 1
+question 1 1
+quicken 1 1
+quieten 1 1
+rain 1 1
+ration 1 1
+reapportion 1 1
+reason 1 1
+reassign 1 1
+reckon 1 1
+refrain 1 1
+regain 1 1
+reign 1 1
+rein 1 1
+remain 1 1
+reposition 1 1
+repugn 1 1
+requisition 1 1
+rerun 1 1
+resign 1 1
+restrain 1 1
+retain 1 1
+retrain 1 1
+return 1 1
+ripen 1 1
+rosin 1 1
+roughen 1 1
+ruin 1 1
+run 1 1
+sadden 1 1
+sanction 1 1
+scan 1 1
+scorn 1 1
+screen 1 1
+season 1 1
+section 1 1
+sharpen 1 1
+shorten 1 1
+shun 1 1
+sign 1 1
+sin 1 1
+siphon 1 1
+skin 1 1
+slacken 1 1
+soften 1 1
+sojourn 1 1
+span 1 1
+spawn 1 1
+spin 1 1
+spoon 1 1
+sprain 1 1
+spring-clean 1 1
+spurn 1 1
+stain 1 1
+station 1 1
+stiffen 1 1
+straighten 1 1
+strain 1 1
+strengthen 1 1
+stun 1 1
+subjoin 1 1
+suborn 1 1
+suction 1 1
+summon 1 1
+sun 1 1
+sunburn 1 1
+suntan 1 1
+sustain 1 1
+sweeten 1 1
+swoon 1 1
+syphon 1 1
+tampon 1 1
+tan 1 1
+thicken 1 1
+thin 1 1
+tighten 1 1
+tin 1 1
+toboggan 1 1
+toilet-train 1 1
+train 1 1
+transition 1 1
+trepan 1 1
+turn 1 1
+twin 1 1
+unburden 1 1
+unbutton 1 1
+unchain 1 1
+unfasten 1 1
+unpin 1 1
+unstrain 1 1
+vacation 1 1
+vermilion 1 1
+waken 1 1
+wanton 1 1
+warn 1 1
+weaken 1 1
+wean 1 1
+whiten 1 1
+widen 1 1
+win 1 1
+worsen 1 1
+yarn 1 1
+yawn 1 1
+yearn 1 1
+yen 1 1
+
+# Nonconformant verbs
+
+awaken 1 1 awakens awoke awoken awakening
+awakens 1 9 awaken
+awoke 1 2 awaken
+awoken 1 4 awaken
+awakening 3 10 awaken
+
+ban 1 1 bans banned banning
+bans 1 9 ban
+banned 1 6 ban
+banning 3 10 ban
+
+begin 1 1 begins began begun beginning
+begins 1 9 begin
+began 1 2 begin
+begun 1 4 begin
+beginning 3 10 begin
+
+bin 1 1 bins binned binning
+bins 1 9 bin
+binned 1 6 bin
+binning 3 10 bin
+
+burn 1 1 burns burned burnt burning
+burns 1 9 burn
+burned 1 6 burn
+burnt 1 6 burn
+burning 3 10 burn
+
+can 1 1 cans canned canning
+cans 1 9 can
+canned 1 6 can
+canning 3 10 can
+
+caravan 1 1 caravans caravaned caravanned caravaning  caravanning
+caravans 1 9 caravan
+caravaned 1 6 caravan
+caravanned 1 6 caravan
+caravaning 3 10 caravan
+caravanning 3 10 caravan
+
+chairman 1 1 chairmans chairmaned chairmanned chairmaning  chairmanning
+chairmans 1 9 chairman
+chairmaned 1 6 chairman
+chairmanned 1 6 chairman
+chairmaning 3 10 chairman
+chairmanning 3 10 chairman
+
+con 1 1 cons conned conning
+cons 1 9 con
+conned 1 6 con
+conning 3 10 con
+
+xxxx 1 1 xxxxs xxxxed xxxxned xxxxing  xxxxning
 xxxxs 1 9 xxxx
 xxxxed 1 6 xxxx
-xxxxmed 1 6 xxxx
+xxxxned 1 6 xxxx
 xxxxing 3 10 xxxx
+xxxxning 3 10 xxxx
 
-xxxx 1 1 xxxxs xxxxed xxxxmed xxxxming
+xxxx 1 1 xxxxs xxxxed xxxxned xxxxing  xxxxning
 xxxxs 1 9 xxxx
 xxxxed 1 6 xxxx
-xxxxmed 1 6 xxxx
+xxxxned 1 6 xxxx
 xxxxing 3 10 xxxx
+xxxxning 3 10 xxxx
 
-xxxx 1 1 xxxxs xxxxed xxxxmed xxxxming
-xxxxs 1 9 xxxx
-xxxxed 1 6 xxxx
-xxxxmed 1 6 xxxx
-xxxxing 3 10 xxxx
-
-xxxx 1 1 xxxxs xxxxed xxxxmed xxxxming
-xxxxs 1 9 xxxx
-xxxxed 1 6 xxxx
-xxxxmed 1 6 xxxx
-xxxxing 3 10 xxxx
-
-yyyy 1 1 yyyys yyyymed yyyyming
+yyyy 1 1 yyyys yyyyned yyyyning
 yyyys 1 9 yyyy
-yyyymed 1 6 yyyy
-yyyyming 3 10 yyyy
-
-yyyy 1 1 yyyys yyyymed yyyyming
-yyyys 1 9 yyyy
-yyyymed 1 6 yyyy
-yyyyming 3 10 yyyy
-
-yyyy 1 1 yyyys yyyymed yyyyming
-yyyys 1 9 yyyy
-yyyymed 1 6 yyyy
-yyyyming 3 10 yyyy
-
-yyyy 1 1 yyyys yyyymed yyyyming
-yyyys 1 9 yyyy
-yyyymed 1 6 yyyy
-yyyyming 3 10 yyyy
-
-yyyy 1 1 yyyys yyyymed yyyyming
-yyyys 1 9 yyyy
-yyyymed 1 6 yyyy
-yyyyming 3 10 yyyy
-
-yyyy 1 1 yyyys yyyymed yyyyming
-yyyys 1 9 yyyy
-yyyymed 1 6 yyyy
-yyyyming 3 10 yyyy
-
-yyyy 1 1 yyyys yyyymed yyyyming
-yyyys 1 9 yyyy
-yyyymed 1 6 yyyy
-yyyyming 3 10 yyyy
-
-yyyy 1 1 yyyys yyyymed yyyyming
-yyyys 1 9 yyyy
-yyyymed 1 6 yyyy
-yyyyming 3 10 yyyy
+yyyyned 1 6 yyyy
+yyyyning 3 10 yyyy
 
