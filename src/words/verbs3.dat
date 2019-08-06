@@ -2698,6 +2698,86 @@ cons 1 9 con
 conned 1 6 con
 conning 3 10 con
 
+din 1 1 dins dinned dinning
+dins 1 9 din
+dinned 1 6 din
+dinning 3 10 din
+
+dun 1 1 duns dunned dunning
+duns 1 9 dun
+dunned 1 6 dun
+dunning 3 10 dun
+
+earn 1 1 earns earned earnt earning
+earns 1 9 earn
+earned 1 6 earn
+earnt 1 6 earn
+earning earn
+
+fan 1 1 fans fanned fanning
+fans 1 9 fan
+fanned 1 6 fan
+fanning 3 10 fan
+
+fin 1 1 fins finned finning
+fins 1 9 fin
+finned 1 6 fin
+finning 3 10 fin
+
+gin 1 1 gins ginned gan gun ginning
+gins 1 9 gin
+ginned 1 6 gin
+gan 1 2 gin
+gun 1 4 gin
+ginning 3 10 gin
+
+grin 1 1 grins grinned grinning
+grins 1 9 grin
+grinned 1 6 grin
+grinning 3 10 grin
+
+gun 1 1 guns gunned gunning
+guns 1 9 gun
+gunned 1 6 gun
+gunning 3 10 gun
+
+inspan 1 1 inspans inspanned inspanning
+inspans 1 9 inspan
+inspanned 1 6 inspan
+inspanning 3 10 inspan
+
+lean 1 1 leans leaned leant leaning
+leans 1 9 lean
+leaned 1 6 lean
+leant 1 6 lean
+leaning 3 10 lean
+
+learn 1 1 learns learned learnt learning
+learns 1 9 learn
+learned 1 6 learn
+learnt 1 6 learn
+learning 3 10 learn
+
+man 1 1 mans manned manning
+mans 1 9 man
+manned 1 6 man
+manning 3 10 man
+
+mean 1 1 means meant meaning
+means 1 9 mean
+meant 1 6 mean
+meaning 3 10 mean
+
+outspan 1 1 outspans outspanned outspanning
+outspans 1 9 outspan
+outspanned 1 6 outspan
+outspanning 3 10 outspan
+
+overrun 1 5 overruns overran overrunning
+overruns 1 9 overrun
+overran 1 2 overrun
+overrunning 3 10 overrun
+
 xxxx 1 1 xxxxs xxxxed xxxxned xxxxing  xxxxning
 xxxxs 1 9 xxxx
 xxxxed 1 6 xxxx
