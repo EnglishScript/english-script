@@ -2778,22 +2778,126 @@ overruns 1 9 overrun
 overran 1 2 overrun
 overrunning 3 10 overrun
 
-xxxx 1 1 xxxxs xxxxed xxxxned xxxxing  xxxxning
-xxxxs 1 9 xxxx
-xxxxed 1 6 xxxx
-xxxxned 1 6 xxxx
-xxxxing 3 10 xxxx
-xxxxning 3 10 xxxx
+pan 1 1 pans panned panning
+pans 1 9 pan
+panned 1 6 pan
+panning 3 10 pan
 
-xxxx 1 1 xxxxs xxxxed xxxxned xxxxing  xxxxning
-xxxxs 1 9 xxxx
-xxxxed 1 6 xxxx
-xxxxned 1 6 xxxx
-xxxxing 3 10 xxxx
-xxxxning 3 10 xxxx
+pen 1 1 pens penned pent penning
+pens 1 9 pen
+penned 1 6 pen
+pent 1 6 pen
+penning 3 10 pen
 
-yyyy 1 1 yyyys yyyyned yyyyning
-yyyys 1 9 yyyy
-yyyyned 1 6 yyyy
-yyyyning 3 10 yyyy
+pin 1 1 pins pinned pinning
+pins 1 9 pin
+pinned 1 6 pin
+pinning 3 10 pin
+
+plan 1 1 plans planned planning
+plans 1 9 plan
+planned 1 6 plan
+planning 3 10 plan
+
+pun 1 1 puns punned punning
+puns 1 9 pun
+punned 1 6 pun
+punning 3 10 pun
+
+rerun 1 5 reruns reran rerunning
+reruns 1 9 rerun
+reran 1 2 rerun
+rerunning 3 10 rerun
+
+run 1 5 runs ran running
+runs 1 9 run
+ran 1 2 run
+running 3 10 run
+
+scan 1 1 scans scanned scanning
+scans 1 9 scan
+scanned 1 6 scan
+scanning 3 10 scan
+
+shun 1 1 shuns shunned shunning
+shuns 1 9 shun
+shunned 1 6 shun
+shunning 3 10 shun
+
+sin 1 1 sins sinned sinning
+sins 1 9 sin
+sinned 1 6 sin
+sinning 3 10 sin
+
+skin 1 1 skins skinned skinning
+skins 1 9 skin
+skinned 1 6 skin
+skinning 3 10 skin
+
+span 1 1 spans spanned spanning
+spans 1 9 span
+spanned 1 6 span
+spanning 3 10 span
+
+spin 1 1 spins spun spinning
+spins 1 9 spin
+spun 1 6 spin
+spinning 3 10 spin
+
+stun 1 1 stuns stunned stunning
+stuns 1 9 stun
+stunned 1 6 stun
+stunning 3 10 stun
+
+sun 1 1 suns sunned sunning
+suns 1 9 sun
+sunned 1 6 sun
+sunning 3 10 sun
+
+suntan 1 1 suntans suntanned suntanning
+suntans 1 9 suntan
+suntanned 1 6 suntan
+suntanning 3 10 suntan
+
+tan 1 1 tans tanned tanning
+tans 1 9 tan
+tanned 1 6 tan
+tanning 3 10 tan
+
+thin 1 1 thins thinned thinning
+thins 1 9 thin
+thinned 1 6 thin
+thinning 3 10 thin
+
+tin 1 1 tins tinned tinning
+tins 1 9 tin
+tinned 1 6 tin
+tinning 3 10 tin
+
+trepan 1 1 trepans trepaned trepanned trepaning  trepanning
+trepans 1 9 trepan
+trepaned 1 6 trepan
+trepanned 1 6 trepan
+trepaning 3 10 trepan
+trepanning 3 10 trepan
+
+twin 1 1 twins twinned twinning
+twins 1 9 twin
+twinned 1 6 twin
+twinning 3 10 twin
+
+unpin 1 1 unpins unpinned unpinning
+unpins 1 9 unpin
+unpinned 1 6 unpin
+unpinning 3 10 unpin
+
+win 1 1 wins won winning
+wins 1 9 win
+won 1 6 win
+winning 3 10 win
+
+yen 1 1 yens yenned yenning
+yens 1 9 yen
+yenned 1 6 yen
+yenning 3 10 yen
 
