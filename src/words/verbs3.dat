@@ -2901,3 +2901,120 @@ yens 1 9 yen
 yenned 1 6 yen
 yenning 3 10 yen
 
+#
+# Word ending to "O"
+#  -ed
+#  -s
+#  -ing
+#
+
+bastinado 1 1 bastinadoes bastinadoed bastinadoing
+bastinadoes 1 9 bastinado
+bastinadoed 1 6 bastinado
+bastinadoing 3 10 bastinado
+
+crescendo 1 1 crescendoes crescendoed crescendoing
+crescendoes 1 9 crescendo
+crescendoed 1 6 crescendo
+crescendoing 3 10 crescendo
+
+do 1 1 does did done doing
+does 1 9 do
+did 1 2 do
+done 1 4 do
+doing 3 10 do
+
+echo 1 1 echoes echoed echoing
+echoes 1 9 echo
+echoed 1 6 echo
+echoing 3 10 echo
+
+embargo 1 1 embargoes embargoed embargoing
+embargoes 1 9 embargo
+embargoed 1 6 embargo
+embargoing 3 10 embargo
+
+fresco 1 1 frescoes frescoed frescoing
+frescoes 1 9 fresco
+frescoed 1 6 fresco
+frescoing 3 10 fresco
+
+go 1 1 goes went gone going
+goes 1 9 go
+went 1 2 go
+gone 1 4 go
+going 3 10 go
+
+halloo 1 1 halloos hallooes hallooed hallooing
+halloos 1 9 halloo
+hallooes 1 9 halloo
+hallooed 1 6 halloo
+hallooing 3 10 halloo
+
+hollo 1 1 hollos holloes holloed holloing
+hollos 1 9 hollo
+holloes 1 9 hollo
+holloed 1 6 hollo
+holloing 3 10 hollo
+
+lasso 1 1 lassoes lassoed lassoing
+lassoes 1 9 lasso
+lassoed 1 6 lasso
+lassoing 3 10 lasso
+
+solo 1 1 soloes soloed soloing
+soloes 1 9 solo
+soloed 1 6 solo
+soloing 3 10 solo
+
+stucco 1 1 stuccos stuccoes stuccoed stuccoing
+stuccos 1 9 stucco
+stuccoes 1 9 stucco
+stuccoed 1 6 stucco
+stuccoing 3 10 stucco
+
+tango 1 1 tangos tangoes tangoed tangoing
+tangos 1 9 tango
+tangoes 1 9 tango
+tangoed 1 6 tango
+tangoing 3 10 tango
+
+torpedo 1 1 torpedoes torpedoed torpedoing
+torpedoes 1 9 torpedo
+torpedoed 1 6 torpedo
+torpedoing 3 10 torpedo
+
+undo 1 1 undoes undid undone undoing
+undoes 1 9 undo
+undid 1 2 undo
+undone 1 4 undo
+undoing 3 10 undo
+
+veto 1 1 vetoes vetoed vetoing
+vetoes 1 9 veto
+vetoed 1 6 veto
+vetoing 3 10 veto
+
+zero 1 1 zeroes zeroed zeroing
+zeroes 1 9 zero
+zeroed 1 6 zero
+zeroing 3 10 zero
+
+
+yyyy 1 1 yyyys yyyyes yyyyed yyyying
+yyyys 1 9 yyyy
+yyyyes 1 9 yyyy
+yyyyed 1 6 yyyy
+yyyying 3 10 yyyy
+
+yyyy 1 1 yyyyes yyyyed yyyying
+yyyyes 1 9 yyyy
+yyyyed 1 6 yyyy
+yyyying 3 10 yyyy
+
+yyyy 1 1 yyyys yyyyed yyyying
+yyyys 1 9 yyyy
+yyyyed 1 6 yyyy
+yyyying 3 10 yyyy
+
+
