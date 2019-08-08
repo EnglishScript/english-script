@@ -3000,21 +3000,368 @@ zeroes 1 9 zero
 zeroed 1 6 zero
 zeroing 3 10 zero
 
+#
+# Word ending to "P"
+#
+#  -ed
+#  -s
+#  -ing
+#
+# or:
+#
+#  -ped
+#  -s
+#  -ping
+#
+# To convert base for to -ed/-ped or -ing/ping
+# check the last char and see if it is a vocal
+# ('a', 'e' etc.) and prev char is not then
+# add extra 'p' char before adding -ing/-ed.
 
-yyyy 1 1 yyyys yyyyes yyyyed yyyying
-yyyys 1 9 yyyy
-yyyyes 1 9 yyyy
-yyyyed 1 6 yyyy
-yyyying 3 10 yyyy
+backslap 1 1
+backstop 1 1
+bebop 1 1
+beep 1 1
+blacktop 1 1
+bleep 1 1
+bop 1 1
+bump 1 1
+burp 1 1
+camp 1 1
+cap 1 1
+carp 1 1
+catnap 1 1
+chap 1 1
+cheep 1 1
+chip 1 1
+chirp 1 1
+chirrup 1 1
+chomp 1 1
+chop 1 1
+clamp 1 1
+clap 1 1
+clasp 1 1
+clip 1 1
+clump 1 1
+cop 1 1
+cramp 1 1
+crap 1 1
+creep 1 1
+crimp 1 1
+crisp 1 1
+crop 1 1
+cup 1 1
+damp 1 1
+decamp 1 1
+develop 1 1
+dip 1 1
+drip 1 1
+droop 1 1
+drop 1 1
+dump 1 1
+eavesdrop 1 1
+encamp 1 1
+entrap 1 1
+envelop 1 1
+equip 1 1
+flap 1 1
+flip 1 1
+flip-flop 1 1
+flop 1 1
+ftp 1 1
+gallop 1 1
+gap 1 1
+gasp 1 1
+gift-wrap 1 1
+gimp 1 1
+gip 1 1
+gossip 1 1
+grasp 1 1
+grip 1 1
+group 1 1
+gulp 1 1
+gyp 1 1
+handicap 1 1
+handstamp 1 1
+hap 1 1
+harp 1 1
+hasp 1 1
+heap 1 1
+help 1 1
+hiccup 1 1
+hoop 1 1
+hop 1 1
+horsewhip 1 1
+housekeep 1 1
+hump 1 1
+jump 1 1
+keep 1 1
+kidnap 1 1
+kip 1 1
+lap 1 1
+leap 1 1
+limp 1 1
+lisp 1 1
+loop 1 1
+lop 1 1
+lump 1 1
+map 1 1
+mop 1 1
+nap 1 1
+nip 1 1
+one-step 1 1
+outcrop 1 1
+overlap 1 1
+peep 1 1
+pimp 1 1
+plop 1 1
+plump 1 1
+pop 1 1
+primp 1 1
+prop 1 1
+pulp 1 1
+pump 1 1
+pup 1 1
+quickstep 1 1
+quip 1 1
+ramp 1 1
+rap 1 1
+rasp 1 1
+reap 1 1
+recap 1 1
+redevelop 1 1
+reship 1 1
+rip 1 1
+romp 1 1
+sap 1 1
+scallop 1 1
+scalp 1 1
+scollop 1 1
+scoop 1 1
+scrap 1 1
+seep 1 1
+ship 1 1
+shop 1 1
+shrimp 1 1
+sip 1 1
+skimp 1 1
+skinny-dip 1 1
+skip 1 1
+slap 1 1
+sleep 1 1
+slip 1 1
+slop 1 1
+slump 1 1
+snap 1 1
+snip 1 1
+snoop 1 1
+soap 1 1
+sop 1 1
+stamp 1 1
+steep 1 1
+step 1 1
+stomp 1 1
+stoop 1 1
+stop 1 1
+strap 1 1
+strip 1 1
+strop 1 1
+stump 1 1
+sup 1 1
+swamp 1 1
+swap 1 1
+sweep 1 1
+swoop 1 1
+swop 1 1
+tamp 1 1
+tap 1 1
+thump 1 1
+tip 1 1
+top 1 1
+tramp 1 1
+transship 1 1
+trap 1 1
+trip 1 1
+troop 1 1
+trump 1 1
+two-step 1 1
+unclasp 1 1
+unclip 1 1
+underdevelop 1 1
+unstrap 1 1
+unwrap 1 1
+unzip 1 1
+usurp 1 1
+vamp 1 1
+wallop 1 1
+warp 1 1
+weep 1 1
+whelp 1 1
+whip 1 1
+whoop 1 1
+wiretap 1 1
+worship 1 1
+wrap 1 1
+yelp 1 1
+zap 1 1
+zip 1 1
 
-yyyy 1 1 yyyyes yyyyed yyyying
-yyyyes 1 9 yyyy
-yyyyed 1 6 yyyy
-yyyying 3 10 yyyy
+chirrup 1 1 chirrups chirruped chirruping
+chirrups 1 9 chirrup
+chirruped 1 6 chirrup
+chirruping 3 10 chirrup
+
+clip 1 1 clips clipped clipt clypt clipping
+clips 1 9 clip
+clipped 1 6 clip
+clipt 1 6 clip
+clypt 1 6 clip
+clipping 3 10 clip
+
+creep 1 1 creeps creeped crept creeping
+creeps 1 9 creep
+creeped 1 6 creep
+crept 1 6 creep
+creeping 3 10 creep
+
+develop 1 1 develops developed developt developing
+develops 1 9 develop
+developed 1 6 develop
+developt 1 6 develop
+developing 3 10 develop
+
+drop 1 1 drops dropped dropt dropping
+drops 1 9 drop
+dropped 1 6 drop
+dropt 1 6 drop
+dropping 3 10 drop
+
+envelop 1 1 envelops enveloped enveloping
+envelops 1 9 envelop
+enveloped 1 6 envelop
+enveloping 3 10 envelop
+
+equip 1 1 equips equipped equipping
+equips 1 9 equip
+equipped 1 6 equip
+equipping 3 10 equip
+
+FTP 1 1 FTPs FTPed FTPing
+FTPs 1 9 FTP
+FTPed 1 6 FTP
+FTPing 3 10 FTP
+
+gallop 1 1 gallops galloped galloping
+gallops 1 9 gallop
+galloped 1 6 gallop
+galloping 3 10 gallop
+
+gossip 1 1 gossips gossiped gossipped gossiping gossipping
+gossips 1 9 gossip
+gossiped 1 6 gossip
+gossipped 1 6 gossip
+gossiping 3 10 gossip
+gossipping 3 10 gossip
+
+help 1 1 helps helped helpt helping
+helps 1 9 help
+helped 1 6 help
+helpt 1 6 help
+helping 3 10 help
+
+hiccup 1 1 hiccups hiccuped hiccupped hiccuping hiccupping
+hiccups 1 9 hiccup
+hiccuped 1 6 hiccup
+hiccupped 1 6 hiccup
+hiccuping 3 10 hiccup
+hiccupping 3 10 hiccup
+
+housekeep 1 1 housekeeps housekept housekeeping
+housekeeps 1 9 housekeep
+housekept 1 6 housekeep
+housekeeping 3 10 housekeep
+
+keep 1 1 keeps kept keeping
+keeps 1 9 keep
+kept 1 6 keep
+keeping 3 10 keep
+
+kidnap 1 1 kidnaps kidnaped kidnapped kidnaping kidnapping
+kidnaps 1 9 kidnap
+kidnaped 1 6 kidnap
+kidnapped 1 6 kidnap
+kidnaping 3 10 kidnap
+kidnapping 3 10 kidnap
+
+leap 1 1 leaps leaped leapt leaping
+leaps 1 9 leap
+leaped 1 6 leap
+leapt 1 6 leap
+leaping 3 10 leap
+
+limp 1 1 limps limped lamp lump limping
+limps 1 9 limp
+lamp 1 2 limp
+lump 1 4 limp
+limped 1 6 limp
+limping 3 10 limp
+
+quip 1 1 quips quipped quipping
+quips 1 9 quip
+quipped 1 6 quip
+quipping 3 10 quip
+
+redevelop 1 1 redevelops redeveloped redeveloping
+redevelops 1 9 redevelop
+redeveloped 1 6 redevelop
+redeveloping 3 10 redevelop
+
+scallop 1 1 scallops scalloped scalloping
+scallops 1 9 scallop
+scalloped 1 6 scallop
+scalloping 3 10 scallop
+
+scollop 1 1 scollops scolloped scolloping
+scollops 1 9 scollop
+scolloped 1 6 scollop
+scolloping 3 10 scollop
+
+sleep 1 1 sleeps slept sleeping
+sleeps 1 9 sleep
+slept 1 6 sleep
+sleeping 3 10 sleep
+
+stop 1 1 stops stopped stopt stopping
+stops 1 9 stop
+stopped 1 6 stop
+stopt 1 6 stop
+stopping 3 10 stop
+
+sweep 1 1 sweeps swept sweeping
+sweeps 1 9 sweep
+swept 1 6 sweep
+sweeping 3 10 sweep
+
+underdevelop 1 1 underdevelops underdeveloped underdeveloping
+underdevelops 1 9 underdevelop
+underdeveloped 1 6 underdevelop
+underdeveloping 3 10 underdevelop
+
+wallop 1 1 wallops walloped wallopped walloping wallopping
+wallops 1 9 wallop
+walloped 1 6 wallop
+wallopped 1 6 wallop
+walloping 3 10 wallop
+wallopping 3 10 wallop
 
 yyyy 1 1 yyyys yyyyed yyyying
 yyyys 1 9 yyyy
 yyyyed 1 6 yyyy
 yyyying 3 10 yyyy
+
+yyyy 1 1 yyyys yyyyped yyyyping
+yyyys 1 9 yyyy
+yyyyped 1 6 yyyy
+yyyyping 3 10 yyyy
 
 
