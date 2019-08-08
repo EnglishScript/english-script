@@ -3354,14 +3354,19 @@ wallopped 1 6 wallop
 walloping 3 10 wallop
 wallopping 3 10 wallop
 
-yyyy 1 1 yyyys yyyyed yyyying
-yyyys 1 9 yyyy
-yyyyed 1 6 yyyy
-yyyying 3 10 yyyy
+weep 1 1 weeps weeped wept wepte weeping
+weeps 1 9 weep
+weeped 1 6 weep
+wept 1 6 weep
+wepte 1 6 weep
+weeping 3 10 weep
 
-yyyy 1 1 yyyys yyyyped yyyyping
-yyyys 1 9 yyyy
-yyyyped 1 6 yyyy
-yyyyping 3 10 yyyy
+worship 1 1 worships worshiped worshipped worshiping worshipping
+worships 1 9 worship
+worshiped 1 6 worship
+worshipped 1 6 worship
+worshiping 3 10 worship
+worshipping 3 10 worship
+
 
 
