@@ -3206,6 +3206,8 @@ yelp 1 1
 zap 1 1
 zip 1 1
 
+# Nonconformant verbs
+
 chirrup 1 1 chirrups chirruped chirruping
 chirrups 1 9 chirrup
 chirruped 1 6 chirrup
@@ -3368,5 +3370,697 @@ worshipped 1 6 worship
 worshiping 3 10 worship
 worshipping 3 10 worship
 
+#
+# Word ending to "R"
+#
+#  -ed
+#  -s
+#  -ing
+#
 
+abhor 1 1
+administer 1 1
+air 1 1
+alligator 1 1
+alter 1 1
+anchor 1 1
+anger 1 1
+answer 1 1
+appear 1 1
+armor 1 1
+armour 1 1
+auctioneer 1 1
+augur 1 1
+author 1 1
+aver 1 1
+bachelor 1 1
+badger 1 1
+banter 1 1
+bar 1 1
+barber 1 1
+barter 1 1
+bear 1 1
+beaver 1 1
+beggar 1 1
+better 1 1
+bewilder 1 1
+bicker 1 1
+birr 1 1
+bitter 1 1
+blabber 1 1
+blather 1 1
+blether 1 1
+blinker 1 1
+blister 1 1
+blubber 1 1
+blunder 1 1
+blur 1 1
+bluster 1 1
+bolster 1 1
+border 1 1
+bother 1 1
+bower 1 1
+broker 1 1
+buccaneer 1 1
+buffer 1 1
+bugger 1 1
+bunker 1 1
+bur 1 1
+burr 1 1
+butcher 1 1
+butter 1 1
+calendar 1 1
+calender 1 1
+caliper 1 1
+calliper 1 1
+camber 1 1
+canker 1 1
+canter 1 1
+cantilever 1 1
+caper 1 1
+carpenter 1 1
+cater 1 1
+censor 1 1
+center 1 1
+chair 1 1
+chamber 1 1
+chamfer 1 1
+char 1 1
+character 1 1
+charter 1 1
+chatter 1 1
+chauffeur 1 1
+cheer 1 1
+choir 1 1
+cipher 1 1
+clabber 1 1
+clamber 1 1
+clamor 1 1
+clamour 1 1
+clangor 1 1
+clangour 1 1
+clatter 1 1
+clear 1 1
+clinker 1 1
+cloister 1 1
+cluster 1 1
+clutter 1 1
+const-star 1 1
+cold-shoulder 1 1
+collar 1 1
+color 1 1
+colour 1 1
+concur 1 1
+confer 1 1
+conquer 1 1
+consider 1 1
+contour 1 1
+cooccur 1 1
+cooper 1 1
+copper 1 1
+corner 1 1
+counter 1 1
+cover 1 1
+cower 1 1
+cypher 1 1
+debar 1 1
+decipher 1 1
+defer 1 1
+deflower 1 1
+deliver 1 1
+demur 1 1
+despair 1 1
+deter 1 1
+detour 1 1
+devour 1 1
+differ 1 1
+disappear 1 1
+disbar 1 1
+discolor 1 1
+discolour 1 1
+discover 1 1
+disfavor 1 1
+disfavour 1 1
+dishonor 1 1
+dishonour 1 1
+disinter 1 1
+dismember 1 1
+disorder 1 1
+distemper 1 1
+dither 1 1
+doctor 1 1
+dodder 1 1
+dower 1 1
+electioneer 1 1
+embitter 1 1
+embroider 1 1
+empower 1 1
+encounter 1 1
+endear 1 1
+endeavor 1 1
+endeavour 1 1
+engineer 1 1
+enter 1 1
+err 1 1
+factor 1 1
+falter 1 1
+father 1 1
+favor 1 1
+favour 1 1
+fear 1 1
+feather 1 1
+fester 1 1
+fetter 1 1
+filibuster 1 1
+filter 1 1
+financier 1 1
+finger 1 1
+flatter 1 1
+flavor 1 1
+flavour 1 1
+fleer 1 1
+flicker 1 1
+floor 1 1
+flour 1 1
+flower 1 1
+fluster 1 1
+flutter 1 1
+fodder 1 1
+forbear 1 1
+forswear 1 1
+foster 1 1
+founder 1 1
+further 1 1
+garner 1 1
+garter 1 1
+gather 1 1
+gerrymander 1 1
+geyser 1 1
+gibber 1 1
+ginger 1 1
+glamour 1 1
+glimmer 1 1
+glitter 1 1
+glower 1 1
+gutter 1 1
+halter 1 1
+hammer 1 1
+hamper 1 1
+hanker 1 1
+harbinger 1 1
+harbor 1 1
+harbour 1 1
+hear 1 1
+hinder 1 1
+holler 1 1
+homer 1 1
+honor 1 1
+honour 1 1
+hoover 1 1
+huckster 1 1
+humor 1 1
+humour 1 1
+hunger 1 1
+impair 1 1
+incur 1 1
+infer 1 1
+inter 1 1
+jabber 1 1
+jar 1 1
+jeer 1 1
+labor 1 1
+labour 1 1
+lacquer 1 1
+ladder 1 1
+lather 1 1
+launder 1 1
+layer 1 1
+leer 1 1
+letter 1 1
+lever 1 1
+lighter 1 1
+linger 1 1
+litter 1 1
+loiter 1 1
+lower 1 1
+lumber 1 1
+madder 1 1
+major 1 1
+malinger 1 1
+maneuver 1 1
+mar 1 1
+martyr 1 1
+master 1 1
+matter 1 1
+meander 1 1
+meter 1 1
+minister 1 1
+mirror 1 1
+miter 1 1
+monger 1 1
+monitor 1 1
+moor 1 1
+mortar 1 1
+mother 1 1
+motor 1 1
+mountaineer 1 1
+murder 1 1
+murmur 1 1
+muster 1 1
+mutter 1 1
+neighbor 1 1
+neighbour 1 1
+neuter 1 1
+nicker 1 1
+number 1 1
+offer 1 1
+officer 1 1
+order 1 1
+oyster 1 1
+pair 1 1
+palaver 1 1
+palter 1 1
+pamper 1 1
+pander 1 1
+paper 1 1
+par 1 1
+partner 1 1
+patter 1 1
+pepper 1 1
+pester 1 1
+philander 1 1
+pilfer 1 1
+pioneer 1 1
+pitter-patter 1 1
+plaster 1 1
+plunder 1 1
+pompadour 1 1
+ponder 1 1
+porter 1 1
+pother 1 1
+potter 1 1
+pour 1 1
+powder 1 1
+power 1 1
+prefer 1 1
+proctor 1 1
+proffer 1 1
+profiteer 1 1
+pucker 1 1
+purr 1 1
+putter 1 1
+quarter 1 1
+quaver 1 1
+quiver 1 1
+racketeer 1 1
+rafter 1 1
+razor 1 1
+re-enter 1 1
+reappear 1 1
+rear 1 1
+reconnoiter 1 1
+reconsider 1 1
+recover 1 1
+recur 1 1
+rediscover 1 1
+refer 1 1
+register 1 1
+remainder 1 1
+remember 1 1
+render 1 1
+reorder 1 1
+repair 1 1
+roar 1 1
+roister 1 1
+rubber 1 1
+rumor 1 1
+rumour 1 1
+saber 1 1
+sandpaper 1 1
+saunter 1 1
+savor 1 1
+savour 1 1
+scamper 1 1
+scar 1 1
+scatter 1 1
+scour 1 1
+sequester 1 1
+sever 1 1
+shatter 1 1
+shear 1 1
+shelter 1 1
+shimmer 1 1
+shirr 1 1
+shiver 1 1
+shoulder 1 1
+shower 1 1
+shudder 1 1
+shutter 1 1
+silver 1 1
+simmer 1 1
+simper 1 1
+skewer 1 1
+skipper 1 1
+slander 1 1
+slaughter 1 1
+sledgehammer 1 1
+sliver 1 1
+slobber 1 1
+sloganeer 1 1
+slumber 1 1
+slur 1 1
+smatter 1 1
+smear 1 1
+smother 1 1
+smoulder 1 1
+sneer 1 1
+snicker 1 1
+snigger 1 1
+snooker 1 1
+soar 1 1
+solder 1 1
+soldier 1 1
+sour 1 1
+spar 1 1
+spatter 1 1
+spear 1 1
+splatter 1 1
+splinter 1 1
+splutter 1 1
+sponsor 1 1
+spur 1 1
+sputter 1 1
+squander 1 1
+stagger 1 1
+stammer 1 1
+star 1 1
+steamer 1 1
+steamroller 1 1
+steer 1 1
+stir 1 1
+stopper 1 1
+stutter 1 1
+succor 1 1
+succour 1 1
+suffer 1 1
+sugar 1 1
+sulfur 1 1
+sulphur 1 1
+summer 1 1
+surrender 1 1
+swagger 1 1
+swatter 1 1
+swear 1 1
+tailor 1 1
+tamper 1 1
+taper 1 1
+tar 1 1
+tear 1 1
+temper 1 1
+tender 1 1
+tether 1 1
+thunder 1 1
+tiller 1 1
+tinker 1 1
+titter 1 1
+totter 1 1
+tour 1 1
+tower 1 1
+transfer 1 1
+tremor 1 1
+trigger 1 1
+tutor 1 1
+twitter 1 1
+unbar 1 1
+unclutter 1 1
+uncover 1 1
+upholster 1 1
+usher 1 1
+utter 1 1
+veer 1 1
+veneer 1 1
+volunteer 1 1
+wager 1 1
+wallpaper 1 1
+wander 1 1
+war 1 1
+water 1 1
+watercolor 1 1
+watercolour 1 1
+waver 1 1
+wear 1 1
+weather 1 1
+whicker 1 1
+whimper 1 1
+whir 1 1
+whirr 1 1
+whisker 1 1
+whisper 1 1
+winter 1 1
+wither 1 1
+wonder 1 1
+woolgather 1 1
+zipper 1 1
+
+# Nonconformant verbs
+
+abhor 1 1 abhors abhorred abhorring
+abhors 1 9 abhor
+abhorred 1 6 abhor
+abhorring 3 10 abhor
+
+aver 1 1 avers avered averred avering averring
+avers 1 9 aver
+avered 1 6 aver
+averred 1 6 aver
+avering 3 10 aver
+averring 3 10 aver
+
+bar 1 1 bars barred barring
+bars 1 9 bar
+barred 1 6 bar
+barring 3 10 bar
+
+bear 1 1 bears beared bore born borne bearing
+bears 1 9 bear
+beared 1 6 bear
+bore 1 2 bear
+born 1 4 bear
+borne 1 4 bear
+bearing 3 10 bear
+
+blur 1 1 blurs blurred blurring
+blurs 1 9 blur
+blurred 1 6 blur
+blurring 3 10 blur
+
+bur 1 1 burs burred burring
+burs 1 9 bur
+burred 1 6 bur
+burring 3 10 bur
+
+char 1 1 chars chared charred charing charring
+chars 1 9 char
+chared 1 6 char
+charred 1 6 char
+charing 3 10 char
+charring 3 10 char
+
+co-star 1 1 co-stars co-starred co-starring
+co-stars 1 9 co-star
+co-starred 1 6 co-star
+co-starring 3 10 co-star
+
+concur 1 1 concurs concurred concurring
+concurs 1 9 concur
+concurred 1 6 concur
+concurring 3 10 concur
+
+confer 1 1 confers conferred conferring
+confers 1 9 confer
+conferred 1 6 confer
+conferring 3 10 confer
+
+cooccur 1 1 cooccurs cooccurred cooccurring
+cooccurs 1 9 cooccur
+cooccurred 1 6 cooccur
+cooccurring 3 10 cooccur
+
+debar 1 1 debars debarred debarring
+debars 1 9 debar
+debarred 1 6 debar
+debarring 3 10 debar
+
+defer 1 1 defers deferred deferring
+defers 1 9 defer
+deferred 1 6 defer
+deferring 3 10 defer
+
+demur 1 1 demurs demurred demurring
+demurs 1 9 demur
+demurred 1 6 demur
+demurring 3 10 demur
+
+deter 1 1 deters deterred deterring
+deters 1 9 deter
+deterred 1 6 deter
+deterring 3 10 deter
+
+disbar 1 1 disbars disbarred disbarring
+disbars 1 9 disbar
+disbarred 1 6 disbar
+disbarring 3 10 disbar
+
+disinter 1 1 disinters disinterred disinterring
+disinters 1 9 disinter
+disinterred 1 6 disinter
+disinterring 3 10 disinter
+
+forbear 1 1 forbears forbore forborne forebore forbearing
+forbears 1 9 forbear
+forbore 1 2 forbear
+forborne 1 4 forbear
+forebore 1 6 forbear
+forbearing 3 10 forbear
+
+forswear 1 1 forswears forswore forsworn forswearing
+forswears 1 9 forswear
+forswore 1 2 forswear
+forsworn 1 4 forswear
+forswearing 3 10 forswear
+
+hear 1 1 hears heard hearing
+hears 1 9 hear
+heard 1 6 hear
+hearing 3 10 hear
+
+incur 1 1 incurs incurred incurring
+incurs 1 9 incur
+incurred 1 6 incur
+incurring 3 10 incur
+
+infer 1 1 infers inferred inferring
+infers 1 9 infer
+inferred 1 6 infer
+inferring 3 10 infer
+
+inter 1 1 inters intered interred intering interring
+inters 1 9 inter
+intered 1 6 inter
+interred 1 6 inter
+intering 3 10 inter
+interring 3 10 inter
+
+jar 1 1 jars jarred jarring
+jars 1 9 jar
+jarred 1 6 jar
+jarring 3 10 jar
+
+mar 1 1 mars marred marring
+mars 1 9 mar
+marred 1 6 mar
+marring 3 10 mar
+
+par 1 1 pars parred parring
+pars 1 9 par
+parred 1 6 par
+parring 3 10 par
+
+prefer 1 1 prefers preferred preferring
+prefers 1 9 prefer
+preferred 1 6 prefer
+preferring 3 10 prefer
+
+recur 1 1 recurs recurred recurring
+recurs 1 9 recur
+recurred 1 6 recur
+recurring 3 10 recur
+
+refer 1 1 refers referred referring
+refers 1 9 refer
+referred 1 6 refer
+referring 3 10 refer
+
+scar 1 1 scars scarred scarring
+scars 1 9 scar
+scarred 1 6 scar
+scarring 3 10 scar
+
+shear 1 1 shears sheared shore shorn shearing
+shears 1 9 shear
+sheared 1 6 shear
+shore 1 2 shear
+shorn 1 6 shear
+shearing 3 10 shear
+
+slur 1 1 slurs slurred slurring
+slurs 1 9 slur
+slurred 1 6 slur
+slurring 3 10 slur
+
+spar 1 1 spars sparred sparring
+spars 1 9 spar
+sparred 1 6 spar
+sparring 3 10 spar
+
+spur 1 1 spurs spurred spurring
+spurs 1 9 spur
+spurred 1 6 spur
+spurring 3 10 spur
+
+star 1 1 stars starred starring
+stars 1 9 star
+starred 1 6 star
+starring 3 10 star
+
+stir 1 1 stirs stirred stirring
+stirs 1 9 stir
+stirred 1 6 stir
+stirring 3 10 stir
+
+swear 1 1 swears swore sworn swearing
+swears 1 9 swear
+swore 1 2 swear
+sworn 1 4 swear
+swearing 3 10 swear
+
+tar 1 1 tars tarred tarring
+tars 1 9 tar
+tarred 1 6 tar
+tarring 3 10 tar
+
+tear 1 1 tears teared tore torn tearing
+tears 1 9 tear
+teared 1 6 tear
+tore 1 2 tear
+torn 1 4 tear
+tearing 3 10 tear
+
+transfer 1 1 transfers transferred transferring
+transfers 1 9 transfer
+transferred 1 6 transfer
+transferring 3 10 transfer
+
+unbar 1 1 unbars unbarred unbarring
+unbars 1 9 unbar
+unbarred 1 6 unbar
+unbarring 3 10 unbar
+
+war 1 1 wars warred warring
+wars 1 9 war
+warred 1 6 war
+warring 3 10 war
+
+wear 1 1 wears weared wore worn worne wearing
+wears 1 9 wear
+weared 1 6 wear
+wore 1 2 wear
+worn 1 4 wear
+worne 1 4 wear
+wearing 3 10 wear
+
+whir 1 1 whirs whirred whirring
+whirs 1 9 whir
+whirred 1 6 whir
+whirring 3 10 whir
 
