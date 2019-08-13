@@ -4238,3 +4238,949 @@ refocussed 1 6 refocus
 refocusing 3 10 refocus
 refocussing 3 10 refocus
 
+#
+# Word ending to "T"
+#
+#  -ed
+#  -s
+#  -ing
+#
+
+abduct 1 1
+abet 1 1
+abort 1 1
+abreact 1 1
+absent 1 1
+abstract 1 1
+abut 1 1
+accent 1 1
+accept 1 1
+account 1 1
+accredit 1 1
+acquaint 1 1
+acquit 1 1
+act 1 1
+adapt 1 1
+addict 1 1
+adduct 1 1
+adjust 1 1
+admit 1 1
+adopt 1 1
+advect 1 1
+advert 1 1
+affect 1 1
+afflict 1 1
+afforest 1 1
+affright 1 1
+affront 1 1
+airlift 1 1
+alert 1 1
+aliment 1 1
+allot 1 1
+amount 1 1
+animadvert 1 1
+anoint 1 1
+appoint 1 1
+aquatint 1 1
+arrest 1 1
+asphalt 1 1
+assault 1 1
+assent 1 1
+assert 1 1
+assist 1 1
+assort 1 1
+attempt 1 1
+attest 1 1
+attract 1 1
+audit 1 1
+augment 1 1
+avert 1 1
+babbitt 1 1
+baby-sit 1 1
+bait 1 1
+ballast 1 1
+ballot 1 1
+bankrupt 1 1
+banquet 1 1
+bat 1 1
+bayonet 1 1
+beat 1 1
+beget 1 1
+belt 1 1
+benefact 1 1
+benefit 1 1
+bet 1 1
+bight 1 1
+billet 1 1
+bisect 1 1
+bitt 1 1
+blacklist 1 1
+blanket 1 1
+blast 1 1
+bleat 1 1
+blight 1 1
+bloat 1 1
+blot 1 1
+blueprint 1 1
+boast 1 1
+boat 1 1
+bolt 1 1
+bonnet 1 1
+boost 1 1
+boot 1 1
+boycott 1 1
+bracket 1 1
+breakfast 1 1
+breast 1 1
+brevet 1 1
+broadcast 1 1
+bucket 1 1
+budget 1 1
+bullshit 1 1
+bunt 1 1
+burst 1 1
+bust 1 1
+butt 1 1
+cant 1 1
+carpet 1 1
+cart 1 1
+casket 1 1
+cast 1 1
+cat 1 1
+catapult 1 1
+cement 1 1
+chant 1 1
+chariot 1 1
+chart 1 1
+chat 1 1
+cheat 1 1
+chitchat 1 1
+circuit 1 1
+circumvent 1 1
+claret 1 1
+cleat 1 1
+closet 1 1
+clot 1 1
+clout 1 1
+const-opt 1 1
+coact 1 1
+coast 1 1
+coat 1 1
+coexist 1 1
+cohabit 1 1
+collect 1 1
+combat 1 1
+combust 1 1
+comfort 1 1
+comment 1 1
+commit 1 1
+compact 1 1
+complect 1 1
+complement 1 1
+compliment 1 1
+comport 1 1
+compost 1 1
+concoct 1 1
+conduct 1 1
+confect 1 1
+conflict 1 1
+confront 1 1
+congest 1 1
+connect 1 1
+conscript 1 1
+consent 1 1
+consist 1 1
+consort 1 1
+constrict 1 1
+construct 1 1
+consult 1 1
+contact 1 1
+content 1 1
+contest 1 1
+contort 1 1
+contract 1 1
+contradict 1 1
+contrast 1 1
+convect 1 1
+convert 1 1
+convict 1 1
+copyright 1 1
+coquet 1 1
+correct 1 1
+corrupt 1 1
+corset 1 1
+cost 1 1
+count 1 1
+counteract 1 1
+counterfeit 1 1
+counterplot 1 1
+counterpoint 1 1
+counterweight 1 1
+court 1 1
+covenant 1 1
+craft 1 1
+credit 1 1
+crest 1 1
+cricket 1 1
+crochet 1 1
+croquet 1 1
+crosscut 1 1
+crust 1 1
+curvet 1 1
+cut 1 1
+dart 1 1
+debit 1 1
+debut 1 1
+decant 1 1
+decoct 1 1
+deconstruct 1 1
+decrypt 1 1
+deduct 1 1
+default 1 1
+defeat 1 1
+defect 1 1
+deflect 1 1
+deforest 1 1
+defrost 1 1
+degust 1 1
+deject 1 1
+delight 1 1
+delimit 1 1
+demist 1 1
+dent 1 1
+depart 1 1
+depict 1 1
+deport 1 1
+deposit 1 1
+derestrict 1 1
+descant 1 1
+desert 1 1
+detect 1 1
+detest 1 1
+detract 1 1
+diet 1 1
+diffract 1 1
+digest 1 1
+direct 1 1
+disaffect 1 1
+disappoint 1 1
+discomfit 1 1
+disconcert 1 1
+disconnect 1 1
+discontent 1 1
+discount 1 1
+discredit 1 1
+disenchant 1 1
+disforest 1 1
+disgust 1 1
+disinfect 1 1
+disinfest 1 1
+disinherit 1 1
+disinvest 1 1
+dismount 1 1
+disorient 1 1
+disquiet 1 1
+disrespect 1 1
+disrupt 1 1
+dissect 1 1
+dissent 1 1
+distort 1 1
+distract 1 1
+district 1 1
+distrust 1 1
+divert 1 1
+divest 1 1
+docket 1 1
+document 1 1
+dogfight 1 1
+dot 1 1
+doubt 1 1
+draft 1 1
+drift 1 1
+dust 1 1
+eat 1 1
+edit 1 1
+effect 1 1
+eject 1 1
+elect 1 1
+elicit 1 1
+emit 1 1
+enact 1 1
+enchant 1 1
+encrust 1 1
+encrypt 1 1
+enlist 1 1
+erect 1 1
+eruct 1 1
+erupt 1 1
+escort 1 1
+evert 1 1
+evict 1 1
+exact 1 1
+exalt 1 1
+except 1 1
+excerpt 1 1
+exempt 1 1
+exert 1 1
+exhaust 1 1
+exhibit 1 1
+exhort 1 1
+exist 1 1
+exit 1 1
+expect 1 1
+experiment 1 1
+exploit 1 1
+export 1 1
+exposit 1 1
+extort 1 1
+extract 1 1
+exult 1 1
+face-lift 1 1
+facelift 1 1
+faint 1 1
+fart 1 1
+fast 1 1
+fat 1 1
+fault 1 1
+feast 1 1
+feint 1 1
+felt 1 1
+ferment 1 1
+ferret 1 1
+fidget 1 1
+field-test 1 1
+fight 1 1
+filet 1 1
+fillet 1 1
+finger-paint 1 1
+fingerprint 1 1
+fistfight 1 1
+fit 1 1
+flaunt 1 1
+flight 1 1
+flirt 1 1
+flit 1 1
+float 1 1
+floodlight 1 1
+flout 1 1
+foment 1 1
+foot 1 1
+forecast 1 1
+forest 1 1
+forfeit 1 1
+forget 1 1
+format 1 1
+fort 1 1
+foxhunt 1 1
+fragment 1 1
+freight 1 1
+frequent 1 1
+fret 1 1
+fright 1 1
+front 1 1
+frost 1 1
+fruit 1 1
+garment 1 1
+genuflect 1 1
+get 1 1
+ghost 1 1
+gibbet 1 1
+gift 1 1
+glint 1 1
+gloat 1 1
+glut 1 1
+graft 1 1
+grant 1 1
+greet 1 1
+grit 1 1
+grout 1 1
+grunt 1 1
+gut 1 1
+habit 1 1
+halt 1 1
+handcraft 1 1
+harvest 1 1
+hat 1 1
+haunt 1 1
+heat 1 1
+heist 1 1
+highlight 1 1
+hint 1 1
+hit 1 1
+hoist 1 1
+hoot 1 1
+host 1 1
+hunt 1 1
+hurt 1 1
+ill-treat 1 1
+impact 1 1
+impart 1 1
+implant 1 1
+implement 1 1
+import 1 1
+imprint 1 1
+incrust 1 1
+indent 1 1
+indict 1 1
+induct 1 1
+infect 1 1
+infest 1 1
+inflect 1 1
+inflict 1 1
+infract 1 1
+ingest 1 1
+inhabit 1 1
+inherit 1 1
+inhibit 1 1
+inject 1 1
+insert 1 1
+inset 1 1
+insist 1 1
+inspect 1 1
+instruct 1 1
+instrument 1 1
+insult 1 1
+interact 1 1
+intercept 1 1
+interconnect 1 1
+interdict 1 1
+interest 1 1
+interject 1 1
+intermit 1 1
+interpret 1 1
+interrupt 1 1
+intersect 1 1
+introject 1 1
+intromit 1 1
+introspect 1 1
+introvert 1 1
+intuit 1 1
+intussuscept 1 1
+inunct 1 1
+invent 1 1
+invert 1 1
+invest 1 1
+irrupt 1 1
+jacket 1 1
+jaunt 1 1
+jest 1 1
+jet 1 1
+jilt 1 1
+joint 1 1
+jolt 1 1
+jot 1 1
+joust 1 1
+junket 1 1
+jut 1 1
+kick-start 1 1
+kit 1 1
+knight 1 1
+knit 1 1
+knot 1 1
+lament 1 1
+let 1 1
+lift 1 1
+light 1 1
+lilt 1 1
+limit 1 1
+list 1 1
+loft 1 1
+loot 1 1
+lot 1 1
+lust 1 1
+maledict 1 1
+malt 1 1
+maltreat 1 1
+manifest 1 1
+manumit 1 1
+market 1 1
+mat 1 1
+meet 1 1
+melt 1 1
+merit 1 1
+mint 1 1
+misconduct 1 1
+miscount 1 1
+misdirect 1 1
+misinterpret 1 1
+misprint 1 1
+misrepresent 1 1
+mist 1 1
+mistreat 1 1
+mistrust 1 1
+molest 1 1
+molt 1 1
+moonlight 1 1
+motorboat 1 1
+moult 1 1
+mount 1 1
+mulct 1 1
+neglect 1 1
+nest 1 1
+net 1 1
+nut 1 1
+object 1 1
+obstruct 1 1
+offset 1 1
+omit 1 1
+opt 1 1
+orbit 1 1
+orient 1 1
+ornament 1 1
+oust 1 1
+outfit 1 1
+output 1 1
+overact 1 1
+overcast 1 1
+overeat 1 1
+overexert 1 1
+overexploit 1 1
+overheat 1 1
+overprint 1 1
+overprotect 1 1
+overreact 1 1
+overshoot 1 1
+paint 1 1
+pant 1 1
+parent 1 1
+parget 1 1
+parrot 1 1
+part 1 1
+pat 1 1
+patent 1 1
+pelt 1 1
+perfect 1 1
+permit 1 1
+persist 1 1
+pervert 1 1
+pet 1 1
+photostat 1 1
+picket 1 1
+pigment 1 1
+pilot 1 1
+pinpoint 1 1
+pit 1 1
+pivot 1 1
+plait 1 1
+plant 1 1
+playact 1 1
+pleat 1 1
+plight 1 1
+plot 1 1
+pocket 1 1
+point 1 1
+port 1 1
+posit 1 1
+post 1 1
+pot 1 1
+pout 1 1
+predict 1 1
+preempt 1 1
+preexist 1 1
+present 1 1
+pretermit 1 1
+prevent 1 1
+print 1 1
+prizefight 1 1
+profit 1 1
+prohibit 1 1
+project 1 1
+prompt 1 1
+prospect 1 1
+protect 1 1
+protest 1 1
+protract 1 1
+punt 1 1
+purport 1 1
+put 1 1
+putt 1 1
+quest 1 1
+quiet 1 1
+quilt 1 1
+quit 1 1
+rabbet 1 1
+rabbit 1 1
+racket 1 1
+raft 1 1
+raiment 1 1
+rant 1 1
+rat 1 1
+ratchet 1 1
+re-afforest 1 1
+react 1 1
+readjust 1 1
+readmit 1 1
+reallot 1 1
+reassert 1 1
+rebut 1 1
+recant 1 1
+receipt 1 1
+recollect 1 1
+reconstruct 1 1
+recount 1 1
+recruit 1 1
+redact 1 1
+redeposit 1 1
+reelect 1 1
+reenact 1 1
+reflect 1 1
+reforest 1 1
+refract 1 1
+regiment 1 1
+regret 1 1
+reinterpret 1 1
+reject 1 1
+remit 1 1
+remount 1 1
+rent 1 1
+reorient 1 1
+repeat 1 1
+repent 1 1
+report 1 1
+reposit 1 1
+represent 1 1
+reprint 1 1
+request 1 1
+resect 1 1
+resent 1 1
+reset 1 1
+resist 1 1
+resort 1 1
+respect 1 1
+rest 1 1
+restrict 1 1
+result 1 1
+resurrect 1 1
+retort 1 1
+retract 1 1
+retreat 1 1
+retrospect 1 1
+retrovert 1 1
+revert 1 1
+revet 1 1
+revolt 1 1
+ricochet 1 1
+right 1 1
+riot 1 1
+rivet 1 1
+roast 1 1
+rocket 1 1
+roost 1 1
+root 1 1
+rot 1 1
+roughcast 1 1
+rout 1 1
+rust 1 1
+rut 1 1
+saint 1 1
+salt 1 1
+sandblast 1 1
+scent 1 1
+scoot 1 1
+scout 1 1
+script 1 1
+sculpt 1 1
+seat 1 1
+sediment 1 1
+segment 1 1
+select 1 1
+self-destruct 1 1
+set 1 1
+shaft 1 1
+sharpshoot 1 1
+sheet 1 1
+shift 1 1
+shirt 1 1
+shit 1 1
+shoot 1 1
+shoplift 1 1
+short 1 1
+shout 1 1
+shunt 1 1
+shut 1 1
+sift 1 1
+sight 1 1
+signpost 1 1
+silt 1 1
+single-foot 1 1
+sit 1 1
+skyrocket 1 1
+slant 1 1
+slat 1 1
+sleet 1 1
+slight 1 1
+slit 1 1
+slot 1 1
+smart 1 1
+smelt 1 1
+smut 1 1
+snort 1 1
+solicit 1 1
+somersault 1 1
+sonnet 1 1
+soot 1 1
+sort 1 1
+spat 1 1
+spirit 1 1
+spirt 1 1
+spit 1 1
+splat 1 1
+splint 1 1
+split 1 1
+sport 1 1
+sportscast 1 1
+spot 1 1
+spotlight 1 1
+spout 1 1
+sprint 1 1
+sprout 1 1
+spurt 1 1
+squat 1 1
+squint 1 1
+squirt 1 1
+start 1 1
+stint 1 1
+strut 1 1
+stunt 1 1
+subcontract 1 1
+subedit 1 1
+subject 1 1
+sublet 1 1
+submit 1 1
+subsist 1 1
+subtract 1 1
+subvent 1 1
+subvert 1 1
+suggest 1 1
+summit 1 1
+superinfect 1 1
+supplant 1 1
+supplement 1 1
+support 1 1
+surfeit 1 1
+suspect 1 1
+swat 1 1
+sweat 1 1
+switch-hit 1 1
+swot 1 1
+taint 1 1
+target 1 1
+tat 1 1
+taunt 1 1
+telecast 1 1
+teleport 1 1
+tempt 1 1
+tenant 1 1
+tent 1 1
+test 1 1
+thermostat 1 1
+thirst 1 1
+thrust 1 1
+thwart 1 1
+ticket 1 1
+tilt 1 1
+tint 1 1
+toast 1 1
+toot 1 1
+torment 1 1
+tout 1 1
+transact 1 1
+transit 1 1
+transmit 1 1
+transplant 1 1
+transport 1 1
+treat 1 1
+trot 1 1
+trumpet 1 1
+trust 1 1
+tweet 1 1
+twist 1 1
+twit 1 1
+typeset 1 1
+unbelt 1 1
+unbolt 1 1
+underact 1 1
+undercoat 1 1
+undercut 1 1
+undershoot 1 1
+unknot 1 1
+untwist 1 1
+uplift 1 1
+uproot 1 1
+upset 1 1
+valet 1 1
+vault 1 1
+vaunt 1 1
+venesect 1 1
+vent 1 1
+vest 1 1
+vet 1 1
+visit 1 1
+vivisect 1 1
+vomit 1 1
+wait 1 1
+want 1 1
+warrant 1 1
+weight 1 1
+weightlift 1 1
+welt 1 1
+wet 1 1
+wilt 1 1
+wrest 1 1
+yacht 1 1
+zest 1 1
+
+# Nonconformant verbs
+
+allot 1 1 allots allotted alotted allotting
+allots 1 9 allot
+allotted 1 6 allot
+alotted 1 6 allot
+allotting 3 10 allot
+
+baby-sit 1 1 baby-sits baby-sat baby-sitting
+baby-sits 1 9 baby-sit
+baby-sat 1 6 baby-sit
+baby-sitting 3 10 baby-sit
+
+ballot 1 1 ballots balloted balloting ballotting
+ballots 1 9 ballot
+balloted 1 6 ballot
+balloting 3 10 ballot
+ballotting 3 10 ballot
+
+banquet 1 1 banquets banqueted banquetted banqueting banquetting
+banquets 1 9 banquet
+banqueted 1 6 banquet
+banquetted 1 6 banquet
+banqueting 3 10 banquet
+banquetting 3 10 banquet
+
+bayonet 1 1 bayonets bayoneted bayonetted bayoneting bayonetting
+bayonets 1 9 bayonet
+bayoneted 1 6 bayonet
+bayonetted 1 6 bayonet
+bayoneting 3 10 bayonet
+bayonetting 3 10 bayonet
+
+beat 1 1 beats beat beaten beating
+beats 1 9 beat
+beat 1 2 beat
+beaten 1 4 beat
+beating 3 10 beat
+
+beget 1 1 begets begat begot begotten begetting
+begets 1 9 beget
+begat 1 6 beget
+begot 1 2 beget
+begotten 1 4 beget
+begetting 3 10 beget
+
+benefit 1 1 benefits benefited benefitted benefiting benefitting
+benefits 1 9 benefit
+benefited 1 6 benefit
+benefitted 1 6 benefit
+benefiting 3 10 benefit
+benefitting 3 10 benefit
+
+bet 1 7 bets betted betting
+bets 1 9 bet
+betted 1 6 bet
+betting 3 10 bet
+
+billet 1 1 billets billeted billetted billeting billetting
+billets 1 9 billet
+billeted 1 6 billet
+billetted 1 6 billet
+billeting 3 10 billet
+billetting 3 10 billet
+
+brevet 1 1 brevets breveted brevetted breveting brevetting
+brevets 1 9 brevet
+breveted 1 6 brevet
+brevetted 1 6 brevet
+breveting 3 10 brevet
+brevetting 3 10 brevet
+
+broadcast 1 7 broadcasts broadcasted broadcasting
+broadcasts 1 9 broadcast
+broadcasted 1 6 broadcast
+broadcasting 3 10 broadcast
+
+bullshit 1 7 bullshits bullshitted bullshitting
+bullshits 1 9 bullshit
+bullshitted 1 6 bullshit
+bullshitting 3 10 bullshit
+
+burst 1 7 bursts bursting
+bursts 1 9 burst
+bursting 3 10 burst
+
+cast 1 7 casts cast casting
+casts 1 9 cast
+casting 3 10 cast
+
+combat 1 1 combats combated combatted combating combatting
+combats 1 9 combat
+combated 1 6 combat
+combatted 1 6 combat
+combating 3 10 combat
+combatting 3 10 combat
+
+corset 1 1 corsets corseted corsetted corseting corsetting
+corsets 1 9 corset
+corseted 1 6 corset
+corsetted 1 6 corset
+corseting 3 10 corset
+corsetting 3 10 corset
+
+cost 1 7 costs costed costing
+costs 1 9 cost
+costed 1 6 cost
+costing 3 10 cost
+
+crosscut 1 7 crosscuts crosscutting
+crosscuts 1 9 crosscut
+crosscutting 3 10 crosscut
+
+curvet 1 1 curvets curveted curvetted curveting curvetting
+curvets 1 9 curvet
+curveted 1 6 curvet
+curvetted 1 6 curvet
+curveting 3 10 curvet
+curvetting 3 10 curvet
+
+cut 1 7 cuts cutting
+cuts 1 9 cut
+cutting 3 10 cut
+
+dogfight 1 1 dogfights dogfought dogfighting
+dogfights 1 9 dogfight
+dogfought 1 6 dogfight
+dogfighting 3 10 dogfight
+
+eat 1 1 eats ate eaten et eating
+eats 1 9 eat
+ate 1 2 eat
+eaten 1 4 eat
+et 1 6 eat
+eating 3 10 eat
+
+yyyy 1 1 yyyys yyyyed yyyying
+yyyys 1 9 yyyy
+yyyyed 1 6 yyyy
+yyyying 3 10 yyyy
+
+yyyy 1 1 yyyys yyyyted yyyyting
+yyyys 1 9 yyyy
+yyyyted 1 6 yyyy
+yyyyting 3 10 yyyy
+
+yyyy 1 1 yyyys yyyyed yyyyted yyyying yyyyting
+yyyys 1 9 yyyy
+yyyyed 1 6 yyyy
+yyyyted 1 6 yyyy
+yyyying 3 10 yyyy
+yyyyting 3 10 yyyy
+
+
