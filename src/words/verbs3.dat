@@ -4064,3 +4064,177 @@ whirs 1 9 whir
 whirred 1 6 whir
 whirring 3 10 whir
 
+#
+# Word ending to "S"
+#
+#  -ed
+#  -es
+#  -ing
+#
+
+abash 1 1
+access 1 1
+address 1 1
+aggress 1 1
+assess 1 1
+bias 1 1
+bless 1 1
+boss 1 1
+bus 1 1
+buss 1 1
+buttress 1 1
+bypass 1 1
+callus 1 1
+canvass 1 1
+caress 1 1
+caucus 1 1
+census 1 1
+chorus 1 1
+class 1 1
+compass 1 1
+compress 1 1
+concuss 1 1
+confess 1 1
+crisscross 1 1
+cross 1 1
+cross-dress 1 1
+cuss 1 1
+decompress 1 1
+degauss 1 1
+depress 1 1
+digress 1 1
+discuss 1 1
+disembarrass 1 1
+dismiss 1 1
+dispossess 1 1
+distress 1 1
+doss 1 1
+dress 1 1
+egress 1 1
+embarrass 1 1
+emboss 1 1
+encompass 1 1
+engross 1 1
+express 1 1
+eyewitness 1 1
+floss 1 1
+focus 1 1
+fuss 1 1
+gas 1 1
+glass 1 1
+gloss 1 1
+grass 1 1
+gross 1 1
+guess 1 1
+harass 1 1
+harness 1 1
+hiss 1 1
+impress 1 1
+kiss 1 1
+mass 1 1
+mess 1 1
+miss 1 1
+muss 1 1
+obsess 1 1
+oppress 1 1
+overdress 1 1
+pass 1 1
+percuss 1 1
+piss 1 1
+possess 1 1
+precis 1 1
+premiss 1 1
+prepossess 1 1
+press 1 1
+process 1 1
+profess 1 1
+progress 1 1
+reassess 1 1
+recess 1 1
+redress 1 1
+refocus 1 1
+regress 1 1
+rendezvous 1 1
+repercuss 1 1
+repossess 1 1
+repress 1 1
+retrogress 1 1
+rumpus 1 1
+sass 1 1
+stress 1 1
+succuss 1 1
+suds 1 1
+summons 1 1
+suppress 1 1
+toss 1 1
+transgress 1 1
+trellis 1 1
+trespass 1 1
+truss 1 1
+uncross 1 1
+underdress 1 1
+undress 1 1
+unharness 1 1
+verdigris 1 1
+waitress 1 1
+witness 1 1
+
+# Nonconformant verbs
+
+bias 1 1 biases biasses biased biassed biasing biassing
+biases 1 9 bias
+biasses 1 9 bias
+biased 1 6 bias
+biassed 1 6 bias
+biasing 3 10 bias
+biassing 3 10 bias
+
+bless 1 1 blesses blessed blest blessing
+blesses 1 9 bless
+blessed 1 6 bless
+blest 1 6 bless
+blessing 3 10 bless
+
+bus 1 1 buses busses bused bussed busing bussing
+buses 1 9 bus
+busses 1 9 bus
+bused 1 6 bus
+bussed 1 6 bus
+busing 3 10 bus
+bussing 3 10 bus
+
+chorus 1 1 choruses chorused chorussed chorusing chorussing
+choruses 1 9 chorus
+chorused 1 6 chorus
+chorussed 1 6 chorus
+chorusing 3 10 chorus
+chorussing 3 10 chorus
+
+focus 1 1 focuses focusses focused focussed focusing focussing
+focuses 1 9 focus
+focusses 1 9 focus
+focused 1 6 focus
+focussed 1 6 focus
+focusing 3 10 focus
+focussing 3 10 focus
+
+gas 1 1 gases gasses gassed gassing
+gases 1 9 gas
+gasses 1 9 gas
+gassed 1 6 gas
+gassing 3 10 gas
+
+piss 1 1 pisses pissed pist pissing
+pisses 1 9 piss
+pissed 1 6 piss
+pist 1 6 piss
+pissing 3 10 piss
+
+refocus 1 1 refocuses refocusses refocused refocussed refocusing refocussing
+refocuses 1 9 refocus
+refocusses 1 9 refocus
+refocused 1 6 refocus
+refocussed 1 6 refocus
+refocusing 3 10 refocus
+refocussing 3 10 refocus
+
