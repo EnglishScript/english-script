@@ -5032,6 +5032,28 @@ zest 1 1
 
 # Nonconformant verbs
 
+abet 1 1 abets abetted abetting
+abets 1 9 abet
+abetted 1 6 abet
+abetting 3 10 abet
+
+abut 1 1 abuts abutted abutting
+abuts 1 9 abut
+abutted 1 6 abut
+abutting 3 10 abut
+
+acquit 1 1 acquits acquited acquitted acquiting acquitting
+acquits 1 9 acquit
+acquited 1 6 acquit
+acquitted 1 6 acquit
+acquiting 3 10 acquit
+acquitting 3 10 acquit
+
+admit 1 1 admits admitted admitting
+admits 1 9 admit
+admitted 1 6 admit
+admitting 3 10 admit
+
 allot 1 1 allots allotted alotted allotting
 allots 1 9 allot
 allotted 1 6 allot
@@ -5055,6 +5077,11 @@ banqueted 1 6 banquet
 banquetted 1 6 banquet
 banqueting 3 10 banquet
 banquetting 3 10 banquet
+
+bat 1 1 bats batted batting
+bats 1 9 bat
+batted 1 6 bat
+batting 3 10 bat
 
 bayonet 1 1 bayonets bayoneted bayonetted bayoneting bayonetting
 bayonets 1 9 bayonet
@@ -5095,6 +5122,11 @@ billetted 1 6 billet
 billeting 3 10 billet
 billetting 3 10 billet
 
+blot 1 1 blots blotted blotting
+blots 1 9 blot
+blotted 1 6 blot
+blotting 3 10 blot
+
 brevet 1 1 brevets breveted brevetted breveting brevetting
 brevets 1 9 brevet
 breveted 1 6 brevet
@@ -5116,9 +5148,29 @@ burst 1 7 bursts bursting
 bursts 1 9 burst
 bursting 3 10 burst
 
-cast 1 7 casts cast casting
+cast 1 7 casts casting
 casts 1 9 cast
 casting 3 10 cast
+
+cat 1 1 cats catted catting
+cats 1 9 cat
+catted 1 6 cat
+catting 3 10 cat
+
+chat 1 1 chats chatted chatting
+chats 1 9 chat
+chatted 1 6 chat
+chatting 3 10 chat
+
+chitchat 1 1 chitchats chitchatted chitchatting
+chitchats 1 9 chitchat
+chitchatted 1 6 chitchat
+chitchatting 3 10 chitchat
+
+clot 1 1 clots clotted clotting
+clots 1 9 clot
+clotted 1 6 clot
+clotting 3 10 clot
 
 combat 1 1 combats combated combatted combating combatting
 combats 1 9 combat
@@ -5126,6 +5178,16 @@ combated 1 6 combat
 combatted 1 6 combat
 combating 3 10 combat
 combatting 3 10 combat
+
+commit 1 1 commits committed committing
+commits 1 9 commit
+committed 1 6 commit
+committing 3 10 commit
+
+coquet 1 1 coquets coquetted coquetting
+coquets 1 9 coquet
+coquetted 1 6 coquet
+coquetting 3 10 coquet
 
 corset 1 1 corsets corseted corsetted corseting corsetting
 corsets 1 9 corset
@@ -5138,6 +5200,11 @@ cost 1 7 costs costed costing
 costs 1 9 cost
 costed 1 6 cost
 costing 3 10 cost
+
+counterplot 1 1 counterplots counterplotted counterplotting
+counterplots 1 9 counterplot
+counterplotted 1 6 counterplot
+counterplotting 3 10 counterplot
 
 crosscut 1 7 crosscuts crosscutting
 crosscuts 1 9 crosscut
@@ -5159,12 +5226,27 @@ dogfights 1 9 dogfight
 dogfought 1 6 dogfight
 dogfighting 3 10 dogfight
 
+dot 1 1 dots dotted dotting
+dots 1 9 dot
+dotted 1 6 dot
+dotting 3 10 dot
+
 eat 1 1 eats ate eaten et eating
 eats 1 9 eat
 ate 1 2 eat
 eaten 1 4 eat
 et 1 6 eat
 eating 3 10 eat
+
+emit 1 1 emits emitted emitting
+emits 1 9 emit
+emitted 1 6 emit
+emitting 3 10 emit
+
+fat 1 1 fats fatted fatting
+fats 1 9 fat
+fatted 1 6 fat
+fatting 3 10 fat
 
 fidget 1 1 fidgets fidgeted fidgetted fidgeting fidgetting
 fidgets 1 9 fidget
@@ -5188,6 +5270,11 @@ fits 1 9 fit
 fitted 1 6 fit
 fitting 3 10 fit
 
+flit 1 1 flits flitted flitting
+flits 1 9 flit
+flitted 1 6 flit
+flitting 3 10 flit
+
 forecast 1 7 forecasts forecasted forecasting
 forecasts 1 9 forecast
 forecasted 1 6 forecast
@@ -5198,6 +5285,11 @@ forgets 1 9 forget
 forgot 1 2 forget
 forgotten 1 4 forget
 forgetting 3 10 forget
+
+format 1 1 formats formatted formatting
+formats 1 9 format
+formatted 1 6 format
+formatting 3 10 format
 
 fret 1 3 frets fretted freet frate fretten fretting
 frets 1 9 fret
@@ -5222,6 +5314,11 @@ gibbetted 1 6 gibbet
 gibbeting 3 10 gibbet
 gibbetting 3 10 gibbet
 
+glut 1 1 gluts glutted glutting
+gluts 1 9 glut
+glutted 1 6 glut
+glutting 3 10 glut
+
 greet 1 1 greets greeted grat greeting
 greets 1 9 greet
 greeted 1 6 greet
@@ -5232,6 +5329,16 @@ grit 1 7 grits gritted gritting
 grits 1 9 grit
 gritted 1 6 grit
 gritting 3 10 grit
+
+gut 1 1 guts gutted gutting
+guts 1 9 gut
+gutted 1 6 gut
+gutting 3 10 gut
+
+hat 1 1 hats hatted hatting
+hats 1 9 hat
+hatted 1 6 hat
+hatting 3 10 hat
 
 heat 1 1 heats heated het heating
 heats 1 9 heat
@@ -5262,6 +5369,26 @@ inset 1 7 insets insetting
 insets 1 9 inset
 insetting 3 10 inset
 
+intermit 1 1 intermits intermitted intermitting
+intermits 1 9 intermit
+intermitted 1 6 intermit
+intermitting 3 10 intermit
+
+intromit 1 1 intromits intromitted intromitting
+intromits 1 9 intromit
+intromitted 1 6 intromit
+intromitting 3 10 intromit
+
+jet 1 1 jets jetted jetting
+jets 1 9 jet
+jetted 1 6 jet
+jetting 3 10 jet
+
+jot 1 1 jots jotted jotting
+jots 1 9 jot
+jotted 1 6 jot
+jotting 3 10 jot
+
 junket 1 1 junkets junketed junketted junketing junketting
 junkets 1 9 junket
 junketed 1 6 junket
@@ -5269,10 +5396,25 @@ junketted 1 6 junket
 junketing 3 10 junket
 junketting 3 10 junket
 
+jut 1 1 juts jutted jutting
+juts 1 9 jut
+jutted 1 6 jut
+jutting 3 10 jut
+
+kit 1 1 kits kitted kitting
+kits 1 9 kit
+kitted 1 6 kit
+kitting 3 10 kit
+
 knit 1 7 knits knitted knitting
 knits 1 9 knit
 knitted 1 6 knit
 knitting 3 10 knit
+
+knot 1 1 knots knotted knotting
+knots 1 9 knot
+knotted 1 6 knot
+knotting 3 10 knot
 
 let 1 7 lets letting
 lets 1 9 let
@@ -5288,6 +5430,36 @@ list 1 7 lists listed listing
 lists 1 9 list
 listed 1 6 list
 listing 3 10 list
+
+lot 1 1 lots lotted lotting
+lots 1 9 lot
+lotted 1 6 lot
+lotting 3 10 lot
+
+manumit 1 1 manumits manumitted manumitting
+manumits 1 9 manumit
+manumitted 1 6 manumit
+manumitting 3 10 manumit
+
+mat 1 1 mats matted matting
+mats 1 9 mat
+matted 1 6 mat
+matting 3 10 mat
+
+yyyy 1 1 yyyys yyyyted yyyyting
+yyyys 1 9 yyyy
+yyyyted 1 6 yyyy
+yyyyting 3 10 yyyy
+
+yyyy 1 1 yyyys yyyyted yyyyting
+yyyys 1 9 yyyy
+yyyyted 1 6 yyyy
+yyyyting 3 10 yyyy
+
+yyyy 1 1 yyyys yyyyted yyyyting
+yyyys 1 9 yyyy
+yyyyted 1 6 yyyy
+yyyyting 3 10 yyyy
 
 meet 1 1 meets met meeting
 meets 1 9 meet
@@ -5374,7 +5546,7 @@ rivetted 1 6 rivet
 riveting 3 10 rivet
 rivetting 3 10 rivet
 
-roughcast 1 7 roughcasts roughcast roughcasting
+roughcast 1 7 roughcasts roughcasting
 roughcasts 1 9 roughcast
 roughcasting 3 10 roughcast
 
@@ -5423,7 +5595,7 @@ split 1 7 splits splitting
 splits 1 9 split
 splitting 3 10 split
 
-sportscast 1 7 sportscasts sportscast sportscasting
+sportscast 1 7 sportscasts sportscasting
 sportscasts 1 9 sportscast
 sportscasting 3 10 sportscast
 
@@ -5438,6 +5610,79 @@ sprints 1 9 sprint
 sprinted 1 6 sprint
 sprunt 1 4 sprint
 sprinting 3 10 sprint
+
+sublet 1 7 sublets subletting
+sublets 1 9 sublet
+subletting 3 10 sublet
+
+summit 1 1 summits summited summitted summiting summitting
+summits 1 9 summit
+summited 1 6 summit
+summitted 1 6 summit
+summiting 3 10 summit
+summitting 3 10 summit
+
+switch-hit 1 7 switch-hits switch-hitting
+switch-hits 1 9 switch-hit
+switch-hitting 3 10 switch-hit
+
+target 1 1 targets targeted targetted targeting targetting
+targets 1 9 target
+targeted 1 6 target
+targetted 1 6 target
+targeting 3 10 target
+targetting 3 10 target
+
+telecast 1 7 telecasts telecasted telecasting
+telecasts 1 9 telecast
+telecasted 1 6 telecast
+telecasting 3 10 telecast
+
+thrust 1 7 thrusts thrusting
+thrusts 1 9 thrust
+thrusting 3 10 thrust
+
+transit 1 1 transits transited transitted transiting transitting
+transits 1 9 transit
+transited 1 6 transit
+transitted 1 6 transit
+transiting 3 10 transit
+transitting 3 10 transit
+
+treat 1 1 treats treated tret treating
+treats 1 9 treat
+treated 1 6 treat
+tret 1 6 treat
+treating 3 10 treat
+
+tweet 1 1 tweets tweeted twote twoten tweeting
+tweets 1 9 tweet
+tweeted 1 6 tweet
+twote 1 2 tweet
+twoten 1 4 tweet
+tweeting 3 10 tweet
+
+typeset 1 7 typesets typesetting
+typesets 1 9 typeset
+typesetting 3 10 typeset
+
+undercut 1 7 undercuts undercutting
+undercuts 1 9 undercut
+undercutting 3 10 undercut
+
+undershoot 1 1 undershoots undershot undershooting
+undershoots 1 9 undershoot
+undershot 1 6 undershoot
+undershooting 3 10 undershoot
+
+upset 1 7 upsets upsetting
+upsets 1 9 upset
+upsetting 3 10 upset
+
+wet 1 7 wets wetted wetting
+wets 1 9 wet
+wetted 1 6 wet
+wetting 3 10 wet
 
 yyyy 1 1 yyyys yyyyed yyyying
 yyyys 1 9 yyyy
