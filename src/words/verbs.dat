@@ -1462,6 +1462,179 @@ curve 1 1
 cybernate 1 1
 cycle 1 1
 cyclostyle 1 1
+dabble 1 1
+damage 1 1
+dance 1 1
+dangle 1 1
+dapple 1 1
+dare 1 1
+date 1 1
+dateline 1 1
+dawdle 1 1
+daze 1 1
+dazzle 1 1
+de-energise 1 1
+de-energize 1 1
+de-escalate 1 1
+de-iodinate 1 1
+de-ionate 1 1
+deactivate 1 1
+deaminate 1 1
+debase 1 1
+debate 1 1
+debilitate 1 1
+decarboxylate 1 1
+decease 1 1
+deceive 1 1
+decelerate 1 1
+decentralise 1 1
+decentralize 1 1
+decide 1 1
+decimalise 1 1
+decimalize 1 1
+decimate 1 1
+declare 1 1
+decline 1 1
+decode 1 1
+decolonise 1 1
+decolonize 1 1
+decompose 1 1
+deconcentrate 1 1
+decontaminate 1 1
+decorate 1 1
+decorticate 1 1
+decrease 1 1
+decrepitate 1 1
+decriminalise 1 1
+decriminalize 1 1
+decussate 1 1
+dedicate 1 1
+dedifferentiate 1 1
+deduce 1 1
+deface 1 1
+defalcate 1 1
+defame 1 1
+defecate 1 1
+defenstrate 1 1
+defibrillate 1 1
+defile 1 1
+define 1 1
+deflagrate 1 1
+deflate 1 1
+defoliate 1 1
+defuse 1 1
+degenerate 1 1
+deglycerolize 1 1
+degrade 1 1
+dehisce 1 1
+dehumanise 1 1
+duhumanize 1 1
+dehydrate 1 1
+dehydrogenate 1 1
+deice 1 1
+delegate 1 1
+delete 1 1
+deliberate 1 1
+delimitate 1 1
+delineate 1 1
+deliquesce 1 1
+delude 1 1
+deluge 1 1
+demagnetise 1 1
+demagnetize 1 1
+demarcate 1 1
+dematerialise 1 1
+dematerialize 1 1
+demilitarise 1 1
+demilitarize 1 1
+demineralise 1 1
+demineralize 1 1
+demobilise 1 1
+demobilize 1 1
+democratize 1 1
+demodulate 1 1
+demonetise 1 1
+demonetize 1 1
+demonise 1 1
+demonize 1 1
+demonstrate 1 1
+demoralise 1 1
+demoralize 1 1
+demote 1 1
+demythologise 1 1
+demythologize 1 1
+denationalise 1 1
+denationalize 1 1
+denaturalize 1 1
+denigrate 1 1
+denominate 1 1
+denote 1 1
+denounce 1 1
+denude 1 1
+deodorize 1 1
+deodourise 1 1
+deoxidise 1 1
+deoxidize 1 1
+depersonalise 1 1
+depersonalize 1 1
+depilate 1 1
+deplete 1 1
+depolarise 1 1
+depolarize 1 1
+depone 1 1
+depopulate 1 1
+depose 1 1
+deprave 1 1
+deprecate 1 1
+depreciate 1 1
+depressurise 1 1
+depressurize 1 1
+deprive 1 1
+depute 1 1
+deputise 1 1
+deputize 1 1
+deracinate 1 1
+derange 1 1
+deregulate
+deride 1 1
+derive 1 1
+derogate 1 1
+desalinate 1 1
+desalinise 1 1
+desalinize 1 1
+describe 1 1
+desecrate 1 1
+desegregate 1 1
+desensitise 1 1
+desensitize 1 1
+desiccate 1 1
+designate 1 1
+desire 1 1
+desolate 1 1
+despise 1 1
+destabilise 1 1
+destabilize 1 1
+destine 1 1
+desynchronise 1 1
+desynchronize 1 1
+deterge 1 1
+deteriorate 1 1
+determine 1 1
+dethrone 1 1
+detonate 1 1
+detribalise 1 1
+detribalize 1 1
+devaluate 1 1
+devalue 1 1
+devastate 1 1
+deviate 1 1
+devilize 1 1
+devise 1 1
+devitalise 1 1
+devitalize 1 1
+devoice 1 1
+devolve 1 1
+devote 1 1
 
 
 # Ei Säännöillä
@@ -1537,6 +1710,17 @@ cue 1 1 cued cues cueing
 cued 1 6 cue
 cues 1 9 cue
 cueing 3 10 cue
+
+decree 1 1 decreed decrees decreeing
+decreed 1 6 decree
+decrees 1 9 decree
+decreeing 3 10 decree
+
+denature 1 1 denatured denatures denaturing denaturating
+denatured 1 6 denature
+denatures 1 9 denature
+denaturing 3 10 denature
+denaturating 3 10 denature
 
 # Epäsäännölliset
 abide 1 1 abode abides abiding
