@@ -5446,30 +5446,35 @@ mats 1 9 mat
 matted 1 6 mat
 matting 3 10 mat
 
-yyyy 1 1 yyyys yyyyted yyyyting
-yyyys 1 9 yyyy
-yyyyted 1 6 yyyy
-yyyyting 3 10 yyyy
-
-yyyy 1 1 yyyys yyyyted yyyyting
-yyyys 1 9 yyyy
-yyyyted 1 6 yyyy
-yyyyting 3 10 yyyy
-
-yyyy 1 1 yyyys yyyyted yyyyting
-yyyys 1 9 yyyy
-yyyyted 1 6 yyyy
-yyyyting 3 10 yyyy
-
 meet 1 1 meets met meeting
 meets 1 9 meet
 met 1 6 meet
 meeting 3 10 meet
 
+net 1 1 nets netted netting
+nets 1 9 net
+netted 1 6 net
+netting 3 10 net
+
+nut 1 1 nuts nutted nutting
+nuts 1 9 nut
+nutted 1 6 nut
+nutting 3 10 nut
+
 offset 1 7 offsets offsetted offsetting
 offsets 1 9 offset
 offsetted 1 6 offset
 offsetting 3 10 offset
+
+omit 1 1 omits omitted omitting
+omits 1 9 omit
+omitted 1 6 omit
+omitting 3 10 omit
+
+outfit 1 1 outfits outfitted outfitting
+outfits 1 9 outfit
+outfitted 1 6 outfit
+outfitting 3 10 outfit
 
 output 1 7 outputs outputted outputting
 outputs 1 9 output
@@ -5505,6 +5510,46 @@ parroted 1 6 parrot
 parrotted 1 6 parrot
 parroting 3 10 parrot
 
+pat 1 1 pats patted patting
+pats 1 9 pat
+patted 1 6 pat
+patting 3 10 pat
+
+permit 1 1 permits permitted permitting
+permits 1 9 permit
+permitted 1 6 permit
+permitting 3 10 permit
+
+pet 1 1 pets petted petting
+pets 1 9 pet
+petted 1 6 pet
+petting 3 10 pet
+
+photostat 1 1 photostats photostatted photostatting
+photostats 1 9 photostat
+photostatted 1 6 photostat
+photostatting 3 10 photostat
+
+pit 1 1 pits pitted pitting
+pits 1 9 pit
+pitted 1 6 pit
+pitting 3 10 pit
+
+plot 1 1 plots plotted plotting
+plots 1 9 plot
+plotted 1 6 plot
+plotting 3 10 plot
+
+pot 1 1 pots potted potting
+pots 1 9 pot
+potted 1 6 pot
+potting 3 10 pot
+
+pretermit 1 1 pretermits pretermitted pretermitting
+pretermits 1 9 pretermit
+pretermitted 1 6 pretermit
+pretermitting 3 10 pretermit
+
 prizefight 1 1 prizefights prizefought prizefighting
 prizefights 1 9 prizefight
 prizefought 1 6 prizefight
@@ -5528,9 +5573,44 @@ rabbitted 1 6 rabbit
 rabbiting 3 10 rabbit
 rabbitting 3 10 rabbit
 
+rat 1 1 rats ratted ratting
+rats 1 9 rat
+ratted 1 6 rat
+ratting 3 10 rat
+
+readmit 1 1 readmits readmitted readmitting
+readmits 1 9 readmit
+readmitted 1 6 readmit
+readmitting 3 10 readmit
+
+reallot 1 1 reallots reallotted reallotting
+reallots 1 9 reallot
+reallotted 1 6 reallot
+reallotting 3 10 reallot
+
+rebut 1 1 rebuts rebutted rebutting
+rebuts 1 9 rebut
+rebutted 1 6 rebut
+rebutting 3 10 rebut
+
+regret 1 1 regrets regretted regretting
+regrets 1 9 regret
+regretted 1 6 regret
+regretting 3 10 regret
+
+remit 1 1 remits remitted remitting
+remits 1 9 remit
+remitted 1 6 remit
+remitting 3 10 remit
+
 reset 1 7 resets resetting
 resets 1 9 reset
 resetting 3 10 reset
+
+revet 1 1 revets revetted revetting
+revets 1 9 revet
+revetted 1 6 revet
+revetting 3 10 revet
 
 ricochet 1 1 ricochets ricocheted ricochetted ricocheting ricochetting
 ricochets 1 9 ricochet
@@ -5546,9 +5626,19 @@ rivetted 1 6 rivet
 riveting 3 10 rivet
 rivetting 3 10 rivet
 
+rot 1 1 rots rotted rotting
+rots 1 9 rot
+rotted 1 6 rot
+rotting 3 10 rot
+
 roughcast 1 7 roughcasts roughcasting
 roughcasts 1 9 roughcast
 roughcasting 3 10 roughcast
+
+rut 1 1 ruts rutted rutting
+ruts 1 9 rut
+rutted 1 6 rut
+rutting 3 10 rut
 
 set 1 7 sets setted setting
 sets 1 9 set
@@ -5581,15 +5671,40 @@ sits 1 9 sit
 sat 1 6 sit
 sitting 3 10 sit
 
+slat 1 1 slats slatted slatting
+slats 1 9 slat
+slatted 1 6 slat
+slatting 3 10 slat
+
 slit 1 7 slits slitten slitting
 slits 1 9 slit
 slitten 1 4 slit
 slitting 3 10 slit
 
+slot 1 1 slots slotted slotting
+slots 1 9 slot
+slotted 1 6 slot
+slotting 3 10 slot
+
+smut 1 1 smuts smutted smutting
+smuts 1 9 smut
+smutted 1 6 smut
+smutting 3 10 smut
+
+spat 1 1 spats spatted spatting
+spats 1 9 spat
+spatted 1 6 spat
+spatting 3 10 spat
+
 spit 1 7 spits spat spitting
 spits 1 9 spit
 spat 1 6 spit
 spitting 3 10 spit
+
+splat 1 1 splats splatted splatting
+splats 1 9 splat
+splatted 1 6 splat
+splatting 3 10 splat
 
 split 1 7 splits splitting
 splits 1 9 split
@@ -5598,6 +5713,11 @@ splitting 3 10 split
 sportscast 1 7 sportscasts sportscasting
 sportscasts 1 9 sportscast
 sportscasting 3 10 sportscast
+
+spot 1 1 spots spotted spotting
+spots 1 9 spot
+spotted 1 6 spot
+spotting 3 10 spot
 
 spotlight 1 1 spotlights spotlighted spotlit spotlighting
 spotlights 1 9 spotlight
@@ -5611,9 +5731,29 @@ sprinted 1 6 sprint
 sprunt 1 4 sprint
 sprinting 3 10 sprint
 
+squat 1 1 squats squatted squatting
+squats 1 9 squat
+squatted 1 6 squat
+squatting 3 10 squat
+
+strut 1 1 struts strutted strutting
+struts 1 9 strut
+strutted 1 6 strut
+strutting 3 10 strut
+
 sublet 1 7 sublets subletting
 sublets 1 9 sublet
 subletting 3 10 sublet
+
+submit 1 1 submits submitted submitting
+submits 1 9 submit
+submitted 1 6 submit
+submitting 3 10 submit
+
+suggest 1 1 suggests suggestted suggestting
+suggests 1 9 suggest
+suggestted 1 6 suggest
+suggestting 3 10 suggest
 
 summit 1 1 summits summited summitted summiting summitting
 summits 1 9 summit
@@ -5622,9 +5762,19 @@ summitted 1 6 summit
 summiting 3 10 summit
 summitting 3 10 summit
 
+swat 1 1 swats swatted swatting
+swats 1 9 swat
+swatted 1 6 swat
+swatting 3 10 swat
+
 switch-hit 1 7 switch-hits switch-hitting
 switch-hits 1 9 switch-hit
 switch-hitting 3 10 switch-hit
+
+swot 1 1 swots swotted swotting
+swots 1 9 swot
+swotted 1 6 swot
+swotting 3 10 swot
 
 target 1 1 targets targeted targetted targeting targetting
 targets 1 9 target
@@ -5632,6 +5782,11 @@ targeted 1 6 target
 targetted 1 6 target
 targeting 3 10 target
 targetting 3 10 target
+
+tat 1 1 tats tatted tatting
+tats 1 9 tat
+tatted 1 6 tat
+tatting 3 10 tat
 
 telecast 1 7 telecasts telecasted telecasting
 telecasts 1 9 telecast
@@ -5649,11 +5804,21 @@ transitted 1 6 transit
 transiting 3 10 transit
 transitting 3 10 transit
 
+transmit 1 1 transmits transmitted transmitting
+transmits 1 9 transmit
+transmitted 1 6 transmit
+transmitting 3 10 transmit
+
 treat 1 1 treats treated tret treating
 treats 1 9 treat
 treated 1 6 treat
 tret 1 6 treat
 treating 3 10 treat
+
+trot 1 1 trots trotted trotting
+trots 1 9 trot
+trotted 1 6 trot
+trotting 3 10 trot
 
 tweet 1 1 tweets tweeted twote twoten tweeting
 tweets 1 9 tweet
@@ -5661,6 +5826,11 @@ tweeted 1 6 tweet
 twote 1 2 tweet
 twoten 1 4 tweet
 tweeting 3 10 tweet
+
+twit 1 1 twits twitted twitting
+twits 1 9 twit
+twitted 1 6 twit
+twitting 3 10 twit
 
 typeset 1 7 typesets typesetting
 typesets 1 9 typeset
@@ -5675,30 +5845,22 @@ undershoots 1 9 undershoot
 undershot 1 6 undershoot
 undershooting 3 10 undershoot
 
+unknot 1 1 unknots unknotted unknotting
+unknots 1 9 unknot
+unknotted 1 6 unknot
+unknotting 3 10 unknot
+
 upset 1 7 upsets upsetting
 upsets 1 9 upset
 upsetting 3 10 upset
+
+vet 1 1 vets vetted vetting
+vets 1 9 vet
+vetted 1 6 vet
+vetting 3 10 vet
 
 wet 1 7 wets wetted wetting
 wets 1 9 wet
 wetted 1 6 wet
 wetting 3 10 wet
-
-yyyy 1 1 yyyys yyyyed yyyying
-yyyys 1 9 yyyy
-yyyyed 1 6 yyyy
-yyyying 3 10 yyyy
-
-yyyy 1 1 yyyys yyyyted yyyyting
-yyyys 1 9 yyyy
-yyyyted 1 6 yyyy
-yyyyting 3 10 yyyy
-
-yyyy 1 1 yyyys yyyyed yyyyted yyyying yyyyting
-yyyys 1 9 yyyy
-yyyyed 1 6 yyyy
-yyyyted 1 6 yyyy
-yyyying 3 10 yyyy
-yyyyting 3 10 yyyy
-
 
