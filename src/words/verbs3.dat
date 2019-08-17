@@ -6098,4 +6098,77 @@ withdrew 1 2 withdraw
 withdrawn 1 4 withdraw
 withdrawing 3 10 withdraw
 
+#
+# Word ending to "X"
+#
+#  -ed
+#  -es
+#  -ing
+#
+
+admix 1 1
+affix 1 1
+annex 1 1
+ax 1 1
+beeswax 1 1
+box 1 1
+climax 1 1
+coax 1 1
+commix 1 1
+cox 1 1
+cross-index 1 1
+fax 1 1
+fix 1 1
+flex 1 1
+flux 1 1
+fox 1 1
+hex 1 1
+hoax 1 1
+index 1 1
+infix 1 1
+intermix 1 1
+jinx 1 1
+mix 1 1
+poleax 1 1
+prefix 1 1
+relax 1 1
+retroflex 1 1
+sex 1 1
+shadowbox 1 1
+suffix 1 1
+surtax 1 1
+tax 1 1
+telex 1 1
+unbox 1 1
+vex 1 1
+wax 1 1
+xerox 1 1
+
+# Nonconformant verbs
+
+admix 1 1 admixes admixed admixt admixing
+admixes 1 9 admix
+admixed 1 6 admix
+admixt 1 6 admix
+admixing 3 10 admix
+
+intermix 1 1 intermixes intermixed intermixt intermixing
+intermixes 1 9 intermix
+intermixed 1 6 intermix
+intermixt 1 6 intermix
+intermixing 3 10 intermix
+
+mix 1 1 mixes mixed mixt mixing
+mixes 1 9 mix
+mixed 1 6 mix
+mixt 1 6 mix
+mixing 3 10 mix
+
+wax 1 1 waxs waxed waxen waxing
+waxs 1 9 wax
+waxed 1 6 wax
+waxen 1 4 wax
+waxing 3 10 wax
+
+
 
