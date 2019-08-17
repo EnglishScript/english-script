@@ -5864,3 +5864,238 @@ wets 1 9 wet
 wetted 1 6 wet
 wetting 3 10 wet
 
+#
+# Word ending to "U"
+#
+#  -ed
+#  -s
+#  -ing
+#
+
+miaou 1 1
+snafu 1 1
+
+#
+# Word ending to "V"
+#
+#  -ed
+#  -s
+#  -ing
+#
+
+# Nonconformant verbs
+
+rev 1 1 revs revved revving
+revs 1 9 rev
+revved 1 6 rev
+revving 3 10 rev
+
+#
+# Word ending to "W"
+#
+#  -ed
+#  -s
+#  -ing
+#
+
+allow 1 1
+avow 1 1
+bellow 1 1
+bestow 1 1
+billow 1 1
+blow 1 1
+borrow 1 1
+bow 1 1
+brew 1 1
+burrow 1 1
+caw 1 1
+chaw 1 1
+chew 1 1
+claw 1 1
+clew 1 1
+cow 1 1
+crew 1 1
+crow 1 1
+disallow 1 1
+disavow 1 1
+draw 1 1
+elbow 1 1
+endow 1 1
+farrow 1 1
+flaw 1 1
+flow 1 1
+follow 1 1
+foreshadow 1 1
+furrow 1 1
+glow 1 1
+gnaw 1 1
+grow 1 1
+guffaw 1 1
+harrow 1 1
+hee-haw 1 1
+hew 1 1
+hollow 1 1
+interview 1 1
+jaw 1 1
+know 1 1
+kotow 1 1
+kowtow 1 1
+mellow 1 1
+meow 1 1
+mew 1 1
+miaow 1 1
+mildew 1 1
+mow 1 1
+narrow 1 1
+outlaw 1 1
+overflow 1 1
+overthrow 1 1
+paw 1 1
+pillow 1 1
+plow 1 1
+powwow 1 1
+preview 1 1
+renew 1 1
+review 1 1
+row 1 1
+saw 1 1
+screw 1 1
+seesaw 1 1
+sew 1 1
+shadow 1 1
+shallow 1 1
+show 1 1
+skew 1 1
+slow 1 1
+snow 1 1
+sorrow 1 1
+sow 1 1
+spew 1 1
+stew 1 1
+stow 1 1
+straw 1 1
+strew 1 1
+swallow 1 1
+thaw 1 1
+throw 1 1
+tow 1 1
+unscrew 1 1
+view 1 1
+vow 1 1
+wallow 1 1
+whipsaw 1 1
+widow 1 1
+winnow 1 1
+withdraw 1 1
+yaw 1 1
+yellow 1 1
+
+# Nonconformant verbs
+
+blow 1 1 blows blowed blew blown blowing
+blows 1 9 blow
+blowed 1 6 blow
+blew 1 2 blow
+blown 1 4 blow
+blowing 3 10 blow
+
+crow 1 1 crows crowed crew crowing
+crows 1 9 crow
+crowed 1 6 crow
+crew 1 6 crow
+crowing 3 10 crow
+
+draw 1 1 draws drew drawn drawne drawing
+draws 1 9 draw
+drew 1 2 draw
+drawn 1 4 draw
+drawne 1 4 draw
+drawing 3 10 draw
+
+gnaw 1 1 gnaws gnawed gnawn gnawing
+gnaws 1 9 gnaw
+gnawed 1 6 gnaw
+gnawn 1 4 gnaw
+gnawing 3 10 gnaw
+
+grow 1 1 grows grew grown growed growing
+grows 1 9 grow
+grew 1 2 grow
+grown 1 4 grow
+growed 1 6 grow
+growing 3 10 grow
+
+hew 1 1 hews hewed hewn hewing
+hews 1 9 hew
+hewed 1 6 hew
+hewn 1 4 hew
+hewing 3 10 hew
+
+know 1 1 knows knew known knowing
+knows 1 9 know
+knew 1 2 know
+known 1 4 know
+knowing 3 10 know
+
+mow 1 1 mows mowed mown mowing
+mows 1 9 mow
+mowed 1 6 mow
+mown 1 4 mow
+mowing 3 10 mow
+
+overthrow 1 1 overthrows overthrew overthrown overthrowing
+overthrows 1 9 overthrow
+overthrew 1 2 overthrow
+overthrown 1 4 overthrow
+overthrowing 3 10 overthrow
+
+saw 1 1 saws sawed sawn sawing
+saws 1 9 saw
+sawed 1 6 saw
+sawn 1 4 saw
+sawing 3 10 saw
+
+sew 1 1 sews sewed sewn sewing
+sews 1 9 sew
+sewed 1 6 sew
+sewn 1 4 sew
+sewing 3 10 sew
+
+show 1 1 shows showed shew shown showing
+shows 1 9 show
+showed 1 6 show
+shew 1 2 show
+shown 1 4 show
+showing 3 10 show
+
+snow 1 1 snows snowed snown snowing
+snows 1 9 snow
+snowed 1 6 snow
+snown 1 4 snow
+snowing 3 10 snow
+
+sow 1 1 sows sowed sown sowing
+sows 1 9 sow
+sowed 1 6 sow
+sown 1 4 sow
+sowing 3 10 sow
+
+strew 1 1 strews strewed strewn strewing
+strews 1 9 strew
+strewed 1 6 strew
+strewn 1 4 strew
+strewing 3 10 strew
+
+throw 1 1 throws threw thrown throwing
+throws 1 9 throw
+threw 1 2 throw
+thrown 1 4 throw
+throwing 3 10 throw
+
+withdraw 1 1 withdraws withdrew withdrawn withdrawing
+withdraws 1 9 withdraw
+withdrew 1 2 withdraw
+withdrawn 1 4 withdraw
+withdrawing 3 10 withdraw
+
+
