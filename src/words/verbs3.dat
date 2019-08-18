@@ -1169,21 +1169,68 @@ pees 1 9 pee
 peed 1 6 pee
 peeing 3 10 pee
 
+prove 1 1 proves proved proven proving
+proves 1 9 prove
+proved 1 6 prove
+proven 1 4 prove
+proving 3 10 prove
 
-yyyy 1 1 yyyys yyyyd yyyying
-yyyys 1 9 yyyy
-yyyyd 1 6 yyyy
-yyyying 3 10 yyyy
+puree 1 1 purees pureed pureeing
+purees 1 9 puree
+pureed 1 6 puree
+pureeing 3 10 puree
 
-yyyy 1 1 yyyys yyyyted yyyyting
-yyyys 1 9 yyyy
-yyyyted 1 6 yyyy
-yyyyting 3 10 yyyy
+quake 1 1 quakes quaked quooke quaking
+quakes 1 9 quake
+quaked 1 6 quake
+quooke 1 6 quake
+quaking 3 10 quake
 
-yyyy 1 1 yyyys yyyyted yyyyting
-yyyys 1 9 yyyy
-yyyyted 1 6 yyyy
-yyyyting 3 10 yyyy
+queue 1 1 queues queued queuing queueing
+queues 1 9 queue
+queued 1 6 queue
+queuing 3 10 queue
+queueing 3 10 queue
+
+reappraise 1 1 reappraises reappraised reappraied reappraising
+reappraises 1 9 reappraise
+reappraised 1 6 reappraise
+reappraied 1 6 reappraise
+reappraising 3 10 reappraise
+
+referee 1 1 referees refereed refereeing
+referees 1 9 referee
+refereed 1 6 referee
+refereeing 3 10 referee
+
+remake 1 1 remakes remade remaking
+remakes 1 9 remake
+remade 1 6 remake
+remaking 3 10 remake
+
+retake 1 1 retakes retook retaken retaking
+retakes 1 9 retake
+retook 1 2 retake
+retaken 1 4 retake
+retaking 3 10 retake
+
+rewrite 1 1 rewrites rewrote rewritten rewriting
+rewrites 1 9 rewrite
+rewrote 1 2 rewrite
+rewritten 1 4 rewrite
+rewriting 3 10 rewrite
+
+ride 1 1 rides rode ridden riding
+rides 1 9 ride
+rode 1 2 ride
+ridden 1 4 ride
+riding 3 10 ride
+
+rise 1 1 rises rose risen rising
+rises 1 9 rise
+rose 1 2 rise
+risen 1 4 rise
+rising 3 10 rise
 
 
 
