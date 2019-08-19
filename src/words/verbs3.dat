@@ -1232,6 +1232,56 @@ rose 1 2 rise
 risen 1 4 rise
 rising 3 10 rise
 
+route 1 1 routes routed routing routeing
+routes 1 9 route
+routed 1 6 route
+routing 3 10 route
+routeing 3 10 route
+
+rue 1 1 rues rued ruing rueing
+rues 1 9 rue
+rued 1 6 rue
+ruing 3 10 rue
+rueing 3 10 rue
+
+saute 1 1 sautes sauteed sauteing
+sautes 1 9 saute
+sauteed 1 6 saute
+sauteing 3 10 saute
+
+see 1 1 sees saw seen seeing
+sees 1 9 see
+saw 1 2 see
+seen 1 4 see
+seeing 3 10 see
+
+shake 1 1 shakes shook shooke shaken shaking
+shakes 1 9 shake
+shook 1 2 shake
+shooke 1 2 shake
+shaken 1 4 shake
+shaking 3 10 shake
+
+shave 1 1 shaves shaved shaven shaving
+shaves 1 9 shave
+shaved 1 6 shave
+shaven 1 4 shave
+shaving 3 10 shave
+
+shine 1 1 shines shined shone shining
+shines 1 9 shine
+shined 1 6 shine
+shone 1 6 shine
+shining 3 10 shine
+
+shoe 1 1 shoes shoed shod shodden shoeing
+shoes 1 9 shoe
+shoed 1 6 shoe
+shod 1 6 shoe
+shodden 1 4 shoe
+shoeing 3 10 shoe
+
+
 
 
 #
