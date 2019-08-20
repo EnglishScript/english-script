@@ -1281,6 +1281,110 @@ shod 1 6 shoe
 shodden 1 4 shoe
 shoeing 3 10 shoe
 
+sightsee 1 1 sightsees sightsaw sightseen sightseeing
+sightsees 1 9 sightsee
+sightsaw 1 2 sightsee
+sightseen 1 4 sightsee
+sightseeing 3 10 sightsee
+
+singe 1 1 singes singed singeing
+singes 1 9 singe
+singed 1 6 singe
+singeing 3 10 singe
+
+skin-dive 1 1 skin-dives skin-dove skin-diving
+skin-dives 1 9 skin-dive
+skin-dove 1 6 skin-dive
+skin-diving 3 10 skin-dive
+
+slide 1 1 slides slid sliding
+slides 1 9 slide
+slid 1 6 slide
+sliding 3 10 slide
+
+sneeze 1 1 sneezes sneezed snoze snozen sneezing
+sneezes 1 9 sneeze
+sneezed 1 6 sneeze
+snoze 1 2 sneeze
+snozen 1 4 sneeze
+sneezing 3 10 sneeze
+
+spree 1 1 sprees spreed spreeing
+sprees 1 9 spree
+spreed 1 6 spree
+spreeing 3 10 spree
+
+squeegee 1 1 squeegees squeegeed squeegeeing
+squeegees 1 9 squeegee
+squeegeed 1 6 squeegee
+squeegeeing 3 10 squeegee
+
+stave 1 1 staves staved stove staving
+staves 1 9 stave
+staved 1 6 stave
+stove 1 6 stave
+staving 3 10 stave
+
+stride 1 1 strides strode strid stridden striding
+strides 1 9 stride
+strode 1 6 stride
+strid 1 4 stride
+stridden 1 4 stride
+striding 3 10 stride
+
+strike 1 1 strikes struck striken stricken striking
+strikes 1 9 strike
+struck 1 6 strike
+striken 1 4 strike
+stricken 1 4 strike
+striking 3 10 strike
+
+strive 1 1 strives strived strove striven striving
+strives 1 9 strive
+strived 1 6 strive
+strove 1 2 strive
+striven 1 4 strive
+striving 3 10 strive
+
+stymie 1 1 stymies stymied stymieing
+stymies 1 9 stymie
+stymied 1 6 stymie
+stymieing 3 10 stymie
+
+take 1 1 takes took taken taking
+takes 1 9 take
+took 1 2 take
+taken 1 4 take
+taking 3 10 take
+
+tee 1 1 tees teed tow town teeing
+tees 1 9 tee
+teed 1 6 tee
+tow 1 2 tee
+town 1 4 tee
+teeing 3 10 tee
+
+tie 1 1 ties tied tieing tying
+ties 1 9 tie
+tied 1 6 tie
+tieing 3 10 tie
+tying 3 10 tie
+
+tinge 1 1 tinges tinged tinging tingeing
+tinges 1 9 tinge
+tinged 1 6 tinge
+tinging 3 10 tinge
+tingeing 3 10 tinge
+
+tiptoe 1 1 tiptoes tiptoed tiptoeing
+tiptoes 1 9 tiptoe
+tiptoed 1 6 tiptoe
+tiptoeing 3 10 tiptoe
+
+toe 1 1 toes toed toeing
+toes 1 9 toe
+toed 1 6 toe
+toeing 3 10 toe
 
 
 
