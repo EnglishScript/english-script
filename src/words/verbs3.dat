@@ -1386,6 +1386,79 @@ toes 1 9 toe
 toed 1 6 toe
 toeing 3 10 toe
 
+tree 1 1 trees treed treeing
+trees 1 9 tree
+treed 1 6 tree
+treeing 3 10 tree
+
+true 1 1 trues trued trueing truing
+trues 1 9 true
+trued 1 6 true
+trueing 3 10 true
+truing 3 10 true
+
+typewrite 1 1 typewrites typewrote typewritten typewriting
+typewrites 1 9 typewrite
+typewrote 1 2 typewrite
+typewritten 1 4 typewrite
+typewriting 3 10 typewrite
+
+undertake 1 1 undertakes undertook undertaken undertaking
+undertakes 1 9 undertake
+undertook 1 2 undertake
+undertaken 1 4 undertake
+undertaking 3 10 undertake
+
+underwrite 1 1 underwrites underwrote underwritten underwriting
+underwrites 1 9 underwrite
+underwrote 1 2 underwrite
+underwritten 1 4 underwrite
+underwriting 3 10 underwrite
+
+unfreeze 1 1 unfreezes unfroze unfrozen unfreezing
+unfreezes 1 9 unfreeze
+unfroze 1 2 unfreeze
+unfrozen 1 4 unfreeze
+unfreezing 3 10 unfreeze
+
+unmake 1 1 unmakes unmade unmaking
+unmakes 1 9 unmake
+unmade 1 6 unmake
+unmaking 3 10 unmake
+
+untie 1 1 unties untied untieing untying
+unties 1 9 untie
+untied 1 6 untie
+untieing 3 10 untie
+untying 3 10 untie
+
+unweave 1 1 unweaves unwove unwoven unweaving
+unweaves 1 9 unweave
+unwove 1 2 unweave
+unwoven 1 4 unweave
+unweaving 3 10 unweave
+
+upheave 1 1 upheaves upheaved uphove upheaving
+upheaves 1 9 upheave
+upheaved 1 6 upheave
+uphove 1 2 upheave
+upheaving 3 10 upheave
+
+
+yyyy 1 1 yyyys yyyyd yyyying
+yyyys 1 9 yyyy
+yyyyd 1 6 yyyy
+yyyying 3 10 yyyy
+
+yyyy 1 1 yyyys yyyyted yyyyting
+yyyys 1 9 yyyy
+yyyyted 1 6 yyyy
+yyyyting 3 10 yyyy
+
+yyyy 1 1 yyyys yyyyted yyyyting
+yyyys 1 9 yyyy
+yyyyted 1 6 yyyy
+yyyyting 3 10 yyyy
 
 
 #
