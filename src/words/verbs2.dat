@@ -1,3 +1,722 @@
+# Group 1:
+#
+# Word ending to "Y":
+#
+#  +s
+#  +ed
+#  +ing
+#
+
+allay 1 1
+alloy 1 1
+annoy 1 1
+array 1 1
+assay 1 1
+atrophy 1 1
+autopsy 1 1
+bay 1 1
+beautify 1 1
+
+
+# Group 2:
+#
+# Word ending to "Y":
+#
+#  +s
+#  -y +ies
+#  +ed
+#  -y +ied
+#  +ing
+#
+
+accompany 1 1
+acetify 1 1
+acidify 1 1
+ally 1 1
+ammonify 1 1
+amplify 1 1
+apply 1 1
+
+# Group 3:
+#
+# Word ending to "Y":
+#
+#  -y +ies
+#  -y +ied
+#  +ing
+#
+
+aerify 1 1
+alkalify 1 1
+amnesty 1 1
+baby 1 1
+basify 1 1
+beatify 1 1
+
+
+accompany 1 1
+acetify 1 1
+acidify 1 1
+aerify 1 1
+alkalify 1 1
+allay 1 1
+alloy 1 1
+ally 1 1
+ammonify 1 1
+amnesty 1 1
+amplify 1 1
+annoy 1 1
+apply 1 1
+array 1 1
+assay 1 1
+atrophy 1 1
+autopsy 1 1
+baby 1 1
+basify 1 1
+bay 1 1
+beatify 1 1
+beautify 1 1
+belay 1 1
+belly 1 1
+berry 1 1
+betray 1 1
+bioassay 1 1
+blackberry 1 1
+blarney 1 1
+body 1 1
+bogey 1 1
+bray 1 1
+bully 1 1
+buoy 1 1
+bury 1 1
+buy 1 1
+caddy 1 1
+calcify 1 1
+canopy 1 1
+carry 1 1
+causeway 1 1
+certify 1 1
+chondrify 1 1
+citify 1 1
+clarify 1 1
+classify 1 1
+const-vary 1 1
+codify 1 1
+company 1 1
+complexify 1 1
+comply 1 1
+convey 1 1
+convoy 1 1
+copy 1 1
+corduroy 1 1
+crucify 1 1
+cry 1 1
+curry 1 1
+curtsey 1 1
+curtsy 1 1
+dally 1 1
+dandify 1 1
+decalcify 1 1
+decay 1 1
+decertify 1 1
+declassify 1 1
+decoy 1 1
+defray 1 1
+defy 1 1
+dehumidify 1 1
+deify 1 1
+delay 1 1
+demulsify 1 1
+demystify 1 1
+denazify 1 1
+denitrify 1 1
+deny 1 1
+deploy 1 1
+destroy 1 1
+detoxify 1 1
+dignify 1 1
+dillydally 1 1
+dirty 1 1
+disarray 1 1
+dismay 1 1
+disobey 1 1
+display 1 1
+disqualify 1 1
+dissatisfy 1 1
+disunify 1 1
+diversify 1 1
+dry 1 1
+eddy 1 1
+edify 1 1
+electrify 1 1
+embody 1 1
+employ 1 1
+empty 1 1
+emulsify 1 1
+enjoy 1 1
+envy 1 1
+epoxy 1 1
+espy 1 1
+essay 1 1
+esterify 1 1
+etherify 1 1
+exemplify 1 1
+falsify 1 1
+fancy 1 1
+fantasy 1 1
+ferry 1 1
+flurry 1 1
+fly 1 1
+foray 1 1
+fortify 1 1
+frenchify 1 1
+fructify 1 1
+fry 1 1
+gasify 1 1
+gentrify 1 1
+glorify 1 1
+glory 1 1
+gratify 1 1
+gray 1 1
+grey 1 1
+guy 1 1
+harry 1 1
+holiday 1 1
+honey 1 1
+horrify 1 1
+humidify 1 1
+humify 1 1
+hurry 1 1
+hypertrophy 1 1
+identify 1 1
+imply 1 1
+indemnify 1 1
+inlay 1 1
+inmarry 1 1
+intensify 1 1
+intermarry 1 1
+inventory 1 1
+jellify 1 1
+jelly 1 1
+jimmy 1 1
+jockey 1 1
+jollify 1 1
+jolly 1 1
+journey 1 1
+joy 1 1
+justify 1 1
+key 1 1
+lay 1 1
+levy 1 1
+liquefy 1 1
+liquify 1 1
+lobby 1 1
+magnify 1 1
+marry 1 1
+metrify 1 1
+misally 1 1
+misapply 1 1
+miscarry 1 1
+misplay 1 1
+modify 1 1
+mollify 1 1
+monkey 1 1
+mortify 1 1
+motley 1 1
+multiply 1 1
+mummify 1 1
+mutiny 1 1
+mystify 1 1
+nazify 1 1
+nitrify 1 1
+notify 1 1
+nullify 1 1
+nutrify 1 1
+obey 1 1
+objectify 1 1
+occupy 1 1
+okay 1 1
+opacify 1 1
+ossify 1 1
+outcry 1 1
+overlay 1 1
+overpay 1 1
+oversimplify 1 1
+oversupply 1 1
+pacify 1 1
+palsy 1 1
+parley 1 1
+parody 1 1
+parry 1 1
+party 1 1
+pay 1 1
+personify 1 1
+petrify 1 1
+photocopy 1 1
+pillory 1 1
+pinkify 1 1
+pity 1 1
+play 1 1
+ply 1 1
+portray 1 1
+pray 1 1
+preachify 1 1
+preoccupy 1 1
+prepay 1 1
+prey 1 1
+pry 1 1
+purify 1 1
+purvey 1 1
+putrefy 1 1
+putty 1 1
+qualify 1 1
+quantify 1 1
+quarry 1 1
+query 1 1
+rally 1 1
+ramify 1 1
+rarefy 1 1
+ratify 1 1
+ray 1 1
+ready 1 1
+rebury 1 1
+rectify 1 1
+redeploy 1 1
+reify 1 1
+relay 1 1
+rely 1 1
+remarry 1 1
+remedy 1 1
+repay 1 1
+replay 1 1
+reply 1 1
+retry 1 1
+reunify 1 1
+revivify 1 1
+rigidify 1 1
+roleplay 1 1
+rubify 1 1
+sanctify 1 1
+saponify 1 1
+sashay 1 1
+satisfy 1 1
+savvy 1 1
+say 1 1
+scarify 1 1
+scurry 1 1
+self-destroy 1 1
+sensify 1 1
+shillyshally 1 1
+shimmy 1 1
+shy 1 1
+signify 1 1
+simplify 1 1
+slay 1 1
+solidify 1 1
+spay 1 1
+specify 1 1
+speechify 1 1
+spray 1 1
+spy 1 1
+stay 1 1
+stratify 1 1
+stray 1 1
+study 1 1
+stultify 1 1
+stupefy 1 1
+supply 1 1
+survey 1 1
+sway 1 1
+syllabify 1 1
+tally 1 1
+tarry 1 1
+terrify 1 1
+testify 1 1
+thurify 1 1
+toady 1 1
+tourney 1 1
+toy 1 1
+transmogrify 1 1
+travesty 1 1
+try 1 1
+tumefy 1 1
+typify 1 1
+uglify 1 1
+underlay 1 1
+underpay 1 1
+understudy 1 1
+unify 1 1
+unsanctify 1 1
+vary 1 1
+verbify 1 1
+verify 1 1
+versify 1 1
+vilify 1 1
+vinify 1 1
+vitrify 1 1
+vivify 1 1
+volley 1 1
+whinny 1 1
+worry 1 1
+x-ray 1 1
+
+# Non-conformant verbs
+
+accompany 1 1 accompanies accompanys accompanied accompanyed accompanying
+accompanies 1 9 accompany
+accompanys 1 9 accompany
+accompanied 1 6 accompany
+accompanyed 1 6 accompany
+accompanying 3 10 accompany
+
+acetify 1 1 acetifies acetifys acetified acetifyed acetifying
+acetifies 1 9 acetify
+acetifys 1 9 acetify
+acetified 1 6 acetify
+acetifyed 1 6 acetify
+acetifying 3 10 acetify
+
+acidify 1 1 acidifies acidifys acidified acidifyed acidifying
+acidifies 1 9 acidify
+acidifys 1 9 acidify
+acidified 1 6 acidify
+acidifyed 1 6 acidify
+acidifying 3 10 acidify
+
+aerify 1 1 aerifies aerified aerifying
+aerifies 1 9 aerify
+aerified 1 6 aerify
+aerifying 3 10 aerify
+
+alkalify 1 1 alkalifies alkalified alkalifying
+alkalifies 1 9 alkalify
+alkalified 1 6 alkalify
+alkalifying 3 10 alkalify
+
+ally 1 1 allies allys allied allyed allying
+allies 1 9 ally
+allys 1 9 ally
+allied 1 6 ally
+allyed 1 6 ally
+allying 3 10 ally
+
+ammonify 1 1 ammonifies ammonifys ammonified ammonifyed ammonifying
+ammonifies 1 9 ammonify
+ammonifys 1 9 ammonify
+ammonified 1 6 ammonify
+ammonifyed 1 6 ammonify
+ammonifying 3 10 ammonify
+
+amnesty 1 1 amnesties amnestied amnestying
+amnesties 1 9 amnesty
+amnestied 1 6 amnesty
+amnestying 3 10 amnesty
+
+amplify 1 1 amplifies amplifys amplified amplifyed amplifying
+amplifies 1 9 amplify
+amplifys 1 9 amplify
+amplified 1 6 amplify
+amplifyed 1 6 amplify
+amplifying 3 10 amplify
+
+apply 1 1 applies applys applied applyed applying
+applies 1 9 apply
+applys 1 9 apply
+applied 1 6 apply
+applyed 1 6 apply
+applying 3 10 apply
+
+autopsy 1 1 autopsys autopsied autopsyed autopsying
+autopsys 1 9 autopsy
+autopsied 1 6 autopsy
+autopsyed 1 6 autopsy
+autopsying 3 10 autopsy
+
+baby 1 1 babies babied babying
+babies 1 9 baby
+babied 1 6 baby
+babying 3 10 baby
+
+basify 1 1 basifies basified basifying
+basifies 1 9 basify
+basified 1 6 basify
+basifying 3 10 basify
+
+beatify 1 1 beatifies beatifys beatified beatifyed beatifying
+beatifies 1 9 beatify
+beatifys 1 9 beatify
+beatified 1 6 beatify
+beatifyed 1 6 beatify
+beatifying 3 10 beatify
+
+beautify 1 1 beautifies beautifys beautified beautifyed beautifying
+beautifies 1 9 beautify
+beautifys 1 9 beautify
+beautified 1 6 beautify
+beautifyed 1 6 beautify
+beautifying 3 10 beautify
+
+belly 1 1 bellies bellied bellying
+bellies 1 9 belly
+bellied 1 6 belly
+bellying 3 10 belly
+
+berry 1 1 berries berried berrying
+berries 1 9 berry
+berried 1 6 berry
+berrying 3 10 berry
+
+blackberry 1 1 blackberries blackberried blackberrying
+blackberries 1 9 blackberry
+blackberried 1 6 blackberry
+blackberrying 3 10 blackberry
+
+body 1 1 bodies bodied bodying
+bodies 1 9 body
+bodied 1 6 body
+bodying 3 10 body
+
+bully 1 1 bullies bullys bullied bullyed bullying
+bullies 1 9 bully
+bullys 1 9 bully
+bullied 1 6 bully
+bullyed 1 6 bully
+bullying 3 10 bully
+
+bury 1 1 buries buried burying
+buries 1 9 bury
+buried 1 6 bury
+burying 3 10 bury
+
+buy 1 1 buys bought buying
+buys 1 9 buy
+bought 1 6 buy
+buying 3 10 buy
+
+caddy 1 1 caddies caddied caddying
+caddies 1 9 caddy
+caddied 1 6 caddy
+caddying 3 10 caddy
+
+calcify 1 1 calcifies calcifys calcified calcifyed calcifying
+calcifies 1 9 calcify
+calcifys 1 9 calcify
+calcified 1 6 calcify
+calcifyed 1 6 calcify
+calcifying 3 10 calcify
+
+certify 1 1 certifies certified certifying
+certifies 1 9 certify
+certified 1 6 certify
+certifying 3 10 certify
+
+chondrify 1 1 chondrifies chondrified chondrifying
+chondrifies 1 9 chondrify
+chondrified 1 6 chondrify
+chondrifying 3 10 chondrify
+
+citify 1 1 citifies citifys citified citifyed citifying
+citifies 1 9 citify
+citifys 1 9 citify
+citified 1 6 citify
+citifyed 1 6 citify
+citifying 3 10 citify
+
+clarify 1 1 clarifies clarifys clarified clarifyed clarifying
+clarifies 1 9 clarify
+clarifys 1 9 clarify
+clarified 1 6 clarify
+clarifyed 1 6 clarify
+clarifying 3 10 clarify
+
+classify 1 1 classifies classifys classified classifyed classifying
+classifies 1 9 classify
+classifys 1 9 classify
+classified 1 6 classify
+classifyed 1 6 classify
+classifying 3 10 classify
+
+co-vary 1 1 co-varies co-varys co-varied co-varyed co-varying
+co-varies 1 9 co-vary
+co-varys 1 9 co-vary
+co-varied 1 6 co-vary
+co-varyed 1 6 co-vary
+co-varying 3 10 co-vary
+
+codify 1 1 codifies codifys codified codifyed codifying
+codifies 1 9 codify
+codifys 1 9 codify
+codified 1 6 codify
+codifyed 1 6 codify
+codifying 3 10 codify
+
+company 1 1 companies companied companying
+companies 1 9 company
+companied 1 6 company
+companying 3 10 company
+
+complexify 1 1 complexifies complexifys complexified complexifyed complexifying
+complexifies 1 9 complexify
+complexifys 1 9 complexify
+complexified 1 6 complexify
+complexifyed 1 6 complexify
+complexifying 3 10 complexify
+
+comply 1 1 complies complys complied complyed complying
+complies 1 9 comply
+complys 1 9 comply
+complied 1 6 comply
+complyed 1 6 comply
+complying 3 10 comply
+
+copy 1 1 copies copys copied copyed copying
+copies 1 9 copy
+copys 1 9 copy
+copied 1 6 copy
+copyed 1 6 copy
+copying 3 10 copy
+
+crucify 1 1 crucifies crucified crucifying
+crucifies 1 9 crucify
+crucified 1 6 crucify
+crucifying 3 10 crucify
+
+cry 1 1 cries crys cried cryed crying
+cries 1 9 cry
+crys 1 9 cry
+cried 1 6 cry
+cryed 1 6 cry
+crying 3 10 cry
+
+curry 1 1 curries curried currying
+curries 1 9 curry
+curried 1 6 curry
+currying 3 10 curry
+
+curtsey 1 1 curtsies curtseys curtsied curtseyed curtsying curtseying
+curtsies 1 9 curtsey
+curtseys 1 9 curtsey
+curtsied 1 6 curtsey
+curtseyed 1 6 curtsey
+curtsying 3 10 curtsey
+curtseying 3 10 curtsey
+
+curtsy 1 1 curtsies curtsied curtsying
+curtsies 1 9 curtsey
+curtsied 1 6 curtsey
+curtsying 3 10 curtsey
+
+dally 1 1 dallies dallied dallying
+dallies 1 9 dally
+dallied 1 6 dally
+dallying 3 10 dally
+
+dandify 1 1 dandifies dandified dandifying
+dandifies 1 9 dandify
+dandified 1 6 dandify
+dandifying 3 10 dandify
+
+decalcify 1 1 decalcifies decalcified decalcifying
+decalcifies 1 9 decalcify
+decalcified 1 6 decalcify
+decalcifying 3 10 decalcify
+
+decertify 1 1 decertifies decertified decertifying
+decertifies 1 9 decertify
+decertified 1 6 decertify
+decertifying 3 10 decertify
+
+declassify 1 1 declassifies declassified declassifying
+declassifies 1 9 declassify
+declassified 1 6 declassify
+declassifying 3 10 declassify
+
+defy 1 1 defies defys defied defyed defying
+defies 1 9 defy
+defys 1 9 defy
+defied 1 6 defy
+defyed 1 6 defy
+defying 3 10 defy
+
+dehumidify 1 1 dehumidifies dehumidifys dehumidified dehumidifyed dehumidifying
+dehumidifies 1 9 dehumidify
+dehumidifys 1 9 dehumidify
+dehumidified 1 6 dehumidify
+dehumidifyed 1 6 dehumidify
+dehumidifying 3 10 dehumidify
+
+deify 1 1 deifies deifys deified deifyed deifying
+deifies 1 9 deify
+deifys 1 9 deify
+deified 1 6 deify
+deifyed 1 6 deify
+deifying 3 10 deify
+
+demulsify 1 1 demulsifies demulsified demulsifying
+demulsifies 1 9 demulsify
+demulsified 1 6 demulsify
+demulsifying 3 10 demulsify
+
+demystify 1 1 demystifies demystifys demystified demystifyed demystifying
+demystifies 1 9 demystify
+demystifys 1 9 demystify
+demystified 1 6 demystify
+demystifyed 1 6 demystify
+demystifying 3 10 demystify
+
+denazify 1 1 denazifies denazified denazifying
+denazifies 1 9 denazify
+denazified 1 6 denazify
+denazifying 3 10 denazify
+
+denitrify 1 1 denitrifies denitrifys denitrified denitrifyed denitrifying
+denitrifies 1 9 denitrify
+denitrifys 1 9 denitrify
+denitrified 1 6 denitrify
+denitrifyed 1 6 denitrify
+denitrifying 3 10 denitrify
+
+deny 1 1 denies denys denied denyed denying
+denies 1 9 deny
+denys 1 9 deny
+denied 1 6 deny
+denyed 1 6 deny
+denying 3 10 deny
+
+detoxify 1 1 detoxifies detoxified detoxifying
+detoxifies 1 9 detoxify
+detoxified 1 6 detoxify
+detoxifying 3 10 detoxify
+
+dignify 1 1 dignifies dignified dignifying
+dignifies 1 9 dignify
+dignified 1 6 dignify
+dignifying 3 10 dignify
+
+dillydally 1 1 dillydallies dillydallied dillydallying
+dillydallies 1 9 dillydally
+dillydallied 1 6 dillydally
+dillydallying 3 10 dillydally
+
+
+yyyy 1 1 yyyys yyyyed yyyying
+yyyys 1 9 yyyy
+yyyyed 1 6 yyyy
+yyyying 3 10 yyyy
+
+yyyy 1 1 yyyyies yyyys yyyyied yyyyed yyyying
+yyyyies 1 9 yyyy
+yyyys 1 9 yyyy
+yyyyied 1 6 yyyy
+yyyyed 1 6 yyyy
+yyyying 3 10 yyyy
+
+yyyy 1 1 yyyyies yyyyied yyyying
+yyyyies 1 9 yyyy
+yyyyied 1 6 yyyy
+yyyying 3 10 yyyy
+
+
 #
 # Word ending to "Z"
 #  -ed
@@ -14,64 +733,15 @@ razz 1 1
 spritz 1 1
 waltz 1 1
 
-#
-# Word ending to "Y"
-#  -ied ("Y" replaced with "I" when applying the rule)
-#  -s
-#  -ing ("Y" replaced with "I" when applying the rule)
-#
-
-accompany 1 1
-acetify 1 1
-acidify 1 1
-aerify 1 1
-ally 1 1
-
-
-#
-# Word ending to "Y"
-#  -ied ("Y" replaced with "I" when applying the rule)
-#  -ies ("Y" replaced with "I" when applying the rule)
-#  -ing
-#
-
-alkalify 1 1
-amnesty 1 1
-baby 1 1
-basify 1 1
-beatify 1 1
-
-
-#
-# Word ending to "Y"
-#  -ed
-#  -s
-#  -ing
-#
-
-allay 1 1
-alloy 1 1
-ammonify 1 1
-amplify 1 1
-annoy 1 1
-apply 1 1
-array 1 1
-assay 1 1
-atrophy 1 1
-autopsy 1 1
-bay 1 1
-beautify 1 1
-
-#
-# Ei säännöillä
-#
+# Non-conformant verbs
 
 quiz 1 1 quizzed quizzes quizzing
-quizzed
-quizzes
-quizzing
+quizzed 1 6 quiz
+quizzes 1 9 quiz
+quizzing 3 10 quiz
 
 whiz 1 1 whizzed whizzes whizzing
-quizzed
-quizzes
-quizzing
+whizzed 1 6 whiz
+whizzes 1 9 whiz
+whizzing 3 10 whiz
+
