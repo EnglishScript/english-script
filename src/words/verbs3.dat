@@ -1444,22 +1444,25 @@ upheaved 1 6 upheave
 uphove 1 2 upheave
 upheaving 3 10 upheave
 
+wake 1 1 wakes woke woken waked waking
+wakes 1 9 wake
+woke 1 6 wake
+woken 1 4 wake
+waked 1 6 wake
+waking 3 10 wake
 
-yyyy 1 1 yyyys yyyyd yyyying
-yyyys 1 9 yyyy
-yyyyd 1 6 yyyy
-yyyying 3 10 yyyy
+weave 1 1 weaves wove woven weaved weaving
+weaves 1 9 weave
+wove 1 2 weave
+woven 1 4 weave
+weaved 1 6 weave
+weaving 3 10 weave
 
-yyyy 1 1 yyyys yyyyted yyyyting
-yyyys 1 9 yyyy
-yyyyted 1 6 yyyy
-yyyyting 3 10 yyyy
-
-yyyy 1 1 yyyys yyyyted yyyyting
-yyyys 1 9 yyyy
-yyyyted 1 6 yyyy
-yyyyting 3 10 yyyy
-
+write 1 1 writes wrote written writing
+writes 1 9 write
+wrote 1 2 write
+written 1 4 write
+writing 3 10 write
 
 #
 # Word ending to "F"
