@@ -1,58 +1,31 @@
+#
+# Word ending to "Y":
+#
 # Group 1:
 #
-# Word ending to "Y":
-#
 #  +s
 #  +ed
 #  +ing
 #
-
-allay 1 1
-alloy 1 1
-annoy 1 1
-array 1 1
-assay 1 1
-atrophy 1 1
-autopsy 1 1
-bay 1 1
-beautify 1 1
-
-
 # Group 2:
 #
-# Word ending to "Y":
-#
 #  +s
 #  -y +ies
 #  +ed
 #  -y +ied
 #  +ing
 #
-
-accompany 1 1
-acetify 1 1
-acidify 1 1
-ally 1 1
-ammonify 1 1
-amplify 1 1
-apply 1 1
-
 # Group 3:
-#
-# Word ending to "Y":
 #
 #  -y +ies
 #  -y +ied
 #  +ing
 #
-
-aerify 1 1
-alkalify 1 1
-amnesty 1 1
-baby 1 1
-basify 1 1
-beatify 1 1
-
+# The Group 1 is treated as the default
+# i.e. plain "xxxx 1 1" is defined for them
+# and other two groups are written here as
+# nonconformant verbs.
+#
 
 accompany 1 1
 acetify 1 1
@@ -1535,24 +1508,233 @@ simplified 1 6 simplify
 simplifyed 1 6 simplify
 simplifying 3 10 simplify
 
+slay 1 1 slays slew slain slayed slayn slaying
+slays 1 9 slay
+slew 1 2 slay
+slain 1 4 slay
+slayed 1 6 slay
+slayn 1 6 slay
+slaying 3 10 slay
 
-yyyy 1 1 yyyys yyyyed yyyying
-yyyys 1 9 yyyy
-yyyyed 1 6 yyyy
-yyyying 3 10 yyyy
+solidify 1 1 solidifies solidified solidifying
+solidifies 1 9 solidify
+solidified 1 6 solidify
+solidifying 3 10 solidify
 
-yyyy 1 1 yyyyies yyyys yyyyied yyyyed yyyying
-yyyyies 1 9 yyyy
-yyyys 1 9 yyyy
-yyyyied 1 6 yyyy
-yyyyed 1 6 yyyy
-yyyying 3 10 yyyy
+specify 1 1 specifies specifys specified specifyed specifying
+specifies 1 9 specify
+specifys 1 9 specify
+specified 1 6 specify
+specifyed 1 6 specify
+specifying 3 10 specify
 
-yyyy 1 1 yyyyies yyyyied yyyying
-yyyyies 1 9 yyyy
-yyyyied 1 6 yyyy
-yyyying 3 10 yyyy
+speechify 1 1 speechifies speechified speechifying
+speechifies 1 9 speechify
+speechified 1 6 speechify
+speechifying 3 10 speechify
 
+spy 1 1 spies spied spyed spying
+spies 1 9 spy
+# spys 1 9 spy
+spied 1 6 spy
+spyed 1 6 spy
+spying 3 10 spy
+
+stratify 1 1 stratifys stratifies stratifyed stratifying
+stratifys 1 9 stratify
+stratifies 1 9 stratify
+stratifyed 1 6 stratify
+stratifying 3 10 stratify
+
+study 1 1 studies studys studied studyed studying
+studies 1 9 study
+studys 1 9 study
+studied 1 6 study
+studyed 1 6 study
+studying 3 10 study
+
+stultify 1 1 stultifies stultifys stultified stultifyed stultifying
+stultifies 1 9 stultify
+stultifys 1 9 stultify
+stultified 1 6 stultify
+stultifyed 1 6 stultify
+stultifying 3 10 stultify
+
+stupefy 1 1 stupefies stupefys stupefied stupefyed stupefying
+stupefies 1 9 stupefy
+stupefys 1 9 stupefy
+stupefied 1 6 stupefy
+stupefyed 1 6 stupefy
+stupefying 3 10 stupefy
+
+supply 1 1 supplies supplied supplying
+supplies 1 9 supply
+supplied 1 6 supply
+supplying 3 10 supply
+
+syllabify 1 1 syllabifies syllabified syllabifying
+syllabifies 1 9 syllabify
+syllabified 1 6 syllabify
+syllabifying 3 10 syllabify
+
+tally 1 1 tallies tallied tallying
+tallies 1 9 tally
+tallied 1 6 tally
+tallying 3 10 tally
+
+tarry 1 1 tarries tarrys tarried tarryed tarrying
+tarries 1 9 tarry
+tarrys 1 9 tarry
+tarried 1 6 tarry
+tarryed 1 6 tarry
+tarrying 3 10 tarry
+
+terrify 1 1 terrifies terrifys terrified terrifyed terrifying
+terrifies 1 9 terrify
+terrifys 1 9 terrify
+terrified 1 6 terrify
+terrifyed 1 6 terrify
+terrifying 3 10 terrify
+
+testify 1 1 testifies testifys testified testifyed testifying
+testifies 1 9 testify
+testifys 1 9 testify
+testified 1 6 testify
+testifyed 1 6 testify
+testifying 3 10 testify
+
+thurify 1 1 thurifies thurifys thurified thurifyed thurifying
+thurifies 1 9 thurify
+thurifys 1 9 thurify
+thurified 1 6 thurify
+thurifyed 1 6 thurify
+thurifying 3 10 thurify
+
+toady 1 1 toadies toadied toadying
+toadies 1 9 toady
+toadied 1 6 toady
+toadying 3 10 toady
+
+transmogrify 1 1 transmogrifies transmogrifys transmogrified transmogrifyed transmogrifying
+transmogrifies 1 9 transmogrify
+transmogrifys 1 9 transmogrify
+transmogrified 1 6 transmogrify
+transmogrifyed 1 6 transmogrify
+transmogrifying 3 10 transmogrify
+
+travesty 1 1 travesties travestied travestying
+travesties 1 9 travesty
+travestied 1 6 travesty
+travestying 3 10 travesty
+
+try 1 1 tries trys tried tryed trying
+tries 1 9 try
+trys 1 9 try
+tried 1 6 try
+tryed 1 6 try
+trying 3 10 try
+
+tumefy 1 1 tumefies tumefied tumefying
+tumefies 1 9 tumefy
+tumefied 1 6 tumefy
+tumefying 3 10 tumefy
+
+typify 1 1 typifies typified typifying
+typifies 1 9 typify
+typified 1 6 typify
+typifying 3 10 typify
+
+uglify 1 1 uglifies uglified uglifying
+uglifies 1 9 uglify
+uglified 1 6 uglify
+uglifying 3 10 uglify
+
+underlay 1 1 underlays underlaid underlaying
+underlays 1 9 underlay
+underlaid 1 6 underlay
+underlaying 3 10 underlay
+
+underpay 1 1 underpays underpaid underpaying
+underpays 1 9 underpay
+underpaid 1 6 underpay
+underpaying 3 10 underpay
+
+understudy 1 1 understudies understudied understudying
+understudies 1 9 understudy
+# understudys 1 9 understudy
+understudied 1 6 understudy
+# understudyed 1 6 understudy
+understudying 3 10 understudy
+
+unify 1 1 unifies unified unifying
+unifies 1 9 unify
+unified 1 6 unify
+unifying 3 10 unify
+
+unsanctify 1 1 unsanctifies unsanctified unsanctifying
+unsanctifies 1 9 unsanctify
+unsanctified 1 6 unsanctify
+unsanctifying 3 10 unsanctify
+
+vary 1 1 varies varys varied varyed varying
+varies 1 9 vary
+varys 1 9 vary
+varied 1 6 vary
+varyed 1 6 vary
+varying 3 10 vary
+
+verbify 1 1 verbifies verbified verbifying
+verbifies 1 9 verbify
+verbified 1 6 verbify
+verbifying 3 10 verbify
+
+verify 1 1 verifies verifys verified verifyed verifying
+verifies 1 9 verify
+verifys 1 9 verify
+verified 1 6 verify
+verifyed 1 6 verify
+verifying 3 10 verify
+
+versify 1 1 versifies versified versifying
+versifies 1 9 versify
+versified 1 6 versify
+versifying 3 10 versify
+
+vilify 1 1 vilifies vilifys vilified vilifyed vilifying
+vilifies 1 9 vilify
+vilifys 1 9 vilify
+vilified 1 6 vilify
+vilifyed 1 6 vilify
+vilifying 3 10 vilify
+
+vinify 1 1 vinifies vinified vinifying
+vinifies 1 9 vinify
+vinified 1 6 vinify
+vinifying 3 10 vinify
+
+vitrify 1 1 vitrifies vitrifys vitrified vitrifyed vitrifying
+vitrifies 1 9 vitrify
+vitrifys 1 9 vitrify
+vitrified 1 6 vitrify
+vitrifyed 1 6 vitrify
+vitrifying 3 10 vitrify
+
+vivify 1 1 vivifies vivified vivifying
+vivifies 1 9 vivify
+vivified 1 6 vivify
+vivifying 3 10 vivify
+
+whinny 1 1 whinnies whinnied whinnying
+whinnies 1 9 whinny
+whinnied 1 6 whinny
+whinnying 3 10 whinny
+
+worry 1 1 worries worrys worried worryed worrying
+worries 1 9 worry
+worrys 1 9 worry
+worried 1 6 worry
+worryed 1 6 worry
+worrying 3 10 worry
 
 #
 # Word ending to "Z"
