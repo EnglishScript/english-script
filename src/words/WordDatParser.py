@@ -64,10 +64,12 @@ class WordDatParser():
                 ref = self.getToken()
 
             if debug:
-                print("\'" + word + "\': type:" + wtype + ", form:" + wform + ", refs:" + str(refs));
+                print("# \'" + word + "\': type:" + wtype + ", form:" + wform + ", refs:" + str(refs));
 
             if word in words:
                 w = words[word]
+                if debug:
+                    print("# parsing word \'" + word + "\' ...")
                 w["type"] = "%01x" % (int(w["type"], 16) | int(wtype, 16))
                 w["form"] = "%01x" % (int(w["form"], 16) | int(wform, 16))
                 for ref in refs:

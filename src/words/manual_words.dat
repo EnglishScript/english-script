@@ -139,12 +139,12 @@ things 2 80 thing
 quote 3 1 quotes quoted quoting
 quotes 3 89 quote
 quoted 1 6 quote
-quoting 2 0 quote
+quoting 3 10 quote
 take 3 1 takes taken taking
 takes 3 89 take
 took 1 2 take
 taken 1 4 take
-taking 2 0 take
+taking 3 10 take
 work 3 1 works worked
 works 3 89 work
 worked 1 6 work
@@ -162,7 +162,7 @@ printed 1 6 print
 position 3 1 positions positioned positioning
 positions 3 89 position
 positioned 1 6 position
-positioning 2 0 position
+positioning 3 10 position
 preposition 2 0 prepositions
 prepositions 2 80 preposition
 conjunction 2 0 conjunction
@@ -201,7 +201,7 @@ repeated 1 2 repeat
 wait 1 1 waits waited waiting
 waits 1 9 wait
 waited 1 2 wait
-waiting 2 0 wait
+waiting 3 10 wait
 person 2 0 persons
 persons 2 80 person
 memory 2 0 memories
@@ -209,7 +209,7 @@ memories 2 80 memory
 count 3 1 counts counted counting
 counts 3 89 count
 counted 1 6 count
-counting 2 0 count
+counting 3 10 count
 countable 4 10
 uncountable 4 10
 measurable 4 10
@@ -382,7 +382,7 @@ do 1 1 does did done doing doings
 doesn 0 0
 don 0 0
 done 1 4 do
-doing 2 0 do
+doing 3 10 do
 doings 2 80 do
 open 5 11
 gone 1 4 go
@@ -392,19 +392,19 @@ close 1 1
 start 3 1 starts started starting
 starts 3 89 start
 started 1 2 start
-starting 2 1 start
+starting 3 10 start
 stop 3 1 stops stopped stopping
 stops 3 89 stop
 stopped 1 2 stop
-stopping 3 1 stop
+stopping 3 10 stop
 suspend 3 1 suspends suspended suspending
 suspends 3 89 suspend
 suspended 1 2 suspend
-suspending 2 1 suspend
+suspending 3 10 suspend
 resume 3 1 resumes resumed resuming
 resumes 3 89 resume
 resumed 1 2 resume
-resuming 2 1 resume
+resuming 3 10 resume
 man 2 0 men
 men 2 80 man
 woman 2 0 women
@@ -497,7 +497,7 @@ asked 1 6 ask
 tell 1 1 tells told telling
 told 1 6 tell
 tells 1 9 tell
-telling 3 1 tell
+telling 3 10 tell
 eaten 1 4 eat
 was 1 a be
 were 1 2 be
@@ -505,7 +505,7 @@ been 1 4 be
 have 1 1 has had having
 has 1 9 have
 had 1 6 have
-having 3 1 have
+having 3 10 have
 am 1 1 be
 else 10 0
 hi 400 0
@@ -514,7 +514,7 @@ dunno 400 0
 want 1 1 wants wanted wanting
 wanted 1 6 want
 wants 1 9 want
-wanting 3 1 want
+wanting 3 10 want
 fine 4 10
 bad 4 10
 lousy 4 10
@@ -573,7 +573,7 @@ until 30 0
 exit 3 1 exits exited exiting
 exits 3 89 exit
 exited 1 2 exit
-exiting 2 1 exit
+exiting 3 10 exit
 shortly 8 0 short
 randomly 8 0
 text 2 0 texts
@@ -612,7 +612,7 @@ drive 1 1 drove driven drives driving
 drove 1 2 drive
 driven 1 4 drive
 drives 1 9 drive
-driving 2 0 drive
+driving 3 10 drive
 jump 1 1
 aboard 20 0
 above 20 0

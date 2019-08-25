@@ -1600,7 +1600,7 @@ bangs 1 9 bang
 banged 1 6 bang
 banging 3 10 bang
 
-belong 1 1 belongs belonged delonging
+belong 1 1 belongs belonged belonging
 belongs 1 9 belong
 belonged 1 6 belong
 belonging 3 10 belong
@@ -1738,7 +1738,7 @@ sprung 1 6 spring
 springing 3 10 spring
 
 sting 1 1 stings stung stinging
-sting 1 9 sting
+stings 1 9 sting
 stung 1 6 sting
 stinging 3 10 sting
 
@@ -3605,7 +3605,7 @@ brims 1 9 brim
 brimmed 1 6 brim
 brimming 3 10 brim
 
-buckram 1 1 buckrams buckramed buckrammed buckramming
+buckram 1 1 buckrams buckramed buckrammed buckraming
 buckrams 1 9 buckram
 buckramed 1 6 buckram
 buckrammed 1 6 buckram
@@ -4178,7 +4178,7 @@ earn 1 1 earns earned earnt earning
 earns 1 9 earn
 earned 1 6 earn
 earnt 1 6 earn
-earning earn
+earning 3 10 earn
 
 fan 1 1 fans fanned fanning
 fans 1 9 fan
@@ -5307,12 +5307,12 @@ bars 1 9 bar
 barred 1 6 bar
 barring 3 10 bar
 
-bear 1 1 bears beared bore born borne bearing
+bear 1 1 bears bore born borne beared bearing
 bears 1 9 bear
-beared 1 6 bear
 bore 1 2 bear
 born 1 4 bear
 borne 1 4 bear
+beared 1 6 bear
 bearing 3 10 bear
 
 blur 1 1 blurs blurred blurring
@@ -7424,7 +7424,7 @@ preview 1 1
 renew 1 1
 review 1 1
 row 1 1
-saw 1 1
+# saw 1 1 # FIXME: which conflicts with "see, saw, seen"
 screw 1 1
 seesaw 1 1
 sew 1 1
@@ -7515,11 +7515,11 @@ overthrew 1 2 overthrow
 overthrown 1 4 overthrow
 overthrowing 3 10 overthrow
 
-saw 1 1 saws sawed sawn sawing
-saws 1 9 saw
-sawed 1 6 saw
-sawn 1 4 saw
-sawing 3 10 saw
+# saw 1 1 saws sawed sawn sawing # FIXME: this conflicts with "see, saw, seen"
+# saws 1 9 saw
+# sawed 1 6 saw
+# sawn 1 4 saw
+# sawing 3 10 saw
 
 sew 1 1 sews sewed sewn sewing
 sews 1 9 sew

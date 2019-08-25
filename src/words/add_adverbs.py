@@ -24,6 +24,7 @@ for line_nr, line in enumerate(adverbs_csv):
     if adverbs[0].find(' ') != -1 or \
             adverbs[0].find('/') != -1 or \
             adverbs[0].find('\'') != -1 or \
+            adverbs[0] == "on" or \
             adverbs[0] == "then" or \
             adverbs[0] == "home":
         continue

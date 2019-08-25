@@ -2,6 +2,7 @@ import sys
 import string
 import WordDatParser
 
+debug = False
 
 if len(sys.argv) < 3:
     print("ERROR: too few arguments")
@@ -17,6 +18,8 @@ for word in words2:
         w = words2[word]
         if word in words:
             w2 = words[word]
+            if debug:
+                print("# combining word " + word + " ...")
             w2["type"] = "%01x" % (int(w2["type"], 16) | int(w["type"], 16))
             w2["form"] = "%01x" % (int(w2["form"], 16) | int(w["form"], 16))
             for ref in w["refs"]:
@@ -28,6 +31,8 @@ for word in words2:
 for word in words:
     if word:
         w = words[word]
+        if debug:
+            print("# combining word " + word + " ...")
         print(word + " " + w["type"] + " " + w["form"], end = '');
         for ref in w["refs"]:
             print(" " + ref, end = '')

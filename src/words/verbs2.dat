@@ -1328,7 +1328,7 @@ queries 1 9 query
 queried 1 6 query
 querying 3 10 query
 
-rally 1 1 rallies rallys rallied rallyed rallying
+rally 1 1 rallys rallied rallyed rallying
 # rallies 1 9 rally
 rallys 1 9 rally
 rallied 1 6 rally
@@ -1465,6 +1465,7 @@ savvying 3 10 savvy
 
 say 1 1 says sez said sayed saying
 says 1 9 say
+sez 1 9 say
 said 1 6 say
 sayed 1 6 say
 saying 3 10 say
