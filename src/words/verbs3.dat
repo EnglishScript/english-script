@@ -10,6 +10,656 @@
 #    Second we check if there is such word as "skat" -> no
 #    Third we add "e" to end and check if there is such word as "skate" -> yes
 
+gangrene 1 1
+gape 1 1
+garage 1 1
+gargle 1 1
+garotte 1 1
+garrote 1 1
+garrotte 1 1
+gasconade 1 1
+gate 1 1
+gauge 1 1
+gaze 1 1
+gazette 1 1
+gelatinize 1 1
+geminate 1 1
+generalise 1 1
+generalize 1 1
+generate 1 1
+germinate 1 1
+gestate 1 1
+gesticulate 1 1
+gesture 1 1
+ghettoize 1 1
+ghostwrite 1 1
+gibe 1 1
+giggle 1 1
+girdle 1 1
+give 1 1
+glaciate 1 1
+glamorise 1 1
+glamorize 1 1
+glamourise 1 1
+glamourize 1 1
+glance 1 1
+glare 1 1
+glaze 1 1
+glide 1 1
+glimpse 1 1
+glissade 1 1
+globalise 1 1
+globalize 1 1
+glue 1 1
+gluttonize 1 1
+glycerolize 1 1
+gobble 1 1
+gold-plate 1 1
+goldplate 1 1
+gore 1 1
+gorge 1 1
+gouge 1 1
+gourmandize 1 1
+grace 1 1
+gradate 1 1
+grade 1 1
+graduate 1 1
+granulate 1 1
+grapple 1 1
+grate 1 1
+gravitate 1 1
+graze 1 1
+grease 1 1
+griddle 1 1
+grieve 1 1
+grimace 1 1
+grime 1 1
+gripe 1 1
+groove 1 1
+grope 1 1
+grouse 1 1
+grubstake 1 1
+grudge 1 1
+grumble 1 1
+guarantee 1 1
+guesstimate 1 1
+guide 1 1
+guillotine 1 1
+gurgle 1 1
+guzzle 1 1
+gyrate 1 1
+habituate 1 1
+haemagglutinate 1 1
+haggle 1 1
+hallucinate 1 1
+handle 1 1
+handwrite 1 1
+harangue 1 1
+hare 1 1
+harmonise 1 1
+harmonize 1 1
+hassle 1 1
+hate 1 1
+have 1 1
+haze 1 1
+headline 1 1
+heave 1 1
+heckle 1 1
+hedge 1 1
+hemagglutinate 1 1
+hemorrhage 1 1
+hesitate 1 1
+hibernate 1 1
+hide 1 1
+hike 1 1
+hinge 1 1
+hire 1 1
+hitchhike 1 1
+hive 1 1
+hobble 1 1
+hoe 1 1
+hole 1 1
+holystone 1 1
+home 1 1
+homogenise 1 1
+homogenize 1 1
+homologize 1 1
+hone 1 1
+hope 1 1
+horripilate 1 1
+horse 1 1
+horse-trade 1 1
+hose 1 1
+hospitalise 1 1
+hospitalize 1 1
+house 1 1
+huddle 1 1
+hue 1 1
+humanise 1 1
+humanize 1 1
+humiliate 1 1
+hurdle 1 1
+hustle 1 1
+hybridise 1 1
+hybridize 1 1
+hydrate 1 1
+hydrogenate 1 1
+hydrolise 1 1
+hydrolize 1 1
+hydrolyze 1 1
+hydroplane 1 1
+hyperbolize 1 1
+hyperventilate 1 1
+hyphenate 1 1
+hypnotise 1 1
+hypnotize 1 1
+hypophysectomise 1 1
+hypophysectomize 1 1
+hypostatise 1 1
+hypostatize 1 1
+hypothecate 1 1
+hypothesize 1 1
+ice 1 1
+idealise 1 1
+idealize 1 1
+ideate 1 1
+idle 1 1
+idolise 1 1
+idolize 1 1
+ignite 1 1
+ignore 1 1
+ill-use 1 1
+illuminate 1 1
+illustrate 1 1
+image 1 1
+imagine 1 1
+imbibe 1 1
+imbricate 1 1
+imitate 1 1
+immerse 1 1
+immigrate 1 1
+immobilise 1 1
+immobilize 1 1
+immolate 1 1
+immunize 1 1
+immure 1 1
+impale 1 1
+impede 1 1
+impersonate 1 1
+impinge 1 1
+implicate 1 1
+implode 1 1
+impose 1 1
+imprecate 1 1
+impregnate 1 1
+improve 1 1
+improvise 1 1
+impute 1 1
+inactivate 1 1
+inaugurate 1 1
+incandesce 1 1
+incarcerate 1 1
+incarnate 1 1
+incase 1 1
+incense 1 1
+incinerate 1 1
+incise 1 1
+incite 1 1
+incline 1 1
+inclose 1 1
+include 1 1
+inconvenience 1 1
+incorporate 1 1
+increase 1 1
+incriminate 1 1
+incubate 1 1
+inculcate 1 1
+inculpate 1 1
+incurvate 1 1
+indenture 1 1
+indicate 1 1
+indispose 1 1
+individualise 1 1
+individualize 1 1
+individuate 1 1
+indoctrinate 1 1
+indorse 1 1
+induce 1 1
+indulge 1 1
+indurate 1 1
+industrialise 1 1
+industrialize 1 1
+inebriate 1 1
+infatuate 1 1
+infiltrate 1 1
+inflame 1 1
+inflate 1 1
+influence 1 1
+infringe 1 1
+infuriate 1 1
+infuse 1 1
+ingratiate 1 1
+inhale 1 1
+inhere 1 1
+inhume 1 1
+initialise 1 1
+initialize 1 1
+initiate 1 1
+injure 1 1
+innervate 1 1
+innovate 1 1
+inoculate 1 1
+inosculate 1 1
+inquire 1 1
+inscribe 1 1
+inseminate 1 1
+insinuate 1 1
+insolate 1 1
+inspire 1 1
+inspissate 1 1
+instance 1 1
+instantiate 1 1
+instigate 1 1
+institute 1 1
+institutionalise 1 1
+institutionalize 1 1
+instrumentate 1 1
+insufflate 1 1
+insulate 1 1
+insure 1 1
+integrate 1 1
+intercede 1 1
+interchange 1 1
+intercommunicate 1 1
+interfere 1 1
+interiorize 1 1
+interlope 1 1
+interlude 1 1
+intermediate 1 1
+internalise 1 1
+internalize 1 1
+internationalise 1 1
+internationalize 1 1
+interpellate 1 1
+interpenetrate 1 1
+interpolate 1 1
+interpose 1 1
+interrelate 1 1
+interrogate 1 1
+intersperse 1 1
+intervene 1 1
+intimate 1 1
+intimidate 1 1
+intonate 1 1
+intone 1 1
+intoxicate 1 1
+intrigue 1 1
+introduce 1 1
+intrude 1 1
+intubate 1 1
+intumesce 1 1
+inundate 1 1
+invade 1 1
+invaginate 1 1
+invalidate 1 1
+investigate 1 1
+invigilate 1 1
+invigorate 1 1
+invite 1 1
+invoice 1 1
+invoke 1 1
+involve 1 1
+iodinate 1 1
+iodise 1 1
+iodize 1 1
+ionate 1 1
+ionise 1 1
+ionize 1 1
+iridesce 1 1
+irradiate 1 1
+irrigate 1 1
+irritate 1 1
+isolate 1 1
+isomerise 1 1
+isomerize 1 1
+issue 1 1
+italicise 1 1
+italicize 1 1
+itemise 1 1
+itemize 1 1
+iterate 1 1
+itinerate 1 1
+jackknife 1 1
+jactitate 1 1
+jade 1 1
+jangle 1 1
+jaundice 1 1
+jeopardise 1 1
+jeopardize 1 1
+jiggle 1 1
+jingle 1 1
+jive 1 1
+joggle 1 1
+joke 1 1
+jostle 1 1
+joyride 1 1
+jubilate 1 1
+judge 1 1
+juggle 1 1
+jumble 1 1
+juxtapose 1 1
+keratinise 1 1
+keratinize 1 1
+keynote 1 1
+kindle 1 1
+kite 1 1
+knife 1 1
+knuckle 1 1
+lace 1 1
+lacerate 1 1
+lactate 1 1
+lade 1 1
+ladle 1 1
+laminate 1 1
+lance 1 1
+landscape 1 1
+lapidate 1 1
+lapse 1 1
+lateralize 1 1
+lave 1 1
+league 1 1
+lease 1 1
+leave 1 1
+lecture 1 1
+legalise 1 1
+legalize 1 1
+legislate 1 1
+legitimate 1 1
+leverage 1 1
+levitate 1 1
+lexicalize 1 1
+liberalise 1 1
+liberalize 1 1
+liberate 1 1
+librate 1 1
+licence 1 1
+license 1 1
+lie 1 1
+ligate 1 1
+like 1 1
+lime 1 1
+line 1 1
+lionize 1 1
+liquidate 1 1
+liquidise 1 1
+liquidize 1 1
+literalize 1 1
+litigate 1 1
+live 1 1
+loathe 1 1
+localise 1 1
+localize 1 1
+locate 1 1
+locomote 1 1
+lodge 1 1
+lope 1 1
+lose 1 1
+lounge 1 1
+love 1 1
+lubricate 1 1
+lucubrate 1 1
+luge 1 1
+luminesce 1 1
+lunge 1 1
+lure 1 1
+lustrate 1 1
+luxate 1 1
+luxuriate 1 1
+lyophilise 1 1
+lyophilize 1 1
+lysogenize 1 1
+macadamize 1 1
+macerate 1 1
+machicolate 1 1
+machinate 1 1
+machine 1 1
+macrame 1 1
+maculate 1 1
+magnetise 1 1
+magnetize 1 1
+make 1 1
+malversate 1 1
+manacle 1 1
+manage 1 1
+mandate 1 1
+mangle 1 1
+manicure 1 1
+manipulate 1 1
+manoeuvre 1 1
+mantle 1 1
+manufacture 1 1
+manure 1 1
+marble 1 1
+marbleise 1 1
+marbleize 1 1
+marginalise 1 1
+marginalize 1 1
+marinade 1 1
+marinate 1 1
+martyrize 1 1
+masculinize 1 1
+masquerade 1 1
+massacre 1 1
+massage 1 1
+masticate 1 1
+masturbate 1 1
+mate 1 1
+materialise 1 1
+materialize 1 1
+matriculate 1 1
+maturate 1 1
+mature 1 1
+maximise 1 1
+maximize 1 1
+measure 1 1
+mechanise 1 1
+mechanize 1 1
+meddle 1 1
+mediate 1 1
+medicate 1 1
+medicine 1 1
+meditate 1 1
+melanize 1 1
+meliorate 1 1
+melodize 1 1
+memorialise 1 1
+memorialize 1 1
+memorise 1 1
+memorize 1 1
+menace 1 1
+menstruate 1 1
+mensurate 1 1
+mercerize 1 1
+merchandise 1 1
+merge 1 1
+mesmerise 1 1
+mesmerize 1 1
+metabolize 1 1
+metastasize 1 1
+metricate 1 1
+microwave 1 1
+micturate 1 1
+middle 1 1
+migrate 1 1
+militarise 1 1
+militarize 1 1
+mime 1 1
+mince 1 1
+mine 1 1
+mingle 1 1
+miniate 1 1
+miniaturise 1 1
+miniaturize 1 1
+minimise 1 1
+minimize 1 1
+mire 1 1
+misappropriate 1 1
+misbehave 1 1
+misbelieve 1 1
+miscalculate 1 1
+miscegenate 1 1
+misconceive 1 1
+misconstrue 1 1
+miscreate 1 1
+misdate 1 1
+misestimate 1 1
+misfire 1 1
+misgive 1 1
+mismanage 1 1
+misplace 1 1
+mispronounce 1 1
+misquote 1 1
+misstate 1 1
+mistake 1 1
+mistime 1 1
+mistranslate 1 1
+misuse 1 1
+mitigate 1 1
+mizzle 1 1
+mobilise 1 1
+mobilize 1 1
+moderate 1 1
+modernise 1 1
+modernize 1 1
+modulate 1 1
+moisturise 1 1
+moisturize 1 1
+mollycoddle 1 1
+monetise 1 1
+monetize 1 1
+mongrelize 1 1
+monologuize 1 1
+monopolise 1 1
+monopolize 1 1
+moonshine 1 1
+mope 1 1
+moralise 1 1
+moralize 1 1
+mortgage 1 1
+mortice 1 1
+mortise 1 1
+motivate 1 1
+motorcycle 1 1
+motorise 1 1
+motorize 1 1
+mottle 1 1
+mouse 1 1
+mousse 1 1
+move 1 1
+muckrake 1 1
+muddle 1 1
+muffle 1 1
+mumble 1 1
+muscle 1 1
+muse 1 1
+mussitate 1 1
+mutate 1 1
+mute 1 1
+mutilate 1 1
+muzzle 1 1
+mythologise 1 1
+mythologize 1 1
+name 1 1
+narcotize 1 1
+narrate 1 1
+nasalise 1 1
+nasalize 1 1
+nationalise 1 1
+nationalize 1 1
+naturalise 1 1
+naturalize 1 1
+nauseate 1 1
+navigate 1 1
+necessitate 1 1
+needle 1 1
+negate 1 1
+negative 1 1
+negotiate 1 1
+nerve 1 1
+nestle 1 1
+nettle 1 1
+neutralise 1 1
+neutralize 1 1
+nibble 1 1
+nickname 1 1
+nictate 1 1
+nictitate 1 1
+niggle 1 1
+nitrate 1 1
+nitrogenize 1 1
+noise 1 1
+nominate 1 1
+noose 1 1
+normalise 1 1
+normalize 1 1
+nose 1 1
+notarize 1 1
+notate 1 1
+note 1 1
+notice 1 1
+novate 1 1
+novelise 1 1
+novelize 1 1
+nucleate 1 1
+nudge 1 1
+nuke 1 1
+numerate 1 1
+nurse 1 1
+nurture 1 1
+nutate 1 1
+obfuscate 1 1
+objurgate 1 1
+obligate 1 1
+oblige 1 1
+obliterate 1 1
+observe 1 1
+obsolesce 1 1
+obstinate 1 1
+obstipate 1 1
+obtrude 1 1
+obturate 1 1
+obviate 1 1
+occidentalise 1 1
+occidentalize 1 1
+occlude 1 1
+odorize 1 1
+odourise 1 1
+officiate 1 1
+ogle 1 1
+ooze 1 1
+opalesce 1 1
+opalize 1 1
+operate 1 1
+opine 1 1
+oppose 1 1
+opsonize 1 1
+optimise 1 1
+optimize 1 1
+orate 1 1
+orchestrate 1 1
+organise 1 1
+organize 1 1
+orientalise 1 1
+orientalize 1 1
+originate 1 1
+oscillate 1 1
+osculate 1 1
+ostentate 1 1
+ostracise 1 1
+ostracize 1 1
+outline 1 1
+outrage 1 1
+overachieve 1 1
 overcapitalise 1 1
 overcapitalize 1 1
 overcharge 1 1
@@ -1128,6 +1778,71 @@ yoke 1 1
 zone 1 1
 
 # Nonconforming verbs
+
+improve 1 1 improves improved improven improving
+improves 1 9 improve
+improved 1 6 improve
+improven 1 4 improve
+improving 3 10 improve
+
+joyride 1 1 joyrides joyrode joyridden joyriding
+joyrides 1 9 joyride
+joyrode 1 6 joyride
+joyridden 1 4 joyride
+joyriding 3 10 joyride
+
+lade 1 1 lades laded laden lading
+lades 1 9 lade
+laded 1 6 lade
+laden 1 4 lade
+lading 3 10 lade
+
+leave 1 1 leaves left leaved leaving
+leaves 1 9 leave
+left 1 6 leave
+leaved 1 6 leave
+leaving 3 10 leave
+
+lie 1 1 lies lied lay lain lying
+lies 1 9 lie
+lied 1 6 lie
+lay 1 2 lie
+lain 1 4 lie
+lying 3 10 lie
+
+lose 1 1 loses lost losing
+loses 1 9 lose
+lost 1 6 lose
+losing 3 10 lose
+
+lunge 1 1 lunges lunged lunging lungeing
+lunges 1 9 lunge
+lunged 1 6 lunge
+lunging 3 10 lunge
+lungeing 3 10 lunge
+
+make 1 1 makes made making
+makes 1 9 make
+made 1 6 make
+making 3 10 make
+
+misgive 1 1 misgives misgave misgiven misgiving
+misgives 1 9 misgive
+misgave 1 2 misgive
+misgiven 1 4 misgive
+misgiving 3 10 misgive
+
+mistake 1 1 mistakes mistook mistaken mistaking
+mistakes 1 9 mistake
+mistook 1 2 mistake
+mistaken 1 4 mistake
+mistaking 3 10 mistake
+
+moonshine 1 1 moonshines moonshined moonshone moonshining
+moonshines 1 9 moonshine
+moonshined 1 6 moonshine
+moonshone 1 6 moonshine
+moonshining 3 10 moonshine
 
 overcome 1 5 overcomes overcame overcoming
 overcomes 1 9 overcome
