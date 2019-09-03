@@ -10,6 +10,115 @@
 #    Second we check if there is such word as "skat" -> no
 #    Third we add "e" to end and check if there is such word as "skate" -> yes
 
+face 1 1
+facilitate 1 1
+facsimile 1 1
+factorise 1 1
+factorize 1 1
+fade 1 1
+fake 1 1
+familiarise 1 1
+familiarize 1 1
+fantasize 1 1
+farce 1 1
+fare 1 1
+fascinate 1 1
+fate 1 1
+fatigue 1 1
+feature 1 1
+fecundate 1 1
+federalise 1 1
+federalize 1 1
+federate 1 1
+felicitate 1 1
+fellate 1 1
+feminise 1 1
+feminize 1 1
+fence 1 1
+fertilize 1 1
+festinate 1 1
+fete 1 1
+fetishize 1 1
+feudalize 1 1
+fibrillate 1 1
+fictionalise 1 1
+fictionalize 1 1
+fiddle 1 1
+figure 1 1
+file 1 1
+filiate 1 1
+filigree 1 1
+filtrate 1 1
+finagle 1 1
+finalise 1 1
+finalize 1 1
+finance 1 1
+fine 1 1
+fire 1 1
+fissure 1 1
+fixate 1 1
+flagellate 1 1
+flake 1 1
+flame 1 1
+flare 1 1
+flee 1 1
+fleece 1 1
+flocculate 1 1
+flounce 1 1
+fluctuate 1 1
+fluoresce 1 1
+fluoridate 1 1
+fluoridise 1 1
+fluoridize 1 1
+flute 1 1
+focalise 1 1
+focalize 1 1
+foliate 1 1
+fondle 1 1
+footnote 1 1
+forage 1 1
+force 1 1
+forebode 1 1
+foreclose 1 1
+forge 1 1
+forgive 1 1
+formalise 1 1
+formalize 1 1
+formicate 1 1
+formularize 1 1
+formulate 1 1
+fornicate 1 1
+forsake 1 1
+fossilise 1 1
+fossilize 1 1
+fractionate 1 1
+fracture 1 1
+fragmentize 1 1
+frame 1 1
+franchise 1 1
+fraternise 1 1
+fraternize 1 1
+frazzle 1 1
+freckle 1 1
+free 1 1
+freelance 1 1
+freeze 1 1
+fricassee 1 1
+fringe 1 1
+frustrate 1 1
+fulminate 1 1
+fumble 1 1
+fume 1 1
+fumigate 1 1
+furcate 1 1
+fuse 1 1
+fusillade 1 1
+gabble 1 1
+gaggle 1 1
+galvanise 1 1
+galvanize 1 1
+gamble 1 1
+game 1 1
 gangrene 1 1
 gape 1 1
 garage 1 1
@@ -1604,7 +1713,7 @@ trouble 1 1
 trounce 1 1
 truckle 1 1
 trudge 1 1
-TRUe 1 1
+true 1 1
 truncate 1 1
 tube 1 1
 tumble 1 1
@@ -1778,6 +1887,124 @@ yoke 1 1
 zone 1 1
 
 # Nonconforming verbs
+
+
+
+garrote 1 1 garrotes garroted garrotted garrotting
+garrotes 1 9 garrote
+garroted 1 6 garrote
+garrotted 1 6 garrote
+garrotting 3 10 garrote
+
+ghostwrite 1 1 ghostwrites ghostwrote ghostwritten ghostwriting
+ghostwrites 1 9 ghostwrite
+ghostwrote 1 2 ghostwrite
+ghostwritten 1 4 ghostwrite
+ghostwriting 3 10 ghostwrite
+
+give 1 1 gives gave given giving
+gives 1 9 give
+gave 1 2 give
+given 1 4 give
+giving 3 10 give
+
+glide 1 1 glides glided glid glidden gliding
+glides 1 9 glide
+glided 1 6 glide
+glid 1 6 glide
+glidden 1 4 glide
+gliding 3 10 glide
+
+glue 1 1 glues glued gluing glueing
+glues 1 9 glue
+glued 1 6 glue
+gluing 3 10 glue
+glueing 3 10 glue
+
+guarantee 1 1 guarantees guaranteed guaranteeing
+guarantees 1 9 guarantee
+guaranteed 1 6 guarantee
+guaranteeing 3 10 guarantee
+
+handwrite 1 1 handwrites handwrote handwritten handwriting
+handwrites 1 9 handwrite
+handwrote 1 2 handwrite
+handwritten 1 4 handwrite
+handwriting 3 10 handwrite
+
+have 1 1 has had having
+has 1 9 have
+had 1 6 have
+having 3 10 have
+
+heave 1 1 heaves heaved hoven heaving
+heaves 1 9 heave
+heaved 1 6 heave
+hoven 1 4 heave
+heaving 3 10 heave
+
+hide 1 1 hides hided hid hidden hiding
+hides 1 9 hide
+hided 1 6 hide
+hid 1 2 hide
+hidden 1 4 hide
+hiding 3 10 hide
+
+hinge 1 1 hinges hinged hinging hingeing
+hinges 1 9 hinge
+hinged 1 6 hinge
+hinging 3 10 hinge
+hingeing 3 10 hinge
+
+hoe 1 1 hoes hoed hoeing
+hoes 1 9 hoe
+hoed 1 6 hoe
+hoeing 3 10 hoe
+
+hue 1 1 hues hued hueing
+hues 1 9 hue
+hued 1 6 hue
+hueing 3 10 hue
+
+filigree 1 1 filigrees filigreed filigreeing
+filigrees 1 9 filigree
+filigreed 1 6 filigree
+filigreeing 3 10 filigree
+
+flee 1 1 flees fled fleed fleeing
+flees 1 9 flee
+fled 1 6 flee
+fleed 1 6 flee
+fleeing 3 10 flee
+
+forgive 1 1 forgives forgave forgiven forgiving
+forgives 1 9 forgive
+forgave 1 2 forgive
+forgiven 1 4 forgive
+forgiving 3 10 forgive
+
+forsake 1 1 forsakes forsook forsaken forsaking
+forsakes 1 9 forsake
+forsook 1 2 forsake
+forsaken 1 4 forsake
+forsaking 3 10 forsake
+
+free 1 1 frees freed freeing
+frees 1 9 free
+freed 1 6 free
+freeing 3 10 free
+
+freeze 1 1 freezes froze frozen freezed freezing
+freezes 1 9 freeze
+froze 1 2 freeze
+frozen 1 4 freeze
+freezed 1 6 freeze
+freezing 3 10 freeze
+
+fricassee 1 1 fricassees fricasseed fricasseeing
+fricassees 1 9 fricassee
+fricasseed 1 6 fricassee
+fricasseeing 3 10 fricassee
 
 improve 1 1 improves improved improven improving
 improves 1 9 improve
