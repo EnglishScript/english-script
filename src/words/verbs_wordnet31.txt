@@ -1,0 +1,112 @@
+Instructions for modifying the verbs_wordnet31.csv
+--------------------------------------------------
+
+Read 1st the following explanation about prepositions with verbs:
+
+    https://www.thefreedictionary.com/Prepositions-with-Verbs.htm
+    http://guidetogrammar.org/grammar/phrasals.htm
+
+The WordNET 3.1 SQLite database contains both Prepositional verbs and Phrasal verbs.
+
+For now we support only Separable Phrasal Verbs and Inseparable Phrasal Verbs (Transitive) and 
+Intransitive Phrasal Verbs, but not yet the Three-Word Phrasal Verbs (Transitive).
+
+If the verbs_wordnet31.csv does not exit yet then follow the instructions in README_WordNET.txt
+to create it.
+
+Then repeat the following for each of the lines in the original verbs_wordnet31.csv:
+
+1. If the next line has more than two words then comment the line (to indicate that it is
+   not supported yet):
+
+   e.g. "make up one's mind" -> "# make up one's mind"
+
+   Then continue from step 1.
+
+2. Else check if the second word in the line is an adverb or a preposition e.g. "turn on",
+   "hold on", "move in", "turn around". If not then comment the line (to indicate that
+   it is not supported yet):
+
+   e.g. "make sure" -> "# make sure"
+
+   Then continue from step 1.
+
+3. Else copy the line and go to Google Translator (https://translate.google.com/) and
+   select English language as source and e.g. Finnish (or other language you understand)
+   as target.
+
+4. Paste the line (i.e. "turn on") to see if it has different meaning as a Verb
+   compared with only the verb (i.e. "turn"). E.g.
+
+     Google Translator:
+
+       English:    Finnish:
+
+       "turn on"   "laittaa päälle"/"käynnistää"/...
+       "turn"      "kääntää"/"kääntyä"/...
+
+5. If no then comment the line with "#" at the start of the line i.e. "# turn on"
+   and continue to step 1. (Well, clearly "turn on" and "turn" mean different things
+   as Verbs).
+
+6. If yes then try to see if the second word (i.e. "on") is an adverb or a preposition.
+
+7. If it is an adverb then skip the line and continue to step 1 ("on" in "turn on" must be
+   an adverb since it is the opposite of the adverb "off" in "turn off").
+
+8. If it is a preposition (e.g. "in" in a line "move in") then try to see if
+   an object can be between the two words without changing the meaning (e.g. "move it in"
+   does not mean the same anymore i.e. transferring it inside v.s. changing your
+   home/office location).
+
+9. If no then add "+" in front of the preposition e.g. "move +in". This will tell the
+   add_verbs.py Python script that "in" in "move in" is a preposition and it has to
+   be always right after "move" verb to be treated as part of the meaning.
+
+10. If yes then add "-" in from of the preposition e.g. "brush -on". This will tell the
+    add_verbs.py Python script that "on" in "brush on" is a preposition and it do not need
+    to be right after "brush" verb to be treated as part of the meaning.
+
+
+Some examples:
+
+E.g. "turn on":
+
+  1. it is two words
+  2. "on" is an adverb since the opposite meaning of "turn on" is "turn off" where "off"
+     is an adverb.
+  3. Google...
+  4. "turn on" and "turn" as verbs mean different activity.
+  6. "on" is here an adverb (see explanation in step 2).
+  7. keep the line as it is.
+
+  Example use:
+
+  "turn on the light" - i.e. to switch electricity on for the light
+  "turn it on" - i.e. to start its engine
+  "turn on" - i.e. to get excited
+  "turn" - i.e. to switch direction or to rotate something
+  "turn on it" - no meaning
+
+E.g. "hold +on"
+
+  1. it is two words
+  2. "on" is here a preposition :
+
+  hold on to it - i.e. to grap it and hold it
+  hold it - i.e. to keep it steady or keep it in your hand
+  hold on - i.e. to wait
+  hold it on - no meaning
+
+E.g. "turn around", where "around" is an adverb:
+
+  turn it around - i.e. to rotate it 180 degrees
+  turn around - i.e. to rotate (you) 180 degrees
+  turn around it - no meaning
+
+E.g. "brush -on", where "on" is here a preposition (marked with "-" to indicate that
+there can be anything between the words "brush" and "on" and that "on" is a
+preposition, not an adverb ("on" as a word is both an adverb and a preposition):
+
+  brush it (carefully) on the surface
+
