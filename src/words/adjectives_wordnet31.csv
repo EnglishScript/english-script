@@ -1012,7 +1012,7 @@ bacteriophagous
 bacteriostatic
 bacteroid
 bacteroidal
-bad
+bad,worse,worst
 bahai
 bahamian
 bahraini
@@ -2883,7 +2883,8 @@ familial
 familiar
 fancy
 fanged
-far
+far,farther,farthest
+far,further,furthest
 farsighted
 fascist
 fascistic
@@ -3201,7 +3202,7 @@ gonadal
 gonadotrophic
 gonadotropic
 gone
-good
+good,better,best
 good-natured
 gothic
 graceful
@@ -3435,7 +3436,7 @@ holographical
 holophytic
 holozoic
 holy
-home
+# home   TODO:
 homemade
 homeopathic
 homeostatic
@@ -3568,7 +3569,7 @@ idolatrous
 igneous
 ignoble
 iliac
-ill
+ill,worse,worst
 ill-advised
 illative
 ill-defined
@@ -4159,7 +4160,8 @@ laryngopharyngeal
 lash-like
 last
 lasting
-late
+late,later,latest
+late,later,last
 later
 lathery
 latin
@@ -4212,8 +4214,8 @@ leptorrhine
 leptorrhinian
 leptorrhinic
 leptosporangiate
-less
-lesser
+less,lesser,least
+# lesser
 lethargic
 levantine
 levitical
@@ -4278,7 +4280,8 @@ lithomantic
 lithophytic
 lithuanian
 litigious
-little
+little,less,least
+little,littler,littlest
 littoral
 liturgical
 livable
@@ -4431,7 +4434,7 @@ manned
 manorial
 manual
 manx
-many
+many,more,most
 many-sided
 maoist
 marched upon
@@ -4704,7 +4707,7 @@ moraceous
 moral
 moravian
 morbilliform
-more
+# more
 moresque
 more than
 mormon
@@ -4717,7 +4720,7 @@ mortal
 mortuary
 mosaic
 moslem
-most
+# most
 most-favored-nation
 motional
 motivated
@@ -4737,7 +4740,7 @@ mown
 mozambican
 mozartean
 mozartian
-much
+much,more,most
 muciferous
 mucinoid
 mucinous
@@ -5181,7 +5184,8 @@ off-street
 of import
 ohmic
 oiled
-old
+old,older,oldest
+old,elder,eldest
 oleaceous
 oleophilic
 oleophobic
@@ -8222,7 +8226,7 @@ weedy
 weightless
 weighty
 welcome
-well
+well,better,best
 well-advised
 well-defined
 well-formed

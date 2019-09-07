@@ -175,10 +175,10 @@ uses 3 89 use
 used 1 6 use
 great 4 10 greater greatest
 greater 4 20 great
-greatest 2 40 great
+greatest 4 40 great
 small 4 10 smaller smallest
 smaller 4 20 small
-smallest 2 40 small
+smallest 4 40 small
 representation 2 0 representations
 representations 2 80 representation
 at 20 0
