@@ -115,6 +115,10 @@ To have a 1st conversation with someone.
             End.
             Say "Ok" to someone.
         End.
+        If someone tells you that somebody did something then.
+            Remember something.
+            Say "Ok" to someone.
+        End.
         /*TODO: If someone tells you that somebody does not do something then.
             Say "Ok" to someone.
             Remember something.
@@ -142,7 +146,7 @@ To have a 1st conversation with someone.
                 End.
             End.
         End.
-        If someone asks you that has somebody done something then.
+        If someone asks you that did somebody do something then.
             /*Print "Answering...".*/
             Answer something.
         End.
