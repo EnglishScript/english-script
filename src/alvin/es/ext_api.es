@@ -21,6 +21,10 @@ To show an image.
     Call the function "__ext_show_image" with the image.
 End.
 
+To show a picture.
+    Call the function "__ext_show_image" with the picture.
+End.
+
 To show a person.
     If the person is in an image then.
         Show the image.
@@ -30,6 +34,16 @@ End.
 /*To show settings.
     Call the function "__ext_show_settings" with the settings.
 End.*/
+
+To show something.
+    If something has a picture then.
+        Show the picture.
+    Else.
+        If something is in an image then.
+            Show the image.
+        End.
+    End.
+End.
 
 
 A thing.

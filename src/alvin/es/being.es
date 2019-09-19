@@ -175,6 +175,7 @@ sisters, aunts, uncles, grandmothers, grandfathers, friends, pets, /* FIXME: the
 be needed since we got "pets" already */ cats, dogs, feelings, hobbies, heroes and a home.
 
 A friend is a being.
+A friend is a person.
 
 The feelings include fear, anger, sadness, joy, happiness, disgust, surprise,
 trust and anticipation.

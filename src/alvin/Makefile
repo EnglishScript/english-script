@@ -20,7 +20,7 @@
 #	You can contact Tommi Manttari through email at manttari@yahoo.com.
 #
 
-VERSION = 2
+VERSION = 3
 
 SHELL:= /bin/bash
 
@@ -93,7 +93,7 @@ test:   $(ES_TARGET)
 release: $(ES_TARGET)
 	cp $(ES_TARGET) releases/alvin.$(VERSION).eso
 	@export TESTS_OK="1"; \
-	REL=1; \
+	REL=2; \
 	while [ $${REL} -lt $(VERSION) ]; do \
 		echo "TESTING UPDATE FOR REL $${REL}"; \
 		INPUTS=""; \
