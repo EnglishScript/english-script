@@ -26,25 +26,14 @@ To show a picture.
 End.
 
 To show a person.
-    If the person is in an image then.
+    If the person has an image then.
         Show the image.
-    End.
-End.
-
-/*To show settings.
-    Call the function "__ext_show_settings" with the settings.
-End.*/
-
-To show something.
-    If something has a picture then.
-        Show the picture.
     Else.
-        If something is in an image then.
+        If the person is in an image then.
             Show the image.
         End.
     End.
 End.
-
 
 A thing.
 The thing has a name "TTS".

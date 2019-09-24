@@ -32,15 +32,15 @@ ES_INCS = ${ES_INCLUDE_PATH} -I es
 ES_SRC = es/main.es
 ES_TARGET = $(ROOT)/bin/$(AI_NAME).eso
 TESTS = \
-  test/main.test \
-  test/intro_video.test \
-  test/select_image.test \
-  test/news_skill.test \
-  test/take_picture.test \
-  test/reminder_skill.test \
-  test/time_skill.test \
-  test/call_skill.test \
-  test/usa_presidents.test
+  tests/main.test \
+  tests/intro_video.test \
+  tests/select_image.test \
+  tests/news_skill.test \
+  tests/take_picture.test \
+  tests/reminder_skill.test \
+  tests/time_skill.test \
+  tests/call_skill.test \
+  tests/usa_presidents.test
 
 ifdef DEBUG
 DEBUG_TARGET = /dev/stdout
@@ -71,7 +71,7 @@ all: $(ES_TARGET)
 $(ES_TARGET):	$(ES_SRC) $(INC)
 	$(ESC) --app-version=$(VERSION) -I . -I $(ES_INCS) $< -o $@
 
-test:   $(ES_TARGET)
+test::   $(ES_TARGET)
 	@export TESTS_OK="1"; \
 	for TEST in $(TESTS); do \
 		echo "RUNNING TEST SCRIPT " $${TEST}; \
@@ -90,7 +90,7 @@ test:   $(ES_TARGET)
 		echo "TESTS FAILED"; \
 	fi;
 
-release: $(ES_TARGET)
+release:: $(ES_TARGET)
 	cp $(ES_TARGET) releases/alvin.$(VERSION).eso
 	@export TESTS_OK="1"; \
 	REL=2; \

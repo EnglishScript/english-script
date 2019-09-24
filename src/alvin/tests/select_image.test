@@ -16,6 +16,12 @@
 <    Ok.
 >End.
 <Ok.
+>To call the function "__ext_show_image" with a picture.
+<Yes.
+>    Tell me that you show the picture.
+<    Ok.
+>End.
+<Ok.
 >To call the function "__ext_get_pointer_coordinates" with a coordinate 1, a coordinate 2 and a coordinate 3.
 <Yes.
 >    Remember that the coordinate 1 is 2 units.
@@ -26,18 +32,22 @@
 <    Ok.
 >End.
 <Ok.
+
+>Show yourself.
+<Ok. I show a picture.
+
 >I have a dog.
 <Ok.
 ""<Ok. What is a name of the dog?
 "">"Hessu".
 >The name of my dog is "Hessu".
 <Ok.
->
+
 >I have a mobile phone.
 <Ok.
 >It has a gallery.
 <Ok.
->
+
 >Select an image from the gallery.
 <Ok.
 >The image is this image.
@@ -51,7 +61,7 @@
 &<Hessu sleeps in the image.
 &<The image has the file path "abc".
 &<The image is this image.
->
+
 >I have a son.
 <Ok.
 ""<Ok. What is a name of the son?
@@ -71,7 +81,7 @@
 &<He is in the image.
 &<The image has the file path "def".
 &<The image is this image.
->
+
 >I have a daughter.
 <Ok.
 ""<Ok. What is a name of the daughter?
@@ -105,6 +115,7 @@
 <3 units.
 >What is the 3rd coordinate?
 <4 units.
->
+
 >Show Jane.
 <Ok. I show the image.
+
