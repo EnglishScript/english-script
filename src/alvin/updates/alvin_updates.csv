@@ -1,5 +1,5 @@
 Alvin version code; english-script hash;es_trunk hash;App hash;Android versionCodes; Comment
-3;;b057a4ef72e53ca108326cf9a5a3a00ec60e04c2;416b3f8e0063a98cac2e20c7dd6cf441aab71b9a;28;Major update to word DB
-2;9fc4e1fc2cad29842ed0e770143190e90d18a0e1->;?;4-27;Call a person API
-1;547af8b4e521277caadd485223e259c79e349509;?;1-3;Alvin version code is read from version line (first line, format "version <file-format-version> <Alvin-version-code> ...") of the alvin.eso file
+3;65c8ffd6457c01a4d99ab374af1e8d6de27806af;b057a4ef72e53ca108326cf9a5a3a00ec60e04c2;416b3f8e0063a98cac2e20c7dd6cf441aab71b9a;28;Major update to word DB
+2;9fc4e1fc2cad29842ed0e770143190e90d18a0e1->;?;?;4-27;Call a person API
+1;547af8b4e521277caadd485223e259c79e349509;?;?;1-3;Alvin version code is read from version line (first line, format "version <file-format-version> <Alvin-version-code> ...") of the alvin.eso file
 
