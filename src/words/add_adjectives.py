@@ -26,6 +26,7 @@ for line_nr, line in enumerate(adjectives_csv):
         adjectives.pop()
 
     if adjectives[0].isdigit() or \
+            len(adjectives[0]) < 3 or \
             adjectives[0].find(' ') != -1 or \
             adjectives[0].find('/') != -1 or \
             adjectives[0].find('\'') != -1 or \
@@ -36,6 +37,26 @@ for line_nr, line in enumerate(adjectives_csv):
             adjectives[0] == "wait" or \
             adjectives[0] == "see" or \
             adjectives[0] == "ha" or \
+            adjectives[0] == "then" or \
+            adjectives[0] == "mass" or \
+            adjectives[0] == "about" or \
+            adjectives[0] == "after" or \
+            adjectives[0] == "ain" or \
+            adjectives[0] == "all" or \
+            adjectives[0] == "any" or \
+            adjectives[0] == "back" or \
+            adjectives[0] == "plane" or \
+            adjectives[0] == "here" or \
+            adjectives[0] == "i" or \
+            adjectives[0] == "in" or \
+            adjectives[0] == "key" or \
+            adjectives[0] == "ok" or \
+            adjectives[0] == "some" or \
+            adjectives[0] == "sometime" or \
+            adjectives[0] == "very" or \
+            adjectives[0] == "gold" or \
+            adjectives[0] == "model" or \
+            adjectives[0] == "no" or \
             adjectives[0] == "saw":
         print("# WARNING: " + adjectives[0] + " not added to adjectives")
         continue

@@ -31,6 +31,7 @@ for line_nr, line in enumerate(nouns_csv):
             nouns[0] == "have" or \
             nouns[0] == "wait" or \
             nouns[0] == "see" or \
+            nouns[0] == "no" or \
             nouns[0] == "ha" or \
             nouns[0] == "saw":
         continue

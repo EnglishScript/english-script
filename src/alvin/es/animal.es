@@ -162,7 +162,11 @@ a hippopotamus, a hippo, an otter, an armadillo, a crocodile, a antelope, a hyen
 a gorilla, a goose, a donkey, a chimpanzee, a penguin, a reindeer are animals.
 
 A dog and a cat are pets.
-A pet is an animal and a person.
+
+/*FIXME:
+A pet is an animal and a person.*/
+A pet is an animal.
+A pet is a person.
 
 /*FIXME: If a cow is a male and the cow is castrated then the cow is an ox.*/
 /*FIXME: If a cow is a male and the cow is not castrated then the cow is a bull.*/

@@ -42,6 +42,9 @@ TESTS = \
   tests/call_skill.test \
   tests/usa_presidents.test
 
+TESTS2 = \
+  tests/words.test
+
 ifdef DEBUG
 DEBUG_TARGET = /dev/stdout
 else
@@ -49,7 +52,8 @@ DEBUG_TARGET = /dev/null
 endif
 
 ifdef MEMCHECK
-MEMCHECKER = valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all --num-callers=50 --suppressions=valgrind.supp
+#MEMCHECKER = valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all --num-callers=50 --suppressions=valgrind.supp
+MEMCHECKER = valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all --num-callers=50
 else
 MEMCHECKER =
 endif
@@ -77,6 +81,25 @@ test::   $(ES_TARGET)
 		echo "RUNNING TEST SCRIPT " $${TEST}; \
 		echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST} $(ES_TARGET); \
 		$(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST} $(ES_TARGET) > $(DEBUG_TARGET); \
+		if [ $$? -eq "0" ]; then \
+			echo "TESTING $${TEST} OK"; \
+		else \
+			echo "TESTING $${TEST} FAIL"; \
+			export TESTS_OK="0"; \
+		fi; \
+	done; \
+	if [ "$${TESTS_OK}" -eq "1" ]; then \
+		echo "TESTS OK"; \
+	else \
+		echo "TESTS FAILED"; \
+	fi;
+
+test::
+	@export TESTS_OK="1"; \
+	for TEST in $(TESTS2); do \
+		echo "RUNNING TEST SCRIPT " $${TEST}; \
+		echo $(MEMCHECKER) $(ESTEST) $${TEST}; \
+		$(MEMCHECKER) $(ESTEST) $${TEST} > $(DEBUG_TARGET); \
 		if [ $$? -eq "0" ]; then \
 			echo "TESTING $${TEST} OK"; \
 		else \

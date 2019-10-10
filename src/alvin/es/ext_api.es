@@ -76,7 +76,8 @@ To call a person.
         Ask the phone number of the person.
     End.
     If the person has a phone number then.
-        Tell me that you are calling the person.
+        /*TODO:Tell me that you are calling the person.*/
+        Tell me that you call the person.
         Call the person to the phone number.
     End.
 End.

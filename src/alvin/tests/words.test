@@ -1,17 +1,533 @@
-?<Hi.
-?<My name is "Alvin".
-?<The name is "Alvin".
-?<I am an artificial intelligence.
-?<I am your friend. I help you/*TODO: out*/.
+> I have a friend.
+< Ok.
 
+"
+" Tests for words/verb.dat:
+"
+
+"
+" Word ending to "A":
+"
+
+> I visa you.
+< Ok.
+> Do I visa you?
+< Yes.
+> I visaed you.
+< Ok.
+> Did I visa you?
+< Yes.
+> My friend visas you.
+< Ok.
+> Does my friend visa you?
+< Yes.
+> I am visaing you.
+< Ok.
+> Am I visaing you?
+< Yes.
+
+"
+" Word ending to "B":
+"
+
+> I absorb you.
+< Ok.
+> Do I absorb you?
+< Yes.
+> I absorbed you.
+< Ok.
+> Did I absorb you?
+< Yes.
+> My friend absorbs you.
+< Ok.
+> Does my friend absorb you?
+< Yes.
+> I am absorbing you.
+< Ok.
+> Am I absorbing you?
+< Yes.
+
+"
+" Word ending to "C":
+"
+
+> I antic you.
+< Ok.
+> Do I antic you?
+< Yes.
+> I anticed you.
+< Ok.
+> Did I antic you?
+< Yes.
+> My friend antics you.
+< Ok.
+> Does my friend antic you?
+< Yes.
+> I am anticing you.
+< Ok.
+> Am I anticing you?
+< Yes.
+
+"
+" Word ending to "D":
+"
+
+> I abound you.
+< Ok.
+> Do I abound you?
+< Yes.
+> I abounded you.
+< Ok.
+> Did I abound you?
+< Yes.
+> My friend abounds you.
+< Ok.
+> Does my friend abound you?
+< Yes.
+> I am abounding you.
+< Ok.
+> Am I abounding you?
+< Yes.
+
+"
+" Word ending to "E":
+"
+
+> I abase you.
+< Ok.
+> Do I abase you?
+< Yes.
+> I abased you.
+< Ok.
+> Did I abase you?
+< Yes.
+> My friend abases you.
+< Ok.
+> Does my friend abase you?
+< Yes.
+> I am abasing you.
+< Ok.
+> Am I abasing you?
+< Yes.
+
+"
+" Word ending to "F":
+"
+
+> I beef you.
+< Ok.
+> Do I beef you?
+< Yes.
+> I beefed you.
+< Ok.
+> Did I beef you?
+< Yes.
+> My friend beefs you.
+< Ok.
+> Does my friend beef you?
+< Yes.
+> I am beefing you.
+< Ok.
+> Am I beefing you?
+< Yes.
+
+"
+" Word ending to "G":
+"
+
+> I backlog you.
+< Ok.
+> Do I backlog you?
+< Yes.
+> I backlogged you.
+< Ok.
+> Did I backlog you?
+< Yes.
+> My friend backlogs you.
+< Ok.
+> Does my friend backlog you?
+< Yes.
+> I am backlogging you.
+< Ok.
+> Am I backlogging you?
+< Yes.
+
+"
+" Word ending to "H":
+"
+
+> I abolish you.
+< Ok.
+> Do I abolish you?
+< Yes.
+> I abolished you.
+< Ok.
+> Did I abolish you?
+< Yes.
+> My friend abolishes you.
+< Ok.
+> Does my friend abolish you?
+< Yes.
+> I am abolishing you.
+< Ok.
+> Am I abolishing you?
+< Yes.
+
+"
+" Word ending to "I":
+"
+
+> I alibi you.
+< Ok.
+> Do I alibi you?
+< Yes.
+> I alibied you.
+< Ok.
+> Did I alibi you?
+< Yes.
+> My friend alibies you.
+< Ok.
+> Does my friend alibi you?
+< Yes.
+> I am alibiing you.
+< Ok.
+> Am I alibiing you?
+< Yes.
+
+"
+" Word ending to "J":
+"
+
+> I dj you.
+< Ok.
+> Do I dj you?
+< Yes.
+> I djed you.
+< Ok.
+> Did I dj you?
+< Yes.
+> My friend djs you.
+< Ok.
+> Does my friend dj you?
+< Yes.
+> I am djing you.
+< Ok.
+> Am I djing you?
+< Yes.
+
+"
+" Word ending to "K":
+"
+
+> I ask you.
+< Ok.
+> Do I ask you?
+< Yes.
+> I asked you.
+< Ok.
+> Did I ask you?
+< Yes.
+> My friend asks you.
+< Ok.
+> Does my friend ask you?
+< Yes.
+> I am asking you.
+< Ok.
+> Am I asking you?
+< Yes.
+
+"
+" Word ending to "L":
+"
+
+> I ail you.
+< Ok.
+> Do I ail you?
+< Yes.
+> I ailed you.
+< Ok.
+> Did I ail you?
+< Yes.
+> My friend ails you.
+< Ok.
+> Does my friend ail you?
+< Yes.
+> I am ailing you.
+< Ok.
+> Am I ailing you?
+< Yes.
+
+"
+" Word ending to "M":
+"
+
+> I acclaim you.
+< Ok.
+> Do I acclaim you?
+< Yes.
+> I acclaimed you.
+< Ok.
+> Did I acclaim you?
+< Yes.
+> My friend acclaims you.
+< Ok.
+> Does my friend acclaim you?
+< Yes.
+> I am acclaiming you.
+< Ok.
+> Am I acclaiming you?
+< Yes.
+
+"
+" Word ending to "N":
+"
+
+> I abstain you.
+< Ok.
+> Do I abstain you?
+< Yes.
+> I abstained you.
+< Ok.
+> Did I abstain you?
+< Yes.
+> My friend abstains you.
+< Ok.
+> Does my friend abstain you?
+< Yes.
+> I am abstaining you.
+< Ok.
+> Am I abstaining you?
+< Yes.
+
+"
+" Word ending to "O":
+"
+
+> I ballyhoo you.
+< Ok.
+> Do I ballyhoo you?
+< Yes.
+> I ballyhooed you.
+< Ok.
+> Did I ballyhoo you?
+< Yes.
+> My friend ballyhoos you.
+< Ok.
+> Does my friend ballyhoo you?
+< Yes.
+> I am ballyhooing you.
+< Ok.
+> Am I ballyhooing you?
+< Yes.
+
+"
+" Word ending to "P":
+"
+
+> I backslap you.
+< Ok.
+> Do I backslap you?
+< Yes.
+> I backslapped you.
+< Ok.
+> Did I backslap you?
+< Yes.
+> My friend backslaps you.
+< Ok.
+> Does my friend backslap you?
+< Yes.
+> I am backslapping you.
+< Ok.
+> Am I ballyhooing you?
+< Yes.
+
+"
+" Word ending to "R":
+"
+
+> I abhor you.
+< Ok.
+> Do I abhor you?
+< Yes.
+> I abhorred you.
+< Ok.
+> Did I abhor you?
+< Yes.
+> My friend abhors you.
+< Ok.
+> Does my friend abhor you?
+< Yes.
+> I am abhorring you.
+< Ok.
+> Am I abhorring you?
+< Yes.
+
+"
+" Word ending to "S":
+"
+
+> I access you.
+< Ok.
+> Do I access you?
+< Yes.
+> I accessed you.
+< Ok.
+> Did I access you?
+< Yes.
+> My friend accesses you.
+< Ok.
+> Does my friend access you?
+< Yes.
+> I am accessing you.
+< Ok.
+> Am I accessing you?
+< Yes.
+
+"
+" Word ending to "T":
+"
+
+> I abduct you.
+< Ok.
+> Do I abduct you?
+< Yes.
+> I abducted you.
+< Ok.
+> Did I abduct you?
+< Yes.
+> My friend abducts you.
+< Ok.
+> Does my friend abduct you?
+< Yes.
+> I am abducting you.
+< Ok.
+> Am I abducting you?
+< Yes.
+
+"
+" Word ending to "U":
+"
+
+> I miaou you.
+< Ok.
+> Do I miaou you?
+< Yes.
+> I miaoued you.
+< Ok.
+> Did I miaou you?
+< Yes.
+> My friend miaous you.
+< Ok.
+> Does my friend miaou you?
+< Yes.
+> I am miaouing you.
+< Ok.
+> Am I miaouing you?
+< Yes.
+
+"
+" Word ending to "V":
+"
+
+> I rev you.
+< Ok.
+> Do I rev you?
+< Yes.
+> I revved you.
+< Ok.
+> Did I rev you?
+< Yes.
+> My friend revs you.
+< Ok.
+> Does my friend rev you?
+< Yes.
+> I am revving you.
+< Ok.
+> Am I revving you?
+< Yes.
+
+"
+" Word ending to "W":
+"
+
+> I allow you.
+< Ok.
+> Do I allow you?
+< Yes.
+> I allowed you.
+< Ok.
+> Did I allow you?
+< Yes.
+> My friend allows you.
+< Ok.
+> Does my friend allow you?
+< Yes.
+> I am allowing you.
+< Ok.
+> Am I allowing you?
+< Yes.
+
+"
+" Word ending to "X":
+"
+
+> I intermix you.
+< Ok.
+> Do I intermix you?
+< Yes.
 > I intermixed you.
 < Ok.
 > Did I intermix you?
 < Yes.
-> I have a friend.
-< Ok.
 > My friend intermixes you.
 < Ok.
 > Does my friend intermix you?
 < Yes.
+> I am intermixing you.
+< Ok.
+> Am I intermixing you?
+< Yes.
+
+"
+" Word ending to "Y":
+"
+
+> I accompany you.
+< Ok.
+> Do I accompany you?
+< Yes.
+> I accompanied you.
+< Ok.
+> Did I accompany you?
+< Yes.
+> My friend accompanies you.
+< Ok.
+> Does my friend accompany you?
+< Yes.
+> I am accompanying you.
+< Ok.
+> Am I accompanying you?
+< Yes.
+
+"
+" Word ending to "Z":
+"
+
+> I blitz you.
+< Ok.
+> Do I blitz you?
+< Yes.
+> I blitzed you.
+< Ok.
+> Did I blitz you?
+< Yes.
+> My friend blitzes you.
+< Ok.
+> Does my friend blitz you?
+< Yes.
+> I am blitzing you.
+< Ok.
+> Am I blitzing you?
+< Yes.
+
 
