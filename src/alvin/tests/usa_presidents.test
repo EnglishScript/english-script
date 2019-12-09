@@ -4,12 +4,12 @@
 ?< I am an artificial intelligence.
 ?< I am your friend. I help you.
 
-> To call the function "__ext_show_image" with a picture.
-< Yes.
->    Tell me that you show the picture.
-<    Ok.
-> End.
-< Ok.
+""> To call the function "__ext_show_image" with a picture.
+""< Yes.
+"">    Tell me that you show the picture.
+""<    Ok.
+""> End.
+""< Ok.
 
 > You have a file.
 < Ok.
@@ -19,20 +19,35 @@
 < Ok.
 
 > Tell me about the presidents.
-< Ok. I show a picture of the presidents.
+< Ok. Show a picture of the presidents in a file path of the picture.
 < The presidents have the picture.
 < The USA has parties, presidencies, the presidents and vice presidents.
 < The presidents include 23 presidents.
 
-> Which of them are men?
-< 23 presidents.
-
 > Tell me about the 1st president.
 < Ok.
-&< I show George Washington's picture.
+&< Show George Washington's picture in a file path "George_Washington.jpg" of the picture.
 &< He is the president of the USA's 1st presidency, unaffiliated and the USA's 1st president.
 &< He has the picture and a name "George Washington".
 &< He lived 67 years.
 &< He died at the year 1799.
 &< George Washington was born at the year 1732.
+
+> Which of the presidents are men?
+< 23 presidents.
+
+> Which of them are democrats?
+< 11 presidents.
+
+> Which of them are republicans?
+< James Madison, John Quincy Adams, James Monroe and Thomas Jefferson.
+
+> Tell me about the 1st president.
+< Ok.
+&< Show James Madison's picture in a file path "James_Madison.jpg" of the picture.
+&< He is the president of the USA's 4th presidency and the USA's 4th president.
+&< He has the picture and a name "James Madison".
+&< He lived 85 years.
+&< He died at the year 1836.
+&< James Madison was born at the year 1751.
 

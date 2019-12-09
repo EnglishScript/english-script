@@ -1,4 +1,5 @@
 Alvin version code; english-script hash;es_trunk hash;App hash;Android versionCodes; Comment
+4|||||Ext API changed from a C-function APi to a textual order API
 3;3d0d17b19eea19420ec562df66d8532d57637537;978e3046819efd15f809b941776d244a256aa994;2495d55ccdefdd167677bd6fa24282ff879ec151;28;Major update to word DB
 2;9fc4e1fc2cad29842ed0e770143190e90d18a0e1->;?;?;4-27;Call a person API
 1;547af8b4e521277caadd485223e259c79e349509;?;?;1-3;Alvin version code is read from version line (first line, format "version <file-format-version> <Alvin-version-code> ...") of the alvin.eso file

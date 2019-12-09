@@ -6,35 +6,43 @@
 ""<What is your name?
 "">"John".
 
->To call the function "__ext_select_image_from_gallery" with an image.
-<Yes.
->End.
+"">To call the function "__ext_select_image_from_gallery" with an image.
+""<Yes.
+"">End.
+""<Ok.
+"">To call the function "__ext_show_image" with a image.
+""<Yes.
+"">    Tell me that you show the image.
+""<    Ok.
+"">End.
+""<Ok.
+"">To call the function "__ext_show_image" with a picture.
+""<Yes.
+"">    Tell me that you show the picture.
+""<    Ok.
+"">End.
+""<Ok.
+"">To call the function "__ext_get_pointer_coordinates" with a coordinate 1, a coordinate 2 and a coordinate 3.
+""<Yes.
+"">    Remember that the coordinate 1 is 2 units.
+""<    Ok.
+"">    Remember that the coordinate 2 is 3 units.
+""<    Ok.
+"">    Remember that the coordinate 3 is 4 units.
+""<    Ok.
+"">End.
+""<Ok.
+
+>You are in a picture.
 <Ok.
->To call the function "__ext_show_image" with a image.
-<Yes.
->    Tell me that you show the image.
-<    Ok.
->End.
-<Ok.
->To call the function "__ext_show_image" with a picture.
-<Yes.
->    Tell me that you show the picture.
-<    Ok.
->End.
-<Ok.
->To call the function "__ext_get_pointer_coordinates" with a coordinate 1, a coordinate 2 and a coordinate 3.
-<Yes.
->    Remember that the coordinate 1 is 2 units.
-<    Ok.
->    Remember that the coordinate 2 is 3 units.
-<    Ok.
->    Remember that the coordinate 3 is 4 units.
-<    Ok.
->End.
+>The file path of the picture is "Alvin.png".
 <Ok.
 
 >Show yourself.
-<Ok. I show a picture.
+<Ok.
+|<Show a picture in a file path "Alvin.png" of the picture.
+|<Show the picture in a file path "Alvin.png" of the picture.
+>Ok.
 
 >I have a dog.
 <Ok.
@@ -50,6 +58,8 @@
 
 >Select an image from the gallery.
 <Ok.
+<Select the image from the gallery.
+>Ok.
 >The image is this image.
 <Ok.
 >The image has a file path "abc".
@@ -70,6 +80,8 @@
 <Ok.
 >Select an image from the gallery.
 <Ok.
+<Select the image from the gallery.
+>Ok.
 >The image is this image.
 <Ok.
 >The image has a file path "def".
@@ -90,25 +102,34 @@
 <Ok.
 >Select an image from the gallery.
 <Ok.
+<Select the image from the gallery.
+>Ok.
 >The image is this image.
 <Ok.
 >The image has a file path "foo".
 <Ok.
->Read the pointer.
+>I point to coordinates on the image.
 <Ok.
->What is the coordinate 1 of the pointer.
+>The 1st coordinate is 2 units.
+<Ok.
+>The 2nd coordinate is 3 units.
+<Ok.
+>The 3rd coordinate is 4 units.
+<Ok.
+>What is the coordinate 1?
 <2 units.
->What is the coordinate 2 of the pointer.
+>What is the coordinate 2?
 <3 units.
->What is the coordinate 3 of the pointer.
+>What is the coordinate 3?
 <4 units.
 >This is Jane.
 <Ok.
 >Tell me about the image.
 <Ok.
-&<She is in the image in coordinates.
-&<The image has the file path "foo".
 &<The image is this image.
+&<The image has the file path "foo".
+&<She is in the image in the coordinates.
+&<You point to the coordinates on the image.
 >What is the 1st coordinate?
 <2 units.
 >What is the 2nd coordinate?
@@ -117,5 +138,28 @@
 <4 units.
 
 >Show Jane.
-<Ok. I show the image.
+<Ok. Show the image in the file path "foo".
+
+>I have a cat.
+<Ok.
+""<Ok. What is a name of the cat?
+"">"Kitty".
+>The name of my cat is "Kitty".
+<Ok.
+>Select an image from the gallery.
+<Ok.
+<Select the image from the gallery.
+>Ok.
+>The image is this image.
+<Ok.
+>The image has a file path "abc".
+<Ok.
+
+>This is my cat.
+<Ok.
+>Tell me about the image.
+<Ok.
+&<Kitty is in the image.
+&<The image has the file path "abc".
+&<The image is this image.
 
