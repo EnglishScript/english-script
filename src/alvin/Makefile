@@ -25,10 +25,22 @@ VERSION = 4
 SHELL:= /bin/bash
 
 ROOT = ../..
-ESC = es-c
-ESTEST = es-test
+ifndef ES_INCLUDE_PATH
+ES_INCLUDE_PATH = $(ROOT)/../es/src/es/include
+endif
+ifndef ES_LIBRARY_PATH
+ES_LIBRARY_PATH = $(ROOT)/../es/lib
+endif
+ifndef ES_DATA_PATH
+ES_DATA_PATH = $(ROOT)/../english-script/data
+endif
+ifndef ES_PATH
+ES_PATH = $(ROOT)/../es/bin
+endif
+ESC = PATH=$(ES_PATH) LD_LIBRARY_PATH=$(ES_LIBRARY_PATH) ES_DATA_PATH=$(ES_DATA_PATH) es-c
+ESTEST = PATH=$(ES_PATH) LD_LIBRARY_PATH=$(ES_LIBRARY_PATH) ES_DATA_PATH=$(ES_DATA_PATH) es-test
 AI_NAME = alvin
-ES_INCS = ${ES_INCLUDE_PATH} -I es
+ES_INCS = $(ES_INCLUDE_PATH) -I es
 ES_SRC = es/main.es
 ES_TARGET = $(ROOT)/bin/$(AI_NAME).eso
 
