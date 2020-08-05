@@ -88,15 +88,12 @@
 <    Until someone closes the 1st conversation with you then.
 <        If someone tells you that somebody does something then.
 <            If someone tells you that this is a thing then.
-<                Coordinates.
-<                Remember the coordinates.
-<                Remember that the thing is in this image in the coordinates.
-<                Remember the 1st coordinate.
-<                Remember the 2nd coordinate.
-<                Remember the 3rd coordinate.
-<                The 1st coordinate is the same as the 1st coordinate of the pointer.
-<                The 2nd coordinate is the same as the 2nd coordinate of the pointer.
-<                The 3rd coordinate is the same as the 3rd coordinate of the pointer.
+<                If I point to coordinates on this image then.
+<                    Remember that the thing is in this image in the coordinates.
+<                Else.
+<                    Remember that the thing is in this image.
+<                End.
+<                Print "".
 <            Else.
 <                Remember something.
 <            End.
