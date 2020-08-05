@@ -20,7 +20,7 @@
 #	You can contact Tommi Manttari through email at manttari@yahoo.com.
 #
 
-VERSION = 4
+VERSION = 3
 
 SHELL:= /bin/bash
 
@@ -43,10 +43,6 @@ AI_NAME = alvin
 ES_INCS = $(ES_INCLUDE_PATH) -I es
 ES_SRC = es/main.es
 ES_TARGET = $(ROOT)/bin/$(AI_NAME).eso
-
-TEST_LISTS = \
-  tests/tests.lst
-
 TESTS = \
   tests/main.test \
   tests/intro_video.test \
@@ -91,31 +87,35 @@ all: $(ES_TARGET)
 $(ES_TARGET):	$(ES_SRC) $(INC)
 	$(ESC) --app-version=$(VERSION) -I . -I $(ES_INCS) $< -o $@
 
-test:: $(ES_TARGET)
+test::   $(ES_TARGET)
 	@export TESTS_OK="1"; \
-	for TEST_LIST in $(TEST_LISTS); do \
-		echo "RUNNING TEST LIST " $${TEST_LIST}; \
-		while IFS= read -r line; \
-		do \
-			echo "RUNNING TEST SCRIPT " $${line}; \
-			echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s tests/$${line} $(ES_TARGET); \
-			$(MEMCHECKER) $(ESTEST) -r -3 -b -s tests/$${line} $(ES_TARGET) > $(DEBUG_TARGET); \
-			if [ $$? -eq "0" ]; then \
-				echo "TESTING $${line} OK"; \
-			else \
-				echo "TESTING $${line} FAIL"; \
-				export TESTS_OK="0"; \
-			fi; \
-		done < "$${TEST_LIST}"; \
-	done; \
-	for TEST_LIST in $(TEST_LISTS); do \
-		echo "RUNNING TEST LIST " $${TEST_LIST}; \
-		echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST_LIST} $(ES_TARGET); \
-		$(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST_LIST} $(ES_TARGET) > $(DEBUG_TARGET); \
+	for TEST in $(TESTS); do \
+		echo "RUNNING TEST SCRIPT " $${TEST}; \
+		echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST} $(ES_TARGET); \
+		$(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST} $(ES_TARGET) > $(DEBUG_TARGET); \
 		if [ $$? -eq "0" ]; then \
-			echo "TESTING $${TEST_LIST} OK"; \
+			echo "TESTING $${TEST} OK"; \
 		else \
-			echo "TESTING $${TEST_LIST} FAIL"; \
+			echo "TESTING $${TEST} FAIL"; \
+			export TESTS_OK="0"; \
+		fi; \
+	done; \
+	if [ "$${TESTS_OK}" -eq "1" ]; then \
+		echo "TESTS OK"; \
+	else \
+		echo "TESTS FAILED"; \
+	fi;
+
+test::
+	@export TESTS_OK="1"; \
+	for TEST in $(TESTS2); do \
+		echo "RUNNING TEST SCRIPT " $${TEST}; \
+		echo $(MEMCHECKER) $(ESTEST) $${TEST}; \
+		$(MEMCHECKER) $(ESTEST) $${TEST} > $(DEBUG_TARGET); \
+		if [ $$? -eq "0" ]; then \
+			echo "TESTING $${TEST} OK"; \
+		else \
+			echo "TESTING $${TEST} FAIL"; \
 			export TESTS_OK="0"; \
 		fi; \
 	done; \
@@ -137,29 +137,14 @@ release:: $(ES_TARGET)
 		    INPUTS="$${INPUTS} -i updates/$${NREL}.es "; \
 			let NREL=$${NREL}+1; \
 		done; \
-		for TEST_LIST in $(TEST_LISTS); do \
-			echo "RUNNING TEST LIST " $${TEST_LIST}; \
-			while IFS= read -r line; \
-			do \
-				echo "RUNNING TEST SCRIPT " $${line}; \
-				echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $${INPUTS} tests/$${line} releases/alvin.$${REL}.eso; \
-				$(MEMCHECKER) $(ESTEST) -r -3 -b -s $${INPUTS} tests/$${line} releases/alvin.$${REL}.eso > $(DEBUG_TARGET); \
-				if [ $$? -eq "0" ]; then \
-					echo "TESTING $${line} OK"; \
-				else \
-					echo "TESTING $${line} FAIL"; \
-					export TESTS_OK="0"; \
-				fi; \
-			done < "$${TEST_LIST}"; \
-		done; \
-		for TEST_LIST in $(TEST_LISTS); do \
-			echo "RUNNING TEST LIST " $${TEST_LIST}; \
-			echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST_LIST} $(ES_TARGET); \
-			$(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST_LIST} $(ES_TARGET) > $(DEBUG_TARGET); \
+		for TEST in $(TESTS); do \
+			echo "RUNNING TEST SCRIPT " $${TEST}; \
+			echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $${INPUTS} $${TEST} releases/alvin.$${REL}.eso; \
+			$(MEMCHECKER) $(ESTEST) -r -3 -b -s $${INPUTS} $${TEST} releases/alvin.$${REL}.eso > $(DEBUG_TARGET); \
 			if [ $$? -eq "0" ]; then \
-				echo "TESTING $${TEST_LIST} OK"; \
+				echo "TESTING $${TEST} OK"; \
 			else \
-				echo "TESTING $${TEST_LIST} FAIL"; \
+				echo "TESTING $${TEST} FAIL"; \
 				export TESTS_OK="0"; \
 			fi; \
 		done; \

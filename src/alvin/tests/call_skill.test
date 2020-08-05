@@ -6,22 +6,19 @@
 ""<What is your name?
 "">"John".
 
-"">To call the function "__ext_call_phone_number" with a phone number.
-""<Yes.
-"">  Remember that you have called the phone number.
-""<  Ok.
-"">End.
-""<Ok.
+>To call the function "__ext_call_phone_number" with a phone number.
+<Yes.
+>  Remember that you have called the phone number.
+<  Ok.
+>End.
+<Ok.
 >You have a phone number.
 <Ok.
 >Call me.
-<Ok.
-<What is your phone number?
+<Ok. What is your phone number?
 >"123456789".
-<I call you.
-<Call you to the phone number "123456789".
->Ok.
-"">Have you called your phone number?
-""<I don't know.
-"">Have you called my phone number?
-""<Yes.
+</*Ok.*/ I /*am calling*/ call you.
+>Have you called your phone number?
+<I don't know.
+>Have you called my phone number?
+<Yes.

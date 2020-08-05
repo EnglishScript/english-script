@@ -6,17 +6,16 @@
 ""<What is your name?
 "">"John".
 
-"">To call the function "__ext_take_picture" with a picture.
-""<Yes.
-"">End.
-""<Ok.
-"">To call the function "__ext_show_image" with an image.
-""<Yes.
-"">    Tell me that you show the image.
-""<    Ok.
-"">End.
-""<Ok.
-
+>To call the function "__ext_take_picture" with a picture.
+<Yes.
+>End.
+<Ok.
+>To call the function "__ext_show_image" with an image.
+<Yes.
+>    Tell me that you show the image.
+<    Ok.
+>End.
+<Ok.
 >I have a dog.
 <Ok.
 ""<Ok. What is a name of the dog?
@@ -26,8 +25,6 @@
 
 >Take a picture.
 <Ok.
-<Take the picture.
->Ok.
 >The picture is this picture.
 <Ok.
 >The picture has a file path "abc".
@@ -48,8 +45,6 @@
 <Ok.
 >Take a picture.
 <Ok.
-<Take the picture.
->Ok.
 >The picture is this picture.
 <Ok.
 >The picture has a file path "def".
@@ -70,8 +65,6 @@
 <Ok.
 >Take a picture.
 <Ok.
-<Take the picture.
->Ok.
 >The picture is this picture.
 <Ok.
 >The picture has a file path "foo".
@@ -80,9 +73,9 @@
 <Ok.
 >Tell me about the picture.
 <Ok.
-&<She is in the picture.
+&<She is in the picture in coordinates.
 &<The picture has the file path "foo".
 &<The picture is this image.
 
 >Show Jane.
-<Ok. Show the picture in the file path "foo".
+<Ok. I show the picture.

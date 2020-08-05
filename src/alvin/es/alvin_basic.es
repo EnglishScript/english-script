@@ -60,7 +60,6 @@
 #include "states.es"
 #include "doing.es"
 #include "electronics.es"
-#include "device.es"
 #include "ext_api.es"
 #include "conversation.es"
 #include "physics.es"
@@ -78,5 +77,6 @@
 #include "games.es"
 #include "man_made.es"
 #include "baking.es"
-/*#include "tutorial.es" TODO:*/
+#include "device.es"
+
 

@@ -1,32 +1,28 @@
 A picture.
 It has a name "this image" and a name "this picture".
 
-/*A function "__ext_select_image_from_gallery".
+A function "__ext_select_image_from_gallery".
 A function "__ext_take_picture".
 A function "__ext_show_image".
 A function "__ext_show_settings".
-A function "__ext_get_pointer_coordinates".
-A function "__ext_call_phone_number".*/
 A function "__ext_change_tts_state".
+A function "__ext_get_pointer_coordinates".
+A function "__ext_call_phone_number".
 
 To select an image from a gallery.
-    Ask the device to select the image from the gallery.
-    /*Call the function "__ext_select_image_from_gallery" with the image.*/
+    Call the function "__ext_select_image_from_gallery" with the image.
 End.
 
 To take a picture.
-    Ask the device to take the picture.
-    /* Call the function "__ext_take_picture" with the picture. */
+    Call the function "__ext_take_picture" with the picture.
 End.
 
 To show an image.
-    Ask the device to show the image in the file path of the image.
-    /* Call the function "__ext_show_image" with the image. */
+    Call the function "__ext_show_image" with the image.
 End.
 
 To show a picture.
-    Ask the device to show the picture in the file path of the picture.
-    /* Call the function "__ext_show_image" with the picture. */
+    Call the function "__ext_show_image" with the picture.
 End.
 
 To show a person.
@@ -58,7 +54,6 @@ The noun "coordinates" is the plural form of the noun "coordinate".
 The noun "units" is the plural form of the noun "unit".
 
 A coordinate is units.
-/*
 A pointer has 3 coordinates.
 
 A pointer.
@@ -70,11 +65,9 @@ To read a pointer.
     Call the function "__ext_get_pointer_coordinates" with the 1st coordinate of the pointer, 
     the 2nd coordinate of the pointer and the 3rd coordinate of the pointer.
 End.
-*/
 
 To call a person to a phone number.
-    Ask the device to call the person to the phone number.
-    /* Call the function "__ext_call_phone_number" with the phone number. */
+    Call the function "__ext_call_phone_number" with the phone number.
 End.
 
 To call a person.
