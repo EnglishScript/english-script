@@ -57,6 +57,7 @@ for line_nr, line in enumerate(adjectives_csv):
             adjectives[0] == "gold" or \
             adjectives[0] == "model" or \
             adjectives[0] == "no" or \
+            adjectives[0] == "motor" or \
             adjectives[0] == "saw":
         print("# WARNING: " + adjectives[0] + " not added to adjectives")
         continue
