@@ -20,10 +20,10 @@ The verb "unregisters" is the 3rd person form of the verb "unregister".
 
 
 To register someone to a community.
-    Ask the registrar of the community to register someone to the community.
+    /*FIXME:Ask the registrar of the community to register someone to the community.*/
 End.
 
 To unregister someone from a community.
-    Ask the registrar of the community to unregister someone from the community.
+    /*FIXME:Ask the registrar of the community to unregister someone from the community.*/
 End.
 

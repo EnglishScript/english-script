@@ -91,7 +91,7 @@ To know something.
 End.
 
 To introduce you.
-    Tell me your name.
+    /*FIXME: Tell me your name.*/
     Tell me that you are an artificial intelligence.
 End.
 
