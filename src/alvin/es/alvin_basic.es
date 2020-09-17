@@ -24,6 +24,7 @@
 
 #include "stdlib.es"
 #include "stdio.es"
+#include "math.es"
 #include "adjectives.es"
 #include "adverbs.es"
 #include "time.es"

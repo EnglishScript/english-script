@@ -74,17 +74,7 @@ else
 MEMCHECKER =
 endif
 
-INC = \
-  es/alvin_basic.es \
-  es/animal.es \
-  es/being.es \
-  es/buildings.es \
-  es/conversation.es \
-  es/hobbies.es \
-  es/human.es \
-  es/profession.es \
-  es/sports.es \
-  es/world.es
+INC = es/*.es
 
 all: $(ES_TARGET)
 
@@ -124,6 +114,9 @@ test:: $(ES_TARGET)
 	else \
 		echo "TESTS FAILED"; \
 	fi;
+
+apply:
+	cp $(ES_TARGET) ../../../aalvin/app/src/main/assets/alvin.eso
 
 release:: $(ES_TARGET)
 	cp $(ES_TARGET) releases/alvin.$(VERSION).eso
