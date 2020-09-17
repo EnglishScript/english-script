@@ -29,6 +29,11 @@ To show a picture.
     /* Call the function "__ext_show_image" with the picture. */
 End.
 
+To show settings.
+    Ask the device to show the settings.
+    /* Call the function "__ext_show_settings". */
+End.
+
 To show a person.
     If the person has an image then.
         Show the image.
@@ -73,7 +78,7 @@ End.
 */
 
 To call a person to a phone number.
-    Ask the device to call the person to the phone number.
+    Ask the device to call a person to the phone number.
     /* Call the function "__ext_call_phone_number" with the phone number. */
 End.
 
@@ -84,7 +89,7 @@ To call a person.
     End.
     If the person has a phone number then.
         /*TODO:Tell me that you are calling the person.*/
-        Tell me that you call the person.
+        /*TODO: different speaker Id for: Tell me that you call the person.*/
         Call the person to the phone number.
     End.
 End.
