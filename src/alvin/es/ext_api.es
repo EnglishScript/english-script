@@ -90,9 +90,9 @@ To call a person.
     If the person has a phone number then.
         /*TODO:Tell me that you are calling the person.*/
         /*TODO: different speaker Id for: Tell me that you call the person.*/
-        A phone number "X".
-        Assign the phone number of the person to the phone number "X".
-        Call the person to the phone number "X".
+        /*A phone number "X".*/
+        /*Assign the phone number of the person to the phone number "X".*/
+        Call the person to the phone number.
     End.
 End.
 
