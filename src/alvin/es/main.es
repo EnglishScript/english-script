@@ -1,6 +1,7 @@
 #include "alvin_basic.es"
 #include "alvin.es"
 #include "tmp_network.es"
+#include "AlvinRobot.es"
 /*#include "usa.es"*/
 
 To begin.
