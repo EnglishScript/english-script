@@ -16,6 +16,12 @@ The grip voltage is a voltage.
 
 "tag" and "tags" are nouns.
 The noun "tags" is the plural form of the noun "tag".
+"kgcm" and "kgcms" are nouns.
+The noun "kgcms" is the plural form of the noun "kgcm".
+"degree" and "degrees" are nouns.
+The noun "degrees" is the plural form of the noun "degree".
+"dps" and "dpses" are nouns.
+The noun "dpses" is the plural form of the noun "dps".
 
 A robotic arm has servo motors, joints, links, a wrist, a tag and an end effector.
 "angle-to-PWM-time" is a noun.
@@ -24,19 +30,13 @@ A robotic arm has servo motors, joints, links, a wrist, a tag and an end effecto
 /* servo motors sub-class */
 
 The servo motors have a minimum angle, a maximum angle, a lift power, a speed,
-an end angle, an angle-to-PWM-time ratio, a minimum PWM time and a maximum PWM time.
-The minimum angle is an angle.
-The maximum angle is an angle.
-"kgcm" and "kgcms" are nouns.
-The noun "kgcms" is the plural form of the noun "kgcm".
+a target angle, an angle-to-PWM-time ratio, a minimum PWM time and a maximum PWM time.
+/*FIXME:The*/A minimum angle is an angle.
+/*FIXME:The*/A maximum angle is an angle.
 The lift power is kgcms.
-"degree" and "degrees" are nouns.
-The noun "degrees" is the plural form of the noun "degree".
-"dps" and "dpses" are nouns.
-The noun "dpses" is the plural form of the noun "dps".
 The speed is dps.
-The end angle of the servo motors of a robotic arm is an angle.
-The angle-to-PWM-time ratio of the servo motors is seconds.
+/*FIXME:The*/A target angle /*FIXME:of the servo motors of a robotic arm*/ is an angle.
+The angle-to-PWM-time ratio of the servo motors of a robotic arm is seconds.
 The minimum PWM time of the servo motors is seconds.
 The maximum PWM time of the servo motors is seconds.
 An angle is degrees.
@@ -55,16 +55,6 @@ The length is meters.
 An object is a thing.
 A robot is an object.
 
-A function "__motoric_register_mechanical_model".
-
-To register a robot.
-    Call the function "__motoric_register_mechanical_model" with the robot.
-End.
-
-A function "__motoric_register_mechanical_model".
-
-/*To move to an object.*/
-    
 /* classes */
 An electronic chip has connector pins and a case.
 "system-on-a-chip" is a noun.
@@ -81,4 +71,25 @@ The grip voltage of an SG90 motor is 0.550 volts.
 "SG92R" is a noun.
 An SG92R motor is a servo motor.
 
+
+
+/*FIXME: does not compile:
+To get a target angle for a servo motor.
+    Ask this device the target angle of the servo motor.
+End.*/
+
+To move a robotic arm to something.
+    If unknown if the robotic arm is registered then.
+        Ask this device to register a mechanical model for the robotic arm.
+        The robotic arm is registered.
+    End.
+    Ask this device to move the robotic arm to something.
+    For each of the servo motors of the robotic arm.
+        If  the servo motor has a target angle then.
+            /*FIXME: there should not be any need for above If-statement to get below line compiled*/
+            Ask this device the target angle.
+        End.
+    End.
+    Ask this device to start moving the robotic arm.
+End.
 

@@ -6,3 +6,4 @@ take_picture.test
 reminder_skill.test
 call_skill.test
 usa_presidents.test
+robot.test

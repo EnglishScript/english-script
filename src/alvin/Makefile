@@ -37,8 +37,8 @@ endif
 ifndef ES_PATH
 ES_PATH = $(ROOT)/../es/bin
 endif
-ESC = PATH=$(ES_PATH) LD_LIBRARY_PATH=$(ES_LIBRARY_PATH) ES_DATA_PATH=$(ES_DATA_PATH) es-c
-ESTEST = PATH=$(ES_PATH) LD_LIBRARY_PATH=$(ES_LIBRARY_PATH) ES_DATA_PATH=$(ES_DATA_PATH) es-test
+ESC = LD_LIBRARY_PATH=$(ES_LIBRARY_PATH) ES_DATA_PATH=$(ES_DATA_PATH) $(ES_PATH)/es-c
+ESTEST = LD_LIBRARY_PATH=$(ES_LIBRARY_PATH) ES_DATA_PATH=$(ES_DATA_PATH) $(ES_PATH)/es-test
 AI_NAME = alvin
 ES_INCS = $(ES_INCLUDE_PATH) -I es
 ES_SRC = es/main.es
@@ -56,7 +56,8 @@ TESTS = \
   tests/reminder_skill.test \
   tests/time_skill.test \
   tests/call_skill.test \
-  tests/usa_presidents.test
+  tests/usa_presidents.test \
+  tests/robot.test
 
 TESTS2 = \
   tests/words.test
@@ -77,6 +78,17 @@ endif
 INC = es/*.es
 
 all: $(ES_TARGET)
+
+%.test:
+	echo "RUNNING TEST SCRIPT " $@; \
+	echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $@ $(ES_TARGET); \
+	$(MEMCHECKER) $(ESTEST) -r -3 -b -s $@ $(ES_TARGET); \
+	if [ $$? -eq "0" ]; then \
+		echo "TESTING $@ OK"; \
+	else \
+		echo "TESTING $@ FAIL"; \
+		export TESTS_OK="0"; \
+	fi;
 
 $(ES_TARGET):	$(ES_SRC) $(INC)
 	$(ESC) --app-version=$(VERSION) -I . -I $(ES_INCS) $< -o $@

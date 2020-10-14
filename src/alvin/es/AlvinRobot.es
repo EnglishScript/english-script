@@ -22,7 +22,8 @@ The grip voltage of an SG92R motor is 0.550 volts.
 
 /* the robot */
 A robotic arm.
-The robotic arm has a name, an ESP32-WROOM-32D chip, 1 motors, 1 joints, 2 links.
+The robotic arm has a name and an ESP32-WROOM-32D chip /*FIXME:, 1 motors, 1 joints, 2 links*/.
+
 The name of the robotic arm is "TestRobot".
 
 /* motors */

@@ -1,0 +1,52 @@
+"
+"	The EnglishScript programming language - for Artificial Intelligence.
+"
+"	Copyright (C) 2016 Tommi Manttari
+"
+"	This library is free software; you can redistribute it and/or modify
+"	it under the terms of the GNU Lesser General Public License as
+"	published by the Free Software Foundation; either version 2.1 of the
+"	License, or (at your option) any later version.
+"
+"	This library is distributed in the hope that it will be useful, but
+"	WITHOUT ANY WARRANTY; without even the implied warranty of
+"	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+"	Lesser General Public License for more details.
+"
+"	You should have received a copy of the GNU Lesser General Public
+"	License along with this library; if not, write to the Free Software
+"	Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307
+"	USA
+"
+"	You can contact Tommi Manttari through email at manttari@yahoo.com.
+"
+?<Hi.
+?<My name is "Alvin".
+?<The name is "Alvin".
+?<I am an artificial intelligence.
+?<I am your friend. I help you/*TODO: out*/.
+
+>Move TestRobot to me.
+<Ok.
+<Register a mechanical model for TestRobot.
+<Move TestRobot to you.
+<What is a target angle of TestRobot's 1st servo motor?
+>10 degrees.
+<What is a target angle of TestRobot's 3rd servo motor?
+>30 degrees.
+<What is a target angle of TestRobot's 7th servo motor? 
+>70 degrees.
+<What is a target angle of TestRobot's 5th servo motor?
+>70 degrees.
+<What is a target angle of TestRobot's 2nd servo motor?
+>70 degrees.
+<What is a target angle of TestRobot's 6th servo motor?
+>70 degrees.
+<What is a target angle of TestRobot's 4th servo motor?
+>70 degrees.
+<Start /*FIXME:*/moveing TestRobot.
+"">What is the target angle?
+""<70 degrees.
+>What is the target angle of the 1st motor of TestRobot?
+<10 degrees.
+
