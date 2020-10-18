@@ -30,20 +30,20 @@ all:
 	@echo Building all...;
 	@for s in $(SUBDIRS); do \
 		echo "Building $$s..."; \
-		(cd $$s; make -j10 all); \
+		(cd $$s; make -j all); \
 	done;
 
 clean:
 	@echo Cleaning...
 	@for s in $(SUBDIRS); do \
 		echo "Cleaning $$s..."; \
-		(cd $$s; make -j10 clean); \
+		(cd $$s; make -j clean); \
 	done;
 
 test:
 	@echo Testing...
 	@for s in $(SUBDIRS); do \
 		echo "Testing $$s..."; \
-		(cd $$s; make test); \
+		(cd $$s; make -j test); \
 	done;
 

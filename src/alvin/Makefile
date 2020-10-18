@@ -80,9 +80,9 @@ INC = es/*.es
 all: $(ES_TARGET)
 
 %.test:
-	echo "RUNNING TEST SCRIPT " $@; \
+	@echo "RUNNING TEST SCRIPT " $@; \
 	echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $@ $(ES_TARGET); \
-	$(MEMCHECKER) $(ESTEST) -r -3 -b -s $@ $(ES_TARGET); \
+	$(MEMCHECKER) $(ESTEST) -r -3 -b -s $@ $(ES_TARGET) > /dev/null; \
 	if [ $$? -eq "0" ]; then \
 		echo "TESTING $@ OK"; \
 	else \
@@ -93,39 +93,8 @@ all: $(ES_TARGET)
 $(ES_TARGET):	$(ES_SRC) $(INC)
 	$(ESC) --app-version=$(VERSION) -I . -I $(ES_INCS) $< -o $@
 
-test:: $(ES_TARGET)
-	@export TESTS_OK="1"; \
-	for TEST_LIST in $(TEST_LISTS); do \
-		echo "RUNNING TEST LIST " $${TEST_LIST}; \
-		while IFS= read -r line; \
-		do \
-			echo "RUNNING TEST SCRIPT " $${line}; \
-			echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s tests/$${line} $(ES_TARGET); \
-			$(MEMCHECKER) $(ESTEST) -r -3 -b -s tests/$${line} $(ES_TARGET) > $(DEBUG_TARGET); \
-			if [ $$? -eq "0" ]; then \
-				echo "TESTING $${line} OK"; \
-			else \
-				echo "TESTING $${line} FAIL"; \
-				export TESTS_OK="0"; \
-			fi; \
-		done < "$${TEST_LIST}"; \
-	done; \
-	for TEST_LIST in $(TEST_LISTS); do \
-		echo "RUNNING TEST LIST " $${TEST_LIST}; \
-		echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST_LIST} $(ES_TARGET); \
-		$(MEMCHECKER) $(ESTEST) -r -3 -b -s $${TEST_LIST} $(ES_TARGET) > $(DEBUG_TARGET); \
-		if [ $$? -eq "0" ]; then \
-			echo "TESTING $${TEST_LIST} OK"; \
-		else \
-			echo "TESTING $${TEST_LIST} FAIL"; \
-			export TESTS_OK="0"; \
-		fi; \
-	done; \
-	if [ "$${TESTS_OK}" -eq "1" ]; then \
-		echo "TESTS OK"; \
-	else \
-		echo "TESTS FAILED"; \
-	fi;
+
+test: $(TESTS)
 
 apply:
 	cp $(ES_TARGET) ../../../aalvin/app/src/main/assets/alvin.eso

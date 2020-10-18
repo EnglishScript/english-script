@@ -37,16 +37,26 @@
 <What is a target angle of TestRobot's 7th servo motor? 
 >70 degrees.
 <What is a target angle of TestRobot's 5th servo motor?
->70 degrees.
+>50 degrees.
 <What is a target angle of TestRobot's 2nd servo motor?
->70 degrees.
+>20 degrees.
 <What is a target angle of TestRobot's 6th servo motor?
->70 degrees.
+>60 degrees.
 <What is a target angle of TestRobot's 4th servo motor?
->70 degrees.
+>40 degrees.
 <Start /*FIXME:*/moveing TestRobot.
-"">What is the target angle?
-""<70 degrees.
 >What is the target angle of the 1st motor of TestRobot?
 <10 degrees.
+>What is the target angle of the 2nd motor of TestRobot?
+<20 degrees.
+>What is the target angle of the 3rd motor of TestRobot?
+<30 degrees.
+>What is the target angle of the 4th motor of TestRobot?
+<40 degrees.
+>What is the target angle of the 5th motor of TestRobot?
+<50 degrees.
+>What is the target angle of the 6th motor of TestRobot?
+<60 degrees.
+>What is the target angle of the 7th motor of TestRobot?
+<70 degrees.
 
