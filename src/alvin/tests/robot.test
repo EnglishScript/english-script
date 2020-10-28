@@ -26,37 +26,103 @@
 ?<I am an artificial intelligence.
 ?<I am your friend. I help you/*TODO: out*/.
 
->Move TestRobot to me.
+>Move the robotic arm to me.
 <Ok.
-<Register a mechanical model for TestRobot.
-<Move TestRobot to you.
-<What is a target angle of TestRobot's 1st servo motor?
+<Register a mechanical model for the robotic arm.
+<Move the robotic arm to you.
+<What is a target angle of the 1st servo motor of the robotic arm?
 >10 degrees.
-<What is a target angle of TestRobot's 3rd servo motor?
+<What is a target angle of the 3rd servo motor of the robotic arm?
 >30 degrees.
-<What is a target angle of TestRobot's 7th servo motor? 
+<What is a target angle of the 7th servo motor of the robotic arm?
 >70 degrees.
-<What is a target angle of TestRobot's 5th servo motor?
+<What is a target angle of the 5th servo motor of the robotic arm?
 >50 degrees.
-<What is a target angle of TestRobot's 2nd servo motor?
+<What is a target angle of the 2nd servo motor of the robotic arm?
 >20 degrees.
-<What is a target angle of TestRobot's 6th servo motor?
+<What is a target angle of the 6th servo motor of the robotic arm?
 >60 degrees.
-<What is a target angle of TestRobot's 4th servo motor?
+<What is a target angle of the 4th servo motor of the robotic arm?
 >40 degrees.
-<Start /*FIXME:*/moveing TestRobot.
->What is the target angle of the 1st motor of TestRobot?
+<Start /*FIXME:*/moveing the robotic arm.
+>What is the target angle of the 1st servo motor of the robotic arm?
 <10 degrees.
->What is the target angle of the 2nd motor of TestRobot?
+>What is the target angle of the 2nd servo motor of the robotic arm?
 <20 degrees.
->What is the target angle of the 3rd motor of TestRobot?
+>What is the target angle of the 3rd servo motor of the robotic arm?
 <30 degrees.
->What is the target angle of the 4th motor of TestRobot?
+>What is the target angle of the 4th servo motor of the robotic arm?
 <40 degrees.
->What is the target angle of the 5th motor of TestRobot?
+>What is the target angle of the 5th servo motor of the robotic arm?
 <50 degrees.
->What is the target angle of the 6th motor of TestRobot?
+>What is the target angle of the 6th servo motor of the robotic arm?
 <60 degrees.
->What is the target angle of the 7th motor of TestRobot?
+>What is the target angle of the 7th servo motor of the robotic arm?
 <70 degrees.
+>What is the minimum angle of the 1st servo motor of the robotic arm?
+<0 degrees.
+
+>Initialize the robotic arm.
+<Ok.
+<You control a robotic arm.
+<The robotic arm has 7 servo motors.
+<The 1st servo motor of the robotic arm is /*FIXME:an*/a SG90 motor.
+<The 1st servo motor is connected to you connector pin 10.
+<A pulse cycle of the 1st servo motor is 0.002 seconds.
+<The minimum PWM time of the 1st servo motor is 0.41 seconds.
+<The maximum PWM time of the 1st servo motor is 2.45 seconds.
+
+<The 3rd servo motor of the robotic arm is /*FIXME:an*/ a SG92R motor.
+<The servo motor is connected to you connector pin 12.
+<The pulse cycle of the 3rd servo motor is 0.002 seconds.
+<The minimum PWM time of the 3rd servo motor is 0.61 seconds.
+<The maximum PWM time of the 3rd servo motor is 3.15 seconds.
+
+<The 2nd servo motor of the robotic arm is /*FIXME:an*/ a SG92R motor.
+<The servo motor is connected to you connector pin 11.
+<The pulse cycle of the servo motor is 0.005 seconds.
+<The minimum PWM time of the 2nd servo motor is 0.51 seconds.
+<The maximum PWM time of the 2nd servo motor is 2.75 seconds.
+
+<The 4th servo motor of the robotic arm is /*FIXME:an*/ a SG90 motor.
+<The servo motor is connected to you connector pin 13.
+<The pulse cycle of the servo motor is 0.003 seconds.
+<The minimum PWM time of the 4th servo motor is 0.21 seconds.
+<The maximum PWM time of the 4th servo motor is 7.45 seconds.
+
+<The 5th servo motor of the robotic arm is /*FIXME:an*/ a SG90 motor.
+<The servo motor is connected to you connector pin 14.
+<The pulse cycle of the servo motor is 0.015 seconds.
+<The minimum PWM time of the 5th servo motor is 0.41 seconds.
+<The maximum PWM time of the 5th servo motor is 6.45 seconds.
+
+<The 6th servo motor of the robotic arm is /*FIXME:an*/ a SG90 motor.
+<The servo motor is connected to you connector pin 15.
+<The pulse cycle of the servo motor is 0.025 seconds.
+<The minimum PWM time of the 6th servo motor is 0.81 seconds.
+<The maximum PWM time of the 6th servo motor is 5.45 seconds.
+
+<The 7th servo motor of the robotic arm is /*FIXME:an*/ a SG90 motor.
+<The servo motor is connected to you connector pin 16.
+<The pulse cycle of the servo motor is 0.008 seconds.
+<The minimum PWM time of the 7th servo motor is 1.81 seconds.
+<The maximum PWM time of the 7th servo motor is 4.45 seconds.
+
+>Move the robotic arm.
+<Ok.
+<The speed of the 1st servo motor is 1.1 dps.
+<The end position of the 1st servo motor is 10 degrees.
+<The speed of the 2nd servo motor is 1.2 dps.
+<The end position of the 2nd servo motor is 10 degrees.
+<The speed of the 3rd servo motor is 1.3 dps.
+<The end position of the 3rd servo motor is 10 degrees.
+<The speed of the 4th servo motor is 1.4 dps.
+<The end position of the 4th servo motor is 10 degrees.
+<The speed of the 5th servo motor is 1.5 dps.
+<The end position of the 5th servo motor is 10 degrees.
+<The speed of the 6th servo motor is 1.6 dps.
+<The end position of the 6th servo motor is 10 degrees.
+<The speed of the 7th servo motor is 1.7 dps.
+<The end position of the 7th servo motor is 10 degrees.
+<Move the servo motors.
 

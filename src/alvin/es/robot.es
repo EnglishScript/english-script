@@ -30,13 +30,13 @@ A robotic arm has servo motors, joints, links, a wrist, a tag and an end effecto
 /* servo motors sub-class */
 
 The servo motors have a minimum angle, a maximum angle, a lift power, a speed,
-a target angle, an angle-to-PWM-time ratio, a minimum PWM time and a maximum PWM time.
+a target angle, a pulse cycle, a minimum PWM time and a maximum PWM time.
 /*FIXME:The*/A minimum angle is an angle.
 /*FIXME:The*/A maximum angle is an angle.
 The lift power is kgcms.
 The speed is dps.
 /*FIXME:The*/A target angle /*FIXME:of the servo motors of a robotic arm*/ is an angle.
-The angle-to-PWM-time ratio of the servo motors of a robotic arm is seconds.
+The pulse cycle of the servo motors of a robotic arm is seconds.
 The minimum PWM time of the servo motors is seconds.
 The maximum PWM time of the servo motors is seconds.
 An angle is degrees.
@@ -70,6 +70,10 @@ The lift power of an SG90 motor is 1.6 kgcms.
 The grip voltage of an SG90 motor is 0.550 volts.
 "SG92R" is a noun.
 An SG92R motor is a servo motor.
+The minimum angle of an SG92R motor is 0 degrees.
+The maximum angle of an SG92R motor is 360 degrees.
+The lift power of an SG92R motor is 1.6 kgcms.
+The grip voltage of an SG92R motor is 0.550 volts.
 
 
 

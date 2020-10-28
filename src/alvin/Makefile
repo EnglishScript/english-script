@@ -91,7 +91,7 @@ all: $(ES_TARGET)
 	fi;
 
 $(ES_TARGET):	$(ES_SRC) $(INC)
-	$(ESC) --app-version=$(VERSION) -I . -I $(ES_INCS) $< -o $@
+	$(ESC) --app-version=$(VERSION) -I . -I $(ES_INCS) $< -o $@ > /dev/null
 
 
 test: $(TESTS)

@@ -1,6 +1,29 @@
 {
   "configurations": {
-    "ES - run a test": {
+    "ES - run an ES test": {
+      "adapter": "vscode-cpptools",
+      "configuration": {
+        "type":    "cppdbg",
+        "request": "launch",
+        "program": "${workspaceRoot}/../../../es/bin/es-test",
+        "args": [
+          "tests/robot.test",
+          "${workspaceRoot}/../../bin/alvin.eso"
+        ],
+        "cwd": "${workspaceRoot}",
+        "environment": [
+          { "name": "LD_LIBRARY_PATH", "value": "/usr/local/lib:${workspaceRoot}/../../../es/lib" },
+          { "name": "ES_DATA_PATH", "value": "${workspaceRoot}/../../data" }
+        ],
+        "externalConsole": true,
+        "stopAtEntry": true,
+        "MIMode": "gdb",
+        "logging": {
+          "engineLogging": false
+        }
+      }
+    },
+    "ES - run ES debugger": {
       "adapter": "vscode-cpptools",
       "configuration": {
         "type":    "cppdbg",
