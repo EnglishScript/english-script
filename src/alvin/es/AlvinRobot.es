@@ -15,47 +15,47 @@ The maximum PWM time of the servo motor is 2.450 seconds.
 The speed of the servo motor is 1.1 dps.
 The minimum angle of the servo motor 1 of the robotic arm is 0 degrees.
 
-The 2nd motor of the robotic arm is an SG92R motor.
-The motor is connected to the connector pin 11 of the ESP32-WROOM-32D chip.
-The pulse cycle of the motor is 0.005 seconds.
-The minimum PWM time of the motor is 0.510 seconds.
-The maximum PWM time of the motor is 2.750 seconds.
-The speed of the motor is 1.2 dps.
+The 2nd servo motor of the robotic arm is an SG92R motor.
+The 2nd servo motor is connected to the connector pin 11 of the ESP32-WROOM-32D chip.
+The pulse cycle of the 2nd servo motor is 0.005 seconds.
+The minimum PWM time of the 2nd servo motor is 0.510 seconds.
+The maximum PWM time of the 2nd servo motor is 2.750 seconds.
+The speed of the 2nd servo motor is 1.2 dps.
 
-The 3rd motor of the robotic arm is an SG92R motor.
-The motor is connected to the connector pin 12 of the ESP32-WROOM-32D chip.
-The pulse cycle of the motor is 0.002 seconds.
-The minimum PWM time of the motor is 0.610 seconds.
-The maximum PWM time of the motor is 3.150 seconds.
-The speed of the motor is 1.3 dps.
+The 3rd servo motor of the robotic arm is an SG92R motor.
+The servo motor is connected to the connector pin 12 of the ESP32-WROOM-32D chip.
+The pulse cycle of the servo motor is 0.002 seconds.
+The minimum PWM time of the servo motor is 0.610 seconds.
+The maximum PWM time of the servo motor is 3.150 seconds.
+The speed of the servo motor is 1.3 dps.
 
-The 4th motor of the robotic arm is an SG90 motor.
-The motor is connected to the connector pin 13 of the ESP32-WROOM-32D chip.
-The pulse cycle of the motor is 0.003 seconds.
-The minimum PWM time of the motor is 0.210 seconds.
-The maximum PWM time of the motor is 7.450 seconds.
-The speed of the motor is 1.4 dps.
+The 4th servo motor of the robotic arm is an SG90 motor.
+The servo motor is connected to the connector pin 13 of the ESP32-WROOM-32D chip.
+The pulse cycle of the servo motor is 0.003 seconds.
+The minimum PWM time of the servo motor is 0.210 seconds.
+The maximum PWM time of the servo motor is 7.450 seconds.
+The speed of the servo motor is 1.4 dps.
 
-The 5th motor of the robotic arm is an SG90 motor.
-The motor is connected to the connector pin 14 of the ESP32-WROOM-32D chip.
-The pulse cycle of the motor is 0.015 seconds.
-The minimum PWM time of the motor is 0.410 seconds.
-The maximum PWM time of the motor is 6.450 seconds.
-The speed of the motor is 1.5 dps.
+The 5th servo motor of the robotic arm is an SG90 motor.
+The servo motor is connected to the connector pin 14 of the ESP32-WROOM-32D chip.
+The pulse cycle of the servo motor is 0.015 seconds.
+The minimum PWM time of the servo motor is 0.410 seconds.
+The maximum PWM time of the servo motor is 6.450 seconds.
+The speed of the servo motor is 1.5 dps.
 
-The 6th motor of the robotic arm is an SG90 motor.
-The motor is connected to the connector pin 15 of the ESP32-WROOM-32D chip.
-The pulse cycle of the motor is 0.025 seconds.
-The minimum PWM time of the motor is 0.810 seconds.
-The maximum PWM time of the motor is 5.450 seconds.
-The speed of the motor is 1.6 dps.
+The 6th servo motor of the robotic arm is an SG90 motor.
+The servo motor is connected to the connector pin 15 of the ESP32-WROOM-32D chip.
+The pulse cycle of the servo motor is 0.025 seconds.
+The minimum PWM time of the servo motor is 0.810 seconds.
+The maximum PWM time of the servo motor is 5.450 seconds.
+The speed of the servo motor is 1.6 dps.
 
-The 7th motor of the robotic arm is an SG90 motor.
-The motor is connected to the connector pin 16 of the ESP32-WROOM-32D chip.
-The pulse cycle of the motor is 0.008 seconds.
-The minimum PWM time of the motor is 1.810 seconds.
-The maximum PWM time of the motor is 3.450 seconds.
-The speed of the motor is 1.7 dps.
+The 7th servo motor of the robotic arm is an SG90 motor.
+The servo motor is connected to the connector pin 16 of the ESP32-WROOM-32D chip.
+The pulse cycle of the servo motor is 0.008 seconds.
+The minimum PWM time of the servo motor is 1.810 seconds.
+The maximum PWM time of the servo motor is 4.450 seconds.
+The speed of the servo motor is 1.7 dps.
 
 /* links */
 The length of the 1st link of the robotic arm is 0.01 meters.

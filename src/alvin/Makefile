@@ -37,8 +37,16 @@ endif
 ifndef ES_PATH
 ES_PATH = $(ROOT)/../es/bin
 endif
-ESC = LD_LIBRARY_PATH=$(ES_LIBRARY_PATH) ES_DATA_PATH=$(ES_DATA_PATH) $(ES_PATH)/es-c
-ESTEST = LD_LIBRARY_PATH=$(ES_LIBRARY_PATH) ES_DATA_PATH=$(ES_DATA_PATH) $(ES_PATH)/es-test
+
+ifdef MEMCHECK
+#MEMCHECKER = valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all --num-callers=50 --suppressions=valgrind.supp
+MEMCHECKER = valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all --num-callers=50
+else
+MEMCHECKER =
+endif
+
+ESC = LD_LIBRARY_PATH=$(ES_LIBRARY_PATH) ES_DATA_PATH=$(ES_DATA_PATH) $(MEMCHECKER) $(ES_PATH)/es-c
+ESTEST = LD_LIBRARY_PATH=$(ES_LIBRARY_PATH) ES_DATA_PATH=$(ES_DATA_PATH) $(MEMCHECKER) $(ES_PATH)/es-test
 AI_NAME = alvin
 ES_INCS = $(ES_INCLUDE_PATH) -I es
 ES_SRC = es/main.es
@@ -68,21 +76,14 @@ else
 DEBUG_TARGET = /dev/null
 endif
 
-ifdef MEMCHECK
-#MEMCHECKER = valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all --num-callers=50 --suppressions=valgrind.supp
-MEMCHECKER = valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all --num-callers=50
-else
-MEMCHECKER =
-endif
-
 INC = es/*.es
 
 all: $(ES_TARGET)
 
 %.test:
 	@echo "RUNNING TEST SCRIPT " $@; \
-	echo $(MEMCHECKER) $(ESTEST) -r -3 -b -s $@ $(ES_TARGET); \
-	$(MEMCHECKER) $(ESTEST) -r -3 -b -s $@ $(ES_TARGET) > /dev/null; \
+	echo $(ESTEST) -r -3 -b -s $@ $(ES_TARGET); \
+	$(ESTEST) -r -3 -b -s $@ $(ES_TARGET) > /dev/null; \
 	if [ $$? -eq "0" ]; then \
 		echo "TESTING $@ OK"; \
 	else \
@@ -95,6 +96,9 @@ $(ES_TARGET):	$(ES_SRC) $(INC)
 
 
 test: $(TESTS)
+
+memtest:
+	make MEMCHECK=1 test
 
 apply:
 	cp $(ES_TARGET) ../../../aalvin/app/src/main/assets/alvin.eso
