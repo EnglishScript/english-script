@@ -128,7 +128,6 @@ To initialize a robotic arm.
 End.
 
 To move the robotic arm.
-    Tell the ESP32-WROOM-32D chip the speed of the servo motor 1 of the robotic arm.
     For each of the servo motors of the robotic arm.
         Tell the ESP32-WROOM-32D chip the speed of the servo motor.
         /*FIXME: there should not be any need for above If-statement to get below line compiled*/

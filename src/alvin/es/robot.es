@@ -82,10 +82,13 @@ To get a target angle for a servo motor.
     Ask this device the target angle of the servo motor.
 End.*/
 
+To register a robotic arm.
+    Ask this device to register a mechanical model for the robotic arm.
+End.
+
 To move a robotic arm to something.
     If unknown if the robotic arm is registered then.
-        Ask this device to register a mechanical model for the robotic arm.
-        The robotic arm is registered.
+        Register the robotic arm.
     End.
     Ask this device to move the robotic arm to something.
     For each of the servo motors of the robotic arm.
