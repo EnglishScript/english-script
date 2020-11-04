@@ -103,6 +103,7 @@ The 6th link of the robotic arm is the 2nd link of the 5th joint.
 /* Recognized objects */
 
 A ball is round.
+A cup.
 
 To initialize a robotic arm.
     Tell the ESP32-WROOM-32D chip that the ESP32-WROOM-32D chip controls the robotic arm.
