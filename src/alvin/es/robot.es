@@ -23,7 +23,7 @@ The noun "degrees" is the plural form of the noun "degree".
 "dps" and "dpses" are nouns.
 The noun "dpses" is the plural form of the noun "dps".
 
-A robotic arm has /*FIXME: no need to say how many*/7 servo motors, joints, links, a wrist, a tag and an end effector.
+A robotic arm has /*FIXME: no need to say how many*/2 servo motors, joints, links, a wrist, a tag and an end effector.
 "angle-to-PWM-time" is a noun.
 "PWM" is a noun.
 
@@ -87,9 +87,9 @@ To register a robotic arm.
 End.
 
 To move a robotic arm to something.
-    If unknown if the robotic arm is registered then.
+    /*If unknown if the robotic arm is registered then.
         Register the robotic arm.
-    End.
+    End.*/
     Ask this device to move the robotic arm to something.
     For each of the servo motors of the robotic arm.
         If  the servo motor has a target angle then.

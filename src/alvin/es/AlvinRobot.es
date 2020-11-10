@@ -23,6 +23,7 @@ The minimum PWM time of the 2nd servo motor is 0.510 seconds.
 The maximum PWM time of the 2nd servo motor is 2.750 seconds.
 The speed of the 2nd servo motor is 1.2 dps.
 
+/*
 The 3rd servo motor of the robotic arm is an SG92R motor.
 The servo motor is connected to the connector pin 12 of the ESP32-WROOM-32D chip.
 The pulse cycle of the servo motor is 0.002 seconds.
@@ -57,6 +58,19 @@ The pulse cycle of the servo motor is 0.008 seconds.
 The minimum PWM time of the servo motor is 1.810 seconds.
 The maximum PWM time of the servo motor is 4.450 seconds.
 The speed of the servo motor is 1.7 dps.
+*/
+
+/*
+ * You control the robotic arm.
+ * The number of the servo motors of the robotic arm is 1.
+ * The 1st servo motor of the robotic arm is an mg996r motor.
+ * The 1st servo motor is connected to you connector pin 16.
+ * A pulse cycle of the 1st servo motor is 0.02 seconds.
+ * A minimum pwm time of the 1st servo motor is 0.001 seconds.
+ * A maximum pwm time of the 1st servo motor is 0.002 seconds.
+ * A speed of the 1st servo motor of the robotic arm is 1.1 dpses.
+ * A target angle of the 1st servo motor is 90 degrees.
+ */
 
 /* links */
 The length of the 1st link of the robotic arm is 0.01 meters.
@@ -80,7 +94,7 @@ The minimum angle of the 2nd joint is -70 degrees.
 The maximum angle of the 2nd joint is 90 degrees.
 The 2nd link of the robotic arm is the 1st link of the 2nd joint.
 The 3rd link of the robotic arm is the 2nd link of the 2nd joint.
-
+/*
 The 4th motor of the robotic arm is the 1st motor of the 3rd joint of the robotic arm.
 The 5th motor of the robotic arm is the 2nd motor of the 3rd joint.
 The minimum angle of the 3rd joint is -40 degrees.
@@ -99,6 +113,7 @@ The minimum angle of the 5th joint is -30 degrees.
 The maximum angle of the 5th joint is 30 degrees.
 The 5th link of the robotic arm is the 1st link of the 5th joint.
 The 6th link of the robotic arm is the 2nd link of the 5th joint.
+*/
 
 /* Recognized objects */
 
