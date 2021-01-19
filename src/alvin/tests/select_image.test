@@ -122,7 +122,9 @@
 <3 units.
 >What is the coordinate 3?
 <4 units.
->This is Jane.
+"FIXME:>This is Jane.
+"<Ok.
+>Jane is in the image in the coordinates.
 <Ok.
 >Tell me about the image.
 <Ok.
@@ -139,11 +141,12 @@
 
 >Show Jane.
 <Ok. Show the image in the file path "foo".
+>Ok.
 
 >I have a cat.
 <Ok.
-""<Ok. What is a name of the cat?
-"">"Kitty".
+"FIXME: <Ok. What is a name of the cat?
+">"Kitty".
 >The name of my cat is "Kitty".
 <Ok.
 >Select an image from the gallery.
@@ -155,7 +158,9 @@
 >The image has a file path "abc".
 <Ok.
 
->This is my cat.
+"FIXME: >This is my cat.
+"<Ok.
+>Kitty is in the image.
 <Ok.
 >Tell me about the image.
 <Ok.

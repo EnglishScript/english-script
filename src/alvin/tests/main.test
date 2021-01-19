@@ -67,15 +67,15 @@
 <I don't know.
 >Fifi is old.
 <Ok.
->Is Fifi old?
-<Yes.
->
->Am I old?
-<I don't know.
->I am old.
-<Ok.
->Am I old?
-<Yes.
+"FIXME: >Is Fifi old? <Yes.
+
+"FIXME:
+">Am I old?
+"<I don't know.
+">I am old.
+"<Ok.
+">Am I old?
+"<Yes.
 >You are a being.
 <Ok.
 >Your age is 6 years.

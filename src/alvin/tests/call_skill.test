@@ -18,8 +18,7 @@
 <Ok.
 <What is your phone number?
 >"123456789".
-<I call you.
-<Call you to the phone number "123456789".
+<Call a person to the phone number "123456789".
 >Ok.
 "">Have you called your phone number?
 ""<I don't know.
