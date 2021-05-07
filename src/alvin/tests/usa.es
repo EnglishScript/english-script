@@ -30,14 +30,18 @@ To show a president.
     Show the picture of the president.
 End.
 
+To show presidents.
+    Show the picture of the presidents.
+End.
+
 To show someone a president.
     Show the picture of the president.
 End.
 
-To tell someone about a president.
+/*To tell someone about a president.
     Show the president.
     Tell someone about the president.
-End.
+End.*/
 
 /*Presidency[a]   President   Prior office[b] Party[c]    Term[d] Vice President*/
 The USA has parties, presidencies, presidents and vice presidents.
@@ -74,7 +78,7 @@ The man was born at the year 1732.
 The man died at the year 1799.
 The man lived 67 years.
 The man is a politician.
-The man is the 1st president.
+The man is the 1st president of the USA.
 The man is unaffiliated.
 The file path of the picture of the man is "George_Washington.jpg".
 
@@ -95,7 +99,7 @@ The man was born at the year 1735.
 The man died at the year 1826.
 The man lived 90 years.
 The man is a politician.
-The man is the next president.
+The man is the next president /*FIXME: should we need this:*/of the USA.
 The man is a federalist.
 The file path of the picture of the man is "John_Adams.jpg".
 
@@ -104,9 +108,9 @@ The name of the man is "Thomas Jefferson".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1797 and the 4th day of the 3rd month of the year 1801.
+/*The next presidency was between the 4th day of the 3rd month of the year 1797 and the 4th day of the 3rd month of the year 1801.
 John Adams is the president of the presidency.
-Thomas Jefferson is the 1st vice president of the presidency.
+Thomas Jefferson is the 1st vice president of the presidency.*/
 
 /* 3rd */
 
@@ -116,7 +120,7 @@ The man was born at the year 1743.
 The man died at the year 1826.
 The man lived 83 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a democrat.
 The man is a republican.
 The file path of the picture of the man is "Thomas_Jefferson.jpg".
@@ -131,10 +135,10 @@ The name of the man is "George Clinton".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1801 and the 4th day of the 3rd month of the year 1809.
+/*The next presidency was between the 4th day of the 3rd month of the year 1801 and the 4th day of the 3rd month of the year 1809.
 Thomas Jefferson is the president of the presidency.
 Aaron Burr is the 1st vice president of the presidency.
-George Clinton is the 2nd vice president of the presidency.
+George Clinton is the 2nd vice president of the presidency.*/
 
 /* 4th */
 
@@ -144,7 +148,7 @@ The man was born at the year 1751.
 The man died at the year 1836.
 The man lived 85 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a democrat.
 The man is a republican.
 The file path of the picture of the man is "James_Madison.jpg".
@@ -159,10 +163,10 @@ The name of the man is "Elbridge Gerry".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1751 and the 4th day of the 3rd month of the year 1836.
+/*The next presidency was between the 4th day of the 3rd month of the year 1751 and the 4th day of the 3rd month of the year 1836.
 James Madison is the president of the presidency.
 George Clinton is the 1st vice president of the presidency.
-Elbridge Gerry is the 2nd vice president of the presidency.
+Elbridge Gerry is the 2nd vice president of the presidency.*/
 
 /* 5th */
 
@@ -172,7 +176,7 @@ The man was born at the year 1758.
 The man died at the year 1831.
 The man lived 73 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a democrat.
 The man is a republican.
 The file path of the picture of the man is "James_Monroe.jpg".
@@ -182,9 +186,9 @@ The name of the man is "Daniel D. Tompkins".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1817 and the 4th day of the 3rd month of the year 1825.
+/*The next presidency was between the 4th day of the 3rd month of the year 1817 and the 4th day of the 3rd month of the year 1825.
 James Monroe is the president of the presidency.
-Daniel D. Tompkins is the 1st vice president of the presidency.
+Daniel D. Tompkins is the 1st vice president of the presidency.*/
 
 /* 6th */
 
@@ -194,7 +198,7 @@ The man was born at the year 1767.
 The man died at the year 1848.
 The man lived 80 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a democrat.
 The man is a republican.
 The file path of the picture of the man is "John_Quincy_Adams.jpg".
@@ -204,9 +208,9 @@ The name of the man is "John C. Calhoun".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1825 and the 4th day of the 3rd month of the year 1829.
+/*The next presidency was between the 4th day of the 3rd month of the year 1825 and the 4th day of the 3rd month of the year 1829.
 John Quincy Adams is the president of the presidency.
-John C. Calhoun is the 1st vice president of the presidency.
+John C. Calhoun is the 1st vice president of the presidency.*/
 
 /* 7th */
 
@@ -216,7 +220,7 @@ The man was born at the year 1767.
 The man died at the year 1845.
 The man lived 78 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a democrat.
 The file path of the picture of the man is "Andrew_Jackson.jpg".
 
@@ -230,10 +234,10 @@ The name of the man is "Martin Van Buren".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1829 and the 4th day of the 3rd month of the year 1837.
+/*The next presidency was between the 4th day of the 3rd month of the year 1829 and the 4th day of the 3rd month of the year 1837.
 Andrew Jackson is the president of the presidency.
 John C. Calhoun is the 1st vice president of the presidency.
-Martin Van Buren is the 2nd vice president of the presidency.
+Martin Van Buren is the 2nd vice president of the presidency.*/
 
 /* 8th */
 
@@ -243,7 +247,7 @@ The man was born at the year 1782.
 The man died at the year 1862.
 The man lived 79 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a democrat.
 The file path of the picture of the man is "Martin_Van_Buren.jpg".
 
@@ -252,9 +256,9 @@ The name of the man is "Richard M. Johnson".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1837 and the 4th day of the 3rd month of the year 1841.
+/*The next presidency was between the 4th day of the 3rd month of the year 1837 and the 4th day of the 3rd month of the year 1841.
 Martin Van Buren is the president of the presidency.
-Richard M. Johnson is the 1st vice president of the presidency.
+Richard M. Johnson is the 1st vice president of the presidency.*/
 
 /* 9th */
 
@@ -264,7 +268,7 @@ The man was born at the year 1773.
 The man died at the year 1841.
 The man lived 68 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a whig.
 The file path of the picture of the man is "William_Henry_Harrison.jpg".
 
@@ -273,9 +277,9 @@ The name of the man is "John Tyler".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1841 and the 4th day of the 4th month of the year 1841.
+/*The next presidency was between the 4th day of the 3rd month of the year 1841 and the 4th day of the 4th month of the year 1841.
 William Henry Harrison is the president of the presidency.
-John Tyler is the 1st vice president of the presidency.
+John Tyler is the 1st vice president of the presidency.*/
 
 /* 10th */
 
@@ -285,12 +289,12 @@ The man was born at the year 1790.
 The man died at the year 1862.
 The man lived 71 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a whig.
 The file path of the picture of the man is "John_Tyler.jpg".
 
-The next presidency was between the 4th day of the 4th month of the year 1841 and the 4th day of the 3rd month of the year 1845.
-John Tyler is the president of the presidency.
+/*The next presidency was between the 4th day of the 4th month of the year 1841 and the 4th day of the 3rd month of the year 1845.
+John Tyler is the president of the presidency.*/
 
 /* 11th */
 
@@ -300,7 +304,7 @@ The man was born at the year 1795.
 The man died at the year 1849.
 The man lived 53 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a democrat.
 The file path of the picture of the man is "James_K_Polk.jpg".
 
@@ -309,9 +313,9 @@ The name of the man is "George M. Dallas".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1845 and the 4th day of the 3rd month of the year 1849.
+/*The next presidency was between the 4th day of the 3rd month of the year 1845 and the 4th day of the 3rd month of the year 1849.
 James K. Polk is the president of the presidency.
-George M. Dallas is the 1st vice president of the presidency.
+George M. Dallas is the 1st vice president of the presidency.*/
 
 /* 12th */
 
@@ -321,7 +325,7 @@ The man was born at the year 1784.
 The man died at the year 1850.
 The man lived 65 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a whig.
 The file path of the picture of the man is "Zachary_Taylor.jpg".
 
@@ -330,9 +334,9 @@ The name of the man is "Millard Fillmore".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1849 and the 9th day of the 7th month of the year 1850.
+/*The next presidency was between the 4th day of the 3rd month of the year 1849 and the 9th day of the 7th month of the year 1850.
 Zachary Taylor is the president of the presidency.
-Millard Fillmore is the 1st vice president of the presidency.
+Millard Fillmore is the 1st vice president of the presidency.*/
 
 /* 13th */
 
@@ -342,12 +346,12 @@ The man was born at the year 1800.
 The man died at the year 1874.
 The man lived 74 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a whig.
 The file path of the picture of the man is "Millard_Fillmore.jpg".
 
-The next presidency was between the 9th day of the 7th month of the year 1850 and the 4th day of the 3rd month of the year 1853.
-Millard Fillmore is the president of the presidency.
+/*The next presidency was between the 9th day of the 7th month of the year 1850 and the 4th day of the 3rd month of the year 1853.
+Millard Fillmore is the president of the presidency.*/
 
 /* 14th */
 
@@ -357,7 +361,7 @@ The man was born at the year 1804.
 The man died at the year 1869.
 The man lived 64 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a democrat.
 The file path of the picture of the man is "Franklin_Pierce.jpg".
 
@@ -366,9 +370,9 @@ The name of the man is "William R. King".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1853 and the 4th day of the 3rd month of the year 1857.
+/*The next presidency was between the 4th day of the 3rd month of the year 1853 and the 4th day of the 3rd month of the year 1857.
 Franklin Pierce is the president of the presidency.
-William R. King is the 1st vice president of the presidency.
+William R. King is the 1st vice president of the presidency.*/
 
 /* 15th */
 
@@ -378,7 +382,7 @@ The man was born at the year 1791.
 The man died at the year 1868.
 The man lived 77 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a democrat.
 The file path of the picture of the man is "James_Buchanan.jpg".
 
@@ -387,9 +391,9 @@ The name of the man is "John C. Breckinridge".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1857 and the 4th day of the 3rd month of the year 1861.
+/*The next presidency was between the 4th day of the 3rd month of the year 1857 and the 4th day of the 3rd month of the year 1861.
 James Buchanan is the president of the presidency.
-John C. Breckinridge is the 1st vice president of the presidency.
+John C. Breckinridge is the 1st vice president of the presidency.*/
 
 /* 16th */
 
@@ -399,7 +403,7 @@ The man was born at the year 1809.
 The man died at the year 1865.
 The man lived 56 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a republican.
 The file path of the picture of the man is "Abraham_Lincoln.jpg".
 
@@ -413,10 +417,10 @@ The name of the man is "Andrew Johnson".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1861 and the 15th day of the 4th month of the year 1865.
+/*The next presidency was between the 4th day of the 3rd month of the year 1861 and the 15th day of the 4th month of the year 1865.
 Abraham Lincoln is the president of the presidency.
 Hannibal Hamlin is the 1st vice president of the presidency.
-Andrew Johnson is the next vice president of the presidency.
+Andrew Johnson is the next vice president of the presidency.*/
 
 /* 17th */
 
@@ -426,12 +430,12 @@ The man was born at the year 1808.
 The man died at the year 1875.
 The man lived 66 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a democrat.
 The file path of the picture of the man is "Andrew_Johnson.jpg".
 
-The next presidency was between the 15th day of the 4th month of the year 1865 and the 4th day of the 3rd month of the year 1869.
-Andrew Johnson is the president of the presidency.
+/*The next presidency was between the 15th day of the 4th month of the year 1865 and the 4th day of the 3rd month of the year 1869.
+Andrew Johnson is the president of the presidency.*/
 
 /* 18th */
 
@@ -441,7 +445,7 @@ The man was born at the year 1822.
 The man died at the year 1885.
 The man lived 63 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a republican.
 The file path of the picture of the man is "Ulysses_S_Grant.jpg".
 
@@ -455,10 +459,10 @@ The name of the man is "Henry Wilson".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1869 and the 4th day of the 3rd month of the year 1877.
+/*The next presidency was between the 4th day of the 3rd month of the year 1869 and the 4th day of the 3rd month of the year 1877.
 Ulysses S. Grant is the president of the presidency.
 Schuyler Colfax is the 1st vice president of the presidency.
-Henry Wilson is the next vice president of the presidency.
+Henry Wilson is the next vice president of the presidency.*/
 
 /* 19th */
 
@@ -468,7 +472,7 @@ The man was born at the year 1822.
 The man died at the year 1893.
 The man lived 70 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a republican.
 The file path of the picture of the man is "Rutherford_Hayes.jpg".
 
@@ -477,9 +481,9 @@ The name of the man is "William A. Wheeler".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1877 and the 4th day of the 3rd month of the year 1881.
+/*The next presidency was between the 4th day of the 3rd month of the year 1877 and the 4th day of the 3rd month of the year 1881.
 Rutherford B. Hayes is the president of the presidency.
-William A. Wheeler is the 1st vice president of the presidency.
+William A. Wheeler is the 1st vice president of the presidency.*/
 
 /* 20th */
 
@@ -489,7 +493,7 @@ The man was born at the year 1831.
 The man died at the year 1881.
 The man lived 49 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a republican.
 The file path of the picture of the man is "James_Abram_Garfield.jpg".
 
@@ -498,9 +502,9 @@ The name of the man is "Chester A. Arthur".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1881 and the 19th day of the 9th month of the year 1881.
+/*The next presidency was between the 4th day of the 3rd month of the year 1881 and the 19th day of the 9th month of the year 1881.
 James A. Garfield is the president of the presidency.
-Chester A. Arthur is the 1st vice president of the presidency.
+Chester A. Arthur is the 1st vice president of the presidency.*/
 
 /* 21st */
 
@@ -510,12 +514,12 @@ The man was born at the year 1829.
 The man died at the year 1886.
 The man lived 57 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a republican.
 The file path of the picture of the man is "Chester_Alan_Arthur.jpg".
 
-The next presidency was between the 19th day of the 9th month of the year 1881 and the 4th day of the 3rd month of the year 1885.
-Chester A. Arthur is the president of the presidency.
+/*The next presidency was between the 19th day of the 9th month of the year 1881 and the 4th day of the 3rd month of the year 1885.
+Chester A. Arthur is the president of the presidency.*/
 
 /* 22nd */
 
@@ -525,7 +529,7 @@ The man was born at the year 1837.
 The man died at the year 1908.
 The man lived 71 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a democrat.
 The file path of the picture of the man is "Grover_Cleveland.jpg".
 
@@ -534,9 +538,9 @@ The name of the man is "Thomas A. Hendricks".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1885 and the 4th day of the 3rd month of the year 1889.
+/*The next presidency was between the 4th day of the 3rd month of the year 1885 and the 4th day of the 3rd month of the year 1889.
 Grover Cleveland is the president of the presidency.
-Thomas A. Hendricks is the 1st vice president of the presidency.
+Thomas A. Hendricks is the 1st vice president of the presidency.*/
 
 /* 23rd */
 
@@ -546,7 +550,7 @@ The man was born at the year 1833.
 The man died at the year 1901.
 The man lived 67 years.
 The man is a politician.
-The man is the next president.
+The man is the next president of the USA.
 The man is a republican.
 The file path of the picture of the man is "Benjamin_Harrison.jpg".
 
@@ -555,9 +559,9 @@ The name of the man is "Levi P. Morton".
 The man is a politician.
 The man is the next vice president.
 
-The next presidency was between the 4th day of the 3rd month of the year 1889 and the 4th day of the 3rd month of the year 1893.
+/*The next presidency was between the 4th day of the 3rd month of the year 1889 and the 4th day of the 3rd month of the year 1893.
 Benjamin Harrison is the president of the presidency.
-Levi P. Morton is the 1st vice president of the presidency.
+Levi P. Morton is the 1st vice president of the presidency.*/
 
 
 /*

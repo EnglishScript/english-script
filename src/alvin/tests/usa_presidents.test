@@ -13,22 +13,24 @@
 
 > You have a file.
 < Ok.
-> The file path of the file is "usa.es".
+> The file path of the file is "tests/usa.es".
 < Ok.
 > Read the file.
 < Ok.
 
-> Tell me about the presidents.
-< Ok. Show a picture of the presidents in a file path of the picture.
-< The presidents have the picture.
-< The USA has parties, presidencies, the presidents and vice presidents.
+> Tell me about the presidents of the USA.
+< Ok. /*Show a picture of the presidents in a file path of the picture.*/
+< /*The presidents have the picture.*/
+< The USA has the parties, the presidencies, the presidents and the vice presidents.
 < The presidents include 23 presidents.
 
 > Tell me about the 1st president.
 < Ok.
-&< Show George Washington's picture in a file path "George_Washington.jpg" of the picture.
+"TODO:< Show George Washington's picture in a file path "George_Washington.jpg" of the picture.> Ok.
+"TODO:< Show the picture in the file path "George_Washington.jpg".> Ok.
+
 &< He is the president of the USA's 1st presidency, unaffiliated and the USA's 1st president.
-&< He has the picture and a name "George Washington".
+&< He has the picture and the name "George Washington".
 &< He lived 67 years.
 &< He died at the year 1799.
 &< George Washington was born at the year 1732.

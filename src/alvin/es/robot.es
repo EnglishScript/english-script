@@ -16,6 +16,8 @@ The grip voltage is a voltage.
 
 "tag" and "tags" are nouns.
 The noun "tags" is the plural form of the noun "tag".
+"position" and "positions" are nouns.
+The noun "positions" is the plural form of the noun "position".
 "kgcm" and "kgcms" are nouns.
 The noun "kgcms" is the plural form of the noun "kgcm".
 "degree" and "degrees" are nouns.
@@ -26,6 +28,13 @@ The noun "dpses" is the plural form of the noun "dps".
 A robotic arm has /*FIXME: no need to say how many*/2 servo motors, joints, links, a wrist, a tag and an end effector.
 "angle-to-PWM-time" is a noun.
 "PWM" is a noun.
+
+An angle is degrees.
+
+The tag of a robotic arm has a position and an orientation.
+The position of the tag has 3 coordinates.
+The coordinates of the position of the tag are meters.
+The orientation of the tag has 3 angles.
 
 /* servo motors sub-class */
 
@@ -39,7 +48,6 @@ The speed is dps.
 The pulse cycle of the servo motors of a robotic arm is seconds.
 The minimum PWM time of the servo motors is seconds.
 The maximum PWM time of the servo motors is seconds.
-An angle is degrees.
 A voltage is volts.
 
 /* joints sub-class */
@@ -49,7 +57,7 @@ The minimum angle is an angle.
 The maximum angle is an angle.
 
 /* links sub-class */
-The links of a robotic arm have a length.
+The links of a robotic arm have a length and a tag.
 The length is meters.
 
 An object is a thing.
@@ -62,20 +70,18 @@ A system-on-a-chip chip is an electronic chip.
 "ESP32-WROOM-32D" is a noun.
 An ESP32-WROOM-32D chip is a system-on-a-chip chip.
 An ESP32-WROOM-32D chip has 60 connector pins.
-"SG90" is a noun.
-A SG90 motor is a servo motor.
-The minimum angle of an SG90 motor is 0 degrees.
-The maximum angle of an SG90 motor is 360 degrees.
-The lift power of an SG90 motor is 1.6 kgcms.
-The grip voltage of an SG90 motor is 0.550 volts.
-"SG92R" is a noun.
-An SG92R motor is a servo motor.
-The minimum angle of an SG92R motor is 0 degrees.
-The maximum angle of an SG92R motor is 360 degrees.
-The lift power of an SG92R motor is 1.6 kgcms.
-The grip voltage of an SG92R motor is 0.550 volts.
-
-
+"MG996R" is a noun.
+An MG996R motor is a servo motor.
+The minimum angle of an MG996R motor is 0 degrees.
+The maximum angle of an MG996R motor is 360 degrees.
+The lift power of an MG996R motor is 1.6 kgcms.
+The grip voltage of an MG996R motor is 0.550 volts.
+"MG90S" is a noun.
+A MG90S motor is a servo motor.
+The minimum angle of an MG90S motor is 0 degrees.
+The maximum angle of an MG90S motor is 360 degrees.
+The lift power of an MG90S motor is 1.6 kgcms.
+The grip voltage of an MG90S motor is 0.550 volts.
 
 /*FIXME: does not compile:
 To get a target angle for a servo motor.
