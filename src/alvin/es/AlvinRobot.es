@@ -65,17 +65,17 @@ The speed of the 6th servo motor is 1.6 dps.
 
 /* links */
 The length of the 1st link of the robotic arm is 0.015 meters.
-The length of the 2nd link is 0.06 meters.
-The length of the 3rd link is 0.13 meters.
-The tag of the robotic arm is the tag of the 3rd link.
+The length of the 2nd link of the robotic arm is 0.06 meters.
+The length of the 3rd link of the robotic arm is 0.13 meters.
+The tag of the robotic arm is the tag of the 4th link of the robotic arm .
 The 1st coordinate of the position of the tag of the robotic arm is 0.0 meters.
 The 2nd coordinate of the position of the tag of the robotic arm is 0.05 meters.
 The 3rd coordinate of the position of the tag of the robotic arm is 0.01 meters.
 The 1st angle of the orientation of the tag of the robotic arm is 0.0 degrees.
 The 2nd angle of the orientation of the tag of the robotic arm is 180.0 degrees.
 The 3rd angle of the orientation of the tag of the robotic arm is 0.0 degrees.
-The length of the 4th link is 0.135 meters.
-The length of the 5th link is 0.05 meters.
+The length of the 4th link of the robotic arm is 0.135 meters.
+The length of the 5th link of the robotic arm is 0.05 meters.
 
 /* joints */
 The 1st motor of the robotic arm is the 1st motor of the 1st joint of the robotic arm.

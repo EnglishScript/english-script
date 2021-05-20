@@ -30,11 +30,12 @@ A robotic arm has /*FIXME: no need to say how many*/2 servo motors, joints, link
 "PWM" is a noun.
 
 An angle is degrees.
+A coordinate is meters.
 
 The tag of a robotic arm has a position and an orientation.
-The position of the tag has 3 coordinates.
-The coordinates of the position of the tag are meters.
-The orientation of the tag has 3 angles.
+The position of the tag has coordinates.
+/*FIXME: this should be enough: The coordinates of the position of the tag are meters.*/
+The orientation of the tag has angles.
 
 /* servo motors sub-class */
 
