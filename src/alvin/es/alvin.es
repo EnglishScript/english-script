@@ -11,9 +11,6 @@ To know about something.
 End.
 
 
-"ready" is an adjective.
-"about" is a preposition.
-
 /* All about you */
 
 You are a person.

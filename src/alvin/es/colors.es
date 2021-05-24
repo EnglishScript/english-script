@@ -1,15 +1,7 @@
-"colour" and "colours" are nouns.
-The noun "colours" is the plural form of the noun "colour".
+/*TODO: The pronunciation of the adjective "red" is "AR ED".*/
 
-"color" and "colors" are nouns.
-The noun "colors" is the plural form of the noun "color".
-
-/*The pronunciation of the adjective "red" is "AR ED".*/
-
-"red", "green", "blue", "yellow", "cyan", "magenta", "black", "white", "grey", "pink",
-"brown", "orange", "violet", "purple", "navy", "turquoise", "silver",
-"gold", "bronze" are adjectives.
+A colour is a color.
 
 Red, green, blue, yellow, cyan, magenta, black, white, grey, pink, brown, orange, violet,
-purple, navy, turquoise, silver, gold, bronze  are colors.
+purple, /*TODO: navy blue,/ turquoise, silver, gold, bronze  are colors.
 

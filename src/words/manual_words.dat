@@ -268,7 +268,10 @@ blue 4 10
 red 4 10
 green 4 10
 yellow 4 10
+cyan 4 10
 white 4 10
+grey 4 10
+pink 4 10
 black 4 10
 brown 4 10
 purple 4 10
@@ -662,3 +665,68 @@ versus 20 0
 via 20 0
 within 20 0
 without 20 0
+hoodie 2 0
+tracksuit 2 0
+welly 2 0 wellies
+wellies 2 80 welly
+panty 2 0 panties
+panties 2 80 panty
+runtime 2 0 runtimes
+runtimes 2 80 runtime
+hertz 2 80 hertzes
+hertzes 2 80 hertz
+employee 2 0 employees
+employees 2 80 employee
+uncle 2 0 uncles
+uncles 2 80 uncle
+hobby 2 0 hobbies
+hobbies 2 80 hobby
+blackcurrant 2 0 blackcurrants
+blackcurrants 2 80 blackcurrant
+redcurrant 2 0 redcurrants
+redcurrants 2 80 redcurrant
+berry 2 0 berries
+berries 2 80 berry
+dandelion 2 0 dandelions
+dandelions 2 80 dandelion
+long 4 10 longer longest longly
+longer 4 20 long
+longest 4 40 long
+longly 8 0 long
+tall 4 10 taller tallest
+taller 4 20 tall
+tallest 4 40 tall
+thin 4 10 thinner thinnest
+thinner 4 20 thin
+thinnest 4 40 thin
+high 4 10 higher highest highly
+higher 4 20 high
+highest 4 40 high
+highly 8 0 high
+presidency  2 0 presidencies
+presidencies 2 80 presidency
+cold 4 10 colder coldest
+colder 4 20 cold
+coldest 4 40 cold
+warm 4 10 warmer warmest
+warmer 4 20 warm
+warmest 4 40 warm
+sweet 4 10 sweeter sweetest
+sweeter 4 20 sweet
+sweetest 4 40 sweet
+clean 4 10 cleaner cleanest
+cleaner 4 20 clean
+cleanest 4 40 clean
+quiet 4 10 quieter quietest
+quieter 4 20 quiet
+quietest 4 40 quiet
+peaceful 4 10 peacefuller peacefullest
+peacefuller 4 20 peaceful
+peacefullest 4 40 peaceful
+squeaky 4 10 squeakier squeakiest
+squeakier 4 20 squeaky
+squeakiest 4 40 squeaky
+nice 4 10 nicer nicest
+nicer 4 20 nice
+nicest 4 40 nice
+english 4 10

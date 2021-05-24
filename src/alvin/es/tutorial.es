@@ -1,7 +1,3 @@
-
-"procedure" and "procedures" are nouns.
-The noun "procedures" is the plural form of the noun "procedure".
-
 To introduce yourself to someone.
     Tell someone your name.
     Tell someone that you are an artificial intelligence.

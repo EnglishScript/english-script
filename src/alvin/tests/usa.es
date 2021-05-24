@@ -1,24 +1,3 @@
-"presidency", "presidencies", "president", "presidents", "prior", "priors", "party", "parties", 
-"term", "terms", "vice", "vices", "affiliation", "affiliations", "politician", "politicians" are nouns.
-
-"democrat", "democrats", "republican", "republicans", "whig", "whigs", "federalist", "federalists" are nouns.
-
-The noun "presidencies" is the plural form of the noun "presidency".
-The noun "presidents" is the plural form of the noun "president".
-The noun "priors" is the plural form of the noun "prior".
-The noun "parties" is the plural form of the noun "party".
-The noun "terms" is the plural form of the noun "term".
-The noun "vices" is the plural form of the noun "vice".
-The noun "politicians" is the plural form of the noun "politician".
-
-The noun "democrats" is the plural form of the noun "democrat".
-The noun "republicans" is the plural form of the noun "republican".
-The noun "whigs" is the plural form of the noun "whig".
-The noun "federalists" is the plural form of the noun "federalist".
-
-"political" is an adjective.
-"unaffiliated" is an adjective.
-
 A politician has a political affiliation.
 A president is a politician.
 A person has a picture.

@@ -14,14 +14,8 @@ The grip voltage is a voltage.
 
 /* robotic arm class */
 
-"tag" and "tags" are nouns.
-The noun "tags" is the plural form of the noun "tag".
-"position" and "positions" are nouns.
-The noun "positions" is the plural form of the noun "position".
 "kgcm" and "kgcms" are nouns.
 The noun "kgcms" is the plural form of the noun "kgcm".
-"degree" and "degrees" are nouns.
-The noun "degrees" is the plural form of the noun "degree".
 "dps" and "dpses" are nouns.
 The noun "dpses" is the plural form of the noun "dps".
 

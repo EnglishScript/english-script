@@ -771,7 +771,10 @@ blue 5 11
 red 4 10
 green 5 11
 yellow 5 11
+cyan 4 10
 white 5 11
+grey 5 11
+pink 5 11
 black 5 11
 brown 5 11
 purple 5 11
@@ -1093,7 +1096,7 @@ understood 5 16 understand
 contact 3 1 contacts
 contacts 3 89 contact
 shy 5 11 shies shied shying
-quiet d 11
+quiet d 11 quieter quietest
 people 3 1 peoples
 peoples 2 80 people
 last f 51 lasts lasted late
@@ -1165,6 +1168,69 @@ versus 20 0
 via 20 0
 within 28 0
 without 20 0
+hoodie 2 0
+tracksuit 2 0
+welly 2 0 wellies
+wellies 2 80 welly
+panty 2 0 panties
+panties 2 80 panty
+runtime 2 0 runtimes
+runtimes 2 80 runtime
+hertz 2 80 hertzes
+hertzes 2 80 hertz
+employee 2 0 employees
+employees 2 80 employee
+uncle 2 0 uncles
+uncles 2 80 uncle
+hobby 2 0 hobbies
+hobbies 2 80 hobby
+blackcurrant 2 0 blackcurrants
+blackcurrants 2 80 blackcurrant
+redcurrant 2 0 redcurrants
+redcurrants 2 80 redcurrant
+berry 3 1 berries berried berrying
+berries 3 89 berry
+dandelion 2 0 dandelions
+dandelions 2 80 dandelion
+long d 11 longer longest longly longs longed longing
+longer c 20 long
+longest c 40 long
+longly 8 0 long
+tall 4 10 taller tallest
+taller 4 20 tall
+tallest 4 40 tall
+thin d 11 thinner thinnest thins thinned thinning
+thinner 4 20 thin
+thinnest 4 40 thin
+high c 10 higher highest highly
+higher 4 30 high
+highest 4 40 high
+highly 8 0 high
+presidency 2 0 presidencies
+presidencies 2 80 presidency
+cold 5 11 colder coldest
+colder 4 20 cold
+coldest 4 40 cold
+warm d 11 warmer warmest
+warmer 4 20 warm
+warmest 4 40 warm
+sweet c 10 sweeter sweetest
+sweeter 4 20 sweet
+sweetest 4 40 sweet
+clean d 11 cleaner cleanest
+cleaner 4 20 clean
+cleanest 4 40 clean
+quieter 4 20 quiet
+quietest 4 40 quiet
+peaceful 4 10 peacefuller peacefullest
+peacefuller 4 20 peaceful
+peacefullest 4 40 peaceful
+squeaky 4 10 squeakier squeakiest
+squeakier 4 20 squeaky
+squeakiest 4 40 squeaky
+nice 4 10 nicer nicest
+nicer 4 20 nice
+nicest 4 40 nice
 way a 0 ways
 ways 2 80 way
 government 2 80 government
@@ -2327,7 +2393,6 @@ plane 3 1
 gun 3 5 gin guns gunned gunning
 gap 3 1
 core 3 1
-uncle 2 0
 fun 2 0
 arrival 2 0
 snow 3 1 snows snowed snown snowing
@@ -7550,7 +7615,6 @@ bernstein 2 0
 beroe 2 0
 berra 2 0
 berretta 2 0
-berry 3 1 berries berried berrying
 berserk 6 10
 berserker 2 0
 berteroa 2 0
@@ -12368,8 +12432,6 @@ claymore 2 0
 claystone 2 0
 claytonia 2 0
 clayware 2 0
-clean f 11
-cleaner 2 0
 cleaners 2 0
 cleaning 2 0
 cleanliness 2 0
@@ -12862,7 +12924,6 @@ colchicaceae 2 0
 colchicine 2 0
 colchicum 2 0
 colchis 2 0
-cold 7 11
 coldcream 2 0
 coldheartedness 2 0
 coldness 2 0
@@ -15103,7 +15164,6 @@ cwm 2 0
 cwt 2 0
 cyamopsis 2 0
 cyamus 2 0
-cyan 6 10
 cyanamid 2 0
 cyanamide 2 0
 cyanide 2 0
@@ -15454,7 +15514,6 @@ dance 3 1
 dancer 2 0
 dancing 2 0
 dancing-master 2 0
-dandelion 2 0
 dander 2 0
 dandruff 2 0
 dandy 6 10
@@ -18742,7 +18801,6 @@ empirin 2 0
 emplacement 2 0
 employ 3 1
 employable 6 10
-employee 2 0
 employer 2 0
 emporium 2 0
 empowerment 2 0
@@ -23707,7 +23765,6 @@ gresham 2 0
 gretzky 2 0
 grevillea 2 0
 grewia 2 0
-grey 7 11
 greyback 2 0
 greybeard 2 0
 greyhen 2 0
@@ -25340,7 +25397,6 @@ herschel 2 0
 hershey 2 0
 hertfordshire 2 0
 hertha 2 0
-hertz 2 0
 herzberg 2 0
 heshvan 2 0
 hesiod 2 0
@@ -25470,7 +25526,6 @@ hierolatry 2 0
 hieronymus 2 0
 hi-fi 6 10
 higginson 2 0
-high e 10
 highball 2 0
 highbinder 2 0
 highboard 2 0
@@ -25682,7 +25737,6 @@ hobble 3 1
 hobbledehoy 2 0
 hobbler 2 0
 hobbs 2 0
-hobby 2 0
 hobbyhorse 2 0
 hobbyism 2 0
 hobbyist 2 0
@@ -31485,7 +31539,6 @@ long-beard 2 0
 longboat 2 0
 longbow 2 0
 longbowman 2 0
-longer a 0
 longevity 2 0
 longfellow 2 0
 longhand 6 10
@@ -38781,7 +38834,6 @@ pantry 2 0
 pantryman 2 0
 pants 2 0
 pantsuit 2 0
-panty 2 0
 pantyhose 2 0
 pantywaist 2 0
 panzer 2 0
@@ -40661,7 +40713,6 @@ pinicola 2 0
 pining 2 0
 pinion 3 1
 pinite 2 0
-pink 7 11
 pinkeye 2 0
 pinkie 2 0
 pinkness 2 0
@@ -42128,7 +42179,6 @@ preservative 6 10
 preserve 3 1
 preserver 2 0
 preserves 2 0
-presidency 2 0
 presidentship 2 0
 presidio 2 0
 presidium 2 0
@@ -51656,7 +51706,6 @@ sweeper 2 0
 sweeping 7 10 sweep
 sweep-second 2 0
 sweepstakes 2 0
-sweet e 10
 sweetbread 2 0
 sweetbreads 2 0
 sweetbriar 2 0
@@ -52095,7 +52144,6 @@ talker 2 0
 talkie 2 0
 talking 2 0
 talks 2 0
-tall 6 10
 tallahassee 2 0
 tallapoosa 2 0
 tallboy 2 0
@@ -53127,7 +53175,6 @@ thingummy 2 0
 think 3 1 thinks thought thinking
 thinker 2 0
 thinking 7 10 think
-thinner 2 0
 thinness 2 0
 thinning 3 10 thin
 thiobacillus 2 0
@@ -56915,7 +56962,6 @@ warji 2 0
 warlock 2 0
 warlord 2 0
 warlpiri 2 0
-warmer 2 0
 warmheartedness 2 0
 warming 6 10
 warmness 2 0
@@ -59817,7 +59863,6 @@ hierarchically 8 0
 hieroglyphically 8 0
 higgledy-piggledy c 10
 high-handedly 8 0
-highly 8 0
 high-mindedly 8 0
 hilariously 8 0
 hinderingly 8 0
@@ -60268,8 +60313,6 @@ loftily 8 0
 logarithmically 8 0
 logically 8 0
 logogrammatically 8 0
-long d 11 longs longed longing
-longest 8 0
 longingly 8 0
 longitudinally 8 0
 long-windedly 8 0
@@ -61543,7 +61586,6 @@ thermodynamically 8 0
 thermostatically 8 0
 thickly 8 0
 thievishly 8 0
-thin d 11 thins thinned thinning
 thinly 8 0
 thirdhand c 10
 thirdly 8 0
@@ -61944,7 +61986,6 @@ waist-high 8 0
 wanly 8 0
 wantonly 8 0
 warily 8 0
-warm d 11
 warmly 8 0
 wastefully 8 0
 watchfully 8 0
@@ -70446,7 +70487,6 @@ neuropsychological 4 10
 neurotoxic 4 10
 neurotropic 4 10
 nicaean 4 10
-nice 4 10
 nicene 4 10
 nidicolous 4 10
 nidifugous 4 10
@@ -70888,7 +70928,6 @@ pauline 4 10
 paved 4 10
 pavlovian 4 10
 peaceable 4 10
-peaceful 4 10
 peaty 4 10
 pectic 4 10
 pectineal 4 10
@@ -77426,7 +77465,6 @@ highbrowed 4 10
 high-ceilinged 4 10
 high-class 4 10
 high-crowned 4 10
-higher 4 10
 higher-ranking 4 10
 highfalutin 4 10
 highfaluting 4 10
@@ -81701,7 +81739,6 @@ squashy 4 10
 squatty 4 10
 squawky 4 10
 squeaking 7 10 squeak
-squeaky 4 10
 squealing 4 10
 squeamish 4 10
 squeezable 4 10
@@ -84345,7 +84382,6 @@ beautified 1 6 beautify
 beautifyed 1 6 beautify
 beautifying 3 10 beautify
 bellies 1 9 belly
-berries 1 9 berry
 berrying 3 10 berry
 blackberries 1 9 blackberry
 blackberried 1 6 blackberry

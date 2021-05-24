@@ -22,40 +22,6 @@
 
 */
 
-"register", "registers" and "registered" are verbs.
-The verb "register" is the 1st form of the verb "register".
-The verb "registered" is the 2nd form of the verb "register".
-The verb "registered" is the 3rd form of the verb "register".
-The verb "registers" is the 3rd person form of the verb "register".
-
-"unregister", "unregisters" and "unregistered" are verbs.
-The verb "unregister" is the 1st form of the verb "unregister".
-The verb "unregistered" is the 2nd form of the verb "unregister".
-The verb "unregistered" is the 3rd form of the verb "unregister".
-The verb "unregisters" is the 3rd person form of the verb "unregister".
-
-"open", "opens" and "opened" are verbs.
-The verb "open" is the 1st form of the verb "open".
-The verb "opened" is the 2nd form of the verb "open".
-The verb "opened" is the 3rd form of the verb "open".
-The verb "opens" is the 3rd person form of the verb "open".
-
-"close", "closes" and "closed" are verbs.
-The verb "close" is the 1st form of the verb "close".
-The verb "closed" is the 2nd form of the verb "close".
-The verb "closed" is the 3rd form of the verb "close".
-The verb "closes" is the 3rd person form of the verb "close".
-
-"introduce", "introduced" and "introduces" are verbs.
-
-The verb "introduce" is the 1st form of the verb "introduce".
-The verb "introduced" is the 2nd form of the verb "introduce".
-The verb "introduced" is the 3rd form of the verb "introduce".
-The verb "introduces" is the 3rd person form of the verb "introduce".
-
-"conversation" and "conversations" are nouns.
-The noun "conversations" is the plural form of the noun "conversation".
-
 /*
 A function "__hap_register_conversation".
 A function "__hap_unregister_conversation".

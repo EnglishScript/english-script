@@ -23,19 +23,8 @@
 */
 
 /*
- *  Common info for any humans. 
+ *  Common info for any humans 
  */
-
-/* Lexicals */
-
-"profession" and "professions" are nouns.
-The noun "professions" is the plural form of the noun "profession".
-
-"wife" and "wifes" are nouns.
-The noun "wifes" is the plural form of the noun "wife".
-
-"husband" and "husbands" are nouns.
-The noun "husbands" is the plural form of the noun "husband".
 
 A human is a being.
 A human has hobbies, a profession and pets.

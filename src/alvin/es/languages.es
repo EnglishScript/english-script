@@ -1,6 +1,3 @@
-"language" and "languages" are nouns.
-The noun "languages" is the plural form of the noun "language".
-
 A language has a name.
 
 The world has languages.

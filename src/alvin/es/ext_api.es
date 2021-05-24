@@ -55,13 +55,6 @@ To disable TTS.
     Call the function "__ext_change_tts_state" with "off".
 End.
 
-"pointer" and "pointers" are nouns.
-The noun "pointers" is the plural form of the noun "pointer".
-"coordinate" and "coordinates" are nouns.
-The noun "coordinates" is the plural form of the noun "coordinate".
-"unit" and "units" are nouns.
-The noun "units" is the plural form of the noun "unit".
-
 A coordinate is units.
 /*
 A pointer has 3 coordinates.

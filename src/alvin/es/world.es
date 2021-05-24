@@ -26,28 +26,7 @@
  *  Common info for the World.
  */
 
-/* Lexicals */
-
-"world", "worlds", "country", "countries", "county", "counties", "population", "populations",
-"city" and "cities", "town", "towns", "resident", "residents" are nouns.
-
-The noun "worlds" is the plural form of the noun "world".
-The noun "countries" is the plural form of the noun "country".
-The noun "counties" is the plural form of the noun "county".
-The noun "populations" is the plural form of the noun "population".
-The noun "cities" is the plural form of the noun "city".
-The noun "towns" is the plural form of the noun "town".
-The noun "residents" is the plural form of the noun "resident".
-
-"anthem", "anthems", "flag" and "flags" are nouns.
-
-The noun "anthems" is the plural form of the noun "anthem".
-The noun "flags" is the plural form of the noun "flag".
-
-"citizen" and "citizens" are nouns.
-The noun "citizens" is the plural form of the noun "citizen".
-
-"finnish", "baltic", "national", "boreal", "karelian" are adjectives.
+"finnish" and "karelian" are adjectives.
 
 A country has a name, citizens, a population, presidents, leaders, kings, counties, cities,
 towns, national animals, typical trees, typical berries.

@@ -1,17 +1,7 @@
-"news", "report", "reports" are nouns.
-The noun "reports" is the plural form of the noun "report".
-
+"news" is a noun.
 The noun "news" is uncountable.
 
 News reports.
-
-"madman", "madmen" are nouns.
-The noun "madmen" is the plural form of the noun "madman".
-
-"mentally" is an adverb.
-"deranged" is an adjective.
-"dotard", "dotards" are nouns.
-The noun "dotards" is the plural form of the noun "dotard".
 
 The 1st news report says that Donald Trump called Kim Jong Un a madman.
 The next news report says that Kim Jong Un called Donald Trump a mentally deranged dotard.
