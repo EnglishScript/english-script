@@ -197,10 +197,10 @@ knew 1 2 know
 known 5 14 know
 repeat 1 1 repeats repeated
 repeats 1 9 repeat
-repeated 1 2 repeat
+repeated 1 6 repeat
 wait 1 1 waits waited waiting
 waits 1 9 wait
-waited 1 2 wait
+waited 1 6 wait
 waiting 3 10 wait
 person 2 0 persons
 persons 2 80 person
@@ -394,19 +394,19 @@ go 3 1 went gone
 close 1 1
 start 3 1 starts started starting
 starts 3 89 start
-started 1 2 start
+started 1 6 start
 starting 3 10 start
 stop 3 1 stops stopped stopping
 stops 3 89 stop
-stopped 1 2 stop
+stopped 1 6 stop
 stopping 3 10 stop
 suspend 3 1 suspends suspended suspending
 suspends 3 89 suspend
-suspended 1 2 suspend
+suspended 1 6 suspend
 suspending 3 10 suspend
 resume 3 1 resumes resumed resuming
 resumes 3 89 resume
-resumed 1 2 resume
+resumed 1 6 resume
 resuming 3 10 resume
 man 2 0 men
 men 2 80 man
@@ -575,7 +575,7 @@ while 10 0
 until 30 0
 exit 3 1 exits exited exiting
 exits 3 89 exit
-exited 1 2 exit
+exited 1 6 exit
 exiting 3 10 exit
 shortly 8 0 short
 randomly 8 0
@@ -730,3 +730,8 @@ nice 4 10 nicer nicest
 nicer 4 20 nice
 nicest 4 40 nice
 english 4 10
+write 3 1 writes wrote written writing
+writes 3 89 write
+wrote 1 2 write
+written 1 4 write
+writing 3 10 write

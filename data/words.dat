@@ -700,10 +700,10 @@ knew 1 2 know
 known 5 14 know
 repeat 3 1 repeats repeated
 repeats 1 9 repeat
-repeated 5 12 repeat
+repeated 5 16 repeat
 wait 1 1 waits waited waiting
 waits 1 9 wait
-waited 1 2 wait
+waited 1 6 wait
 waiting 7 10 wait
 person 2 0 persons
 persons 2 80 person
@@ -897,7 +897,7 @@ go 3 1 went gone on goes going
 close f 11
 start 3 1 starts started starting
 starts 3 89 start
-started 1 2 start
+started 1 6 start
 starting 7 10 start
 stop 3 1 stops stopped stopping stopt
 stops 3 89 stop
@@ -905,11 +905,11 @@ stopped 5 16 stop
 stopping 3 10 stop
 suspend 3 1 suspends suspended suspending
 suspends 3 89 suspend
-suspended 5 12 suspend
+suspended 5 16 suspend
 suspending 3 10 suspend
 resume 3 1 resumes resumed resuming
 resumes 3 89 resume
-resumed 1 2 resume
+resumed 1 6 resume
 resuming 3 10 resume
 man 3 1 men mans manned manning
 men 2 80 man
@@ -1078,7 +1078,7 @@ while 11 1
 until 30 0
 exit 3 1 exits exited exiting
 exits 3 89 exit
-exited 1 2 exit
+exited 1 6 exit
 exiting 3 10 exit
 shortly 8 0 short
 randomly 8 0
@@ -1231,6 +1231,12 @@ squeakiest 4 40 squeaky
 nice 4 10 nicer nicest
 nicer 4 20 nice
 nicest 4 40 nice
+english 4 10
+write 3 1 writes wrote written writing
+writes 3 89 write
+wrote 1 2 write
+written 5 14 write
+writing 3 10 write
 way a 0 ways
 ways 2 80 way
 government 2 80 government
@@ -1738,8 +1744,6 @@ argument 2 0
 sex 3 1 sexes
 sexes 2 80 sex
 budget 3 1
-english 6 10 englishes
-englishes 2 80 english
 transport 3 1
 share 3 1
 mum 6 10
@@ -57962,7 +57966,6 @@ writ 2 0
 write-down 2 0
 write-in 2 0
 write-off 2 0
-writing 3 10 write
 writings 2 0
 wroclaw 2 0
 wrong f 11 wrongs wronged wronging
@@ -66678,7 +66681,6 @@ wrawl 1 1
 wreak 1 1
 wreathe 1 1
 wrest 1 1
-write 1 1 writes wrote written writing
 writhe 1 1
 yammer 1 1
 yarn-dye 1 1
@@ -73249,7 +73251,6 @@ wrinkleless 4 10
 wrinkleproof 4 10
 wrinkle-resistant 4 10
 wrinkly 4 10
-written 5 14 write
 wysiwyg 4 10
 xenogeneic 4 10
 xeric 4 10
@@ -85349,8 +85350,6 @@ waked 1 6 wake
 weaves 1 9 weave
 wove 1 2 weave
 weaved 1 6 weave
-writes 1 9 write
-wrote 1 2 write
 coifs 1 9 coif
 coifed 1 6 coif
 coiffed 1 6 coif
