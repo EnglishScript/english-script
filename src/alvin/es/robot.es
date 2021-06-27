@@ -19,7 +19,7 @@ The noun "kgcms" is the plural form of the noun "kgcm".
 "dps" and "dpses" are nouns.
 The noun "dpses" is the plural form of the noun "dps".
 
-A robotic arm has /*FIXME: no need to say how many*/2 servo motors, joints, links, a wrist, a tag and an end effector.
+A robotic arm has servo motors, joints, links, a wrist, a tag and an end effector.
 "angle-to-PWM-time" is a noun.
 "PWM" is a noun.
 
