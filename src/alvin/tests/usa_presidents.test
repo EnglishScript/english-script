@@ -26,9 +26,9 @@
 
 > Tell me about the 1st president.
 < Ok.
-"TODO:< Show George Washington's picture in a file path "George_Washington.jpg" of the picture.> Ok.
-"TODO:< Show the picture in the file path "George_Washington.jpg".> Ok.
-
+< Show George Washington's picture in the file path "George_Washington.jpg" of the picture.
+> Ok.
+"< Show the picture in the file path "George_Washington.jpg".> Ok.
 &< He is the president of the USA's 1st presidency, unaffiliated and the USA's 1st president.
 &< He has the picture and the name "George Washington".
 &< He lived 67 years.

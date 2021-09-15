@@ -17,10 +17,10 @@ To show someone a president.
     Show the picture of the president.
 End.
 
-/*To tell someone about a president.
+To tell someone about a president.
     Show the president.
     Tell someone about the president.
-End.*/
+End.
 
 /*Presidency[a]   President   Prior office[b] Party[c]    Term[d] Vice President*/
 The USA has parties, presidencies, presidents and vice presidents.

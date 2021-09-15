@@ -2,7 +2,7 @@
 
 /* the robot */
 A robotic arm.
-The robotic arm has a name and an ESP32-WROOM-32D chip /*FIXME:, 1 motors, 1 joints, 2 links*/.
+The robotic arm has /*a name and*/ an ESP32-WROOM-32D chip /*FIXME:, 1 motors, 1 joints, 2 links*/.
 The name of the ESP32-WROOM-32D chip is "ESP32".
 
 /*"AlvinRobot" is a noun.
@@ -10,47 +10,60 @@ The name of the robotic arm is "AlvinRobot".*/
 
 /* motors */
 The 1st servo motor of the robotic arm is an MG90S motor.
-The 1st servo motor is connected to the connector pin 19 of the ESP32-WROOM-32D chip.
+The 1st servo motor is connected to the connector pin 25 of the ESP32-WROOM-32D chip.
 The pulse cycle of the servo motor is 0.002 seconds.
 The minimum PWM time of the servo motor is 0.410 seconds.
 The maximum PWM time of the servo motor is 2.450 seconds.
-The speed of the servo motor is 1.1 dps.
+The speed of the servo motor is 10.1 dpses.
 The minimum angle of the servo motor 1 of the robotic arm is 0 degrees.
+The initial angle of the servo motor 1 of the robotic arm is 90 degrees.
+The target angle of the servo motor 1 of the robotic arm is 120 degrees.
 
 The 2nd servo motor of the robotic arm is an MG996R motor.
-The 2nd servo motor is connected to the connector pin 18 of the ESP32-WROOM-32D chip.
+The 2nd servo motor is connected to the connector pin 19 of the ESP32-WROOM-32D chip.
 The pulse cycle of the 2nd servo motor is 0.005 seconds.
 The minimum PWM time of the 2nd servo motor is 0.510 seconds.
 The maximum PWM time of the 2nd servo motor is 2.750 seconds.
-The speed of the 2nd servo motor is 1.2 dps.
+The speed of the 2nd servo motor is 10.1 dpses.
+The initial angle of the servo motor 2 of the robotic arm is 90 degrees.
+The target angle of the servo motor 2 of the robotic arm is 45 degrees.
 
 The 3rd servo motor of the robotic arm is an MG90S motor.
 The 3rd servo motor is connected to the connector pin 26 of the ESP32-WROOM-32D chip.
 The pulse cycle of the 3rd servo motor is 0.005 seconds.
 The minimum PWM time of the 3rd servo motor is 0.510 seconds.
 The maximum PWM time of the 3rd servo motor is 2.750 seconds.
-The speed of the 3rd servo motor is 1.3 dps.
+The speed of the 3rd servo motor is 10.1 dpses.
+The initial angle of the servo motor 3 of the robotic arm is 90 degrees.
+The target angle of the servo motor 3 of the robotic arm is 45 degrees.
 
 The 4th servo motor of the robotic arm is an MG90S motor.
 The 4th servo motor is connected to the connector pin 27 of the ESP32-WROOM-32D chip.
 The pulse cycle of the 4th servo motor is 0.005 seconds.
 The minimum PWM time of the 4th servo motor is 0.510 seconds.
 The maximum PWM time of the 4th servo motor is 2.750 seconds.
-The speed of the 4th servo motor is 1.4 dps.
+The speed of the 4th servo motor is 10.1 dpses.
+The initial angle of the servo motor 4 of the robotic arm is 90 degrees.
+The target angle of the servo motor 4 of the robotic arm is 45 degrees.
+The polarity of the 4th servo motor is reversed.
 
 The 5th servo motor of the robotic arm is an MG90S motor.
 The 5th servo motor is connected to the connector pin 16 of the ESP32-WROOM-32D chip.
 The pulse cycle of the 5th servo motor is 0.015 seconds.
 The minimum PWM time of the 5th servo motor is 0.410 seconds.
 The maximum PWM time of the 5th servo motor is 6.450 seconds.
-The speed of the 5th servo motor is 1.5 dps.
+The speed of the 5th servo motor is 10.1 dpses.
+The initial angle of the servo motor 5 of the robotic arm is 90 degrees.
+The target angle of the servo motor 5 of the robotic arm is 45 degrees.
 
 The 6th servo motor of the robotic arm is an MG90S motor.
-The 6th servo motor is connected to the connector pin 25 of the ESP32-WROOM-32D chip.
+The 6th servo motor is connected to the connector pin 17 of the ESP32-WROOM-32D chip.
 The pulse cycle of the 6th servo motor is 0.025 seconds.
 The minimum PWM time of the 6th servo motor is 0.810 seconds.
 The maximum PWM time of the 6th servo motor is 5.450 seconds.
-The speed of the 6th servo motor is 1.6 dps.
+The speed of the 6th servo motor is 10.1 dpses.
+The initial angle of the servo motor 6 of the robotic arm is 0 degrees.
+The target angle of the servo motor 6 of the robotic arm is 180 degrees.
 
 /*
  * You control the robotic arm.
@@ -65,6 +78,7 @@ The speed of the 6th servo motor is 1.6 dps.
  */
 
 /* links */
+
 The length of the 1st link of the robotic arm is 0.015 meters.
 The length of the 2nd link of the robotic arm is 0.06 meters.
 The length of the 3rd link of the robotic arm is 0.13 meters.
@@ -79,6 +93,7 @@ The length of the 4th link of the robotic arm is 0.135 meters.
 The length of the 5th link of the robotic arm is 0.05 meters.
 
 /* joints */
+
 The 1st motor of the robotic arm is the 1st motor of the 1st joint of the robotic arm.
 The 1st motor of the robotic arm is the 2nd motor of the 1st joint of the robotic arm.
 /*FIXME: there should now be any need for giving the Nth here */
@@ -107,6 +122,9 @@ The maximum angle of the 4th joint is 90 degrees.
 The 4th link of the robotic arm is the 1st link of the 4th joint.
 The 5th link of the robotic arm is the 2nd link of the 4th joint.
 
+An ESP32 software.
+The debug level of the device handler of the ESP32 software is full.
+
 /* Recognized objects */
 
 A ball is round.
@@ -114,6 +132,7 @@ A cup.
 A mug.
 
 To initialize a robotic arm.
+    Tell the ESP32-WROOM-32D chip that the level of the device handler of the ESP32 software is full.
     Tell the ESP32-WROOM-32D chip that the ESP32-WROOM-32D chip controls the robotic arm.
     Tell the ESP32-WROOM-32D chip the number of the servo motors of the robotic arm.
     /*FIXME: Tell the ESP32-WROOM-32D chip that what is the number of servo motors of the robotic arm.*/
@@ -134,7 +153,14 @@ To initialize a robotic arm.
         Tell the ESP32-WROOM-32D chip the minimum PWM time of the servo motor.
         Tell the ESP32-WROOM-32D chip the maximum PWM time of the servo motor.*/
         /*End.*/
+        /*If the servo motor has an initial angle of then.*/
+        Tell the ESP32-WROOM-32D chip the initial angle of the servo motor.
+        /*End.*/
+        /*If the servo motor has a reversed polarity then.*/
+        Tell the ESP32-WROOM-32D chip about the polarity of the servo motor.
+        /*End.*/
     End.
+    /*Ask the ESP32-WROOM-32D chip to initialize.*/
 End.
 
 To move the robotic arm.
