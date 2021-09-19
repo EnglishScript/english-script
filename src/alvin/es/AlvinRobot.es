@@ -18,6 +18,8 @@ The speed of the servo motor is 10.1 dpses.
 The minimum angle of the servo motor 1 of the robotic arm is 0 degrees.
 The initial angle of the servo motor 1 of the robotic arm is 90 degrees.
 The target angle of the servo motor 1 of the robotic arm is 120 degrees.
+The voltage of the servo motor 1 is measured from the connector pin 32.
+The maximum voltage of the 1st servo motor is 0.120 volts.
 
 The 2nd servo motor of the robotic arm is an MG996R motor.
 The 2nd servo motor is connected to the connector pin 19 of the ESP32-WROOM-32D chip.
@@ -158,6 +160,10 @@ To initialize a robotic arm.
         /*End.*/
         /*If the servo motor has a reversed polarity then.*/
         Tell the ESP32-WROOM-32D chip about the polarity of the servo motor.
+        /*End.*/
+        /*If the maximum voltage of the servo motor is known then.*/
+        Tell the ESP32-WROOM-32D chip about the voltage of the servo motor.
+        Tell the ESP32-WROOM-32D chip the maximum voltage of the servo motor.
         /*End.*/
     End.
     /*Ask the ESP32-WROOM-32D chip to initialize.*/

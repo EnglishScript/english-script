@@ -8,9 +8,11 @@ A robotic arm is a robot.
 
 /* servo motor class */
 
+/* FIXME: memory leak if these are defined
 A servo motor is a motor.
 A servo motor has a name and a grip voltage.
 The grip voltage is a voltage.
+*/
 
 /* robotic arm class */
 
@@ -28,6 +30,12 @@ The verb "reverse" is the 1st form of the verb "reverse".
 The verb "reversed" is the 2nd form of the verb "reverse".
 The verb "reversed" is the 3rd form of the verb "reverse".
 The verb "reverses" is the 3rd person form of the verb "reverse".
+/* FIXME: this should not be needed */
+"measure", "measures", "measured" are verbs.
+The verb "measure" is the 1st form of the verb "measure".
+The verb "measured" is the 2nd form of the verb "measure".
+The verb "measured" is the 3rd form of the verb "measure".
+The verb "measures" is the 3rd person form of the verb "measure".
 
 A robotic arm has a name, servo motors, joints, links, a wrist, a tag and an end effector.
 "angle-to-PWM-time" is a noun.
@@ -45,11 +53,14 @@ The orientation of the tag has angles.
 /* servo motors sub-class */
 
 The servo motors have a minimum angle, a maximum angle, a lift power, a speed,
-a target angle, an initial angle, a pulse cycle, a polarity, a minimum PWM time and a maximum PWM time.
+a target angle, an initial angle, a pulse cycle, a polarity, a minimum PWM time,
+a maximum PWM time, a voltage, a grip voltage and a maximum voltage.
 The minimum angle is degrees.
 The maximum angle is degrees.
 The lift power is kgcms.
 The speed is dpses.
+The voltage is volts.
+The maximum voltage is volts.
 
 /*FIXME: Initialize a robotic arm does not compile with these:
 A target angle is an angle.

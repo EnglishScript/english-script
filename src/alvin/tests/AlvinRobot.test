@@ -34,6 +34,8 @@
 <[a,c]A servo motor 1 of the robotic arm is a mg90s motor.
 <[a,c]The 1st servo motor is connected to you connector pin 25.
 <[a,c]An initial angle of the 1st servo motor is 90 degrees.
+<[a,c]A voltage of the 1st servo motor is measured from you connector pin 32.
+<[a,c]A maximum voltage of the 1st servo motor is 0.12 volts.
 <[a,c]A servo motor 3 of the robotic arm is a mg90s motor.
 <[a,c]The 3rd servo motor is connected to you connector pin 26.
 <[a,c]An initial angle of the 3rd servo motor is 90 degrees.

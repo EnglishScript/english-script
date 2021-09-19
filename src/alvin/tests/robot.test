@@ -75,6 +75,8 @@
 <A servo motor 1 of the robotic arm is /*FIXME:an*/a mg90s motor.
 <The 1st servo motor is connected to you connector pin 25.
 <An initial angle of the 1st servo motor is 90 degrees.
+<A voltage of the 1st servo motor is measured from you connector pin 32.
+<A maximum voltage of the 1st servo motor is 0.12 volts.
 ""<A pulse cycle of the 1st servo motor is 0.002 seconds.
 ""<A minimum pwm time of the 1st servo motor is 0.41 seconds.
 ""<A maximum pwm time of the 1st servo motor is 2.45 seconds.
