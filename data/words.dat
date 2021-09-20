@@ -2407,6 +2407,8 @@ commands 2 80 command
 abuse 3 1
 limit 3 1
 championship 2 0
+dps 2 0 dpses
+dpses 2 80 dps
 11-plus 2 0
 1530s 2 0
 1750s 2 0

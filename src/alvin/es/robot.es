@@ -16,6 +16,7 @@ The grip voltage is a voltage.
 
 /* robotic arm class */
 
+/* FIXME: these are not visible in Android app for some reason:*/
 "kgcm" and "kgcms" are nouns.
 The noun "kgcms" is the plural form of the noun "kgcm".
 "dps" and "dpses" are nouns.
