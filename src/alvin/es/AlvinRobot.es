@@ -63,7 +63,7 @@ The 6th servo motor is connected to the connector pin 17 of the ESP32-WROOM-32D 
 The pulse cycle of the 6th servo motor is 0.025 seconds.
 The minimum PWM time of the 6th servo motor is 0.810 seconds.
 The maximum PWM time of the 6th servo motor is 5.450 seconds.
-The speed of the 6th servo motor is 10.1 dpses.
+The speed of the 6th servo motor is 40.1 dpses.
 The initial angle of the servo motor 6 of the robotic arm is 0 degrees.
 The target angle of the servo motor 6 of the robotic arm is 180 degrees.
 
