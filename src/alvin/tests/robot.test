@@ -69,68 +69,68 @@
 
 >Initialize the robotic arm.
 <Ok.
-<A debug level of the device handler of the esp32 software is full.
+<The debug level of the device handler of the esp32 software is full.
 <You control the robotic arm.
 <The number of the servo motors of the robotic arm is 6.
-<A servo motor 1 of the robotic arm is /*FIXME:an*/a mg90s motor.
-<The 1st servo motor is connected to you connector pin 25.
-<An initial angle of the 1st servo motor is 90 degrees.
-<A voltage of the 1st servo motor is measured from you connector pin 32.
-<A maximum voltage of the 1st servo motor is 0.12 volts.
-""<A pulse cycle of the 1st servo motor is 0.002 seconds.
-""<A minimum pwm time of the 1st servo motor is 0.41 seconds.
-""<A maximum pwm time of the 1st servo motor is 2.45 seconds.
+<The 1st servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
+<The 1st servo motor of the robotic arm is connected to you 25th connector pin.
+<The initial angle of the 1st servo motor of the robotic arm is 90 degrees.
+<The voltage of the 1st servo motor of the robotic arm is measured from you 32nd connector pin.
+<The maximum voltage of the 1st servo motor of the robotic arm is 0.12 volts.
+""<The pulse cycle of the 1st servo motor of the robotic arm is 0.002 seconds.
+""<The minimum pwm time of the 1st servo motor of the robotic arm is 0.41 seconds.
+""<The maximum pwm time of the 1st servo motor of the robotic arm is 2.45 seconds.
 
-<A servo motor 3 of the robotic arm is /*FIXME:an*/a mg90s motor.
-<The 3rd servo motor is connected to you connector pin 26.
-<An initial angle of the 3rd servo motor is 90 degrees.
-""<A pulse cycle of the 3rd servo motor is 0.002 seconds.
-""<A minimum pwm time of the 3rd servo motor is 0.61 seconds.
-""<A maximum pwm time of the 3rd servo motor is 3.15 seconds.
+<The 3rd servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
+<The 3rd servo motor of the robotic arm is connected to you 26th connector pin.
+<The initial angle of the 3rd servo motor of the robotic arm is 90 degrees.
+""<The pulse cycle of the 3rd servo motor of the robotic arm is 0.002 seconds.
+""<The minimum pwm time of the 3rd servo motor of the robotic arm is 0.61 seconds.
+""<The maximum pwm time of the 3rd servo motor of the robotic arm is 3.15 seconds.
 
-<A servo motor 5 of the robotic arm is /*FIXME:an*/a mg90s motor.
-<The 5th servo motor is connected to you connector pin 16.
-<An initial angle of the 5th servo motor is 90 degrees.
-""<A pulse cycle of the 5th servo motor is 0.015 seconds.
-""<A minimum pwm time of the 5th servo motor is 0.41 seconds.
-""<A maximum pwm time of the 5th servo motor is 6.45 seconds.
+<The 5th servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
+<The 5th servo motor of the robotic arm is connected to you 16th connector pin.
+<The initial angle of the 5th servo motor of the robotic arm is 90 degrees.
+""<The pulse cycle of the 5th servo motor of the robotic arm is 0.015 seconds.
+""<The minimum pwm time of the 5th servo motor of the robotic arm is 0.41 seconds.
+""<The maximum pwm time of the 5th servo motor of the robotic arm is 6.45 seconds.
 
-<A servo motor 2 of the robotic arm is /*FIXME:an*/a mg996r motor.
-<The 2nd servo motor is connected to you connector pin 19.
-<An initial angle of the 2nd servo motor is 90 degrees.
-""<A pulse cycle of the 2nd servo motor is 0.005 seconds.
-""<A minimum pwm time of the 2nd servo motor is 0.51 seconds.
-""<A maximum pwm time of the 2nd servo motor is 2.75 seconds.
+<The 2nd servo motor of the robotic arm is /*FIXME:an*/a mg996r motor.
+<The 2nd servo motor of the robotic arm is connected to you 19th connector pin.
+<The initial angle of the 2nd servo motor of the robotic arm is 90 degrees.
+""<The pulse cycle of the 2nd servo motor of the robotic arm is 0.005 seconds.
+""<The minimum pwm time of the 2nd servo motor of the robotic arm is 0.51 seconds.
+""<The maximum pwm time of the 2nd servo motor of the robotic arm is 2.75 seconds.
 
-<A servo motor 6 of the robotic arm is /*FIXME:an*/a mg90s motor.
-<The 6th servo motor is connected to you connector pin 17.
-<An initial angle of the 6th servo motor is 0 degrees.
-""<A pulse cycle of the 6th servo motor is 0.025 seconds.
-""<A minimum pwm time of the 6th servo motor is 0.81 seconds.
-""<A maximum pwm time of the 6th servo motor is 5.45 seconds.
+<The 6th servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
+<The 6th servo motor of the robotic arm is connected to you 17th connector pin.
+<The initial angle of the 6th servo motor of the robotic arm is 0 degrees.
+""<The pulse cycle of the 6th servo motor of the robotic arm is 0.025 seconds.
+""<The minimum pwm time of the 6th servo motor of the robotic arm is 0.81 seconds.
+""<The maximum pwm time of the 6th servo motor of the robotic arm is 5.45 seconds.
 ""
-<A servo motor 4 of the robotic arm is /*FIXME:an*/a mg90s motor.
-<The 4th servo motor is connected to you connector pin 27.
-<An initial angle of the 4th servo motor is 90 degrees.
-<A polarity of the 4th servo motor is reversed.
-""<A pulse cycle of the 4th servo motor is 0.003 seconds.
-""<A minimum pwm time of the 4th servo motor is 0.21 seconds.
-""<A maximum pwm time of the 4th servo motor is 7.45 seconds.
+<The 4th servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
+<The 4th servo motor of the robotic arm is connected to you 27th connector pin.
+<The initial angle of the 4th servo motor of the robotic arm is 90 degrees.
+<The polarity of the 4th servo motor of the robotic arm is reversed.
+""<The pulse cycle of the 4th servo motor of the robotic arm is 0.003 seconds.
+""<The minimum pwm time of the 4th servo motor of the robotic arm is 0.21 seconds.
+""<The maximum pwm time of the 4th servo motor of the robotic arm is 7.45 seconds.
 
 >Move the robotic arm.
 <Ok.
-<A speed of the 1st servo motor of the robotic arm is 10.1 dpses.
-<A target angle of the 1st servo motor is 120 degrees.
-<A speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
-<A target angle of the 3rd servo motor is 45 degrees.
-<A speed of the 5th servo motor of the robotic arm is 10.1 dpses.
-<A target angle of the 5th servo motor is 45 degrees.
-<A speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
-<A target angle of the 2nd servo motor is 45 degrees.
-<A speed of the 6th servo motor of the robotic arm is 10.1 dpses.
-<A target angle of the 6th servo motor is 180 degrees.
-<A speed of the 4th servo motor of the robotic arm is 10.1 dpses.
-<A target angle of the 4th servo motor is 45 degrees.
+<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+<The target angle of the 1st servo motor of the robotic arm is 120 degrees.
+<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+<The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
+<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+<The target angle of the 5th servo motor of the robotic arm is 45 degrees.
+<The speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
+<The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
+<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
+<The target angle of the 6th servo motor of the robotic arm is 180 degrees.
+<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+<The target angle of the 4th servo motor of the robotic arm is 45 degrees.
 <Move the servo motors of the robotic arm.
 >Ok.
 

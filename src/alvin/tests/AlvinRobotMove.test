@@ -68,18 +68,18 @@
 
 >Move the robotic arm.
 <Ok.
-<[a,c]A speed of the 1st servo motor of the robotic arm is 10.1 dpses.
-<[a,c]The target angle of the 1st servo motor is 120 degrees.
-<[a,c]A speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
-<[a,c]The target angle of the 3rd servo motor is 45 degrees.
-<[a,c]A speed of the 5th servo motor of the robotic arm is 10.1 dpses.
-<[a,c]The target angle of the 5th servo motor is 45 degrees.
-<[a,c]A speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
-<[a,c]The target angle of the 2nd servo motor is 45 degrees.
-<[a,c]A speed of the 6th servo motor of the robotic arm is 10.1 dpses.
-<[a,c]The target angle of the 6th servo motor is 180 degrees.
-<[a,c]A speed of the 4th servo motor of the robotic arm is 10.1 dpses.
-<[a,c]The target angle of the 4th servo motor is 45 degrees.
+<[a,c]The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+<[a,c]The target angle of the 1st servo motor of the robotic arm is 120 degrees.
+<[a,c]The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+<[a,c]The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
+<[a,c]The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+<[a,c]The target angle of the 5th servo motor of the robotic arm is 45 degrees.
+<[a,c]The speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
+<[a,c]The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
+<[a,c]The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
+<[a,c]The target angle of the 6th servo motor of the robotic arm is 180 degrees.
+<[a,c]The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+<[a,c]The target angle of the 4th servo motor of the robotic arm is 45 degrees.
 <[a,c]Move the servo motors of the robotic arm.
 <[c,a]Ok.
 ">Reset the robotic arm.
