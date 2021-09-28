@@ -1,6 +1,5 @@
-An image is a file.
+A image is a file.
 A picture is an image.
-
 A book has a name.
 
 A movie has a name.

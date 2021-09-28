@@ -56,18 +56,21 @@
 >It has a gallery.
 <Ok.
 
->Select an image from the gallery.
+"">Select an image from the gallery.
+""<Ok.
+""<Select the image from the gallery.
+"">Ok.
+>I have an image.
 <Ok.
-<Select the image from the gallery.
->Ok.
 >The image is this image.
 <Ok.
 >The image has a file path "abc".
 <Ok.
 >Hessu sleeps in the image.
 <Ok.
->Tell me about the image.
+>Tell me about my image.
 <Ok.
+&<You have the image.
 &<The image is this image.
 &<The image has the file path "abc".
 &<Hessu sleeps in the image.

@@ -28,7 +28,7 @@
 <Ok.
 <Take the picture.
 >Ok.
->The picture is this picture.
+>The picture is this image.
 <Ok.
 >The picture has a file path "abc".
 <Ok.
@@ -50,11 +50,11 @@
 <Ok.
 <Take the picture.
 >Ok.
->The picture is this picture.
+>The picture is this image.
 <Ok.
 >The picture has a file path "def".
 <Ok.
->Joe is in this picture.
+>Joe is in this image.
 <Ok.
 >Tell me about the picture.
 <Ok.
@@ -72,12 +72,12 @@
 <Ok.
 <Take the picture.
 >Ok.
->The picture is this picture.
+>The picture is this image.
 <Ok.
 >The picture has a file path "foo".
 <Ok.
 >/*TODO: This is Jane.*/
->Jane is in this picture.
+>Jane is in this image.
 <Ok.
 >Tell me about the picture.
 <Ok.
