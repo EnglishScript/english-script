@@ -127,6 +127,10 @@ The 5th link of the robotic arm is the 2nd link of the 4th joint.
 An ESP32 software.
 The debug level of the device handler of the ESP32 software is full.
 
+/* To remember if ESP32 was not able to process the sent message or
+   the network connection to it was terminated. */
+If someone is sorry then remember that someone was sorry.
+
 /* Recognized objects */
 
 A ball is round.
@@ -134,6 +138,7 @@ A cup.
 A mug.
 
 To initialize a robotic arm.
+    Tell the ESP32-WROOM-32D chip to clear the memory of the ESP32-WROOM-32D chip.
     Tell the ESP32-WROOM-32D chip that the level of the device handler of the ESP32 software is full.
     Tell the ESP32-WROOM-32D chip that the ESP32-WROOM-32D chip controls the robotic arm.
     Tell the ESP32-WROOM-32D chip the number of the servo motors of the robotic arm.
@@ -177,7 +182,12 @@ To move the robotic arm.
             Tell the ESP32-WROOM-32D chip the target angle.
         End.
     End.
-    Ask the ESP32-WROOM-32D chip to move the servo motors of the robotic arm.
+    /*Ask the ESP32-WROOM-32D chip to move the servo motors of the robotic arm.*/
+    If I /*the ESP32-WROOM-32D chip was*/ was sorry /* or the ESP32-WROOM-32D chip is sorry*/ then.
+        I was not sorry.
+        Initialize the robotic arm.
+        Start to move the robotic arm.
+    End.
 End.
 
 To /*FIXME: soft*/ reset the robotic arm.

@@ -88,7 +88,7 @@ A robot is an object.
 
 /* classes */
 An electronic chip is a machine.
-An electronic chip has a name, connector pins and a case.
+An electronic chip has a name, connector pins, a memory and a case.
 "system-on-a-chip" is a noun.
 A system-on-a-chip chip is an electronic chip.
 "ESP32-WROOM-32D" is a noun.
