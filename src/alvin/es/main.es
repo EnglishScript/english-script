@@ -18,6 +18,7 @@ To begin.
         Tell me that you help me /*TODO: out*/.
         /*Ask me my name.*/
     End.
+    Wait for a response.
     /*If you are not having a conversation with me then.*/
     Have a conversation with me.
     /*End.*/
