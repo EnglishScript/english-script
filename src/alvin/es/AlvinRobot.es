@@ -189,6 +189,8 @@ To move the robotic arm.
     If I /*FIXME: the ESP32-WROOM-32D chip was*/ was sorry /* or I / * FIXME: the ESP32-WROOM-32D chip * / am sorry */ then.
         I am not sorry.
         I was not sorry.
+        Tell me that the robotic arm has a mechanical problem.
+        Ask me to fix the mechanical problem and retry.
         Initialize the robotic arm.
     End.
 End.

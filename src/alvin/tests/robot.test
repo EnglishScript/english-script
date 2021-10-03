@@ -187,6 +187,10 @@
 <The target angle of the 4th servo motor of the robotic arm is 45 degrees.
 >Sorry.
 
+<The robotic arm has a mechanical problem.
+>Ok.
+<Fix the mechanical problem and retry.
+>Ok.
 <Clear /*FIXME: your*/ you memory.
 >OK.
 <The debug level of the device handler of the esp32 software is full.
