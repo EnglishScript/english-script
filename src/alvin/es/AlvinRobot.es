@@ -4,6 +4,7 @@
 A robotic arm.
 The robotic arm has /*a name and*/ an ESP32-WROOM-32D chip /*FIXME:, 1 motors, 1 joints, 2 links*/.
 The name of the ESP32-WROOM-32D chip is "ESP32".
+The ESP32-WROOM-32D chip has 0 retries.
 
 /*"AlvinRobot" is a noun.
 The name of the robotic arm is "AlvinRobot".*/
@@ -129,7 +130,9 @@ The debug level of the device handler of the ESP32 software is full.
 
 /* To remember if ESP32 was not able to process the sent message or
    the network connection to it was terminated. */
-If someone is sorry then remember that someone was sorry.
+If someone is sorry then.
+    Remember that someone was sorry.
+End.
 
 /* Recognized objects */
 
@@ -183,10 +186,10 @@ To move the robotic arm.
         End.
     End.
     /*Ask the ESP32-WROOM-32D chip to move the servo motors of the robotic arm.*/
-    If I /*the ESP32-WROOM-32D chip was*/ was sorry /* or the ESP32-WROOM-32D chip is sorry*/ then.
+    If I /*FIXME: the ESP32-WROOM-32D chip was*/ was sorry /* or I / * FIXME: the ESP32-WROOM-32D chip * / am sorry */ then.
+        I am not sorry.
         I was not sorry.
         Initialize the robotic arm.
-        Start to move the robotic arm.
     End.
 End.
 

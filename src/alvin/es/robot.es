@@ -21,6 +21,8 @@ The grip voltage is a voltage.
 The noun "kgcms" is the plural form of the noun "kgcm".
 "dps" and "dpses" are nouns.
 The noun "dpses" is the plural form of the noun "dps".
+"retry" and "retries" are nouns.
+The noun "retries" is the plural form of the noun "retry".
 
 "polarity" and "polarities" are nouns.
 The noun "polarities" is the plural form of the noun "polarity".
@@ -88,7 +90,7 @@ A robot is an object.
 
 /* classes */
 An electronic chip is a machine.
-An electronic chip has a name, connector pins, a memory and a case.
+An electronic chip has a name, connector pins, a memory, retries and a case.
 "system-on-a-chip" is a noun.
 A system-on-a-chip chip is an electronic chip.
 "ESP32-WROOM-32D" is a noun.

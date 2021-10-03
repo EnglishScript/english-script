@@ -70,216 +70,219 @@
 >Initialize the robotic arm.
 <Ok.
 <Clear you /*FIXME: your*/ memory.
->Ok.
+>OK.
 <The debug level of the device handler of the esp32 software is full.
->Ok.
+>OK.
 <You control the robotic arm.
->Ok.
+>OK.
 <The number of the servo motors of the robotic arm is 6.
->Ok.
+>OK.
 <The 1st servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
->Ok.
+>OK.
 <The 1st servo motor of the robotic arm is connected to you 25th connector pin.
->Ok.
+>OK.
 <The initial angle of the 1st servo motor of the robotic arm is 90 degrees.
->Ok.
+>OK.
 <The voltage of the 1st servo motor of the robotic arm is measured from you 32nd connector pin.
 "FIXME: add >Ok. here
 <The maximum voltage of the 1st servo motor of the robotic arm is 0.12 volts.
->Ok.
+>OK.
 ""<The pulse cycle of the 1st servo motor of the robotic arm is 0.002 seconds.
 ""<The minimum pwm time of the 1st servo motor of the robotic arm is 0.41 seconds.
 ""<The maximum pwm time of the 1st servo motor of the robotic arm is 2.45 seconds.
 
 <The 3rd servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
->Ok.
+>OK.
 <The 3rd servo motor of the robotic arm is connected to you 26th connector pin.
->Ok.
+>OK.
 <The initial angle of the 3rd servo motor of the robotic arm is 90 degrees.
->Ok.
+>OK.
 ""<The pulse cycle of the 3rd servo motor of the robotic arm is 0.002 seconds.
 ""<The minimum pwm time of the 3rd servo motor of the robotic arm is 0.61 seconds.
 ""<The maximum pwm time of the 3rd servo motor of the robotic arm is 3.15 seconds.
 
 <The 5th servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
->Ok.
+>OK.
 <The 5th servo motor of the robotic arm is connected to you 16th connector pin.
->Ok.
+>OK.
 <The initial angle of the 5th servo motor of the robotic arm is 90 degrees.
->Ok.
+>OK.
 ""<The pulse cycle of the 5th servo motor of the robotic arm is 0.015 seconds.
 ""<The minimum pwm time of the 5th servo motor of the robotic arm is 0.41 seconds.
 ""<The maximum pwm time of the 5th servo motor of the robotic arm is 6.45 seconds.
 
 <The 2nd servo motor of the robotic arm is /*FIXME:an*/a mg996r motor.
->Ok.
+>OK.
 <The 2nd servo motor of the robotic arm is connected to you 19th connector pin.
->Ok.
+>OK.
 <The initial angle of the 2nd servo motor of the robotic arm is 90 degrees.
->Ok.
+>OK.
 ""<The pulse cycle of the 2nd servo motor of the robotic arm is 0.005 seconds.
 ""<The minimum pwm time of the 2nd servo motor of the robotic arm is 0.51 seconds.
 ""<The maximum pwm time of the 2nd servo motor of the robotic arm is 2.75 seconds.
 
 <The 6th servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
->Ok.
+>OK.
 <The 6th servo motor of the robotic arm is connected to you 17th connector pin.
->Ok.
+>OK.
 <The initial angle of the 6th servo motor of the robotic arm is 0 degrees.
->Ok.
+>OK.
 ""<The pulse cycle of the 6th servo motor of the robotic arm is 0.025 seconds.
 ""<The minimum pwm time of the 6th servo motor of the robotic arm is 0.81 seconds.
 ""<The maximum pwm time of the 6th servo motor of the robotic arm is 5.45 seconds.
 ""
 <The 4th servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
->Ok.
+>OK.
 <The 4th servo motor of the robotic arm is connected to you 27th connector pin.
->Ok.
+>OK.
 <The initial angle of the 4th servo motor of the robotic arm is 90 degrees.
->Ok.
+>OK.
 <The polarity of the 4th servo motor of the robotic arm is reversed.
->Ok.
+>OK.
+>OK.
 ""<The pulse cycle of the 4th servo motor of the robotic arm is 0.003 seconds.
 ""<The minimum pwm time of the 4th servo motor of the robotic arm is 0.21 seconds.
 ""<The maximum pwm time of the 4th servo motor of the robotic arm is 7.45 seconds.
 
+>The target angle of the 1st servo motor of the robotic arm is 120 degrees.
+<Ok.
+>The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
+<Ok.
+>The target angle of the 5th servo motor of the robotic arm is 45 degrees.
+<Ok.
+>The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
+<Ok.
+>The target angle of the 6th servo motor of the robotic arm is 180 degrees.
+<Ok.
+>The target angle of the 4th servo motor of the robotic arm is 45 degrees.
+<Ok.
 >Move the robotic arm.
 <Ok.
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->Ok.
+>OK.
 <The target angle of the 1st servo motor of the robotic arm is 120 degrees.
->Ok.
+>OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->Ok.
+>OK.
 <The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
->Ok.
+>OK.
 <The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->Ok.
+>OK.
 <The target angle of the 5th servo motor of the robotic arm is 45 degrees.
->Ok.
+>OK.
 <The speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
->Ok.
-<The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
->Ok.
-<The speed of the 6th servo motor of the robotic arm is 40.1 dpses.
->Ok.
-<The target angle of the 6th servo motor of the robotic arm is 180 degrees.
->Ok.
-<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
->Ok.
-<The target angle of the 4th servo motor of the robotic arm is 45 degrees.
->Ok.
-""<Move the servo motors of the robotic arm.
-"">Ok.
-
->Move the robotic arm.
-<Ok.
-<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+>Was I sorry?
+<I don't know.
 >Sorry.
-<The target angle of the 1st servo motor of the robotic arm is 120 degrees.
->Ok.
-<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->Ok.
-<The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
->Ok.
-<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->Ok.
-<The target angle of the 5th servo motor of the robotic arm is 45 degrees.
->Ok.
-<The speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
->Ok.
 <The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
->Ok.
+>Was I sorry?
+<Yes.
+>Sorry.
 <The speed of the 6th servo motor of the robotic arm is 40.1 dpses.
->Ok.
+>OK.
 <The target angle of the 6th servo motor of the robotic arm is 180 degrees.
->Ok.
+>Sorry.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
->Ok.
+>OK.
 <The target angle of the 4th servo motor of the robotic arm is 45 degrees.
->Ok.
-""<Move the servo motors of the robotic arm.
-"">Ok.
-""<You are sorry.
-"">Ok.
+>Sorry.
 
 <Clear /*FIXME: your*/ you memory.
->Ok.
+>OK.
 <The debug level of the device handler of the esp32 software is full.
->Ok.
+>OK.
 <You control the robotic arm.
->Ok.
+>OK.
 <The number of the servo motors of the robotic arm is 6.
->Ok.
+>OK.
 <The 1st servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
->Ok.
+>OK.
 <The 1st servo motor of the robotic arm is connected to you 25th connector pin.
->Ok.
+>OK.
 <The initial angle of the 1st servo motor of the robotic arm is 90 degrees.
->Ok.
+>OK.
 <The voltage of the 1st servo motor of the robotic arm is measured from you 32nd connector pin.
 "FIXME: add >Ok. here
 <The maximum voltage of the 1st servo motor of the robotic arm is 0.12 volts.
->Ok.
+>OK.
 
 <The 3rd servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
->Ok.
+>OK.
 <The 3rd servo motor of the robotic arm is connected to you 26th connector pin.
->Ok.
+>OK.
 <The initial angle of the 3rd servo motor of the robotic arm is 90 degrees.
->Ok.
+>OK.
 
 <The 5th servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
->Ok.
+>OK.
 <The 5th servo motor of the robotic arm is connected to you 16th connector pin.
->Ok.
+>OK.
 <The initial angle of the 5th servo motor of the robotic arm is 90 degrees.
->Ok.
+>OK.
 
 <The 2nd servo motor of the robotic arm is /*FIXME:an*/a mg996r motor.
->Ok.
+>OK.
 <The 2nd servo motor of the robotic arm is connected to you 19th connector pin.
->Ok.
+>OK.
 <The initial angle of the 2nd servo motor of the robotic arm is 90 degrees.
->Ok.
+>OK.
 
 <The 6th servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
->Ok.
+>OK.
 <The 6th servo motor of the robotic arm is connected to you 17th connector pin.
->Ok.
+>OK.
 <The initial angle of the 6th servo motor of the robotic arm is 0 degrees.
->Ok.
+>OK.
 
 <The 4th servo motor of the robotic arm is /*FIXME:an*/a mg90s motor.
->Ok.
+>OK.
 <The 4th servo motor of the robotic arm is connected to you 27th connector pin.
->Ok.
+>OK.
 <The initial angle of the 4th servo motor of the robotic arm is 90 degrees.
->Ok.
+>OK.
 <The polarity of the 4th servo motor of the robotic arm is reversed.
+>OK.
+>OK.
+>Was I sorry?
+<No.
 
+>The target angle of the 1st servo motor of the robotic arm is 120 degrees.
+<Ok.
+>The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
+<Ok.
+>The target angle of the 5th servo motor of the robotic arm is 45 degrees.
+<Ok.
+>The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
+<Ok.
+>The target angle of the 6th servo motor of the robotic arm is 180 degrees.
+<Ok.
+>The target angle of the 4th servo motor of the robotic arm is 45 degrees.
+<Ok.
+>Move the robotic arm.
+<Ok.
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->Ok.
+>OK.
 <The target angle of the 1st servo motor of the robotic arm is 120 degrees.
->Ok.
+>OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->Ok.
+>OK.
 <The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
->Ok.
+>OK.
 <The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->Ok.
+>OK.
 <The target angle of the 5th servo motor of the robotic arm is 45 degrees.
->Ok.
+>OK.
 <The speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
->Ok.
+>OK.
 <The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
->Ok.
+>OK.
 <The speed of the 6th servo motor of the robotic arm is 40.1 dpses.
->Ok.
+>OK.
 <The target angle of the 6th servo motor of the robotic arm is 180 degrees.
->Ok.
+>OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
->Ok.
+>OK.
 <The target angle of the 4th servo motor of the robotic arm is 45 degrees.
->Ok.
+>What is your name?
+<"Alvin".
 

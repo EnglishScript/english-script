@@ -27,29 +27,55 @@
 ""<[b,a]Ok.
 
 >Initialize the robotic arm.
-<Ok.
+<[a,A]Ok.
+<[a,c]Clear you memory.
+<[c,a]OK.
 <[a,c]The debug level of the device handler of the esp32 software is full.
+<[c,a]OK.
 <[a,c]You control the robotic arm.
+<[c,a]OK.
 <[a,c]The number of the servo motors of the robotic arm is 6.
+<[c,a]OK.
 <[a,c]The 1st servo motor of the robotic arm is a mg90s motor.
+<[c,a]OK.
 <[a,c]The 1st servo motor of the robotic arm is connected to you 25th connector pin.
+<[c,a]OK.
 <[a,c]The initial angle of the 1st servo motor of the robotic arm is 90 degrees.
+<[c,a]OK.
 <[a,c]The voltage of the 1st servo motor of the robotic arm is measured from you 32nd connector pin.
 <[a,c]The maximum voltage of the 1st servo motor of the robotic arm is 0.12 volts.
+<[c,a]OK.
 <[a,c]The 3rd servo motor of the robotic arm is a mg90s motor.
+<[c,a]OK.
 <[a,c]The 3rd servo motor of the robotic arm is connected to you 26th connector pin.
+<[c,a]OK.
 <[a,c]The initial angle of the 3rd servo motor of the robotic arm is 90 degrees.
+<[c,a]OK.
 <[a,c]The 5th servo motor of the robotic arm is a mg90s motor.
+<[c,a]OK.
 <[a,c]The 5th servo motor of the robotic arm is connected to you 16th connector pin.
+<[c,a]OK.
 <[a,c]The initial angle of the 5th servo motor of the robotic arm is 90 degrees.
+<[c,a]OK.
 <[a,c]The 2nd servo motor of the robotic arm is a mg996r motor.
+<[c,a]OK.
 <[a,c]The 2nd servo motor of the robotic arm is connected to you 19th connector pin.
+<[c,a]OK.
 <[a,c]The initial angle of the 2nd servo motor of the robotic arm is 90 degrees.
+<[c,a]OK.
 <[a,c]The 6th servo motor of the robotic arm is a mg90s motor.
+<[c,a]OK.
 <[a,c]The 6th servo motor of the robotic arm is connected to you 17th connector pin.
+<[c,a]OK.
 <[a,c]The initial angle of the 6th servo motor of the robotic arm is 0 degrees.
+<[c,a]OK.
 <[a,c]The 4th servo motor of the robotic arm is a mg90s motor.
+<[c,a]OK.
 <[a,c]The 4th servo motor of the robotic arm is connected to you 27th connector pin.
+<[c,a]OK.
 <[a,c]The initial angle of the 4th servo motor of the robotic arm is 90 degrees.
+<[c,a]OK.
 <[a,c]The polarity of the 4th servo motor of the robotic arm is reversed.
+<[c,a]OK.
+<[c,a]OK.
 
