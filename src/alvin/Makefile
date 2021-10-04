@@ -65,7 +65,9 @@ TESTS = \
   tests/time_skill.test \
   tests/call_skill.test \
   tests/usa_presidents.test \
-  tests/robot.test
+  tests/robot_init_move.test \
+  tests/robot_register_move_to.test \
+  tests/robot_take_something.test
 
 TESTS2 = \
   tests/words.test
