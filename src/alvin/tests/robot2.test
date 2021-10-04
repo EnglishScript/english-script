@@ -1,0 +1,69 @@
+"
+"	The EnglishScript programming language - for Artificial Intelligence.
+"
+"	Copyright (C) 2016 Tommi Manttari
+"
+"	This library is free software; you can redistribute it and/or modify
+"	it under the terms of the GNU Lesser General Public License as
+"	published by the Free Software Foundation; either version 2.1 of the
+"	License, or (at your option) any later version.
+"
+"	This library is distributed in the hope that it will be useful, but
+"	WITHOUT ANY WARRANTY; without even the implied warranty of
+"	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+"	Lesser General Public License for more details.
+"
+"	You should have received a copy of the GNU Lesser General Public
+"	License along with this library; if not, write to the Free Software
+"	Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307
+"	USA
+"
+"	You can contact Tommi Manttari through email at manttari@yahoo.com.
+"
+?<Hi.
+?<My name is "Alvin".
+?<The name is "Alvin".
+?<I am an artificial intelligence.
+?<I am your friend. I help you/*TODO: out*/.
+
+>Register the robotic arm.
+<Ok.
+<Register a mechanical model for the robotic arm.
+>Ok.
+>Move the robotic arm to me.
+<Ok.
+<Move the robotic arm to you.
+>Ok.
+<What is a target angle of the 1st servo motor of the robotic arm?
+>10 degrees.
+<What is a target angle of the 3rd servo motor of the robotic arm?
+>30 degrees.
+<What is a target angle of the 5th servo motor of the robotic arm?
+>50 degrees.
+<What is a target angle of the 2nd servo motor of the robotic arm?
+>20 degrees.
+<What is a target angle of the 6th servo motor of the robotic arm?
+>60 degrees.
+<What is a target angle of the 4th servo motor of the robotic arm?
+>40 degrees.
+<Start /*FIXME:*/moveing the robotic arm.
+>Ok.
+>What is the target angle of the 1st servo motor of the robotic arm?
+<10 degrees.
+>What is the target angle of the 2nd servo motor of the robotic arm?
+<20 degrees.
+>What is the target angle of the 3rd servo motor of the robotic arm?
+<30 degrees.
+>What is the target angle of the 4th servo motor of the robotic arm?
+<40 degrees.
+>What is the target angle of the 5th servo motor of the robotic arm?
+<50 degrees.
+>What is the target angle of the 6th servo motor of the robotic arm?
+<60 degrees.
+
+>Move the robotic arm to me.
+<Ok.
+<Move the robotic arm to you.
+>Sorry.
+<The robotic arm /*FIXME: doesn't*/ don't reach you.
+

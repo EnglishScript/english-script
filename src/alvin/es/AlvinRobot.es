@@ -175,9 +175,12 @@ To initialize a robotic arm.
         /*End.*/
     End.
     /*Ask the ESP32-WROOM-32D chip to initialize.*/
+    I am not sorry.
+    I was not sorry.
 End.
 
 To move the robotic arm.
+    The robotic arm has not stopped.
     For each of the servo motors of the robotic arm.
         Tell the ESP32-WROOM-32D chip the speed of the servo motor.
         /*FIXME: there should not be any need for above If-statement to get below line compiled*/
@@ -189,13 +192,81 @@ To move the robotic arm.
     If I /*FIXME: the ESP32-WROOM-32D chip was*/ was sorry /* or I / * FIXME: the ESP32-WROOM-32D chip * / am sorry */ then.
         I am not sorry.
         I was not sorry.
+        Do not wait for a response.
         Tell me that the robotic arm has a mechanical problem.
         Ask me to fix the mechanical problem and retry.
+        Wait for a response.
         Initialize the robotic arm.
     End.
 End.
 
 To /*FIXME: soft*/ reset the robotic arm.
     Tell the ESP32-WROOM-32D chip to reset.
+End.
+
+To move a robotic arm to something.
+    /*If unknown if the robotic arm is registered then.
+        Register the robotic arm.
+    End.*/
+    The robotic arm has not stopped.
+    Ask this device to move the robotic arm to something.
+    If I /*FIXME: the ESP32-WROOM-32D chip was*/ am sorry /* or I / * FIXME: the ESP32-WROOM-32D chip * / am sorry */ then.
+        I am not sorry.
+        I was not sorry.
+        Do not wait for a response.
+        Tell me that the robotic arm does not reach something.
+        Wait for a response.
+    Else.
+        For each of the servo motors of the robotic arm.
+            If  the servo motor has a target angle then.
+                /*FIXME: there should not be any need for above If-statement to get below line compiled*/
+                Ask this device the target angle.
+            End.
+        End.
+        Ask this device to start moving the robotic arm.
+    End.
+End.
+
+To take a cup.
+    The target angle of the 1st servo motor is 120 degrees.
+    The target angle of the 3rd servo motor is 45 degrees.
+    The target angle of the 5th servo motor is 45 degrees.
+    The target angle of the 2nd servo motor is 45 degrees.
+    The target angle of the 6th servo motor is 180 degrees.
+    The target angle of the 4th servo motor is 45 degrees.
+    Move the robotic arm.
+    Do not wait for a response.
+    Tell me that you wait /*FIXME: waiting*/ for the robotic arm to stop.
+    Wait for a response.
+    Until the robotic arm has stopped then wait.
+
+    The target angle of the 6th servo motor is 0 degrees.
+    Move the robotic arm.
+    Do not wait for a response.
+    Tell me that you wait for the robotic arm to stop.
+    Wait for a response.
+    Until the robotic arm has stopped then wait.
+
+    The target angle of the 1st servo motor is 90 degrees.
+    The target angle of the 3rd servo motor is 90 degrees.
+    The target angle of the 5th servo motor is 90 degrees.
+    The target angle of the 2nd servo motor is 90 degrees.
+    The target angle of the 4th servo motor is 90 degrees.
+    Move the robotic arm.
+    Do not wait for a response.
+    Tell me that you wait for the robotic arm to stop.
+    Wait for a response.
+    Until the robotic arm has stopped then wait.
+
+    The target angle of the 6th servo motor is 180 degrees.
+    Move the robotic arm.
+    Do not wait for a response.
+    Tell me that you wait for the robotic arm to stop.
+    Until the robotic arm has stopped then wait.
+    Tell me that you took the cup.
+    Wait for a response.
+End.
+
+To move something to a position.
 End.
 

@@ -26,47 +26,6 @@
 ?<I am an artificial intelligence.
 ?<I am your friend. I help you/*TODO: out*/.
 
-">Register the robotic arm.
-"<Ok.
-"<Register a mechanical model for the robotic arm.
-">Ok.
-">Move the robotic arm to me.
-"<Ok.
-"<Move the robotic arm to you.
-">Ok.
-"<What is a target angle of the 1st servo motor of the robotic arm?
-">10 degrees.
-"<What is a target angle of the 3rd servo motor of the robotic arm?
-">30 degrees.
-"<What is a target angle of the 5th servo motor of the robotic arm?
-">50 degrees.
-"<What is a target angle of the 2nd servo motor of the robotic arm?
-">20 degrees.
-"<What is a target angle of the 6th servo motor of the robotic arm?
-">60 degrees.
-"<What is a target angle of the 4th servo motor of the robotic arm?
-">40 degrees.
-"""<What is a target angle of the 7th servo motor of the robotic arm?
-""">70 degrees.
-"<Start /*FIXME:*/moveing the robotic arm.
-">Ok.
-">What is the target angle of the 1st servo motor of the robotic arm?
-"<10 degrees.
-">What is the target angle of the 2nd servo motor of the robotic arm?
-"<20 degrees.
-">What is the target angle of the 3rd servo motor of the robotic arm?
-"<30 degrees.
-">What is the target angle of the 4th servo motor of the robotic arm?
-"<40 degrees.
-">What is the target angle of the 5th servo motor of the robotic arm?
-"<50 degrees.
-">What is the target angle of the 6th servo motor of the robotic arm?
-"<60 degrees.
-""">What is the target angle of the 7th servo motor of the robotic arm?
-"""<70 degrees.
-""">What is the minimum angle of the 1st servo motor of the robotic arm?
-"""<0 degrees.
-
 >Initialize the robotic arm.
 <Ok.
 <Clear you /*FIXME: your*/ memory.
@@ -172,7 +131,7 @@
 >OK.
 <The speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
 >Was I sorry?
-<I don't know.
+<No.
 >Sorry.
 <The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
 >Was I sorry?
@@ -188,9 +147,7 @@
 >Sorry.
 
 <The robotic arm has a mechanical problem.
->Ok.
 <Fix the mechanical problem and retry.
->Ok.
 <Clear /*FIXME: your*/ you memory.
 >OK.
 <The debug level of the device handler of the esp32 software is full.

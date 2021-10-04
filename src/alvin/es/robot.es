@@ -125,17 +125,3 @@ To register a robotic arm.
     Ask this device to register a mechanical model for the robotic arm.
 End.
 
-To move a robotic arm to something.
-    /*If unknown if the robotic arm is registered then.
-        Register the robotic arm.
-    End.*/
-    Ask this device to move the robotic arm to something.
-    For each of the servo motors of the robotic arm.
-        If  the servo motor has a target angle then.
-            /*FIXME: there should not be any need for above If-statement to get below line compiled*/
-            Ask this device the target angle.
-        End.
-    End.
-    Ask this device to start moving the robotic arm.
-End.
-
