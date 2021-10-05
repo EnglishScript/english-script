@@ -103,52 +103,119 @@
 ""<The minimum pwm time of the 4th servo motor of the robotic arm is 0.21 seconds.
 ""<The maximum pwm time of the 4th servo motor of the robotic arm is 7.45 seconds.
 
+"
+" Moving Ok.
+"
+
+>The target angle of the 1st servo motor of the robotic arm is 20 degrees.
+<Ok.
+>The target angle of the 3rd servo motor of the robotic arm is 80 degrees.
+<Ok.
+>The target angle of the 5th servo motor of the robotic arm is 45 degrees.
+<Ok.
+>The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
+<Ok.
+>The target angle of the 6th servo motor of the robotic arm is 10 degrees.
+<Ok.
+>The target angle of the 4th servo motor of the robotic arm is 45 degrees.
+<Ok.
+>Move the robotic arm.
+<Ok.
+
+<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 6th servo motor of the robotic arm is 40.1 dpses.
+>OK.
+<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The target angle of the 1st servo motor of the robotic arm is 20 degrees.
+>OK.
+<The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
+>OK.
+<The target angle of the 3rd servo motor of the robotic arm is 80 degrees.
+>OK.
+<The target angle of the 4th servo motor of the robotic arm is 45 degrees.
+>OK.
+<The target angle of the 5th servo motor of the robotic arm is 45 degrees.
+>OK.
+<The target angle of the 6th servo motor of the robotic arm is 10 degrees.
+>OK.
+<Tell me if the robotic arm stopped.
+>Was I sorry?
+<No.
+>The robotic arm has stopped.
+<Ok.
+
+"
+" Moving fails.
+"
+
 >The target angle of the 1st servo motor of the robotic arm is 120 degrees.
 <Ok.
 >The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
 <Ok.
 >The target angle of the 5th servo motor of the robotic arm is 45 degrees.
 <Ok.
->The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
+>The target angle of the 2nd servo motor of the robotic arm is 80 degrees.
 <Ok.
 >The target angle of the 6th servo motor of the robotic arm is 180 degrees.
 <Ok.
->The target angle of the 4th servo motor of the robotic arm is 45 degrees.
+>The target angle of the 4th servo motor of the robotic arm is 70 degrees.
 <Ok.
+
 >Move the robotic arm.
 <Ok.
+
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The target angle of the 1st servo motor of the robotic arm is 120 degrees.
->OK.
-<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
->OK.
-<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The target angle of the 5th servo motor of the robotic arm is 45 degrees.
->OK.
-<The speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
+>Am I sorry?
+<No.
 >Was I sorry?
 <No.
 >Sorry.
-<The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
->Was I sorry?
-<Yes.
->Sorry.
+<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
+>OK.
 <The speed of the 6th servo motor of the robotic arm is 40.1 dpses.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 180 degrees.
->Sorry.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>Am I sorry?
+<I don't know.
+>Was I sorry?
+<Yes.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 45 degrees.
->Sorry.
 
+<The target angle of the 1st servo motor of the robotic arm is 120 degrees.
+>OK.
+<The target angle of the 2nd servo motor of the robotic arm is 80 degrees.
+>OK.
+<The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
+>OK.
+<The target angle of the 4th servo motor of the robotic arm is 70 degrees.
+>OK.
+<The target angle of the 5th servo motor of the robotic arm is 45 degrees.
+>OK.
+<The target angle of the 6th servo motor of the robotic arm is 180 degrees.
+>OK.
 <The robotic arm has a mechanical problem.
 <Fix the mechanical problem and retry.
+
+" reinit
+
 <Clear /*FIXME: your*/ you memory.
+>Am I sorry?
+<No.
+>Was I sorry?
+<No.
 >OK.
 <The debug level of the device handler of the esp32 software is full.
 >OK.
@@ -207,6 +274,10 @@
 >Was I sorry?
 <No.
 
+"
+" Moving Ok.
+"
+
 >The target angle of the 1st servo motor of the robotic arm is 120 degrees.
 <Ok.
 >The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
@@ -221,29 +292,40 @@
 <Ok.
 >Move the robotic arm.
 <Ok.
+
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The target angle of the 1st servo motor of the robotic arm is 120 degrees.
 >OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
->OK.
 <The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The target angle of the 5th servo motor of the robotic arm is 45 degrees.
 >OK.
 <The speed of the 2nd servo motor of the robotic arm is 10.1 dpses.
 >OK.
-<The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
->OK.
 <The speed of the 6th servo motor of the robotic arm is 40.1 dpses.
->OK.
-<The target angle of the 6th servo motor of the robotic arm is 180 degrees.
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The target angle of the 1st servo motor of the robotic arm is 120 degrees.
+>OK.
+<The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
+>OK.
+<The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
+>OK.
 <The target angle of the 4th servo motor of the robotic arm is 45 degrees.
+>OK.
+<The target angle of the 5th servo motor of the robotic arm is 45 degrees.
+>OK.
+<The target angle of the 6th servo motor of the robotic arm is 180 degrees.
+>OK.
+<Tell me if the robotic arm stopped.
+>Was I sorry?
+<No.
+>The robotic arm has stopped.
+<Ok.
+
+" Just to see if Alvin is Ok.
+
 >What is your name?
 <"Alvin".
 

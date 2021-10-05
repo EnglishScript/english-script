@@ -60,6 +60,7 @@ a target angle, an initial angle, a pulse cycle, a polarity, a minimum PWM time,
 a maximum PWM time, a voltage, a grip voltage and a maximum voltage.
 The minimum angle is degrees.
 The maximum angle is degrees.
+The target angle is degrees.
 The lift power is kgcms.
 The speed is dpses.
 The voltage is volts.
