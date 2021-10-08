@@ -134,11 +134,23 @@ If someone is sorry then.
     Remember that someone was sorry.
 End.
 
+A position has coordinates.
+A ball is round.
+
 /* Recognized objects */
 
-A ball is round.
 A cup.
+The cup has a position.
+The 1st coordinate of my position of the tag of the robotic arm is 0 meters.
+The 2nd coordinate of my position of the tag of the robotic arm is 0.03 meters.
+The 3rd coordinate of my position of the tag of the robotic arm is 0.3 meters.
+
 A mug.
+
+I have a position.
+The 1st coordinate of my position of the tag of the robotic arm is -0.1 meters.
+The 2nd coordinate of my position of the tag of the robotic arm is 0.3 meters.
+The 3rd coordinate of my position of the tag of the robotic arm is 0.1 meters.
 
 To initialize a robotic arm.
     Tell the ESP32-WROOM-32D chip to clear the memory of the ESP32-WROOM-32D chip.
@@ -179,7 +191,7 @@ To initialize a robotic arm.
     I was not sorry.
 End.
 
-To wait for the robotic arm to stop.
+To wait for a robotic arm to stop.
     Do not wait for a response.
     Ask the ESP32-WROOM-32D chip to tell you if the robotic arm has stopped.
     Wait for a response.
@@ -187,7 +199,7 @@ To wait for the robotic arm to stop.
     Forget that the robotic arm has stopped.
 End.
 
-To move the robotic arm.
+To move a robotic arm.
     For each of the servo motors of the robotic arm.
         Tell the ESP32-WROOM-32D chip the speed of the servo motor.
     End.
@@ -210,74 +222,71 @@ To move the robotic arm.
     Wait for the robotic arm to stop.
 End.
 
-To /*FIXME: soft*/ reset the robotic arm.
+To /*FIXME: soft*/ reset a robotic arm.
     Tell the ESP32-WROOM-32D chip to reset.
 End.
 
-To move a robotic arm to something.
-    /*If unknown if the robotic arm is registered then.
-        Register the robotic arm.
-    End.*/
-    The robotic arm has not stopped.
-    Ask this device to move the robotic arm to something.
-    If I /*FIXME: the ESP32-WROOM-32D chip was*/ am sorry /* or I / * FIXME: the ESP32-WROOM-32D chip * / am sorry */ then.
-        I am not sorry.
-        I was not sorry.
-        Do not wait for a response.
-        Tell me that the robotic arm does not reach something.
-        Wait for a response.
-    Else.
-        For each of the servo motors of the robotic arm.
-            If  the servo motor has a target angle then.
-                /*FIXME: there should not be any need for above If-statement to get below line compiled*/
-                Ask this device the target angle.
-            End.
-        End.
-        Ask this device to start moving the robotic arm.
+A function "__hap_calculate_orientation_from_position".
+
+To calculate an orientation for a robotic arm from a position.
+    Call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position and the orientation.
+End.
+
+To make a robotic arm to open a hand.
+    The target angle of the 1st servo motor of the robotic arm is 140 degrees.
+    Move the robotic arm.
+End.
+
+To make a robotic arm to close a hand.
+    The target angle of the 1th servo motor of the robotic arm is 85 degrees.
+    Move the robotic arm.
+End.
+
+To move a robotic arm to a position with a twist.
+    Tell me that you move the robotic arm to the position.
+    Calculate an orientation for the robotic arm from the position.
+    If the orientation is known.
+        Move the robotic arm.
     End.
 End.
 
-To take a cup.
-    The target angle of the 1st servo motor of the robotic arm is 140 degrees.
-    The target angle of the 2nd servo motor of the robotic arm is 45 degrees.
-    The target angle of the 3rd servo motor of the robotic arm is 45 degrees.
-    The target angle of the 4th servo motor of the robotic arm is 45 degrees.
-    The target angle of the 5th servo motor of the robotic arm is 45 degrees.
-    The target angle of the 6th servo motor of the robotic arm is 0 degrees.
-    Move the robotic arm.
-    /*Do not wait for a response.
-    Ask the ESP32-WROOM-32D chip to tell you if the robotic arm has stopped.
-    Wait for a response.
-    Until the robotic arm has stopped then wait.*/
+To move a robotic arm to something with a hack.
+    Tell me that you move the robotic arm to something.
+    If something has a position then.
+        Tell me that something has the position.
+        Move the robotic arm to the position of something with a twist.
+    Else.
+        Tell me that something has a bad position.
+    End.
+End.
 
-    The target angle of the 1th servo motor of the robotic arm is 85 degrees.
-    Move the robotic arm.
-    /*Do not wait for a response.
-    Ask the ESP32-WROOM-32D chip to tell you if the robotic arm has stopped.
-    Wait for a response.
-    Until the robotic arm has stopped then wait.*/
-
-    The target angle of the 2nd servo motor of the robotic arm is 90 degrees.
-    The target angle of the 3rd servo motor of the robotic arm is 90 degrees.
-    The target angle of the 4th servo motor of the robotic arm is 90 degrees.
-    The target angle of the 5th servo motor of the robotic arm is 90 degrees.
-    The target angle of the 6th servo motor of the robotic arm is 0 degrees.
-    Move the robotic arm.
-    /*Do not wait for a response.
-    Ask the ESP32-WROOM-32D chip to tell you if the robotic arm has stopped.
-    Wait for a response.
-    Until the robotic arm has stopped then wait.*/
-
-    The target angle of the 1th servo motor of the robotic arm is 140 degrees.
-    Move the robotic arm.
-    /*Do not wait for a response.
-    Ask the ESP32-WROOM-32D chip to tell you if the robotic arm has stopped.
-    Until the robotic arm has stopped then wait.*/
-    Do not wait for a response.
-    Tell me that you took the cup.
-    Wait for a response.
+To make a robotic arm to take something.
+    Tell me that you make the robotic arm to take something.
+    /*Make the robotic arm to open a hand.*/
+    Move the robotic arm to something with a hack.
+    /*Make the robotic arm to close the hand.*/
 End.
 
 To move something to a position.
+    Make the robotic arm to take something.
+    Move the robotic arm to the position with a twist.
+    Make the robotic arm to open a hand.
+End.
+
+To move something to someone.
+    If something has a position and someone has a position then.
+        Make the robotic arm to take something.
+        Move the robotic arm to someone with a hack.
+        Make the robotic arm to open a hand.
+    End.
+End.
+
+To give someone something.
+    Move something to someone.
+End.
+
+To take something.
+    Tell me that you take something.
+    Make the robotic arm to take something.
 End.
 

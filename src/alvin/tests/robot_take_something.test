@@ -26,8 +26,18 @@
 ?<I am an artificial intelligence.
 ?<I am your friend. I help you/*TODO: out*/.
 
->Take a cup.
+>Take the cup.
 <Ok.
+<I take the cup.
+>Ok.
+<I make a robotic arm to take the cup.
+>Ok.
+<I move the robotic arm to the cup.
+>Ok.
+<The cup has a position.
+>Ok.
+<I move the robotic arm to the position.
+>Ok.
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.

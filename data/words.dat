@@ -2409,6 +2409,8 @@ limit 3 1
 championship 2 0
 dps 2 0 dpses
 dpses 2 80 dps
+kgcm 2 0 kgcms
+kgcms 2 80 kgcm
 11-plus 2 0
 1530s 2 0
 1750s 2 0
