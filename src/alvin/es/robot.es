@@ -87,7 +87,7 @@ The links of a robotic arm have a length and a tag.
 The length is meters.
 
 An object is a thing.
-A robot is an object.
+/*FIXME: A robot is an object.*/
 
 /* classes */
 An electronic chip is a machine.

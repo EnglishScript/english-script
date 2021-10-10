@@ -67,7 +67,8 @@ TESTS = \
   tests/usa_presidents.test \
   tests/robot_init_move.test \
   tests/robot_register_move_to.test \
-  tests/robot_take_something.test
+  tests/robot_take_something.test \
+  tests/robot_give_something.test
 
 TESTS2 = \
   tests/words.test

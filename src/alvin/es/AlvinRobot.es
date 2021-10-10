@@ -82,18 +82,11 @@ The target angle of the servo motor 6 of the robotic arm is 180 degrees.
 
 /* links */
 
-The length of the 1st link of the robotic arm is 0.015 meters.
-The length of the 2nd link of the robotic arm is 0.06 meters.
+The length of the 1st link of the robotic arm is 0.05 meters.
+The length of the 2nd link of the robotic arm is 0.135 meters.
 The length of the 3rd link of the robotic arm is 0.13 meters.
-The tag of the robotic arm is the tag of the 4th link of the robotic arm .
-The 1st coordinate of the position of the tag of the robotic arm is 0.0 meters.
-The 2nd coordinate of the position of the tag of the robotic arm is 0.05 meters.
-The 3rd coordinate of the position of the tag of the robotic arm is 0.01 meters.
-The 1st angle of the orientation of the tag of the robotic arm is 0.0 degrees.
-The 2nd angle of the orientation of the tag of the robotic arm is 180.0 degrees.
-The 3rd angle of the orientation of the tag of the robotic arm is 0.0 degrees.
-The length of the 4th link of the robotic arm is 0.135 meters.
-The length of the 5th link of the robotic arm is 0.05 meters.
+The length of the 4th link of the robotic arm is 0.06 meters.
+The length of the 5th link of the robotic arm is 0.015 meters.
 
 /* joints */
 
@@ -134,23 +127,26 @@ If someone is sorry then.
     Remember that someone was sorry.
 End.
 
-A position has coordinates.
+An object has a position.
+The position of an object has coordinates.
+A person has a position.
+The position of a person has coordinates.
 A ball is round.
+A cup is an object.
+A mug is an object.
 
 /* Recognized objects */
 
 A cup.
-The cup has a position.
-The 1st coordinate of my position of the tag of the robotic arm is 0 meters.
-The 2nd coordinate of my position of the tag of the robotic arm is 0.03 meters.
-The 3rd coordinate of my position of the tag of the robotic arm is 0.3 meters.
+The 1st coordinate of the position of the cup is 0.0 meters.
+The 2nd coordinate of the position of the cup is 0.075 meters.
+The 3rd coordinate of the position of the cup is -0.2101 meters.
 
 A mug.
 
-I have a position.
-The 1st coordinate of my position of the tag of the robotic arm is -0.1 meters.
-The 2nd coordinate of my position of the tag of the robotic arm is 0.3 meters.
-The 3rd coordinate of my position of the tag of the robotic arm is 0.1 meters.
+The 1st coordinate of my position is -0.205 meters.
+The 2nd coordinate of my position is 0.075 meters.
+The 3rd coordinate of my position is -0.295 meters.
 
 To initialize a robotic arm.
     Tell the ESP32-WROOM-32D chip to clear the memory of the ESP32-WROOM-32D chip.
@@ -229,64 +225,95 @@ End.
 A function "__hap_calculate_orientation_from_position".
 
 To calculate an orientation for a robotic arm from a position.
+    Tell me that you call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position and the orientation.
     Call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position and the orientation.
+    If the function  "__hap_calculate_orientation_from_position" failed then.
+        You failed to calculate the orientation for the robotic arm from the position.
+    End.
 End.
 
 To make a robotic arm to open a hand.
+    Tell me that you make the robotic arm to open the hand.
     The target angle of the 1st servo motor of the robotic arm is 140 degrees.
     Move the robotic arm.
 End.
 
 To make a robotic arm to close a hand.
+    Tell me that you make the robotic arm to close the hand.
     The target angle of the 1th servo motor of the robotic arm is 85 degrees.
     Move the robotic arm.
 End.
 
-To move a robotic arm to a position with a twist.
+To move a robotic arm to a position /*FIXME:*/with a hack.
     Tell me that you move the robotic arm to the position.
     Calculate an orientation for the robotic arm from the position.
-    If the orientation is known.
+    If you failed to calculate the orientation for the robotic arm from the position.
+        Tell me that the robotic arm does not reach.
+    Else.
         Move the robotic arm.
     End.
 End.
 
-To move a robotic arm to something with a hack.
-    Tell me that you move the robotic arm to something.
-    If something has a position then.
-        Tell me that something has the position.
-        Move the robotic arm to the position of something with a twist.
-    Else.
-        Tell me that something has a bad position.
+To move a robotic arm to a person.
+    Tell me that you move the robotic arm to the person.
+    If the person has a position then.
+        Tell me about the position.
+        Move the robotic arm to the position with a hack.
     End.
 End.
 
-To make a robotic arm to take something.
-    Tell me that you make the robotic arm to take something.
-    /*Make the robotic arm to open a hand.*/
-    Move the robotic arm to something with a hack.
-    /*Make the robotic arm to close the hand.*/
+To move a robotic arm to an object.
+    Tell me that you move the robotic arm to the object.
+    If the object has a position then.
+        Tell me that the object has the position.
+        Move the robotic arm to the position with a hack.
+    End.
 End.
 
-To move something to a position.
-    Make the robotic arm to take something.
-    Move the robotic arm to the position with a twist.
+To make a robotic arm to take an object.
+    Tell me that you make the robotic arm to take the object.
+    If the object has a position /* FIXME: and the position has coordinates*/ then.
+        Tell me about the position.
+        Make the robotic arm to open a hand.
+        Tell me that you opened the hand.
+        Move the robotic arm to the object.
+        Make the robotic arm to close the hand.
+        Tell me that you took the object.
+    Else.
+        Tell me that you do not know a position for the object.
+    End.
+End.
+
+To move an object to a position.
+    Make the robotic arm to take the object.
+    Move the robotic arm to the position with a hack.
     Make the robotic arm to open a hand.
 End.
 
-To move something to someone.
-    If something has a position and someone has a position then.
-        Make the robotic arm to take something.
-        Move the robotic arm to someone with a hack.
+To move an object to a person.
+    Tell me that you move the object to the person.
+    If the object has a position and the person has a position then.
+        Make the robotic arm to take the object.
+        Tell me that the robotic arm took the object.
+        Move the robotic arm to the person.
         Make the robotic arm to open a hand.
+    Else.
+        Tell me that you do not know a position for the object or the person.
     End.
 End.
 
-To give someone something.
-    Move something to someone.
+To give a person an object.
+    Tell me that you give the object to the person.
+    Move the object to a person.
 End.
 
-To take something.
-    Tell me that you take something.
-    Make the robotic arm to take something.
+To give an object.
+    Tell me that you give the object to me.
+    Move the object to me.
+End.
+
+To take an object.
+    Tell me that you take the object.
+    Make the robotic arm to take the object.
 End.
 
