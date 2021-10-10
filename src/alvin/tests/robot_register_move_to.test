@@ -32,14 +32,14 @@
 >Ok.
 >Move the robotic arm to me.
 <Ok.
-<I move the robotic arm to you.
->Ok.
-<Your position has coordinates. 
-<You have the position.
-<I move the robotic arm to the position.
->Ok.
-<I call a function "__hap_calculate_orientation_from_position" with the robotic arm, the position and an orientation.
->Ok.
+""<I move the robotic arm to you.
+"">Ok.
+""<Your position has coordinates. 
+""<You have the position.
+""<I move the robotic arm to the position.
+"">Ok.
+""<I call a function "__hap_calculate_orientation_from_position" with the robotic arm, the position and an orientation.
+"">Ok.
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.

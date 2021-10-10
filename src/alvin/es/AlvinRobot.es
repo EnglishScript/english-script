@@ -225,7 +225,7 @@ End.
 A function "__hap_calculate_orientation_from_position".
 
 To calculate an orientation for a robotic arm from a position.
-    Tell me that you call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position and the orientation.
+    /*Tell me that you call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position and the orientation.*/
     Call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position and the orientation.
     If the function  "__hap_calculate_orientation_from_position" failed then.
         You failed to calculate the orientation for the robotic arm from the position.
@@ -233,54 +233,58 @@ To calculate an orientation for a robotic arm from a position.
 End.
 
 To make a robotic arm to open a hand.
-    Tell me that you make the robotic arm to open the hand.
+    /*Tell me that you make the robotic arm to open the hand.*/
     The target angle of the 1st servo motor of the robotic arm is 140 degrees.
     Move the robotic arm.
 End.
 
 To make a robotic arm to close a hand.
-    Tell me that you make the robotic arm to close the hand.
+    /*Tell me that you make the robotic arm to close the hand.*/
     The target angle of the 1th servo motor of the robotic arm is 85 degrees.
     Move the robotic arm.
 End.
 
 To move a robotic arm to a position /*FIXME:*/with a hack.
-    Tell me that you move the robotic arm to the position.
+    /*Tell me that you move the robotic arm to the position.*/
     Calculate an orientation for the robotic arm from the position.
     If you failed to calculate the orientation for the robotic arm from the position.
+        Do not wait for a response.
         Tell me that the robotic arm does not reach.
+        Wait for a response.
     Else.
         Move the robotic arm.
     End.
 End.
 
 To move a robotic arm to a person.
-    Tell me that you move the robotic arm to the person.
+    /*Tell me that you move the robotic arm to the person.*/
     If the person has a position then.
-        Tell me about the position.
+        /*Tell me about the position.*/
         Move the robotic arm to the position with a hack.
     End.
 End.
 
 To move a robotic arm to an object.
-    Tell me that you move the robotic arm to the object.
+    /*Tell me that you move the robotic arm to the object.*/
     If the object has a position then.
-        Tell me that the object has the position.
+        /*Tell me that the object has the position.*/
         Move the robotic arm to the position with a hack.
     End.
 End.
 
 To make a robotic arm to take an object.
-    Tell me that you make the robotic arm to take the object.
+    /*Tell me that you make the robotic arm to take the object.*/
     If the object has a position /* FIXME: and the position has coordinates*/ then.
-        Tell me about the position.
+        /*Tell me about the position.*/
         Make the robotic arm to open a hand.
-        Tell me that you opened the hand.
+        /*Tell me that you opened the hand.*/
         Move the robotic arm to the object.
         Make the robotic arm to close the hand.
-        Tell me that you took the object.
+        /*Tell me that you took the object.*/
     Else.
+        Do not wait for a response.
         Tell me that you do not know a position for the object.
+        Wait for a response.
     End.
 End.
 
@@ -291,29 +295,31 @@ To move an object to a position.
 End.
 
 To move an object to a person.
-    Tell me that you move the object to the person.
+    /*Tell me that you move the object to the person.*/
     If the object has a position and the person has a position then.
         Make the robotic arm to take the object.
-        Tell me that the robotic arm took the object.
+        /*Tell me that the robotic arm took the object.*/
         Move the robotic arm to the person.
         Make the robotic arm to open a hand.
     Else.
+        Do not wait for a response.
         Tell me that you do not know a position for the object or the person.
+        Wait for a response.
     End.
 End.
 
 To give a person an object.
-    Tell me that you give the object to the person.
+    /*Tell me that you give the object to the person.*/
     Move the object to a person.
 End.
 
 To give an object.
-    Tell me that you give the object to me.
+    /*Tell me that you give the object to me.*/
     Move the object to me.
 End.
 
 To take an object.
-    Tell me that you take the object.
+    /*Tell me that you take the object.*/
     Make the robotic arm to take the object.
 End.
 

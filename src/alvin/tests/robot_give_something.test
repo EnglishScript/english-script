@@ -28,16 +28,16 @@
 
 >Give the cup.
 <Ok.
-<I give the cup to you.
->Ok.
-<I move the cup to you.
->Ok.
-<I make a robotic arm to take the cup.
->Ok.
-<A position of the cup has coordinates.
-<The cup has the position.
-<I make the robotic arm to open a hand.
->Ok.
+""<I give the cup to you.
+"">Ok.
+""<I move the cup to you.
+"">Ok.
+""<I make a robotic arm to take the cup.
+"">Ok.
+""<A position of the cup has coordinates.
+""<The cup has the position.
+""<I make the robotic arm to open a hand.
+"">Ok.
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
@@ -65,16 +65,16 @@
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
 <Ok.
-<I opened a hand.
->Ok.
-<I move the robotic arm to the cup.
->Ok.
-<The cup has the position.
->Ok.
-<I move the robotic arm to the position.
->Ok.
-<I call a function "__hap_calculate_orientation_from_position" with the robotic arm, the position and an orientation.
->Ok.
+""<I opened a hand.
+"">Ok.
+""<I move the robotic arm to the cup.
+"">Ok.
+""<The cup has the position.
+"">Ok.
+""<I move the robotic arm to the position.
+"">Ok.
+""<I call a function "__hap_calculate_orientation_from_position" with the robotic arm, the position and an orientation.
+"">Ok.
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
@@ -104,8 +104,8 @@
 >The robotic arm has stopped.
 <Ok.
 
-<I make the robotic arm to close the hand.
->Ok.
+""<I make the robotic arm to close the hand.
+"">Ok.
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
@@ -134,18 +134,18 @@
 >The robotic arm has stopped.
 <Ok.
 
-<I took the cup.
->Ok.
-<The robotic arm took the cup.
->Ok.
-<I move the robotic arm to you.
->Ok.
-<Your position has coordinates.
-<You have the position.
-<I move the robotic arm to the position.
->Ok.
-<I call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position and an orientation.
->Ok.
+""<I took the cup.
+"">Ok.
+""<The robotic arm took the cup.
+"">Ok.
+""<I move the robotic arm to you.
+"">Ok.
+""<Your position has coordinates.
+""<You have the position.
+""<I move the robotic arm to the position.
+"">Ok.
+""<I call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position and an orientation.
+"">Ok.
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
@@ -175,8 +175,8 @@
 >The robotic arm has stopped.
 <Ok.
 
-<I make the robotic arm to open a hand.
->Ok.
+""<I make the robotic arm to open a hand.
+"">Ok.
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
