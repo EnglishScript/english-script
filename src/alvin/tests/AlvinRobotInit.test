@@ -40,7 +40,7 @@
 <[c,a]OK.
 <[a,c]The 1st servo motor of the robotic arm is connected to you 25th connector pin.
 <[c,a]OK.
-<[a,c]The initial angle of the 1st servo motor of the robotic arm is 90 degrees.
+<[a,c]The initial angle of the 1st servo motor of the robotic arm is 85 degrees.
 <[c,a]OK.
 <[a,c]The voltage of the 1st servo motor of the robotic arm is measured from you 32nd connector pin.
 <[a,c]The maximum voltage of the 1st servo motor of the robotic arm is 0.12 volts.
@@ -49,31 +49,31 @@
 <[c,a]OK.
 <[a,c]The 3rd servo motor of the robotic arm is connected to you 26th connector pin.
 <[c,a]OK.
-<[a,c]The initial angle of the 3rd servo motor of the robotic arm is 90 degrees.
+<[a,c]The initial angle of the 3rd servo motor of the robotic arm is 180 degrees.
 <[c,a]OK.
-<[a,c]The 5th servo motor of the robotic arm is a mg90s motor.
+<[a,c]The 5th servo motor of the robotic arm is a mg996r motor.
 <[c,a]OK.
-<[a,c]The 5th servo motor of the robotic arm is connected to you 16th connector pin.
+<[a,c]The 5th servo motor of the robotic arm is connected to you 19th connector pin.
 <[c,a]OK.
 <[a,c]The initial angle of the 5th servo motor of the robotic arm is 90 degrees.
 <[c,a]OK.
-<[a,c]The 2nd servo motor of the robotic arm is a mg996r motor.
+<[a,c]The 2nd servo motor of the robotic arm is a mg90s motor.
 <[c,a]OK.
-<[a,c]The 2nd servo motor of the robotic arm is connected to you 19th connector pin.
+<[a,c]The 2nd servo motor of the robotic arm is connected to you 17th connector pin.
 <[c,a]OK.
-<[a,c]The initial angle of the 2nd servo motor of the robotic arm is 90 degrees.
+<[a,c]The initial angle of the 2nd servo motor of the robotic arm is 180 degrees.
 <[c,a]OK.
 <[a,c]The 6th servo motor of the robotic arm is a mg90s motor.
 <[c,a]OK.
-<[a,c]The 6th servo motor of the robotic arm is connected to you 17th connector pin.
+<[a,c]The 6th servo motor of the robotic arm is connected to you 16th connector pin.
 <[c,a]OK.
-<[a,c]The initial angle of the 6th servo motor of the robotic arm is 0 degrees.
+<[a,c]The initial angle of the 6th servo motor of the robotic arm is 90 degrees.
 <[c,a]OK.
 <[a,c]The 4th servo motor of the robotic arm is a mg90s motor.
 <[c,a]OK.
 <[a,c]The 4th servo motor of the robotic arm is connected to you 27th connector pin.
 <[c,a]OK.
-<[a,c]The initial angle of the 4th servo motor of the robotic arm is 90 degrees.
+<[a,c]The initial angle of the 4th servo motor of the robotic arm is 180 degrees.
 <[c,a]OK.
 <[a,c]The polarity of the 4th servo motor of the robotic arm is reversed.
 <[c,a]OK.
