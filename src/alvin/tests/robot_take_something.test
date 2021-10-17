@@ -48,7 +48,7 @@
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
-<The target angle of the 1st servo motor of the robotic arm is 140 degrees.
+<The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
@@ -73,6 +73,14 @@
 "">Ok.
 ""<I call a function "__hap_calculate_orientation_from_position" with the robotic arm, the position and an orientation.
 "">Ok.
+
+<What is the 1st coordinate of the position of the cup?
+>0.0 meters.
+<What is the 2nd coordinate of the position of the cup?
+>0.075 meters.
+<What is the 3rd coordinate of the position of the cup?
+>-0.2101 meters.
+
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
@@ -86,7 +94,7 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
-<The target angle of the 1st servo motor of the robotic arm is 140 degrees.
+<The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.

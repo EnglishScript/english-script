@@ -8,12 +8,12 @@
         "program": "${workspaceRoot}/../../../es/bin/es-test",
         "args": [
           "-r", "-3", "-b", "-s",
-          "tests/usa_presidents.test",
+          "tests/select_image.test",
           "${workspaceRoot}/../../bin/alvin.eso"
         ],
         "cwd": "${workspaceRoot}",
         "environment": [
-          { "name": "LD_LIBRARY_PATH", "value": "/usr/local/lib:${workspaceRoot}/../../../es/lib" },
+          { "name": "LD_LIBRARY_PATH", "value": "/usr/local/lib:${workspaceRoot}/../../../es/lib:${workspaceRoot}/../../../tmmath/lib" },
           { "name": "ES_DATA_PATH", "value": "${workspaceRoot}/../../data" }
         ],
         "externalConsole": true,
@@ -35,7 +35,7 @@
         ],
         "cwd": "${workspaceRoot}",
         "environment": [
-          { "name": "LD_LIBRARY_PATH", "value": "/usr/local/lib:${workspaceRoot}/../../../es/lib" },
+          { "name": "LD_LIBRARY_PATH", "value": "/usr/local/lib:${workspaceRoot}/../../../es/lib:${workspaceRoot}/../../../tmmath/lib" },
           { "name": "ES_DATA_PATH", "value": "${workspaceRoot}/../../data" }
         ],
         "externalConsole": true,

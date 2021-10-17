@@ -141,6 +141,7 @@ The position of a person has coordinates.
 A ball is round.
 A cup is an object.
 A mug is an object.
+A bottle is an object.
 
 /* Recognized objects */
 
@@ -154,6 +155,8 @@ A mug.
 The 1st coordinate of my position is 0.0 meters.
 The 2nd coordinate of my position is 0.25 meters.
 The 3rd coordinate of my position is -0.49 meters.
+
+A device is a machine.
 
 To initialize a robotic arm.
     Tell the ESP32-WROOM-32D chip to clear the memory of the ESP32-WROOM-32D chip.
@@ -243,7 +246,7 @@ To make a robotic arm to open a hand.
     /*Tell me that you make the robotic arm to open the hand.*/
     /*FIXME: why remembering needed, why stating is not enough?*/
     /*FIXME: why remembering second time fails the test.*/
-    /*Remember that*/ Assign 140 degrees to the target angle of the 1st servo motor of the robotic arm /*is 140 degrees*/.
+    /*Remember that*/ Assign 170 degrees to the target angle of the 1st servo motor of the robotic arm /*is 140 degrees*/.
     Move the robotic arm.
 End.
 
@@ -275,6 +278,21 @@ End.
 
 To move a robotic arm to an object.
     /*Tell me that you move the robotic arm to the object.*/
+    If the object has a position /* FIXME: and the position has coordinates*/ then.
+        If the position has coordinates then.
+            Ask this device that what is the 1st coordinate.
+            Ask this device that what is the 2nd coordinate.
+            Ask this device that what is the 3rd coordinate.
+        End.
+    End.
+    If I /*FIXME: this device */ was sorry then.
+        I am not sorry.
+        I was not sorry.
+        Do not wait for a response.
+        Tell me that you don't know the position of the object.
+        Wait for a response.
+        Return.
+    End.
     If the object has a position then.
         /*Tell me that the object has the position.*/
         Move the robotic arm to the position with a hack.

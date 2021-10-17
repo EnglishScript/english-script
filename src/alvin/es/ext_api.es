@@ -10,27 +10,27 @@ A function "__ext_call_phone_number".*/
 A function "__ext_change_tts_state".
 
 To select an image from a gallery.
-    Ask the device to select the image from the gallery.
+    Ask this device to select the image from the gallery.
     /*Call the function "__ext_select_image_from_gallery" with the image.*/
 End.
 
 To take a picture.
-    Ask the device to take the picture.
+    Ask this device to take the picture.
     /* Call the function "__ext_take_picture" with the picture. */
 End.
 
 To show an image.
-    Ask the device to show the image in the file path of the image.
+    Ask this device to show the image in the file path of the image.
     /* Call the function "__ext_show_image" with the image. */
 End.
 
 To show a picture.
-    Ask the device to show the picture in the file path of the picture.
+    Ask this device to show the picture in the file path of the picture.
     /* Call the function "__ext_show_image" with the picture. */
 End.
 
 To show settings.
-    Ask the device to show the settings.
+    Ask this device to show the settings.
     /* Call the function "__ext_show_settings". */
 End.
 
