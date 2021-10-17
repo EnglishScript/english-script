@@ -151,13 +151,13 @@ A bottle is an object.
 A cup.
 The 1st coordinate of the position of the cup is 0.0 meters.
 The 2nd coordinate of the position of the cup is 0.075 meters.
-The 3rd coordinate of the position of the cup is -0.2101 meters.
+The 3rd coordinate of the position of the cup is -0.1101 meters.
 
 A mug.
 
 The 1st coordinate of my position is 0.0 meters.
 The 2nd coordinate of my position is 0.25 meters.
-The 3rd coordinate of my position is -0.49 meters.
+The 3rd coordinate of my position is -0.39 meters.
 
 A device is a machine.
 
