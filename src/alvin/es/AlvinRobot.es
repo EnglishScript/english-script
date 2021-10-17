@@ -133,6 +133,9 @@ The debug level of the device handler of the ESP32 software is full.
 If someone is sorry then.
     Remember that someone was sorry.
 End.
+/*If someone does not know then.
+    Remember that someone do know.
+End.*/
 
 An object has a position.
 The position of an object has coordinates.
@@ -242,6 +245,14 @@ To calculate an orientation for a robotic arm from a position.
     End.
 End.
 
+To check an orientation for a robotic arm from a position.
+    /*Tell me that you call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position and the orientation.*/
+    Call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position, the orientation and a check option "check".
+    If the function  "__hap_calculate_orientation_from_position" failed then.
+        You failed to check the orientation for the robotic arm from the position.
+    End.
+End.
+
 To make a robotic arm to open a hand.
     /*Tell me that you make the robotic arm to open the hand.*/
     /*FIXME: why remembering needed, why stating is not enough?*/
@@ -278,21 +289,6 @@ End.
 
 To move a robotic arm to an object.
     /*Tell me that you move the robotic arm to the object.*/
-    If the object has a position /* FIXME: and the position has coordinates*/ then.
-        If the position has coordinates then.
-            Ask this device that what is the 1st coordinate.
-            Ask this device that what is the 2nd coordinate.
-            Ask this device that what is the 3rd coordinate.
-        End.
-    End.
-    If I /*FIXME: this device */ was sorry then.
-        I am not sorry.
-        I was not sorry.
-        Do not wait for a response.
-        Tell me that you don't know the position of the object.
-        Wait for a response.
-        Return.
-    End.
     If the object has a position then.
         /*Tell me that the object has the position.*/
         Move the robotic arm to the position with a hack.
@@ -323,21 +319,52 @@ End.
 
 To move an object to a person.
     /*Tell me that you move the object to the person.*/
-    If the object has a position and the person has a position then.
-        Make the robotic arm to take the object.
-        /*Tell me that the robotic arm took the object.*/
-        Move the robotic arm to the person.
-        Make the robotic arm to open a hand.
+    If the object has a position then.
+        If the position has coordinates then.
+            Ask this device that what is the 1st coordinate.
+            Ask this device that what is the 2nd coordinate.
+            Ask this device that what is the 3rd coordinate.
+            If I /*FIXME: this device */ was sorry then.
+                I am not sorry.
+                I was not sorry.
+                Do not wait for a response.
+                Tell me that you don't know the position of the object.
+                Wait for a response.
+                Return.
+            End.
+        Else.
+            Do not wait for a response.
+            Tell me that you don't know the position of the object.
+            Wait for a response.
+            Return.
+        End.
+        Check an orientation for the robotic arm from the position.
+        If you failed to check the orientation for the robotic arm from the position.
+            Do not wait for a response.
+            Tell me that you do not reach the object.
+            Wait for a response.
+        Else.
+            If the person has a position then.
+                Make the robotic arm to take the object.
+                /*Tell me that the robotic arm took the object.*/
+                Move the robotic arm to the person.
+                Make the robotic arm to open a hand.
+            Else.
+                Do not wait for a response.
+                Tell me that you do not know a position for the person.
+                Wait for a response.
+            End.
+        End.
     Else.
         Do not wait for a response.
-        Tell me that you do not know a position for the object or the person.
+        Tell me that you do not know a position for the object.
         Wait for a response.
     End.
 End.
 
 To give a person an object.
     /*Tell me that you give the object to the person.*/
-    Move the object to a person.
+    Move the object to the person.
 End.
 
 To give an object.
@@ -347,6 +374,44 @@ End.
 
 To take an object.
     /*Tell me that you take the object.*/
-    Make the robotic arm to take the object.
+    If the object has a position then.
+        If the position has coordinates then.
+            Ask this device that what is the 1st coordinate.
+            Ask this device that what is the 2nd coordinate.
+            Ask this device that what is the 3rd coordinate.
+            If I /*FIXME: this device */ was sorry then.
+                I am not sorry.
+                I was not sorry.
+                Do not wait for a response.
+                Tell me that you don't know the position of the object.
+                Wait for a response.
+                Return.
+            End.
+            If I /*FIXME: this device */ did not know then.
+                Forget that I do not know.
+                Do not wait for a response.
+                Tell me that you don't know the position of the object.
+                Wait for a response.
+                Return.
+            End.
+        Else.
+            Do not wait for a response.
+            Tell me that you don't know the position of the object.
+            Wait for a response.
+            Return.
+        End.
+        Check an orientation for the robotic arm from the position.
+        If you failed to check the orientation for the robotic arm from the position.
+            Do not wait for a response.
+            Tell me that you do not reach the object.
+            Wait for a response.
+        Else.
+            Make the robotic arm to take the object.
+        End.
+    Else.
+        Do not wait for a response.
+        Tell me that you do not know a position for the object.
+        Wait for a response.
+    End.
 End.
 
