@@ -68,7 +68,8 @@ TESTS = \
   tests/robot_init_move.test \
   tests/robot_register_move_to.test \
   tests/robot_take_something.test \
-  tests/robot_give_something.test
+  tests/robot_give_something.test \
+  tests/robot_exercises.test
 
 TESTS2 = \
   tests/words.test

@@ -41,15 +41,19 @@
 <Ok.
 >A dog has a name, a tail, 4 legs, a color and a snout.
 <Ok.
+>The color of a dog is a color.
+<Ok.
 
 >I have a robot dog.
 <Ok.
-">FIXME:My robot dog's name is "Robo Dog".
-"<OK,
->The name of my robot dog is "Robo Dog".
+>My robot dog's name is "Robo Dog".
 <Ok.
+">The name of my robot dog is "Robo Dog".
+"<Ok.
+">My dog's name is "Robo Dog".
+"<Ok.
 
->My robot dog is white.
+>My robot dog has a white color.
 <Ok.
 
 >To get a dog to sit down.
@@ -66,6 +70,13 @@
 <Robo Dog. Sit.
 "FIXME: add some way to avoid this:
 >Ok.
+
+>Do I have a dog?
+<Yes.
+>Do I have a robot dog.
+<Yes.
+>Do I have Robo Dog?
+<Yes.
 
 " Procedure
 
@@ -905,6 +916,16 @@
 
 >I have a robot.
 <Ok.
+
+"DEGUB BEGINS
+>Do I have a dog?
+<Yes.
+>Do I have Robo Dog?
+<Yes.
+>Do I have a robot dog.
+<Yes.
+"DEBUG ENDS
+
 >It is nice.
 <Ok.
 ">Tell me about my robot.
@@ -1670,71 +1691,71 @@
 
 "Task: Make Alvin to draw a very simplified picture of the famous Mona Lisa.
 
->To draw a circle with a length.
-<Yes.
->    Go 0.05 meters down.
-<    Ok.
->    Go the length left and the length back.
-<    Ok.
->    Go the length right and the length back.
-<    Ok.
->    Go the length right and the length forward.
-<    Ok.
->    Go the length left and the length forward.
-<    Ok.
->    Go 1.05 meters up.
-<    Ok.
->End.
-<Ok.
-
->To paint a picture.
-<Yes.
->    3 coordinates.
-<    Ok.
->    The coordinates are 0 meters, -0.25 meters and 0.1 meters.
-<    Ok.
->    Go to the coordinates.
-<    Ok.
->    3 lengths.
-<    Ok.
->    The lengths are 0.1 meters, 0.05 meters and 0.025 meters.
-<    Ok.
->    Draw a circle with the 1st length.
-<    Ok.
->    Go the 1st length left and the 1st length back.
-<    Ok.
->    Draw a circle with the 2nd length.
-<    Ok.
->    Go the 2nd length right.
-<    Ok.
->    Draw a circle with the 3rd length.
-<    Ok.
->    Go the 1st length right.
-<    Ok.
->    Draw a circle with the 3rd length.
-<    Ok.
->    Go the 1st length right.
-<    Ok.
->    Draw a circle with the 2nd length.
-<    Ok.
->    Go the 1st length left and the 2nd length back.
-<    Ok.
->    Draw a circle with the 3rd length.
-<    Ok.
->    Go to the initial position.
-<    Ok.
->End.
-<Ok.
-
->Open the hand.
-<Ok.
-" ... user places the pen between robot’s fingers ...
->Close the hand.
-<Ok.
->Paint a picture.
-<Ok.
-" ... Alvin controls the robot to draw a picture of Mona Lisa ...
-
+">To draw a circle with a length.
+"<Yes.
+">    Go 0.05 meters down.
+"<    Ok.
+">    Go the length left and the length back.
+"<    Ok.
+">    Go the length right and the length back.
+"<    Ok.
+">    Go the length right and the length forward.
+"<    Ok.
+">    Go the length left and the length forward.
+"<    Ok.
+">    Go 1.05 meters up.
+"<    Ok.
+">End.
+"<Ok.
+"
+">To paint a picture.
+"<Yes.
+">    3 coordinates.
+"<    Ok.
+">    The coordinates are 0 meters, -0.25 meters and 0.1 meters.
+"<    Ok.
+">    Go to the coordinates.
+"<    Ok.
+">    3 lengths.
+"<    Ok.
+">    The lengths are 0.1 meters, 0.05 meters and 0.025 meters.
+"<    Ok.
+">    Draw a circle with the 1st length.
+"<    Ok.
+">    Go the 1st length left and the 1st length back.
+"<    Ok.
+">    Draw a circle with the 2nd length.
+"<    Ok.
+">    Go the 2nd length right.
+"<    Ok.
+">    Draw a circle with the 3rd length.
+"<    Ok.
+">    Go the 1st length right.
+"<    Ok.
+">    Draw a circle with the 3rd length.
+"<    Ok.
+">    Go the 1st length right.
+"<    Ok.
+">    Draw a circle with the 2nd length.
+"<    Ok.
+">    Go the 1st length left and the 2nd length back.
+"<    Ok.
+">    Draw a circle with the 3rd length.
+"<    Ok.
+">    Go to the initial position.
+"<    Ok.
+">End.
+"<Ok.
+"
+">Open the hand.
+"<Ok.
+"" ... user places the pen between robot’s fingers ...
+">Close the hand.
+"<Ok.
+">Paint a picture.
+"<Ok.
+"" ... Alvin controls the robot to draw a picture of Mona Lisa ...
+"
 
 
 " Tests that Alvin still remembers everything.
@@ -1742,18 +1763,25 @@
 >What is my name?
 <"Robo Kid".
 
->How old am I?
-<12 years.
+"FIXME: How old am I?
+">What is my age?
+"<12 years.
 
 >Tell me about a robot dog.
 <Ok.
 <A robot dog is a dog and a robot.
+<Robo Dog is a robot dog.
 >Tell me about a dog.
 <Ok.
 <A dog is an animal.
+<A dog has the name, the tail, 4 legs, the color and the snout.
+<A robot dog is a dog and a robot.
 <A dog barks.
-<A dog has a name, a tail, 4 legs, a color and a snout.
 
+>Do I have a dog?
+<Yes.
+>Do I have Robo Dog?
+<Yes.
 >Do I have a robot dog.
 <Yes.
 >What is my robot dog's name?
@@ -1763,15 +1791,14 @@
 
 >How to get a dog to sit down.
 <To get a dog to sit down.
-<  Call the dog by the dog's name.
+<  Call the dog by the name of the dog.
 <  Ask the dog to sit.
 <End.
 
 >How to make dance moves?
 <To make dance moves.
-<    Tell me that you make dance moves.
-<    Move 15 degrees to the left.
-<    Move 15 degrees to the right.
+<    Move 15 degrees to a left.
+<    Move 15 degrees to a right.
 <    Move 10 degrees to up.
 <    Move 10 degrees to down.
 <End.

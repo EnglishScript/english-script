@@ -40,7 +40,7 @@ A name is a string literal.
 A being is a thing.
 A being has a name, an age, a birthday, a father, a mother, sisters, sons, daughters, brothers,
 sisters, aunts, uncles, grandmothers, grandfathers, friends, pets, /* FIXME: these should not
-be needed since we got "pets" already */ cats, dogs, feelings, hobbies, heroes and a home.
+be needed since we got "pets" already */ cats, dogs, feelings, hobbies, heroes, a color and a home.
 
 A friend is a being.
 A friend is a person.
