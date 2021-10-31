@@ -40,9 +40,10 @@ The verb "measured" is the 2nd form of the verb "measure".
 The verb "measured" is the 3rd form of the verb "measure".
 The verb "measures" is the 3rd person form of the verb "measure".
 
-A robotic arm has a name, servo motors, joints, links, a wrist, a tag and an end effector.
+A robotic arm has a name, servo motors, joints, links, a wrist, a hand, a tag, an initial position and an end effector.
 "angle-to-PWM-time" is a noun.
 "PWM" is a noun.
+The initial position of a robotic arm has coordinates.
 
 An angle is degrees.
 A coordinate is meters.
@@ -87,6 +88,7 @@ The links of a robotic arm have a length and a tag.
 The length is meters.
 
 An object is a thing.
+
 /*FIXME: A robot is an object.*/
 
 /* classes */

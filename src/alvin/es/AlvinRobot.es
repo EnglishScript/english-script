@@ -2,12 +2,16 @@
 
 /* the robot */
 A robotic arm.
-The robotic arm has /*a name and*/ an ESP32-WROOM-32D chip /*FIXME:, 1 motors, 1 joints, 2 links*/.
+The robotic arm has a name and an ESP32-WROOM-32D chip /*FIXME:, 1 motors, 1 joints, 2 links*/.
 The name of the ESP32-WROOM-32D chip is "ESP32".
 The ESP32-WROOM-32D chip has 0 retries.
 
-/*"AlvinRobot" is a noun.
-The name of the robotic arm is "AlvinRobot".*/
+The name of the robotic arm is "this robot".
+
+The 1st coordinate of the initial position of the robotic arm is 0.0 meters.
+The 2nd coordinate of the initial position of the robotic arm is 0.32 meters.
+The 3rd coordinate of the initial position of the robotic arm is -0.39 meters.
+
 
 /* motors */
 
@@ -94,6 +98,7 @@ The length of the 2nd link of the robotic arm is 0.135 meters.
 The length of the 3rd link of the robotic arm is 0.13 meters.
 The length of the 4th link of the robotic arm is 0.06 meters.
 The length of the 5th link of the robotic arm is 0.015 meters.
+The 1st link of the robotic arm is the hand of the robotic arm.
 
 /* joints */
 
@@ -145,6 +150,10 @@ A ball is round.
 A cup is an object.
 A mug is an object.
 A bottle is an object.
+A ball is an object.
+A box is an object.
+
+A table.
 
 /* Recognized objects */
 
@@ -156,8 +165,20 @@ The 3rd coordinate of the position of the cup is -0.1101 meters.
 A mug.
 
 The 1st coordinate of my position is 0.0 meters.
-The 2nd coordinate of my position is 0.25 meters.
+The 2nd coordinate of my position is 0.32 meters.
 The 3rd coordinate of my position is -0.39 meters.
+
+A ball.
+/*FIXME: these should not be needed at all:*/
+The 1st coordinate of the position of the ball is 0.0 meters.
+The 2nd coordinate of the position of the ball is 0.0 meters.
+The 3rd coordinate of the position of the ball is 0.0 meters.
+
+/* FIXME: this should not be needed.*/
+A box.
+The 1st coordinate of the position of the box is 0.0 meters.
+The 2nd coordinate of the position of the box is 0.0 meters.
+The 3rd coordinate of the position of the box is 0.0 meters.
 
 A device is a machine.
 
@@ -231,6 +252,16 @@ To move a robotic arm.
     Wait for the robotic arm to stop.
 End.
 
+To move to an initial position.
+    Assign the initial angle of the 1st servo motor of the robotic arm to the target angle of the 1st servo motor of the robotic arm.
+    Assign the initial angle of the 2nd servo motor of the robotic arm to the target angle of the 2nd servo motor of the robotic arm.
+    Assign the initial angle of the 3rd servo motor of the robotic arm to the target angle of the 3rd servo motor of the robotic arm.
+    Assign the initial angle of the 4th servo motor of the robotic arm to the target angle of the 4th servo motor of the robotic arm.
+    Assign the initial angle of the 5th servo motor of the robotic arm to the target angle of the 5th servo motor of the robotic arm.
+    Assign the initial angle of the 6th servo motor of the robotic arm to the target angle of the 6th servo motor of the robotic arm.
+    Move the robotic arm.
+End.
+
 To /*FIXME: soft*/ reset a robotic arm.
     Tell the ESP32-WROOM-32D chip to reset.
 End.
@@ -273,10 +304,15 @@ To move a robotic arm to a position /*FIXME:*/with a hack.
     If you failed to calculate the orientation for the robotic arm from the position.
         Do not wait for a response.
         Tell me that the robotic arm does not reach.
+        Forget that you failed to calculate the orientation for the robotic arm from the position.
         Wait for a response.
     Else.
         Move the robotic arm.
     End.
+End.
+
+To move to a position.
+    Move the robotic arm to the position with a hack.
 End.
 
 To move a robotic arm to a person.
@@ -342,13 +378,22 @@ To move an object to a person.
         If you failed to check the orientation for the robotic arm from the position.
             Do not wait for a response.
             Tell me that you do not reach the object.
+            Forget that you failed to check the orientation for the robotic arm from the position.
             Wait for a response.
         Else.
             If the person has a position then.
-                Make the robotic arm to take the object.
-                /*Tell me that the robotic arm took the object.*/
-                Move the robotic arm to the person.
-                Make the robotic arm to open a hand.
+                Check an orientation for the robotic arm from the position.
+                If you failed to check the orientation for the robotic arm from the position.
+                    Do not wait for a response.
+                    Tell me that you do not reach the person.
+                    Forget that you failed to check the orientation for the robotic arm from the position.
+                    Wait for a response.
+                Else.
+                    Make the robotic arm to take the object.
+                    /*Tell me that the robotic arm took the object.*/
+                    Move the robotic arm to the person.
+                    Make the robotic arm to open a hand.
+                End.
             Else.
                 Do not wait for a response.
                 Tell me that you do not know a position for the person.
@@ -360,6 +405,108 @@ To move an object to a person.
         Tell me that you do not know a position for the object.
         Wait for a response.
     End.
+End.
+
+To look nice.
+End.
+
+To move a 1st object to a 2nd object.
+    /*Tell me that you move the object to the person.*/
+    If the 1st object has a position then.
+        If the position has coordinates then.
+            Ask this device that what is the 1st coordinate.
+            Ask this device that what is the 2nd coordinate.
+            Ask this device that what is the 3rd coordinate.
+            If I /*FIXME: this device */ was sorry then.
+                I am not sorry.
+                I was not sorry.
+                Do not wait for a response.
+                Tell me that you don't know the position of the 1st object.
+                Wait for a response.
+                Return.
+            End.
+        Else.
+            Do not wait for a response.
+            Tell me that you don't know the position of the 1st object.
+            Wait for a response.
+            Return.
+        End.
+        Check an orientation for the robotic arm from the position.
+        If you failed to check the orientation for the robotic arm from the position.
+            Do not wait for a response.
+            Tell me that you do not reach the 1st object.
+            Forget that you failed to check the orientation for the robotic arm from the position.
+            Wait for a response.
+        Else.
+            If the 2nd object has a position then.
+                If the position has coordinates then.
+                    Ask this device that what is the 1st coordinate.
+                    Ask this device that what is the 2nd coordinate.
+                    Ask this device that what is the 3rd coordinate.
+                    If I /*FIXME: this device */ was sorry then.
+                        I am not sorry.
+                        I was not sorry.
+                        /* Just ignore and use the current value. */
+                        /*Tell me that you check the 2nd object.*/
+                    End.
+                    Look nice. /*FIXME: this should not be needed here*/
+                Else.
+                    Do not wait for a response.
+                    Tell me that you don't know the position of the 2nd object.
+                    Wait for a response.
+                    Return.
+                End.
+                Check an orientation for the robotic arm from the position.
+                If you failed to check the orientation for the robotic arm from the position.
+                    Do not wait for a response.
+                    Tell me that you do not reach the 2nd object.
+                    Forget that you failed to check the orientation for the robotic arm from the position.
+                    Wait for a response.
+                Else.
+                    Make the robotic arm to take the 1st object.
+                    /*Tell me that the robotic arm took the object.*/
+                    Move the robotic arm to the 2nd object.
+                    Make the robotic arm to open a hand.
+                End.
+            Else.
+                Do not wait for a response.
+                Tell me that you do not know a position for the 2nd object.
+                Wait for a response.
+            End.
+        End.
+    Else.
+        Do not wait for a response.
+        Tell me that you do not know a position for the 1st object.
+        Wait for a response.
+    End.
+End.
+
+To move degrees to the left.
+    Sum the degrees to the target angle of the 6th servo motor of the robotic arm.
+    Move the robotic arm.
+End.
+
+To move 1st degrees to the right.
+    An angle.
+    The angle is 10 degrees.
+    Assign the 1st degrees to the angle.
+    Multiply the angle by -1 degrees.
+    Sum the angle to the target angle of the 6th servo motor of the robotic arm.
+    Move the robotic arm.
+End.
+
+To move 1st degrees /*FIXME: */ to up.
+    An angle.
+    The angle is 0 degrees.
+    Assign the 1st degrees to the angle.
+    Multiply the angle by -1 degrees.
+    Sum the angle to the target angle of the 5th servo motor of the robotic arm.
+    Move the robotic arm.
+End.
+
+To move degrees /*FIXME: */ to down.
+    Sum the degrees to the target angle of the 5th servo motor of the robotic arm.
+    Move the robotic arm.
 End.
 
 To give a person an object.
@@ -415,3 +562,52 @@ To take an object.
     End.
 End.
 
+To open the hand of the robotic arm.
+    Make the robotic arm to open a hand.
+End.
+
+To close the hand of the robotic arm.
+    Make the robotic arm to close a hand.
+End.
+
+To calculate the position of an object for a robotic arm from an orientation.
+    The 1st coordinate of the position is 0.1 meters.
+    The 2nd coordinate of the position is 0.2 meters.
+    The 3rd coordinate of the position is 0.3 meters.
+End.
+
+/*
+To go meters to down.
+    A position of an object.
+    The 1st coordinate of the position is 0 meters.
+    The 2nd coordinate of the position is 0 meters.
+    The 3rd coordinate of the position is 0 meters.
+    Calculate the position for the robotic arm from an orientation.
+    Substract the meters from the 2nd coordinate of the position.
+    Calculate an orientation for the robotic arm from the position.
+    Move the robotic arm.
+End.
+
+To go meters to up.
+    The position of an object.
+    The 1st coordinate of the position is 0 meters.
+    The 2nd coordinate of the position is 0 meters.
+    The 3rd coordinate of the position is 0 meters.
+    Calculate the position for the robotic arm from an orientation.
+    Sum the meters to the 2nd coordinate of the position.
+    Calculate an orientation for the robotic arm from the position.
+    Move the robotic arm.
+End.
+
+To go a length left and a length back.
+End.
+
+To go a length right and a length back.
+End.
+
+To go a length right and a length forward.
+End.
+
+To go a length left and a length forward.
+End.
+*/
