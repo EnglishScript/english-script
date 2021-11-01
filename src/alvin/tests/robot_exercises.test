@@ -224,23 +224,7 @@
 <Yes.
 >    Tell me that you dance disco.
 <    Ok.
-"FIXME:
-">    For 2 times.
->    2 loops.
-<    Ok.
->    The 1st loop is nice.
-<    Ok.
->    The 2nd loop is nice.
-<    Ok.
->    The 3rd loop is nice.
-<    Ok.
->    The 4th loop is nice.
-<    Ok.
->    The 5th loop is nice.
-<    Ok.
->    Tell me that you loop 2 times.
-<    Ok.
->    For each of the loops.
+>    For /*each of*/ 2 times.
 <    Yes.
 >        Make dance moves.
 <        Ok.
@@ -253,8 +237,6 @@
 <Ok.
 " ... Alvin moves the robot to make dance moves ...
 <I dance a disco.
->OK.
-<I loop 2 times.
 >OK.
 
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
