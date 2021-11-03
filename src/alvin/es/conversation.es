@@ -65,16 +65,16 @@ To have a 1st conversation with someone.
     /*Focus on someone.*/
     Until someone closes the 1st conversation with you then.
         If someone tells you that somebody does something then.
-            If someone tells you that this is some thing then.
+            /*If someone tells you that this is some thing then.
                 If I point to coordinates on this image then.
                     Remember that the thing is in this image in the coordinates.
                 Else.
                     Remember that the thing is in this image.
                 End.
-                Print "". /* FIXME: this is not needed here. */
-            Else.
+                Print "". / * FIXME: this is not needed here. * /
+            Else.*/
                 Remember something.
-            End.
+            /*End.*/
             Say "Ok" to someone.
         End.
         If someone tells you that somebody did something then.
@@ -121,6 +121,11 @@ To have a 1st conversation with someone.
             Remember shortly from something.
             Start to do something.
         End.
+        /*If someone asks you to do something somebody then.
+            Say "Ok" to someone.
+            Remember shortly from something.
+            Start to do something.
+        End.*/
         If someone asks you that /* TODO: what can you do */ can you do something then.
             Tell someone that you remember things for someone /* FIXME: and you do things for someone*/.
             Tell someone that you do things for someone.

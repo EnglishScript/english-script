@@ -739,8 +739,7 @@
 
 " giving the cup
 
-"FIXME: Give me this cup.
->Give the cup.
+>Give me the cup.
 <Ok.
 <What is the 1st coordinate of the position of the cup?
 >0.0 meters.

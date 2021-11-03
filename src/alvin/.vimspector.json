@@ -8,7 +8,7 @@
         "program": "${workspaceRoot}/../../../es/bin/es-test",
         "args": [
           "-r", "-3", "-b", "-s",
-          "tests/select_image.test",
+          "tests/robot_exercises.test",
           "${workspaceRoot}/../../bin/alvin.eso"
         ],
         "cwd": "${workspaceRoot}",
