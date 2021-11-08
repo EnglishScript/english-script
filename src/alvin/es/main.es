@@ -10,6 +10,7 @@ To begin.
         Say my name.
     Else.
         Say "Hi".
+        Do not wait for a response.
         Tell me your name.
         Tell me that you are an artificial intelligence.
         /* FIXME: Tell me that I am your friend.*/
@@ -17,8 +18,8 @@ To begin.
         /* FIXME: Tell me that you help me *TODO: me out*.*/
         Tell me that you help me /*TODO: out*/.
         /*Ask me my name.*/
+        Wait for a response.
     End.
-    Wait for a response.
     /*If you are not having a conversation with me then.*/
     Have a conversation with me.
     /*End.*/
