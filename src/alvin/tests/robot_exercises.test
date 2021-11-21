@@ -28,36 +28,6 @@
 
 " Class & inheritance & instance
 
-" Global logic
-
->If you see a ball then.
->  Wait for a response.
-<  Ok.
->  Forget that you see the ball.
-<  Ok.
->  Give me the ball.
-<  Ok.
->End.
-<Ok.
-
-"FIXME: does not work yet.
-"
-"
-"d3
-">You see the ball.
-"e3
-"<Ok.
-"<What is the 1st coordinate of the position of the ball?
-">0.05 meters.
-"<What is the 2nd coordinate of the position of the ball?
-">0.06 meters.
-"<What is the 3rd coordinate of the position of the ball?
-">-0.2 meters.
-"
-"<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
-">OK.
-
-
 >My name is "Robo Kid".
 <Ok.
 >I am 12 years old.
@@ -71,8 +41,8 @@
 <Ok.
 >A dog has a name, a tail, 4 legs, a color and a snout.
 <Ok.
->The color of a dog is a color.
-<Ok.
+"">The color of a dog is a color.
+""<Ok.
 
 >I have a robot dog.
 <Ok.
@@ -101,25 +71,19 @@
 "FIXME: add some way to avoid this:
 >Ok.
 
->Do I have a dog?
-<Yes.
->Do I have a robot dog.
-<Yes.
->Do I have Robo Dog?
-<Yes.
 
 " Procedure
 
 "FIXME: >To do dance moves.
 >To make dance moves.
 <Yes.
->    Move 15 degrees to the left.
+>    Move 15 degrees /*FIXME:*/ to the left.
 <    Ok.
->    Move 15 degrees to the right.
+>    Move 15 degrees /*FIXME:*/ to the right.
 <    Ok.
->    Move 10 degrees to up.
+>    Move 10 degrees /*FIXME:*/ to up.
 <    Ok.
->    Move 10 degrees to down.
+>    Move 10 degrees /*FIXME:*/ to down.
 <    Ok.
 >End.
 <Ok.
@@ -248,13 +212,14 @@
 
 " "Disco dance"
 
->"disco" is a noun.
-<Ok.
+"FIXME:
+">"disco" is a noun.
+"<Ok.
 >To dance disco.
 <Yes.
 >    Tell me that you dance disco.
 <    Ok.
->    For /*each of*/ 2 times.
+>    For 2 times.
 <    Yes.
 >        Make dance moves.
 <        Ok.
@@ -1773,6 +1738,34 @@ e3
 "" ... Alvin controls the robot to draw a picture of Mona Lisa ...
 "
 
+
+" General exercises
+
+>Tell me about my dog.
+<Ok.
+<Robo Dog has the name "Robo Dog".
+<Robo Dog is /*FIXME: white*/red.
+<You have Robo Dog.
+
+>What is my name?
+<"Robo Kid".
+
+>How old are you?
+<6 years.
+
+>Are you tired?
+<Yes.
+
+>How to dance disco?
+<To dance a disco.
+<    Tell me that you dance a disco.
+<    Until you are tired then.
+<        Make dance moves.
+<    End.
+<End.
+
+">What can you do?
+"<Ok.
 
 " Tests that Alvin still remembers everything.
 
