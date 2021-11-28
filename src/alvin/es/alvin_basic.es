@@ -45,6 +45,7 @@
 #include "geography.es"
 #include "food.es"
 #include "plants.es"
+#include "fruits.es"
 #include "geology.es"
 #include "works.es"
 #include "universe.es"

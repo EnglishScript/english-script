@@ -28,6 +28,8 @@
 
 " Class & inheritance & instance
 
+"FIXME: Speech recognition does not add "-characters around
+"       the name if it has more than one word.
 >My name is "Robo Kid".
 <Ok.
 >I am 12 years old.
@@ -77,13 +79,13 @@
 "FIXME: >To do dance moves.
 >To make dance moves.
 <Yes.
->    Move 15 degrees /*FIXME:*/ to the left.
+>    Turn 30 degrees.
 <    Ok.
->    Move 15 degrees /*FIXME:*/ to the right.
+>    Turn -30 degrees.
 <    Ok.
->    Move 10 degrees /*FIXME:*/ to up.
+>    Bow -20 degrees.
 <    Ok.
->    Move 10 degrees /*FIXME:*/ to down.
+>    Bow 20 degrees.
 <    Ok.
 >End.
 <Ok.
@@ -113,7 +115,7 @@
 >OK.
 <The target angle of the 5th servo motor of the robotic arm is 90 degrees.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 105 degrees.
+<The target angle of the 6th servo motor of the robotic arm is 120 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
@@ -169,7 +171,7 @@
 >OK.
 <The target angle of the 4th servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 80 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 70 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -228,6 +230,15 @@
 >End.
 <Ok.
 
+"FIXME:
+"">How to dance disco?
+""<To dance a disco.
+""<    Tell me that you dance a disco.
+""<    For 2 times.
+""<        Make dance moves.
+""<    End.
+""<End.
+
 >Dance disco.
 <Ok.
 " ... Alvin moves the robot to make dance moves ...
@@ -257,7 +268,7 @@
 >OK.
 <The target angle of the 5th servo motor of the robotic arm is 90 degrees.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 105 degrees.
+<The target angle of the 6th servo motor of the robotic arm is 120 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
@@ -313,7 +324,7 @@
 >OK.
 <The target angle of the 4th servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 80 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 70 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -373,7 +384,7 @@
 >OK.
 <The target angle of the 5th servo motor of the robotic arm is 90 degrees.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 105 degrees.
+<The target angle of the 6th servo motor of the robotic arm is 120 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
@@ -429,7 +440,7 @@
 >OK.
 <The target angle of the 4th servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 80 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 70 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -513,7 +524,7 @@
 >OK.
 <The target angle of the 5th servo motor of the robotic arm is 90 degrees.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 105 degrees.
+<The target angle of the 6th servo motor of the robotic arm is 120 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
@@ -569,7 +580,7 @@
 >OK.
 <The target angle of the 4th servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 80 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 70 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -629,7 +640,7 @@
 >OK.
 <The target angle of the 5th servo motor of the robotic arm is 90 degrees.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 105 degrees.
+<The target angle of the 6th servo motor of the robotic arm is 120 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
@@ -685,7 +696,7 @@
 >OK.
 <The target angle of the 4th servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 80 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 70 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -719,6 +730,9 @@
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
+>You are tired.
+<Ok.
+"FIXME: there should be no need for repeating.
 >You are tired.
 <Ok.
 >The robotic arm has stopped.
@@ -789,11 +803,11 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 176.8512 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 113.32758 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 176.8512 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 113.32758 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 1.604 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 39.88796 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -817,11 +831,11 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 176.8512 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 113.32758 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 176.8512 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 113.32758 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 1.604 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 39.88796 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -846,11 +860,11 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 122.19612 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 144.6835 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -874,11 +888,11 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 122.19612 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 144.6835 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -948,13 +962,13 @@
 
 "FIXME: >I have a box.
 "<Ok.
->The 1st coordinate of the position of the box is 0.2 meters.
-<Ok.
->The 2nd coordinate of the position of the box is 0.1 meters.
-<Ok.
->The 3rd coordinate of the position of the box is -0.2 meters.
-<Ok.
-"">The coordinates of the position of my box are 0.0 meters, 0.075 meters and -0.1101 meters.
+"">The 1st coordinate of the position of the box is 0.2 meters.
+""<Ok.
+"">The 2nd coordinate of the position of the box is 0.1 meters.
+""<Ok.
+"">The 3rd coordinate of the position of the box is -0.2 meters.
+""<Ok.
+"">The coordinates of the position of my box include 0.0 meters, 0.075 meters and -0.1101 meters.
 ""<Ok.
 
 >To clean a table from objects.
@@ -1005,11 +1019,11 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 122.19612 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 144.6835 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -1034,11 +1048,11 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 176.8512 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 113.32758 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 176.8512 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 113.32758 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 1.604 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 39.88796 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -1062,11 +1076,11 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 176.8512 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 113.32758 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 176.8512 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 113.32758 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 1.604 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 39.88796 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -1091,13 +1105,13 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 17.55977 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 70.52676 degrees.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 135 degrees.
+<The target angle of the 6th servo motor of the robotic arm is 63.43495 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
@@ -1119,13 +1133,13 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 17.55977 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 70.52676 degrees.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 135 degrees.
+<The target angle of the 6th servo motor of the robotic arm is 63.43495 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
@@ -1161,13 +1175,13 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 17.55977 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 70.52676 degrees.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 135 degrees.
+<The target angle of the 6th servo motor of the robotic arm is 63.43495 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
@@ -1190,11 +1204,11 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 86.55362 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 67.88248 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 86.55362 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 67.88248 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 43.70959 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 66.44101 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 104.03624 degrees.
 >OK.
@@ -1218,11 +1232,11 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 86.55362 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 67.88248 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 86.55362 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 67.88248 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 43.70959 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 66.44101 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 104.03624 degrees.
 >OK.
@@ -1247,13 +1261,13 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 17.55977 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 70.52676 degrees.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 135 degrees.
+<The target angle of the 6th servo motor of the robotic arm is 63.43495 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
@@ -1275,13 +1289,13 @@
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 17.55977 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 70.52676 degrees.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 135 degrees.
+<The target angle of the 6th servo motor of the robotic arm is 63.43495 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
@@ -1329,13 +1343,13 @@ e3
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 155.45312 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 76.62703 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 17.55977 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 70.52676 degrees.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 135 degrees.
+<The target angle of the 6th servo motor of the robotic arm is 63.43495 degrees.
 >OK.
 <Tell me if the robotic arm stopped.
 >The robotic arm has stopped.
@@ -1358,11 +1372,11 @@ e3
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 86.55362 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 67.88248 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 86.55362 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 67.88248 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 43.70959 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 66.44101 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 104.03624 degrees.
 >OK.
@@ -1386,11 +1400,11 @@ e3
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 86.55362 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 67.88248 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 86.55362 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 67.88248 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 43.70959 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 66.44101 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 104.03624 degrees.
 >OK.
@@ -1415,11 +1429,11 @@ e3
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 122.19612 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 144.6835 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -1443,11 +1457,11 @@ e3
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 122.19612 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 144.6835 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -1513,11 +1527,11 @@ e3
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 122.19612 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 144.6835 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -1544,11 +1558,11 @@ e3
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 3rd servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 112.38098 degrees.
+<The target angle of the 4th servo motor of the robotic arm is 86.85942 degrees.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 122.19612 degrees.
+<The target angle of the 5th servo motor of the robotic arm is 144.6835 degrees.
 >OK.
 <The target angle of the 6th servo motor of the robotic arm is 90 degrees.
 >OK.
@@ -1806,13 +1820,19 @@ e3
 
 >How to make dance moves?
 <To make dance moves.
-<    Move 15 degrees to a left.
-<    Move 15 degrees to a right.
-<    Move 10 degrees to up.
-<    Move 10 degrees to down.
+<    Turn 30 degrees.
+<    Turn -30 degrees.
+<    Bow -20 degrees.
+<    Bow 20 degrees.
 <End.
->Ok.
 
+>How to dance disco?
+<To dance a disco.
+<    Tell me that you dance a disco.
+<    Until you are tired then.
+<        Make dance moves.
+<    End.
+<End.
 
 " Old stuff
 

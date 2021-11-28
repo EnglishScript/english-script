@@ -176,9 +176,9 @@ The 3rd coordinate of the position of the ball is 0.0 meters.
 
 /* FIXME: this should not be needed.*/
 A box.
-The 1st coordinate of the position of the box is 0.0 meters.
-The 2nd coordinate of the position of the box is 0.0 meters.
-The 3rd coordinate of the position of the box is 0.0 meters.
+The 1st coordinate of the position of the box is -0.1 meters.
+The 2nd coordinate of the position of the box is 0.1 meters.
+The 3rd coordinate of the position of the box is -0.2 meters.
 
 A device is a machine.
 
@@ -481,31 +481,19 @@ To move a 1st object to a 2nd object.
     End.
 End.
 
-To move degrees to the left.
+To turn degrees.
     Sum the degrees to the target angle of the 6th servo motor of the robotic arm.
     Move the robotic arm.
 End.
 
-To move 1st degrees to the right.
-    An angle.
-    The angle is 10 degrees.
-    Assign the 1st degrees to the angle.
-    Multiply the angle by -1 degrees.
-    Sum the angle to the target angle of the 6th servo motor of the robotic arm.
-    Move the robotic arm.
-End.
-
-To move 1st degrees /*FIXME: */ to up.
-    An angle.
-    The angle is 0 degrees.
-    Assign the 1st degrees to the angle.
-    Multiply the angle by -1 degrees.
-    Sum the angle to the target angle of the 5th servo motor of the robotic arm.
-    Move the robotic arm.
-End.
-
-To move degrees /*FIXME: */ to down.
+To bow degrees.
     Sum the degrees to the target angle of the 5th servo motor of the robotic arm.
+    Move the robotic arm.
+End.
+
+To bend degrees.
+    Sum the degrees to the target angle of the 5th servo motor of the robotic arm.
+    Sum the degrees to the target angle of the 4th servo motor of the robotic arm.
     Move the robotic arm.
 End.
 
