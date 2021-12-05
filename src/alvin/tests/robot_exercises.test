@@ -26,6 +26,38 @@
 ?<I am an artificial intelligence.
 ?<I am your friend. I help you/*TODO: out*/.
 
+
+
+
+" Global logic
+
+">If you see a ball then.
+">  Wait for a response.
+"<  Ok.
+">  Forget that you see the ball.
+"<  Ok.
+">  Give me the ball.
+"<  Ok.
+">End.
+"<Ok.
+
+"FIXME: does not work yet.
+"
+
+"d3
+">You see the ball.
+"e3
+"<Ok.
+
+"v ball
+
+""<What is the 1st coordinate of the position of the ball?
+"">0.05 meters.
+
+
+
+
+
 " Class & inheritance & instance
 
 "FIXME: Speech recognition does not add "-characters around
@@ -1320,6 +1352,9 @@ d3
 >You see the ball.
 e3
 <Ok.
+
+"v ball
+
 <What is the 1st coordinate of the position of the ball?
 >0.05 meters.
 <What is the 2nd coordinate of the position of the ball?
@@ -1490,26 +1525,22 @@ e3
 
 >To throw an object.
 <Yes.
->    Move to the initial position of the robotic arm.
+>    Straighten out.
 <    Ok.
->    Sum 45 degrees to the target angle of the 5th servo motor of the robotic arm.
+>    Bow 45 degrees.
 <    Ok.
->    Move the robotic arm.
+>    Speed up the 5th servo motor.
 <    Ok.
->    Substract 90 degrees from the target angle of the 5th servo motor of this robot.
+>    Bow -90 degrees.
 <    Ok.
->    The speed of the 5th servo motor of this robot is 100 dpses.
+>    Slow down the 5th servo motor.
 <    Ok.
->    Move the robotic arm.
-<    Ok.
->    The speed of the 5th servo motor of this robot is 10.1 dpses.
-<    Ok.
->    Move to the initial position of the robotic arm.
+>    Straighten out.
 <    Ok.
 >End.
 <Ok.
 
->Open the hand of the robotic arm.
+>Open the hand /*of the robotic arm*/.
 <Ok.
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
 >OK.
@@ -1570,7 +1601,7 @@ e3
 >The robotic arm has stopped.
 <Ok.
 
->Throw a ball.
+>Throw the ball.
 <Ok.
 " ... Alvin controls the robot to throw a ball ...
 <The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
@@ -1631,7 +1662,7 @@ e3
 >OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
 >OK.
-<The speed of the 5th servo motor of the robotic arm is 100 dpses.
+<The speed of the 5th servo motor of the robotic arm is 110.1 dpses.
 >OK.
 <The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
 >OK.

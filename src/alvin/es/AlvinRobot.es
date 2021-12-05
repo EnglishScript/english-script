@@ -497,6 +497,26 @@ To bend degrees.
     Move the robotic arm.
 End.
 
+To straighten out.
+    Move to the initial position of the robotic arm.
+End.
+
+To get up.
+    Move to the initial position of the robotic arm.
+End.
+
+To speed up a servo motor.
+    If the servo motor has a speed then.
+        Sum 100 dpses to the speed /*of the servo motor*/.
+    End.
+End.
+
+To slow down a servo motor.
+    If the servo motor has a speed then.
+        Sum -100 dpses to the speed /*of the servo motor*/.
+    End.
+End.
+
 To give a person an object.
     /*Tell me that you give the object to the person.*/
     Move the object to the person.
