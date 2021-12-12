@@ -538,7 +538,7 @@ To bow degrees.
 End.
 
 To bend degrees.
-    Sum the degrees to the target angle of the 5th servo motor of the robotic arm.
+    Sum the degrees to the target angle of the 3th servo motor of the robotic arm.
     Sum the degrees to the target angle of the 4th servo motor of the robotic arm.
     Move the robotic arm.
 End.
