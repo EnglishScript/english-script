@@ -22,9 +22,13 @@ The pulse cycle of the 1st servo motor of the robotic arm is 0.002 seconds.
 The minimum PWM time of the 1st servo motor of the robotic arm is 0.410 seconds.
 The maximum PWM time of the 1st servo motor of the robotic arm is 2.450 seconds.
 The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+The status speed of the 1st servo motor of the robotic arm is 0 dpses.
+The acceleration of the 1st servo motor of the robotic arm is 10.0 dpses.
+The status acceleration of the 1st servo motor of the robotic arm is 10.0 dpses.
 The minimum angle of the servo motor 1 of the robotic arm is 0 degrees.
 The initial angle of the servo motor 1 of the robotic arm is 85 degrees.
 The target angle of the servo motor 1 of the robotic arm is 85 degrees.
+The status angle of the servo motor 1 of the robotic arm is 0 degrees.
 The voltage of the servo motor 1 of the robotic arm is measured from the connector pin 32.
 The maximum voltage of the servo motor 1 of the robotic arm is 0.120 volts.
 
@@ -35,8 +39,12 @@ The pulse cycle of the 2nd servo motor of the robotic arm is 0.025 seconds.
 The minimum PWM time of the 2nd servo motor of the robotic arm is 0.810 seconds.
 The maximum PWM time of the 2nd servo motor of the robotic arm is 5.450 seconds.
 The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
+The status speed of the 2nd servo motor of the robotic arm is 0 dpses.
+The acceleration of the 2nd servo motor of the robotic arm is 10.0 dpses.
+The status acceleration of the 2nd servo motor of the robotic arm is 10.0 dpses.
 The initial angle of the servo motor 2 of the robotic arm is 180 degrees.
 The target angle of the servo motor 2 of the robotic arm is 180 degrees.
+The status angle of the servo motor 2 of the robotic arm is 0 degrees.
 
 /* elbow left */
 The 3rd servo motor of the robotic arm is an MG90S motor.
@@ -45,8 +53,12 @@ The pulse cycle of the 3rd servo motor of the robotic arm is 0.005 seconds.
 The minimum PWM time of the 3rd servo motor of the robotic arm is 0.510 seconds.
 The maximum PWM time of the 3rd servo motor of the robotic arm is 2.750 seconds.
 The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+The status speed of the 3rd servo motor of the robotic arm is 0 dpses.
+The acceleration of the 3rd servo motor of the robotic arm is 10.0 dpses.
+The status acceleration of the 3rd servo motor of the robotic arm is 10.0 dpses.
 The initial angle of the servo motor 3 of the robotic arm is 180 degrees.
 The target angle of the servo motor 3 of the robotic arm is 180 degrees.
+The status angle of the servo motor 3 of the robotic arm is 0 degrees.
 
 /* elbow right */
 The 4th servo motor of the robotic arm is an MG90S motor.
@@ -55,9 +67,13 @@ The pulse cycle of the 4th servo motor of the robotic arm is 0.005 seconds.
 The minimum PWM time of the 4th servo motor of the robotic arm is 0.510 seconds.
 The maximum PWM time of the 4th servo motor of the robotic arm is 2.750 seconds.
 The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+The status speed of the 4th servo motor of the robotic arm is 0 dpses.
+The acceleration of the 4th servo motor of the robotic arm is 10.0 dpses.
+The status acceleration of the 4th servo motor of the robotic arm is 10.0 dpses.
 The initial angle of the servo motor 4 of the robotic arm is 180 degrees.
 The target angle of the servo motor 4 of the robotic arm is 180 degrees.
 The polarity of the 4th servo motor of the robotic arm is reversed.
+The status angle of the servo motor 4 of the robotic arm is 0 degrees.
 
 /* shoulder up/down */
 The 5th servo motor of the robotic arm is an MG996R motor.
@@ -66,8 +82,12 @@ The pulse cycle of the 5th servo motor of the robotic arm is 0.005 seconds.
 The minimum PWM time of the 5th servo motor of the robotic arm is 0.510 seconds.
 The maximum PWM time of the 5th servo motor of the robotic arm is 2.750 seconds.
 The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+The status speed of the 5th servo motor of the robotic arm is 0 dpses.
+The acceleration of the 5th servo motor of the robotic arm is 10.0 dpses.
+The status acceleration of the 5th servo motor of the robotic arm is 10.0 dpses.
 The initial angle of the servo motor 5 of the robotic arm is 90 degrees.
 The target angle of the servo motor 5 of the robotic arm is 90 degrees.
+The status angle of the servo motor 5 of the robotic arm is 0 degrees.
 
 /* shoulder rotation */
 The 6th servo motor of the robotic arm is an MG90S motor.
@@ -76,8 +96,12 @@ The pulse cycle of the 6th servo motor of the robotic arm is 0.015 seconds.
 The minimum PWM time of the 6th servo motor of the robotic arm is 0.410 seconds.
 The maximum PWM time of the 6th servo motor of the robotic arm is 6.450 seconds.
 The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
+The status speed of the 6th servo motor of the robotic arm is 0 dpses.
+The acceleration of the 6th servo motor of the robotic arm is 10.0 dpses.
+The status acceleration of the 6th servo motor of the robotic arm is 10.0 dpses.
 The initial angle of the servo motor 6 of the robotic arm is 90 degrees.
 The target angle of the servo motor 6 of the robotic arm is 90 degrees.
+The status angle of the servo motor 6 of the robotic arm is 0 degrees.
 
 /*
  * You control the robotic arm.
@@ -98,7 +122,7 @@ The length of the 2nd link of the robotic arm is 0.135 meters.
 The length of the 3rd link of the robotic arm is 0.13 meters.
 The length of the 4th link of the robotic arm is 0.06 meters.
 The length of the 5th link of the robotic arm is 0.015 meters.
-The 1st link of the robotic arm is the hand of the robotic arm.
+The hand of the robotic arm is the 1st link of the robotic arm.
 
 /* joints */
 
@@ -180,6 +204,9 @@ The 1st coordinate of the position of the box is -0.1 meters.
 The 2nd coordinate of the position of the box is 0.1 meters.
 The 3rd coordinate of the position of the box is -0.2 meters.
 
+A hand.
+The hand of the robotic arm is the hand.
+
 A device is a machine.
 
 To initialize a robotic arm.
@@ -231,8 +258,27 @@ End.
 
 To move a robotic arm.
     For each of the servo motors of the robotic arm.
-        Tell the ESP32-WROOM-32D chip the speed of the servo motor.
+        /*If the speed of the servo motor is not equal to the status speed of the servo motor then.*/
+            Tell the ESP32-WROOM-32D chip the speed of the servo motor.
+            /*Assign the speed of the servo motor to the status speed of the servo motor.*/
+        /*End.*/
+        /*If the acceleration of the servo motor is not equal to the status acceleration of the servo motor then.*/
+            /*Tell the ESP32-WROOM-32D chip the acceleration of the servo motor.*/
+            /*Assign the acceleration of the servo motor to the status acceleration of the servo motor.*/
+        /*End.*/
+        /*If the target angle of the servo motor is not equal to the status angle of the servo motor then.*/
+            /*Tell the ESP32-WROOM-32D chip the target angle of the servo motor.*/
+            /*Assign the target angle of the servo motor to the status angle of the servo motor.*/
+        /*End.*/
     End.
+
+    Tell the ESP32-WROOM-32D chip the acceleration of the servo motor 1 of the robotic arm.
+    Tell the ESP32-WROOM-32D chip the acceleration of the servo motor 2 of the robotic arm.
+    Tell the ESP32-WROOM-32D chip the acceleration of the servo motor 3 of the robotic arm.
+    Tell the ESP32-WROOM-32D chip the acceleration of the servo motor 4 of the robotic arm.
+    Tell the ESP32-WROOM-32D chip the acceleration of the servo motor 5 of the robotic arm.
+    Tell the ESP32-WROOM-32D chip the acceleration of the servo motor 6 of the robotic arm.
+
     Tell the ESP32-WROOM-32D chip the target angle of the servo motor 1 of the robotic arm.
     Tell the ESP32-WROOM-32D chip the target angle of the servo motor 2 of the robotic arm.
     Tell the ESP32-WROOM-32D chip the target angle of the servo motor 3 of the robotic arm.
@@ -507,13 +553,19 @@ End.
 
 To speed up a servo motor.
     If the servo motor has a speed then.
-        Sum 100 dpses to the speed /*of the servo motor*/.
+        Sum 500 dpses to the speed /*of the servo motor*/.
+    End.
+    If the servo motor has a acceleration then.
+        Sum 100 dpses to the acceleration.
     End.
 End.
 
 To slow down a servo motor.
     If the servo motor has a speed then.
-        Sum -100 dpses to the speed /*of the servo motor*/.
+        Sum -500 dpses to the speed /*of the servo motor*/.
+    End.
+    If the servo motor has a acceleration then.
+        Sum -100 dpses to the acceleration.
     End.
 End.
 
@@ -570,11 +622,11 @@ To take an object.
     End.
 End.
 
-To open the hand of the robotic arm.
+To open a hand.
     Make the robotic arm to open a hand.
 End.
 
-To close the hand of the robotic arm.
+To close a hand.
     Make the robotic arm to close a hand.
 End.
 
@@ -583,6 +635,7 @@ To calculate the position of an object for a robotic arm from an orientation.
     The 2nd coordinate of the position is 0.2 meters.
     The 3rd coordinate of the position is 0.3 meters.
 End.
+
 
 /*
 To go meters to down.

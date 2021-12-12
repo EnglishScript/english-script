@@ -137,6 +137,19 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -166,6 +179,19 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -195,6 +221,19 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -222,6 +261,19 @@
 <The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
 >OK.
 
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
@@ -290,120 +342,17 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
-<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
 >OK.
-<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 120 degrees.
->OK.
-<Tell me if the robotic arm stopped.
->The robotic arm has stopped.
-<Ok.
-
-<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
->OK.
-<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
->OK.
-
-<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
->OK.
-<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
->OK.
-<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
->OK.
-<Tell me if the robotic arm stopped.
->The robotic arm has stopped.
-<Ok.
-
-<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
->OK.
-<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
->OK.
-
-<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
->OK.
-<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 5th servo motor of the robotic arm is 70 degrees.
->OK.
-<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
->OK.
-<Tell me if the robotic arm stopped.
->The robotic arm has stopped.
-<Ok.
-
-<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
->OK.
-<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
->OK.
-
-<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
->OK.
-<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
->OK.
-<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
->OK.
-<Tell me if the robotic arm stopped.
->The robotic arm has stopped.
-<Ok.
-
-<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
->OK.
-<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
 >OK.
 
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
@@ -435,6 +384,19 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -464,6 +426,19 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -491,6 +466,187 @@
 <The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
+<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
+>OK.
+<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
+>OK.
+<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
+>OK.
+<Tell me if the robotic arm stopped.
+>The robotic arm has stopped.
+<Ok.
+
+<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
+>OK.
+<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
+<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
+>OK.
+<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
+>OK.
+<The target angle of the 6th servo motor of the robotic arm is 120 degrees.
+>OK.
+<Tell me if the robotic arm stopped.
+>The robotic arm has stopped.
+<Ok.
+
+<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
+>OK.
+<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
+<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
+>OK.
+<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
+>OK.
+<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
+>OK.
+<Tell me if the robotic arm stopped.
+>The robotic arm has stopped.
+<Ok.
+
+<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
+>OK.
+<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
+<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
+>OK.
+<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 5th servo motor of the robotic arm is 70 degrees.
+>OK.
+<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
+>OK.
+<Tell me if the robotic arm stopped.
+>The robotic arm has stopped.
+<Ok.
+
+<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
+>OK.
+<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
 >OK.
 
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
@@ -546,120 +702,17 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
-<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
 >OK.
-<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
 >OK.
-<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
 >OK.
-<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
 >OK.
-<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
 >OK.
-<The target angle of the 6th servo motor of the robotic arm is 120 degrees.
->OK.
-<Tell me if the robotic arm stopped.
->The robotic arm has stopped.
-<Ok.
-
-<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
->OK.
-<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
->OK.
-
-<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
->OK.
-<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
->OK.
-<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
->OK.
-<Tell me if the robotic arm stopped.
->The robotic arm has stopped.
-<Ok.
-
-<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
->OK.
-<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
->OK.
-
-<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
->OK.
-<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 5th servo motor of the robotic arm is 70 degrees.
->OK.
-<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
->OK.
-<Tell me if the robotic arm stopped.
->The robotic arm has stopped.
-<Ok.
-
-<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
->OK.
-<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
->OK.
-
-<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
->OK.
-<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
->OK.
-<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
->OK.
-<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
->OK.
-<Tell me if the robotic arm stopped.
->The robotic arm has stopped.
-<Ok.
-
-<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
->OK.
-<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
->OK.
-<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
 >OK.
 
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
@@ -691,6 +744,19 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -720,6 +786,19 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -747,6 +826,187 @@
 <The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
+<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
+>OK.
+<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
+>OK.
+<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
+>OK.
+<Tell me if the robotic arm stopped.
+>The robotic arm has stopped.
+<Ok.
+
+<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
+>OK.
+<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
+<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
+>OK.
+<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
+>OK.
+<The target angle of the 6th servo motor of the robotic arm is 120 degrees.
+>OK.
+<Tell me if the robotic arm stopped.
+>The robotic arm has stopped.
+<Ok.
+
+<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
+>OK.
+<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
+<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
+>OK.
+<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 5th servo motor of the robotic arm is 90 degrees.
+>OK.
+<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
+>OK.
+<Tell me if the robotic arm stopped.
+>The robotic arm has stopped.
+<Ok.
+
+<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
+>OK.
+<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
+<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
+>OK.
+<The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 3rd servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 4th servo motor of the robotic arm is 180 degrees.
+>OK.
+<The target angle of the 5th servo motor of the robotic arm is 70 degrees.
+>OK.
+<The target angle of the 6th servo motor of the robotic arm is 90 degrees.
+>OK.
+<Tell me if the robotic arm stopped.
+>The robotic arm has stopped.
+<Ok.
+
+<The speed of the 1st servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 5th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
+>OK.
+<The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+<The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
 >OK.
 
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
@@ -802,6 +1062,20 @@
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -831,6 +1105,19 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -859,6 +1146,20 @@
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -886,6 +1187,19 @@
 <The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
 >OK.
 
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
@@ -916,6 +1230,20 @@
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1047,6 +1375,20 @@
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1076,6 +1418,19 @@
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1104,6 +1459,20 @@
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1131,6 +1500,19 @@
 <The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
 >OK.
 
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
@@ -1161,6 +1543,20 @@
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1203,6 +1599,20 @@
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1230,6 +1640,19 @@
 <The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
 >OK.
 
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
@@ -1260,6 +1683,20 @@
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1287,6 +1724,19 @@
 <The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
 >OK.
 
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
@@ -1317,6 +1767,20 @@
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1374,6 +1838,20 @@ e3
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1403,6 +1881,19 @@ e3
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1431,6 +1922,20 @@ e3
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1458,6 +1963,19 @@ e3
 <The speed of the 6th servo motor of the robotic arm is 10.1 dpses.
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
+>OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
 >OK.
 
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
@@ -1488,6 +2006,20 @@ e3
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1529,11 +2061,13 @@ e3
 <    Ok.
 >    Bow 45 degrees.
 <    Ok.
->    Speed up the 5th servo motor.
+>    Speed up the 5th motor.
+<    Ok.
+>    Assign 170 degrees to the target angle of the 1st motor.
 <    Ok.
 >    Bow -90 degrees.
 <    Ok.
->    Slow down the 5th servo motor.
+>    Slow down the 5th motor.
 <    Ok.
 >    Straighten out.
 <    Ok.
@@ -1554,6 +2088,20 @@ e3
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1585,6 +2133,20 @@ e3
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1616,6 +2178,20 @@ e3
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1643,6 +2219,20 @@ e3
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
@@ -1662,7 +2252,7 @@ e3
 >OK.
 <The speed of the 3rd servo motor of the robotic arm is 10.1 dpses.
 >OK.
-<The speed of the 5th servo motor of the robotic arm is 110.1 dpses.
+<The speed of the 5th servo motor of the robotic arm is 510.1 dpses.
 >OK.
 <The speed of the 2nd servo motor of the robotic arm is 40.1 dpses.
 >OK.
@@ -1670,7 +2260,21 @@ e3
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
-<The target angle of the 1st servo motor of the robotic arm is 85 degrees.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 110 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
+<The target angle of the 1st servo motor of the robotic arm is 170 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.
 >OK.
@@ -1697,6 +2301,20 @@ e3
 >OK.
 <The speed of the 4th servo motor of the robotic arm is 10.1 dpses.
 >OK.
+
+<The acceleration of the 1st servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 2nd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 3rd servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 4th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 5th servo motor of the robotic arm is 10 dpses.
+>OK.
+<The acceleration of the 6th servo motor of the robotic arm is 10 dpses.
+>OK.
+
 <The target angle of the 1st servo motor of the robotic arm is 85 degrees.
 >OK.
 <The target angle of the 2nd servo motor of the robotic arm is 180 degrees.

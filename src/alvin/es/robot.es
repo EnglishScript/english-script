@@ -56,14 +56,17 @@ The orientation of the tag has angles.
 
 /* servo motors sub-class */
 
-The servo motors have a minimum angle, a maximum angle, a lift power, a speed,
-a target angle, an initial angle, a pulse cycle, a polarity, a minimum PWM time,
+The servo motors have a minimum angle, a maximum angle, a lift power, a speed, an acceleration, a status speed, a status acceleration,
+a target angle, a status angle, an initial angle, a pulse cycle, a polarity, a minimum PWM time,
 a maximum PWM time, a voltage, a grip voltage and a maximum voltage.
 The minimum angle is degrees.
 The maximum angle is degrees.
 The target angle is degrees.
+The status angle is degrees.
 The lift power is kgcms.
 The speed is dpses.
+The status speed is dpses.
+The status acceleration is dpses.
 The voltage is volts.
 The maximum voltage is volts.
 
