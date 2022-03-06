@@ -80,5 +80,6 @@
 #include "games.es"
 #include "man_made.es"
 #include "baking.es"
+#include "computers.es"
 /*#include "tutorial.es" TODO:*/
 

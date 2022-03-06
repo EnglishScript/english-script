@@ -1,0 +1,86 @@
+?<Hi.
+?<My name is "Alvin".
+?<The name is "Alvin".
+?<I am an artificial intelligence.
+?<I am your friend. I help you/*TODO: out*/.
+
+>I am a person.
+<Ok.
+>My name is "John".
+<Ok.
+
+>Convert my name to characters with the ascii characters.
+<Ok.
+>What is the 1st character?
+<"J".
+>What is the 2nd character?
+<"o".
+>What is the 3rd character?
+<"h".
+>What is the 4th character?
+<"n".
+>What is the sequence number of the 1st character?
+<75.
+>What is the sequence number of the 2nd character?
+<112.
+>What is the sequence number of the 3rd character?
+<105.
+>What is the sequence number of the 4th character?
+<111.
+>What are the characters?
+<"J", "o", "h" and "n".
+
+>I have numbers.
+<Ok.
+>74, 111, 104 and 110 are the numbers.
+<Ok.
+>Compare the numbers and a result to the characters /*with a result*/.
+<Ok.
+>Tell me about the result.
+<Ok. The result is equal.
+
+>To test someone whether somebody convert correctly a string literal to numbers.
+<Yes.
+>    Remember the numbers. /* FIXME: this should not be needed. The telling about the thing should move the "be a number" verb away from the auxiliary verbs of the "convert" verb. */
+<    Ok.
+>    Ask someone that what are the numbers?
+<    Ok.
+>    Convert the string literal to characters with the ascii characters.
+<    Ok.
+>    Compare the numbers and a result to the characters /*with a result*/.
+<    Ok.
+>    If the result is equal then.
+<    Yes.
+>        Say "Yes".
+<        Ok.
+>        Tell someone that the numbers are correct.
+<        Ok.
+>        Forget /*that*/ the result /*is equal*/. /*FIXME: this should not be needed.*/
+<        Ok.
+>    Else.
+<    Yes.
+>        Say "No".
+<        Ok.
+>        Tell someone that the numbers are incorrect.
+<        Ok.
+>        Forget /*that*/ the result /*is not equal*/. /*FIXME: this should not be needed.*/
+<        Ok.
+>    End.
+<    Ok.
+>End.
+<Ok.
+
+>Test me whether I convert correctly my name to numbers.
+<Ok.
+<What are the numbers?
+>74, 111, 104 and 110.
+<Yes. The numbers are correct.
+
+>Test me whether I convert correctly my name to numbers.
+<Ok.
+<What are the numbers?
+>75, 111, 104 and 110.
+<No. The numbers are incorrect.
+
+
+
