@@ -636,6 +636,101 @@ To calculate the position of an object for a robotic arm from an orientation.
     The 3rd coordinate of the position is 0.3 meters.
 End.
 
+An image has positions and areas.
+The areas of an image have corners.
+The corners of the areas have a position.
+
+/*
+ *  (0.0,0.2)   (0.1,0.2)  (0.2,0.2)   (0.3,0.2)
+ *      +-----------+----------+-----------+
+ *      |           |          |           |
+ *      |  Building | Candle   | Building  |
+ *      |  Alvin    | used as  | the robot |
+ *      |  robot    | a lubri- | base box  |
+ *      |           | cant     |           |
+ *      +-----------+----------+-----------+ (0.3,0.1)
+ *      |           |          |           |
+ *      | Building  | Building | Integrat- |
+ *      | the robot | the      | ing ready |
+ *      | hands     | gripper  | parts     |
+ *      |           |          | together  |
+ *      +-----------+----------+-----------+
+ *  (0.0,0.0)   (0.1,0.0)   (0.2,0.0)   (0.3,0.0)
+ *
+ */
+
+
+An image.
+The coordinates of the position 1 of the image are 0.0 meters and 0.2 meters.
+The coordinates of the position 2 of the image are 0.1 meters and 0.2 meters.
+The coordinates of the position 3 of the image are 0.2 meters and 0.2 meters.
+The coordinates of the position 3 of the image are 0.3 meters and 0.2 meters.
+The coordinates of the position 4 of the image are 0.0 meters and 0.1 meters.
+The coordinates of the position 5 of the image are 0.1 meters and 0.1 meters.
+The coordinates of the position 6 of the image are 0.2 meters and 0.1 meters.
+The coordinates of the position 7 of the image are 0.3 meters and 0.1 meters.
+The coordinates of the position 8 of the image are 0.0 meters and 0.0 meters.
+The coordinates of the position 9 of the image are 0.1 meters and 0.0 meters.
+The coordinates of the position 10 of the image are 0.2 meters and 0.0 meters.
+The coordinates of the position 11 of the image are 0.3 meters and 0.0 meters.
+
+The file path of the image is "robot_asembly.png".
+The position 1 of the image is the position of the corner 1 of the area 1 of the image.
+The position 2 of the image is the position of the corner 2 of the area 1 of the image.
+The position 5 of the image is the position of the corner 3 of the area 1 of the image.
+The position 6 of the image is the position of the corner 4 of the area 1 of the image.
+The position 2 of the image is the position of the corner 1 of the area 2 of the image.
+The position 3 of the image is the position of the corner 2 of the area 2 of the image.
+The position 6 of the image is the position of the corner 3 of the area 2 of the image.
+The position 7 of the image is the position of the corner 4 of the area 2 of the image.
+The position 3 of the image is the position of the corner 1 of the area 3 of the image.
+The position 4 of the image is the position of the corner 2 of the area 3 of the image.
+The position 7 of the image is the position of the corner 3 of the area 3 of the image.
+The position 8 of the image is the position of the corner 4 of the area 3 of the image.
+The position 5 of the image is the position of the corner 1 of the area 4 of the image.
+The position 6 of the image is the position of the corner 2 of the area 4 of the image.
+The position 9 of the image is the position of the corner 3 of the area 4 of the image.
+The position 10 of the image is the position of the corner 4 of the area 4 of the image.
+The position 6 of the image is the position of the corner 1 of the area 5 of the image.
+The position 7 of the image is the position of the corner 2 of the area 5 of the image.
+The position 10 of the image is the position of the corner 3 of the area 5 of the image.
+The position 11 of the image is the position of the corner 4 of the area 5 of the image.
+The position 7 of the image is the position of the corner 1 of the area 6 of the image.
+The position 8 of the image is the position of the corner 2 of the area 6 of the image.
+The position 11 of the image is the position of the corner 3 of the area 6 of the image.
+The position 12 of the image is the position of the corner 4 of the area 6 of the image.
+
+A movie.
+The file path of the movie is "robot.avi".
+
+To play a movie to someone from 1st seconds to 2nd seconds.
+    Ask the device to play the movie from the 1st seconds to the 2nd seconds.
+End.
+
+To guide someone to assemble the robotic arm.
+    Until someone asks you to stop guiding you then.
+        Show the image.
+        If someone touches the 1st area of the image.
+            Play the movie to someone from 0 seconds to 20 seconds.
+        End.
+        If someone touches the 2nd area of the image.
+            Play the movie to someone from 21 seconds to 108 seconds.
+        End.
+        If someone touches the 3rd area of the image.
+            Play the movie to someone from 109 seconds to 313 seconds.
+        End.
+        If someone touches the 4th area of the image.
+            Play the movie to someone from 314 seconds to 396 seconds.
+        End.
+        If someone touches the 5th area of the image.
+            Play the movie to someone from 397 seconds to 480 seconds.
+        End.
+        If someone touches the 6th area of the image.
+            Play the movie to someone from 481 seconds to 738 seconds.
+        End.
+    End.
+End.
+
 
 /*
 To go meters to down.
