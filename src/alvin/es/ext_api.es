@@ -89,3 +89,7 @@ To call a person.
     End.
 End.
 
+To play a movie from 1st seconds to 2nd seconds.
+    Ask this device to play the movie in the file path of the movie from the 1st seconds to the 2nd seconds.
+End.
+
