@@ -8,7 +8,38 @@
         "program": "${workspaceRoot}/../../../es/bin/es-test",
         "args": [
           "-r", "-3", "-b", "-s",
-          "tests/robotics_exercises.test",
+          "tests/main.test",
+          "${workspaceRoot}/../../bin/alvin.eso"
+        ],
+        "cwd": "${workspaceRoot}",
+        "environment": [
+          { "name": "LD_LIBRARY_PATH", "value": "/usr/local/lib:${workspaceRoot}/../../../es/lib:${workspaceRoot}/../../../tmmath/lib" },
+          { "name": "ES_DATA_PATH", "value": "${workspaceRoot}/../../data" }
+        ],
+        "externalConsole": true,
+        "stopAtEntry": true,
+        "MIMode": "gdb",
+        "logging": {
+          "engineLogging": false
+        }
+      }
+    },
+    "ES - run ES compiler": {
+      "adapter": "vscode-cpptools",
+      "configuration": {
+        "type":    "cppdbg",
+        "request": "launch",
+        "program": "${workspaceRoot}/../../../es/bin/es-c",
+        "args": [
+          "--app-version=4",
+          "-I",
+          ".",
+          "-I",
+          "../../../es/src/es/include",
+          "-I",
+          "es",
+          "es/main.es",
+          "-o",
           "${workspaceRoot}/../../bin/alvin.eso"
         ],
         "cwd": "${workspaceRoot}",

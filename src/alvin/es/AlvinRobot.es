@@ -637,19 +637,20 @@ To calculate the position of an object for a robotic arm from an orientation.
 End.
 
 An image has positions and areas.
+The positions of an image have coordinates.
 The areas of an image have corners.
 The corners of the areas have a position.
 
 /*
  *  (0.0,0.2)   (0.1,0.2)  (0.2,0.2)   (0.3,0.2)
  *      +-----------+----------+-----------+
- *      |           |          |           |
+ *      |1          |2         |3          |
  *      |  Building | Candle   | Building  |
  *      |  Alvin    | used as  | the robot |
  *      |  robot    | a lubri- | base box  |
  *      |           | cant     |           |
  *      +-----------+----------+-----------+ (0.3,0.1)
- *      |           |          |           |
+ *      |4          |5         |6          |
  *      | Building  | Building | Integrat- |
  *      | the robot | the      | ing ready |
  *      | hands     | gripper  | parts     |
@@ -664,15 +665,15 @@ An image.
 The coordinates of the position 1 of the image are 0.0 meters and 0.2 meters.
 The coordinates of the position 2 of the image are 0.1 meters and 0.2 meters.
 The coordinates of the position 3 of the image are 0.2 meters and 0.2 meters.
-The coordinates of the position 3 of the image are 0.3 meters and 0.2 meters.
-The coordinates of the position 4 of the image are 0.0 meters and 0.1 meters.
-The coordinates of the position 5 of the image are 0.1 meters and 0.1 meters.
-The coordinates of the position 6 of the image are 0.2 meters and 0.1 meters.
-The coordinates of the position 7 of the image are 0.3 meters and 0.1 meters.
-The coordinates of the position 8 of the image are 0.0 meters and 0.0 meters.
-The coordinates of the position 9 of the image are 0.1 meters and 0.0 meters.
-The coordinates of the position 10 of the image are 0.2 meters and 0.0 meters.
-The coordinates of the position 11 of the image are 0.3 meters and 0.0 meters.
+The coordinates of the position 4 of the image are 0.3 meters and 0.2 meters.
+The coordinates of the position 5 of the image are 0.0 meters and 0.1 meters.
+The coordinates of the position 6 of the image are 0.1 meters and 0.1 meters.
+The coordinates of the position 7 of the image are 0.2 meters and 0.1 meters.
+The coordinates of the position 8 of the image are 0.3 meters and 0.1 meters.
+The coordinates of the position 9 of the image are 0.0 meters and 0.0 meters.
+The coordinates of the position 10 of the image are 0.1 meters and 0.0 meters.
+The coordinates of the position 11 of the image are 0.2 meters and 0.0 meters.
+The coordinates of the position 12 of the image are 0.3 meters and 0.0 meters.
 
 The file path of the image is "robot_assembly.png".
 The position 1 of the image is the position of the corner 1 of the area 1 of the image.
@@ -709,14 +710,17 @@ If the 1st coordinate of a position is greater than the 1st coordinate of the 1s
 A movie.
 The file path of the movie is "robot.avi".
 
+A length is meters.
+A width is meters.
+
 A function "__hap_is_position_inside_area".
-To know that a position is inside something /*FIXME: an area*/.
+To know that 1st meters and 2nd meters are inside something /*FIXME: an area*/.
     Tell me that you call the function "__hap_is_position_inside_area".
-    Call the function "__hap_is_position_inside_area" with the position and something.
+    Call the function "__hap_is_position_inside_area" with the 1st meters, the 2nd meters and something.
     Tell me that you called the function "__hap_is_position_inside_area".
     If the function "__hap_is_position_inside_area" did not fail then.
-        Tell me that the position is inside something.
-        The position is inside something.
+        Tell me that the 1st meters and the 2nd meters are inside something.
+        The 1st meters and the 2nd meters are inside something.
     End.
 End.
 
@@ -726,38 +730,29 @@ To guide someone to assemble the robotic arm.
         /*Tell me that you wait.*/
         If someone tells you that somebody touches the image at 1st meters and 2nd meters.
             /*Tell me the file path of the image.*/
-            Tell me that someone touches the image/* at the 1st meters and the 2nd meters*/.
-            A position.
-            The position has coordinates.
-            Assign 0.1 meters to the 1st coordinate of the position.
-            Assign 0.2 meters to the 2nd coordinate of the position.
-            /*Assign the 1st meters to the 1st coordinate of the position.
-            Assign the 2nd meters to the 2nd coordinate of the position.*/
-            Tell me the 1st coordinate of the position.
-            Tell me the 2nd coordinate of the position.
-
-            Know that the position is inside the 1st area of the image.
-            If the position is inside the 1st area of the image.
+            Tell me that somebody touches the image at the 1st meters and the 2nd meters.
+            Know that the 1st meters and the 2nd meters are inside the 1st area of the image.
+            If the 1st meters and the 2nd meters are inside the 1st area of the image.
                 Play the movie from 0 seconds to 20 seconds.
             End.
-            Know that the position is inside the 2nd area of the image.
-            If the position is inside the 2nd area of the image.
+            Know that the 1st meters and the 2nd meters are inside the 2nd area of the image.
+            If the 1st meters and the 2nd meters are inside the 2nd area of the image.
                 Play the movie from 21 seconds to 108 seconds.
             End.
-            Know that the position is inside the 3rd area of the image.
-            If the position is inside the 3rd area of the image.
+            Know that the 1st meters and the 2nd meters are inside the 3rd area of the image.
+            If the 1st meters and the 2nd meters are inside the 3rd area of the image.
                 Play the movie from 109 seconds to 313 seconds.
             End.
-            Know that the position is inside the 4th area of the image.
-            If the position is inside the 4th area of the image.
+            Know that the 1st meters and the 2nd meters are inside the 4th area of the image.
+            If the 1st meters and the 2nd meters are inside the 4th area of the image.
                 Play the movie from 314 seconds to 396 seconds.
             End.
-            Know that the position is inside the 5th area of the image.
-            If the position is inside the 5th area of the image.
+            Know that the 1st meters and the 2nd meters are inside the 5th area of the image.
+            If the 1st meters and the 2nd meters are inside the 5th area of the image.
                 Play the movie from 397 seconds to 480 seconds.
             End.
-            Know that the position is inside the 6th area of the image.
-            If the position is inside the 6th area of the image.
+            Know that the 1st meters and the 2nd meters are inside the 6th area of the image.
+            If the 1st meters and the 2nd meters are inside the 6th area of the image.
                 Play the movie from 481 seconds to 738 seconds.
             End.
             Tell me that I am.

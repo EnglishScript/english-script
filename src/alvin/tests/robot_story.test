@@ -36,6 +36,12 @@
 "">Ok.
 ""<I wait.
 "">Ok.
->I touch the image at 0.1 meters/* and 0.3 meters*/.
+>I touch the image at 0.1 meters and 0.3 meters.
 <Ok.
-<You touch the image/* at 0.1 meters and 0.3 meters*/.
+<You touch the image at 0.1 meters and 0.3 meters.
+>Ok.
+<I call a function "__hap_is_position_inside_area".
+>Ok.
+<I called the function "__hap_is_position_inside_area".
+>Ok.
+

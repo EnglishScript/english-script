@@ -50,8 +50,7 @@
 >/*TODO: I do not have a car. <Ok.>Do I have a car?*<No.*/
 >
 >Do I have a dog?
-"FIXME:<I don't know.
-<Yes.
+<I don't know.
 >I have a dog.
 <Ok.
 >The name of the dog is "Fifi".
