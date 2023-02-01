@@ -30,18 +30,26 @@
 <Ok.
 <Show the image in the file path "robot_assembly.png".
 >Ok.
-""<I wait.
-"">Ok.
-""<You wait.
-"">Ok.
-""<I wait.
-"">Ok.
->I touch the image at 0.1 meters and 0.3 meters.
+
+>I touch the image at 0.05 meters and 0.15 meters.
 <Ok.
-<You touch the image at 0.1 meters and 0.3 meters.
+<The 0.05 meters and the 0.15 meters are inside an area 1 of the image.
 >Ok.
-<I call a function "__hap_is_position_inside_area".
+<Play the movie in the file path "robot.avi" from 0 seconds to 20 seconds.
 >Ok.
-<I called the function "__hap_is_position_inside_area".
+
+>I touch the image at 0.15 meters and 0.05 meters.
+<Ok.
+<The 0.15 meters and the 0.05 meters are inside an area 5 of the image.
 >Ok.
+<Play the movie in the file path "robot.avi" from 397 seconds to 480 seconds.
+>Ok.
+
+>I touch the image at 0.25 meters and 0.15 meters.
+<Ok.
+<The 0.25 meters and the 0.15 meters are inside an area 3 of the image.
+>Ok.
+<Play the movie in the file path "robot.avi" from 109 seconds to 313 seconds.
+>Ok.
+
 

@@ -70,7 +70,8 @@ TESTS = \
   tests/robot_take_something.test \
   tests/robot_give_something.test \
   tests/robot_exercises.test \
-  tests/robotics_exercises.test
+  tests/robotics_exercises.test \
+  tests/robot_story.test
 
 TESTS2 = \
   tests/words.test
