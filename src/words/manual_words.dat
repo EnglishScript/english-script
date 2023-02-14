@@ -370,9 +370,9 @@ divided 1 6 divide
 sum 3 1 sums summed
 sums 3 89 sum
 summed 1 6 sum
-substract 3 1 substracts substracted
-substracts 3 89 substract
-substracted 1 6 substract
+subtract 3 1 subtracts subtracted
+subtracts 3 89 subtract
+subtracted 1 6 subtract
 show 3 1 shown
 see 1 1 sees saw seen
 sees 1 9 see
