@@ -2,27 +2,12 @@
 #include "alvin.es"
 #include "tmp_network.es"
 #include "AlvinRobot.es"
-/*#include "usa.es"*/
 
 To begin.
-    If you know my name then.
-        Say "Hi". /* FIXME: and my name */
-        Say my name.
-    Else.
-        Say "Hi".
-        Do not wait for a response.
-        Tell me your name.
-        Tell me that you are an artificial intelligence.
-        /* FIXME: Tell me that I am your friend.*/
-        Say "I am your friend".
-        /* FIXME: Tell me that you help me *TODO: me out*.*/
-        Tell me that you help me /*TODO: out*/.
-        /*Ask me my name.*/
-        Wait for a response.
-    End.
-    /*If you are not having a conversation with me then.*/
-    Have a conversation with me.
-    /*End.*/
+    Start having a conversation with me.
+    Start having a conversation with LLM.
+    Start having a conversation with this device.
+    Start having a conversation with Image2Text.
 End.
 
 

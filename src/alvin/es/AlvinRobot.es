@@ -176,6 +176,16 @@ A mug is an object.
 A bottle is an object.
 A ball is an object.
 A box is an object.
+An AI model has a name.
+A large language model is an AI model.
+An image text model is an AI model.
+
+/* AI models */
+
+A large language model.
+The name of the large language model is "LLM".
+An image text model.
+The name of the image text model is "Image2Text".
 
 A table.
 
