@@ -180,12 +180,15 @@ An AI model has a name.
 A large language model is an AI model.
 An image text model is an AI model.
 
+My name is "Mary".
+
+
 /* AI models */
 
 A large language model.
 The name of the large language model is "LLM".
 An image text model.
-The name of the image text model is "Image2Text".
+The name of the image text model is "ImageToText".
 
 A table.
 

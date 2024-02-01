@@ -61,12 +61,14 @@ To introduce you.
     Tell me that you are an artificial intelligence.
 End.
 
-To have a 1st conversation with someone.
-    /*Focus on someone.*/
-    Until someone closes the 1st conversation with you then.
-        If someone tells you that somebody does something then.
-            /*If someone tells you that this is some thing then.
-                If I point to coordinates on this image then.
+A pizza is a thing.
+
+To have a 1st conversation with a user.
+    /*Focus on the user.*/
+    Until the user close the 1st conversation with you then.
+        If the user tell you that somebody does something then.
+            /*If the user tell you that this is some thing then.
+                If the user point to coordinates on this image then.
                     Remember that the thing is in this image in the coordinates.
                 Else.
                     Remember that the thing is in this image.
@@ -75,69 +77,84 @@ To have a 1st conversation with someone.
             Else.*/
                 Remember something.
             /*End.*/
-            Say "Ok" to someone.
+            Say "Ok" to the user.
+            Wait for a response.
+            Ask ImageToText to tell you in a short sentence that what objects does ImageToText see.
+            Do not wait for a response.
+            Print "Step0".
+            Until ImageToText tells you that ImageToText sees someone then wait.
+            Print "Step1".
+            If ImageToText tells you that ImageToText sees a pizza then.
+                Print "Step2".
+                Say "Ok" to ImageToText.
+                Tell LLM that LLM sees a pizza.
+                /*Tell LLM that somebody does something.*/
+                Remember shortly the user.
+                Tell LLM that the user is hungry.
+            End.
+            Print "Step3".
         End.
-        If someone tells you that somebody did something then.
+        If the user tell you that somebody did something then.
             Remember something.
-            Say "Ok" to someone.
+            Say "Ok" to the user.
         End.
-        /*TODO: If someone tells you that somebody does not do something then.
-            Say "Ok" to someone.
+        /*TODO: If the user tell you that somebody does not do something then.
+            Say "Ok" to the user.
             Remember something.
         End.
         */
-        If someone asks you something then.
+        If the user ask you something then.
             /*Print "Telling...".*/
-            Tell someone something.
+            Tell the user something.
         End.
-        If someone asks you that does somebody do something then.
-            If someone asks you that what are you then.
+        If the user ask you that does somebody do something then.
+            If the user ask you that what are you then.
                 Introduce you.
             Else.
-                If someone asks you that how are you then.
-                    Tell someone that you are fine.
+                If the user ask you that how are you then.
+                    Tell the user that you are fine.
                 Else.
-                    If someone asks you that how do you do then.
+                    If the user ask you that how do you do then.
                         Do not wait for a response.
-                        Ask someone that how does someone do.
+                        Ask the user that how do the user do.
                         Wait for a response.
                     Else.
-                        /*Answer someone whether somebody does something.*/
+                        /*Answer the user whether somebody does something.*/
                         Answer something.
                     End.
                 End.
             End.
         End.
-        If someone asks you that did somebody do something then.
+        If the user ask you that did somebody do something then.
             /*Print "Answering...".*/
             Answer something.
         End.
-        If someone asks you to do something then.
+        If the user ask you to do something then.
         /*TODO: If you know how to do something, then do something,
-            else tell someone that you do not know how to do
+            else tell the user that you do not know how to do
             something.*/
             /*Print "Doing...".*/
-            Say "Ok" to someone.
+            Say "Ok" to the user.
             Remember shortly from something.
             Start to do something.
         End.
-        /*If someone asks you to do something somebody then.
-            Say "Ok" to someone.
+        /*If the user ask you to do something somebody then.
+            Say "Ok" to the user.
             Remember shortly from something.
             Start to do something.
         End.*/
-        If someone asks you that /* TODO: what can you do */ can you do something then.
-            Tell someone that you remember things for someone /* FIXME: and you do things for someone*/.
-            Tell someone that you do things for someone.
-            Tell someone that you /*TODO: can*/ help someone.
+        If the user ask you that /* TODO: what can you do */ can you do something then.
+            Tell the user that you remember things for the user /* FIXME: and you do things for the user*/.
+            Tell the user that you do things for the user.
+            Tell the user that you /*TODO: can*/ help the user.
         End.
         /* TODO: add evaluation of the verb a check that the "to"-verb is not
            being executed to avoid re-remembering the doing.*/
-        /*If you / *TODO: are focused* / focus on someone then.
-          If someone has something and you do not know something and you want to know something then.
+        /*If you / *TODO: are focused* / focus on the user then.
+          If the user have something and you do not know something and you want to know something then.
             Remember that you want to know something.
           Else.
-            If someone has something and you want to know about something then.
+            If the user have something and you want to know about something then.
               Remember that you want to know about something.
             End.
           End.
@@ -152,6 +169,7 @@ To have a 1st conversation with someone.
         with you.
     End.*/
 End.
+
 /*
 If you need to ask someone something and you are having a
 conversation with someone, then ask someone something.
