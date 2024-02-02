@@ -63,9 +63,9 @@ End.
 
 A pizza is a thing.
 
-To have a 1st conversation with a user.
+To have a conversation with a user.
     /*Focus on the user.*/
-    Until the user close the 1st conversation with you then.
+    Until the user close the conversation with you then.
         If the user tell you that somebody does something then.
             /*If the user tell you that this is some thing then.
                 If the user point to coordinates on this image then.
@@ -162,12 +162,6 @@ To have a 1st conversation with a user.
         /*If you want to know something then remember that you want to know something.*/
         Wait.
     End.
-    /*
-    If somebody opened a 2nd conversation with you, then.
-        Start having the 2nd conversation with somebody.
-        Forget that somebody opened the 2nd conversation
-        with you.
-    End.*/
 End.
 
 /*

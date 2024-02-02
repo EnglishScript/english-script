@@ -4,8 +4,6 @@
 #include "AlvinRobot.es"
 #include "conversation.es"
 
-A User.
-The user is me.
 
 To have a conversation with LLM.
     Until LLM closes the conversation with you then.
@@ -61,7 +59,9 @@ To have a conversation with LLM.
                 Say "Ok" to LLM.
                 /*FIXME: Ask the user whether the user does something. */
                 Ask the user that does the user eat a pizza.
+                Until the user eats a pizza then wait.
                 Print "Ask3".
+                Tell LLM that the user eats a pizza.
             Else.
                 Print "Ask4".
                 Say "Ok" to LLM.
@@ -103,33 +103,10 @@ To have a conversation with LLM.
     Tell LLM that LLM is nice.
 End.
 
-To have a conversation with this device.
-End.
-
-
-To have a conversation with ImageToText.
-    /*
-    Until ImageToText closes the conversation with you then.
-        Print "Jiihaa!".
-        If ImageToText tells you that ImageToText sees something then.
-            Print "Joooo!".
-            Remember something.
-            Say "Ok" to ImageToText.
-            Tell LLM that LLM sees something.
-        End.
-        Wait.
-    End.
-    */
-End.
-
-To have a conversation with ESP32.
-End.
-
 To begin.
+    Initialize the robotic arm.
     Start having a conversation with the user.
     Start having a conversation with LLM.
-    Start having a conversation with this device.
-    Start having a conversation with ImageToText.
 End.
 
 

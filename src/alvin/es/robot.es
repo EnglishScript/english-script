@@ -21,6 +21,8 @@ The grip voltage is a voltage.
 The noun "kgcms" is the plural form of the noun "kgcm".
 "dps" and "dpses" are nouns.
 The noun "dpses" is the plural form of the noun "dps".
+"dps2" and "dps2s" are nouns.
+The noun "dps2s" is the plural form of the noun "dps2".
 "retry" and "retries" are nouns.
 The noun "retries" is the plural form of the noun "retry".
 
@@ -40,7 +42,18 @@ The verb "measured" is the 2nd form of the verb "measure".
 The verb "measured" is the 3rd form of the verb "measure".
 The verb "measures" is the 3rd person form of the verb "measure".
 
-A robotic arm has a name, servo motors, joints, links, a wrist, a hand, a tag, an initial position and an end effector.
+An electronic chip has a name, pins, a memory and a case.
+"ESP32-WROOM-32D" is a noun.
+An ESP32-WROOM-32D chip is an electronic chip.
+An ESP32-WROOM-32D chip has 60 pins.
+
+"debug" and "debugging" are adjectives.
+
+"ESP32", "ADC", "TCP", "WIFI", and "EEPROM" are nouns.
+An ESP32 software has a ADC driver, a TCP server, a WIFI server, a device handler, an EEPROM driver and a motor driver.
+The device handler of an ESP32 software has a debug level.
+
+A robotic arm has a name, electronic chips, servo motors, stepper motors, joints, links, a wrist, a hand, a tag, an initial position and an end effector.
 "angle-to-PWM-time" is a noun.
 "PWM" is a noun.
 The initial position of a robotic arm has coordinates.
@@ -56,17 +69,20 @@ The orientation of the tag has angles.
 
 /* servo motors sub-class */
 
-The servo motors have a minimum angle, a maximum angle, a lift power, a speed, an acceleration, a status speed, a status acceleration,
-a target angle, a status angle, an initial angle, a pulse cycle, a polarity, a minimum PWM time,
+The servo motors have a pin, a minimum angle, a maximum angle, a lift power, a speed, an acceleration, a current speed, a current acceleration,
+a target angle, a current angle, an initial angle, a pulse cycle, a polarity, a minimum PWM time,
 a maximum PWM time, a voltage, a grip voltage and a maximum voltage.
+The stepper motors have a minimum angle, a maximum angle, a lift power, a speed, an acceleration, a current speed, a current acceleration,
+a target angle, a current angle, an initial angle, a pulse cycle, a polarity,
+a voltage and a maximum voltage.
 The minimum angle is degrees.
 The maximum angle is degrees.
 The target angle is degrees.
-The status angle is degrees.
+The current angle is degrees.
 The lift power is kgcms.
 The speed is dpses.
-The status speed is dpses.
-The status acceleration is dpses.
+The current speed is dpses.
+The acceleration is dps2s.
 The voltage is volts.
 The maximum voltage is volts.
 
@@ -93,21 +109,6 @@ The length is meters.
 An object is a thing.
 
 /*FIXME: A robot is an object.*/
-
-/* classes */
-An electronic chip is a machine.
-An electronic chip has a name, connector pins, a memory, retries and a case.
-"system-on-a-chip" is a noun.
-A system-on-a-chip chip is an electronic chip.
-"ESP32-WROOM-32D" is a noun.
-An ESP32-WROOM-32D chip is a system-on-a-chip chip.
-An ESP32-WROOM-32D chip has 60 connector pins.
-
-"debug" and "debugging" are adjectives.
-
-"ESP32", "ADC", "TCP", "WIFI", and "EEPROM" are nouns.
-An ESP32 software has a ADC driver, a TCP server, a WIFI server, a device handler, an EEPROM driver and a motor driver.
-The device handler of an ESP32 software has a debug level.
 
 "MG996R" is a noun.
 An MG996R motor is the servo motors of a robotic arm.
