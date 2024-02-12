@@ -15,13 +15,13 @@ The 3rd coordinate of the initial position of the robotic arm is -0.39 meters.
 /* motors */
 
 /* fingers/squeeze/claw */
-The servo motor 1 of the robotic arm is an MG90S motor.
+The servo motor 1 of the robotic arm is an MG996R motor.
 The pin 25 of the ESP32-WROOM-32D chip is the pin of the servo motor 1 of the robotic arm.
 The pulse cycle of the servo motor 1 of the robotic arm is 0.002 seconds.
-The speed of the servo motor 1 of the robotic arm is 10.1 dpses.
+The target speed of the servo motor 1 of the robotic arm is 10.1 dpses.
 The current speed of the servo motor 1 of the robotic arm is 0 dpses.
-The acceleration of the servo motor 1 of the robotic arm is 10.0 dpses.
-The current acceleration of the servo motor 1 of the robotic arm is 10.0 dpses.
+The acceleration of the servo motor 1 of the robotic arm is 10.0 dps2s.
+The current acceleration of the servo motor 1 of the robotic arm is 10.0 dps2s.
 The minimum angle of the servo motor 1 of the robotic arm is 0 degrees.
 The initial angle of the servo motor 1 of the robotic arm is 85 degrees.
 The target angle of the servo motor 1 of the robotic arm is 85 degrees.
@@ -33,10 +33,10 @@ The maximum voltage of the servo motor 1 of the robotic arm is 0.120 volts.
 
 /* The stepper motor 1 of the robotic arm is an ??? motor. */
 The pulse cycle of the stepper motor 1 of the robotic arm is 0.025 seconds.
-The speed of the stepper motor 1 of the robotic arm is 40.1 dpses.
+The target speed of the stepper motor 1 of the robotic arm is 40.1 dpses.
 The current speed of the stepper motor 1 of the robotic arm is 0 dpses.
-The acceleration of the stepper motor 1 of the robotic arm is 10.0 dpses.
-The current acceleration of the stepper motor 1 of the robotic arm is 10.0 dpses.
+The acceleration of the stepper motor 1 of the robotic arm is 10.0 dps2s.
+The current acceleration of the stepper motor 1 of the robotic arm is 10.0 dps2s.
 The initial angle of the stepper motor 1 of the robotic arm is 180 degrees.
 The target angle of the stepper motor 1 of the robotic arm is 180 degrees.
 The current angle of the stepper motor 1 of the robotic arm is 0 degrees.
@@ -45,10 +45,10 @@ The current angle of the stepper motor 1 of the robotic arm is 0 degrees.
 
 /* The stepper motor 2 of the robotic arm is an ??? motor. */
 The pulse cycle of the stepper motor 2 of the robotic arm is 0.025 seconds.
-The speed of the stepper motor 2 of the robotic arm is 40.1 dpses.
+The target speed of the stepper motor 2 of the robotic arm is 40.1 dpses.
 The current speed of the stepper motor 2 of the robotic arm is 0 dpses.
-The acceleration of the stepper motor 2 of the robotic arm is 10.0 dpses.
-The current acceleration of the stepper motor 2 of the robotic arm is 10.0 dpses.
+The acceleration of the stepper motor 2 of the robotic arm is 10.0 dps2s.
+The current acceleration of the stepper motor 2 of the robotic arm is 10.0 dps2s.
 The initial angle of the stepper motor 2 of the robotic arm is 180 degrees.
 The target angle of the stepper motor 2 of the robotic arm is 180 degrees.
 The current angle of the stepper motor 2 of the robotic arm is 0 degrees.
@@ -57,10 +57,10 @@ The current angle of the stepper motor 2 of the robotic arm is 0 degrees.
 
 /* The stepper motor 3 of the robotic arm is an ??? motor. */
 The pulse cycle of the stepper motor 3 of the robotic arm is 0.025 seconds.
-The speed of the stepper motor 3 of the robotic arm is 40.1 dpses.
+The target speed of the stepper motor 3 of the robotic arm is 40.1 dpses.
 The current speed of the stepper motor 3 of the robotic arm is 0 dpses.
-The acceleration of the stepper motor 3 of the robotic arm is 10.0 dpses.
-The current acceleration of the stepper motor 3 of the robotic arm is 10.0 dpses.
+The acceleration of the stepper motor 3 of the robotic arm is 10.0 dps2s.
+The current acceleration of the stepper motor 3 of the robotic arm is 10.0 dps2s.
 The initial angle of the stepper motor 3 of the robotic arm is 180 degrees.
 The target angle of the stepper motor 3 of the robotic arm is 180 degrees.
 The current angle of the stepper motor 3 of the robotic arm is 0 degrees.
@@ -69,10 +69,10 @@ The current angle of the stepper motor 3 of the robotic arm is 0 degrees.
 
 /* The stepper motor 4 of the robotic arm is an ??? motor. */
 The pulse cycle of the stepper motor 4 of the robotic arm is 0.025 seconds.
-The speed of the stepper motor 4 of the robotic arm is 40.1 dpses.
+The target speed of the stepper motor 4 of the robotic arm is 40.1 dpses.
 The current speed of the stepper motor 4 of the robotic arm is 0 dpses.
-The acceleration of the stepper motor 4 of the robotic arm is 10.0 dpses.
-The current acceleration of the stepper motor 4 of the robotic arm is 10.0 dpses.
+The acceleration of the stepper motor 4 of the robotic arm is 10.0 dps2s.
+The current acceleration of the stepper motor 4 of the robotic arm is 10.0 dps2s.
 The initial angle of the stepper motor 4 of the robotic arm is 180 degrees.
 The target angle of the stepper motor 4 of the robotic arm is 180 degrees.
 The current angle of the stepper motor 4 of the robotic arm is 0 degrees.
@@ -132,12 +132,14 @@ An object has a position.
 The position of an object has coordinates.
 A person has a position.
 The position of a person has coordinates.
+A user is a person.
 A ball is round.
 A cup is an object.
 A mug is an object.
 A bottle is an object.
 A ball is an object.
 A box is an object.
+A pizza is an object.
 An AI model has a name.
 An AI model is a machine.
 A large language model is an AI model.
@@ -174,8 +176,8 @@ The 3rd coordinate of the position of the cup is -0.1101 meters.
 A mug.
 
 The 1st coordinate of my position is 0.0 meters.
-The 2nd coordinate of my position is 0.32 meters.
-The 3rd coordinate of my position is -0.39 meters.
+The 2nd coordinate of my position is 0.3 meters.
+The 3rd coordinate of my position is 0.0 meters.
 
 A ball.
 /*FIXME: these should not be needed at all:*/
@@ -197,16 +199,28 @@ A device is a machine.
 To initialize a robotic arm.
     /* FIXME: Tell about... should also wait for a response. */
     Tell RobotControl about an electronic chip.
+    Tell RobotControl about a micro controller.
     Tell RobotControl about an ESP32-WROOM-32D chip.
-    Tell RobotControl about the robotic arm.
-    Tell RobotControl about the ESP32-WROOM-32D chip.
+    /*FIXME: Tell RobotControl about the servo motors of a robotic arm.*/
+    /*FIXME: Tell RobotControl about the stepper motors of a robotic arm.*/
+    Tell RobotControl about an MG996R motor.
+    /*FXIME: the above line should tell about the minimum pwm time of a MG996R motor.*/
+    /*FIXME: the above line should tell about the maximum pwm time of a MG996R motor.*/
 
-    For the servo motors of the robotic arm.
+    Tell RobotControl about the ESP32-WROOM-32D chip.
+    Tell RobotControl about the robotic arm.
+
+    /*For the servo motors of the robotic arm.
         Tell RobotControl about the servo motor.
-    End.
-    For the stepper motors of the robotic arm.
+    End.*/
+    Tell RobotControl about the servo motor 1 of the robotic arm.
+    /*For the stepper motors of the robotic arm.
         Tell RobotControl about the stepper motor.
-    End.
+    End.*/
+    Tell RobotControl about the stepper motor 1 of the robotic arm.
+    Tell RobotControl about the stepper motor 2 of the robotic arm.
+    Tell RobotControl about the stepper motor 3 of the robotic arm.
+    Tell RobotControl about the stepper motor 4 of the robotic arm.
 
     Tell RobotControl that RobotControl controls the robotic arm.
     Ask RobotControl to initialize the robotic arm.
@@ -215,19 +229,25 @@ To initialize a robotic arm.
 End.
 
 To wait for a robotic arm to stop.
-    Do not wait for a response.
-    Ask the ESP32-WROOM-32D chip to tell you if the robotic arm has stopped.
-    Wait for a response.
-    Until the robotic arm has stopped then wait.
-    Forget that the robotic arm has stopped.
+    Until RobotControl tells you that the robotic arm stops then wait.
 End.
 
 To move a robotic arm.
-    For each of the servo motors of the robotic arm.
-        Tell RobotControl the speed of the servo motor.
-        Tell RobotControl the acceleration of the servo motor.
+    /*FIXME: For the servo motors of the robotic arm.
+        Tell RobotControl the target speed of the servo motor.
+        / *FIXME: Tell RobotControl the target acceleration of the servo motor.* /
         Tell RobotControl the target angle of the servo motor.
-    End.
+    End.*/
+    Tell RobotControl the target speed of the servo motor 1 of the robotic arm.
+    Tell RobotControl the target angle of the servo motor 1 of the robotic arm.
+    Tell RobotControl the target speed of the stepper motor 1 of the robotic arm.
+    Tell RobotControl the target angle of the stepper motor 1 of the robotic arm.
+    Tell RobotControl the target speed of the stepper motor 2 of the robotic arm.
+    Tell RobotControl the target angle of the stepper motor 2 of the robotic arm.
+    Tell RobotControl the target speed of the stepper motor 3 of the robotic arm.
+    Tell RobotControl the target angle of the stepper motor 3 of the robotic arm.
+    Tell RobotControl the target speed of the stepper motor 4 of the robotic arm.
+    Tell RobotControl the target angle of the stepper motor 4 of the robotic arm.
 
     If RobotControl was sorry then.
         I am not sorry.
@@ -329,6 +349,7 @@ To move an object to a position.
 End.
 
 To move an object to a person.
+    Print "Move1".
     If the object has a position then.
         If the position has coordinates then.
             Ask this device that what is the 1st coordinate.
@@ -476,20 +497,20 @@ To get up.
 End.
 
 To speed up a servo motor.
-    If the servo motor has a speed then.
-        Sum 500 dpses to the speed /*of the servo motor*/.
+    If the servo motor has a target speed then.
+        Sum 500 dpses to the target speed /*of the servo motor*/.
     End.
     If the servo motor has a acceleration then.
-        Sum 100 dpses to the acceleration.
+        Sum 100 dps2s to the acceleration.
     End.
 End.
 
 To slow down a servo motor.
-    If the servo motor has a speed then.
-        Sum -500 dpses to the speed /*of the servo motor*/.
+    If the servo motor has a target speed then.
+        Sum -500 dpses to the target speed /*of the servo motor*/.
     End.
     If the servo motor has a acceleration then.
-        Sum -100 dpses to the acceleration.
+        Sum -100 dps2s to the acceleration.
     End.
 End.
 
@@ -498,6 +519,21 @@ To give a person an object.
 End.
 
 To give an object.
+    Print "Give1".
+    Move the object to the user.
+    Print "Give2".
+End.
+
+/*To move a pizza to me.
+End.*/
+
+To give a pizza.
+    Print "Give1".
+    Move the pizza to me.
+    Print "Give2".
+End.
+
+To give an object to a user.
     Move the object to the user.
 End.
 
@@ -679,10 +715,7 @@ End.
 To detect something.
 End.
 
-To move the hand toward something.
-End.
-
-To give something to someone.
+To move the hand to something.
 End.
 
 /*

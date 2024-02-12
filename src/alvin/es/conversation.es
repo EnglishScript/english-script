@@ -61,7 +61,7 @@ To introduce you.
     Tell me that you are an artificial intelligence.
 End.
 
-A pizza is a thing.
+/*A pizza is a thing.*/
 
 To have a conversation with a user.
     /*Focus on the user.*/

@@ -25,6 +25,8 @@ The noun "dpses" is the plural form of the noun "dps".
 The noun "dps2s" is the plural form of the noun "dps2".
 "retry" and "retries" are nouns.
 The noun "retries" is the plural form of the noun "retry".
+"pizza" and "pizzas" are nouns.
+The noun "pizzas" is the plural form of the noun "pizza".
 
 "polarity" and "polarities" are nouns.
 The noun "polarities" is the plural form of the noun "polarity".
@@ -44,7 +46,10 @@ The verb "measures" is the 3rd person form of the verb "measure".
 
 An electronic chip has a name, pins, a memory and a case.
 "ESP32-WROOM-32D" is a noun.
-An ESP32-WROOM-32D chip is an electronic chip.
+A micro controller is an electronic chip.
+"adc" is a noun.
+A micro controller has adc units and adc converters.
+An ESP32-WROOM-32D chip is a micro controller.
 An ESP32-WROOM-32D chip has 60 pins.
 
 "debug" and "debugging" are adjectives.
@@ -69,10 +74,10 @@ The orientation of the tag has angles.
 
 /* servo motors sub-class */
 
-The servo motors have a pin, a minimum angle, a maximum angle, a lift power, a speed, an acceleration, a current speed, a current acceleration,
+The servo motors have a pin, a minimum angle, a maximum angle, a lift power, a target speed, an target acceleration, a current speed, a current acceleration,
 a target angle, a current angle, an initial angle, a pulse cycle, a polarity, a minimum PWM time,
 a maximum PWM time, a voltage, a grip voltage and a maximum voltage.
-The stepper motors have a minimum angle, a maximum angle, a lift power, a speed, an acceleration, a current speed, a current acceleration,
+The stepper motors have a minimum angle, a maximum angle, a lift power, a target speed, an target acceleration, a current speed, a current acceleration,
 a target angle, a current angle, an initial angle, a pulse cycle, a polarity,
 a voltage and a maximum voltage.
 The minimum angle is degrees.
@@ -80,9 +85,10 @@ The maximum angle is degrees.
 The target angle is degrees.
 The current angle is degrees.
 The lift power is kgcms.
-The speed is dpses.
+The target speed is dpses.
 The current speed is dpses.
-The acceleration is dps2s.
+The target acceleration is dps2s.
+The current acceleration is dps2s.
 The voltage is volts.
 The maximum voltage is volts.
 
