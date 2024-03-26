@@ -85,12 +85,16 @@ To have a conversation with a user.
             Until ImageToText tells you that ImageToText sees someone then wait.
             Print "Step1".
             If ImageToText tells you that ImageToText sees a pizza then.
-                Print "Step2".
+                Print "Step2a".
                 Say "Ok" to ImageToText.
+                Print "Step2b".
                 Tell LLM that LLM sees a pizza.
+                Print "Step2c".
                 /*Tell LLM that somebody does something.*/
                 Remember shortly the user.
+                Print "Step2d".
                 Tell LLM that the user is hungry.
+                Print "Step2e".
             End.
             Print "Step3".
         End.

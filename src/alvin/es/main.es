@@ -54,14 +54,20 @@ To have a conversation with LLM.
             /*Print "Doing...".*/
             Print "Ask1".
             /*FIXME:If LLM asks you to ask the user whether the user does something then.*/
-            If LLM asks you to ask the user whether the user eats a pizza then.
+            If LLM asks you to ask the user that does the user eat a pizza then.
                 Print "Ask2".
                 Say "Ok" to LLM.
                 /*FIXME: Ask the user whether the user does something. */
                 Ask the user that does the user eat a pizza.
+               /* FIXME: we should not need the below line */
                 Until the user eats a pizza then wait.
                 Print "Ask3".
                 Tell LLM that the user eats a pizza.
+                /*FIXME: If the user eats a pizza then.
+                    Tell LLM that the user eats a pizza.
+                Else.
+                    Tell LLM that the user does not eat a pizza.
+                End.*/
             Else.
                 Print "Ask4".
                 Say "Ok" to LLM.

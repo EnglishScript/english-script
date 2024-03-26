@@ -198,32 +198,32 @@ A device is a machine.
 
 To initialize a robotic arm.
     /* FIXME: Tell about... should also wait for a response. */
-    Tell RobotControl about an electronic chip.
+    /*Tell RobotControl about an electronic chip.
     Tell RobotControl about a micro controller.
-    Tell RobotControl about an ESP32-WROOM-32D chip.
+    Tell RobotControl about an ESP32-WROOM-32D chip.*/
     /*FIXME: Tell RobotControl about the servo motors of a robotic arm.*/
     /*FIXME: Tell RobotControl about the stepper motors of a robotic arm.*/
-    Tell RobotControl about an MG996R motor.
+    /*Tell RobotControl about an MG996R motor.*/
     /*FXIME: the above line should tell about the minimum pwm time of a MG996R motor.*/
     /*FIXME: the above line should tell about the maximum pwm time of a MG996R motor.*/
 
-    Tell RobotControl about the ESP32-WROOM-32D chip.
-    Tell RobotControl about the robotic arm.
+    /*Tell RobotControl about the ESP32-WROOM-32D chip.
+    Tell RobotControl about the robotic arm.*/
 
     /*For the servo motors of the robotic arm.
         Tell RobotControl about the servo motor.
     End.*/
-    Tell RobotControl about the servo motor 1 of the robotic arm.
+    /*Tell RobotControl about the servo motor 1 of the robotic arm.*/
     /*For the stepper motors of the robotic arm.
         Tell RobotControl about the stepper motor.
     End.*/
-    Tell RobotControl about the stepper motor 1 of the robotic arm.
+    /*Tell RobotControl about the stepper motor 1 of the robotic arm.
     Tell RobotControl about the stepper motor 2 of the robotic arm.
     Tell RobotControl about the stepper motor 3 of the robotic arm.
-    Tell RobotControl about the stepper motor 4 of the robotic arm.
+    Tell RobotControl about the stepper motor 4 of the robotic arm.*/
 
-    Tell RobotControl that RobotControl controls the robotic arm.
-    Ask RobotControl to initialize the robotic arm.
+    /*Tell RobotControl that RobotControl controls the robotic arm.
+    Ask RobotControl to initialize the robotic arm.*/
     I am not sorry.
     I was not sorry.
 End.
@@ -238,15 +238,15 @@ To move a robotic arm.
         / *FIXME: Tell RobotControl the target acceleration of the servo motor.* /
         Tell RobotControl the target angle of the servo motor.
     End.*/
-    Tell RobotControl the target speed of the servo motor 1 of the robotic arm.
+    /*Tell RobotControl the target speed of the servo motor 1 of the robotic arm.*/
     Tell RobotControl the target angle of the servo motor 1 of the robotic arm.
-    Tell RobotControl the target speed of the stepper motor 1 of the robotic arm.
+    /*Tell RobotControl the target speed of the stepper motor 1 of the robotic arm.*/
     Tell RobotControl the target angle of the stepper motor 1 of the robotic arm.
-    Tell RobotControl the target speed of the stepper motor 2 of the robotic arm.
+    /*Tell RobotControl the target speed of the stepper motor 2 of the robotic arm.*/
     Tell RobotControl the target angle of the stepper motor 2 of the robotic arm.
-    Tell RobotControl the target speed of the stepper motor 3 of the robotic arm.
+    /*Tell RobotControl the target speed of the stepper motor 3 of the robotic arm.*/
     Tell RobotControl the target angle of the stepper motor 3 of the robotic arm.
-    Tell RobotControl the target speed of the stepper motor 4 of the robotic arm.
+    /*Tell RobotControl the target speed of the stepper motor 4 of the robotic arm.*/
     Tell RobotControl the target angle of the stepper motor 4 of the robotic arm.
 
     If RobotControl was sorry then.
@@ -276,18 +276,18 @@ To /*FIXME: soft*/ reset a robotic arm.
     Tell RobotControl to reset.
 End.
 
-A function "__hap_calculate_orientation_from_position".
+A function "__hap_calculate_orientation_from_position2".
 
 To calculate an orientation for a robotic arm from a position.
-    Call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position and the orientation.
-    If the function  "__hap_calculate_orientation_from_position" failed then.
+    Call the function "__hap_calculate_orientation_from_position2" with the robotic arm, the position and the orientation.
+    If the function  "__hap_calculate_orientation_from_position2" failed then.
         You failed to calculate the orientation for the robotic arm from the position.
     End.
 End.
 
 To check an orientation for a robotic arm from a position.
-    Call the function "__hap_calculate_orientation_from_position" with the robotic arm, the position, the orientation and a check option "check".
-    If the function  "__hap_calculate_orientation_from_position" failed then.
+    Call the function "__hap_calculate_orientation_from_position2" with the robotic arm, the position, the orientation and a check option "check".
+    If the function  "__hap_calculate_orientation_from_position2" failed then.
         You failed to check the orientation for the robotic arm from the position.
     End.
 End.
@@ -325,16 +325,37 @@ To move a robotic arm to a person.
 End.
 
 To move a robotic arm to an object.
+    Print "Moving1".
     If the object has a position then.
-        Move the robotic arm to the position with a hack.
+        Print "Moving2".
+        Check an orientation for the robotic arm from the position.
+        If you failed to check the orientation for the robotic arm from the position.
+            Do not wait for a response.
+            Tell the user that you do not reach the object.
+            Forget that you failed to check the orientation for the robotic arm from the position.
+            Wait for a response.
+        Else.
+            Print "Moving5".
+            Move the robotic arm to the position with a hack.
+            Print "Moving6".
+        End.
+    Else.
+        Do not wait for a response.
+        Tell the user that you do not know a position for the object.
+        Wait for a response.
     End.
 End.
 
 To make a robotic arm to take an object.
+    Print "Make1".
     If the object has a position /* FIXME: and the position has coordinates*/ then.
+        Print "Make2".
         Make the robotic arm to open a hand.
+        Print "Make3".
         Move the robotic arm to the object.
+        Print "Make4".
         Make the robotic arm to close the hand.
+        Print "Make5".
     Else.
         Do not wait for a response.
         Tell the user that you do not know a position for the object.
@@ -716,6 +737,7 @@ To detect something.
 End.
 
 To move the hand to something.
+    Print "Move1".
 End.
 
 /*
