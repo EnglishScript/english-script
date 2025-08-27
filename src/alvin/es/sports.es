@@ -27,7 +27,7 @@
  */
 
 If someone has a sport and the sport is a game, then
-someone plays the sport.
+that someone plays the sport.
 
 A sport.
 The sport has a name "tennis".

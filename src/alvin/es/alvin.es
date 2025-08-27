@@ -1,12 +1,12 @@
 To know something.
-  Focus on something.
-  Ask me something.
+  Focus on that something.
+  Ask me that something.
   Unfocus.
 End.
 
 To know about something.
-  Focus on something.
-  Ask me to tell you about something.
+  Focus on that something.
+  Ask me to tell you about that something.
   Unfocus.
 End.
 

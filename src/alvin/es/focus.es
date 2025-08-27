@@ -10,13 +10,13 @@ The noun "unfocusing" is the noun form of the verb "unfocus".
 /*You have a focus.*/
 
 To focus on something.
-  /*Reserve your focus on something to focus on something.
-  You / * TODO: are focused * / focus on something.
+  /*Reserve your focus on that something to focus on that something.
+  You / * TODO: are focused * / focus on that something.
   */
 End.
 
 To unfocus.
-  /*Forget that you / *TODO: are focused* / focus on something.
+  /*Forget that you / *TODO: are focused* / focus on that something.
   Release your focus.*/
 End.
 

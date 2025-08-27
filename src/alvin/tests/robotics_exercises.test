@@ -43,7 +43,7 @@
 <Yes.
 >    Remember the numbers. /* FIXME: this should not be needed. The telling about the thing should move the "be a number" verb away from the auxiliary verbs of the "convert" verb. */
 <    Ok.
->    Ask someone that what are the numbers?
+>    Ask that someone that what are the numbers?
 <    Ok.
 >    Convert the string literal to characters with the ascii characters.
 <    Ok.
@@ -53,7 +53,7 @@
 <    Yes.
 >        Say "Yes".
 <        Ok.
->        Tell someone that the numbers are correct.
+>        Tell that someone that the numbers are correct.
 <        Ok.
 >        Forget /*that*/ the result /*is equal*/. /*FIXME: this should not be needed.*/
 <        Ok.
@@ -61,7 +61,7 @@
 <    Yes.
 >        Say "No".
 <        Ok.
->        Tell someone that the numbers are incorrect.
+>        Tell that someone that the numbers are incorrect.
 <        Ok.
 >        Forget /*that*/ the result /*is not equal*/. /*FIXME: this should not be needed.*/
 <        Ok.

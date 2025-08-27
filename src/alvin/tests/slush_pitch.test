@@ -4,7 +4,8 @@
 ""<What is your name?
 "">"Tom".
 >To call the function "__ext_get_speaking_state" with something.
->  You are not doing something.
+<Yes.
+>  You are not doing that something.
 <  Ok.
 >End.
 <Ok.

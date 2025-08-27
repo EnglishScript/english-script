@@ -36,7 +36,7 @@ I have a mobile phone.
 
 /*
 To tell me that somebody does something that someone is not something.
-    Tell me that somebody does something.
+    Tell me that that somebody does that something.
 End.
 */
 
@@ -64,11 +64,11 @@ You have a family and friends.
 A function "__ext_get_speaking_state".
 
 To get that you are not doing something.
-    Call the function "__ext_get_speaking_state" with something.
+    Call the function "__ext_get_speaking_state" with that something.
 End.
 
 To wait that you do not do something.
-    Until you do not do something then.
+    Until you do not do that something then.
         Say "wait".
         Wait.
     End.

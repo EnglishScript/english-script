@@ -122,10 +122,10 @@ The debug level of the device handler of the ESP32 software is full.
 /* To remember if ESP32 was not able to process the sent message or
    the network connection to it was terminated. */
 If someone is sorry then.
-    Remember that someone was sorry.
+    Remember that that someone was sorry.
 End.
 /*If someone does not know then.
-    Remember that someone do know.
+    Remember that that someone do know.
 End.*/
 
 An object has a position.
@@ -693,17 +693,17 @@ A width is meters.
 
 A function "__hap_is_position_inside_area".
 To know that 1st meters and 2nd meters are inside something /*FIXME: an area*/.
-    Call the function "__hap_is_position_inside_area" with the 1st meters, the 2nd meters and something.
+    Call the function "__hap_is_position_inside_area" with the 1st meters, the 2nd meters and that something.
     If the function "__hap_is_position_inside_area" did not fail then.
-        Tell the user that the 1st meters and the 2nd meters are inside something.
-        The 1st meters and the 2nd meters are inside something.
+        Tell the user that the 1st meters and the 2nd meters are inside that something.
+        The 1st meters and the 2nd meters are inside that something.
     End.
 End.
 
 To guide someone to assemble the robotic arm.
     Show the image.
-    Until someone asks you to stop guiding you then.
-        If someone tells you that somebody touches the image at 1st meters and 2nd meters.
+    Until that someone asks you to stop guiding you then.
+        If that someone tells you that somebody touches the image at 1st meters and 2nd meters.
             Know that the 1st meters and the 2nd meters are inside the 1st area of the image.
             If the 1st meters and the 2nd meters are inside the 1st area of the image.
                 Play the movie from 0 seconds to 20 seconds.

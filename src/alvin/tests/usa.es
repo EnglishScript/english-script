@@ -19,7 +19,7 @@ End.
 
 To tell someone about a president.
     Show the president.
-    Tell someone about the president.
+    Tell that someone about the president.
 End.
 
 /*Presidency[a]   President   Prior office[b] Party[c]    Term[d] Vice President*/

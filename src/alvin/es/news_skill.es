@@ -13,11 +13,11 @@ End.
 To read news reports to someone.
     For each of the news reports.
         Remember shortly the news report.
-        Tell someone about the news report.
-        Until someone asks you to continue, then.
+        Tell that someone about the news report.
+        Until that someone asks you to continue, then.
             Wait.
         End.
-        Forget that someone asks you to continue.
+        Forget that that someone asks you to continue.
     End.
 End.
 

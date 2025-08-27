@@ -30,6 +30,8 @@
 <Ok.
 |<I have a picture and a name "Alvin".
 |<I have a name "Alvin" and a picture.
+"FIXME: Not needed, already told in "I am 6 years old."
+&<My age is 6 years.
 &<I am to help you.
 &<I am 6 years old.
 >
@@ -84,10 +86,10 @@
 >/*TODO: You want to know the name of my dog.<Ok. What is the name of your dog?>"Jojo".>What is my dog's name?<"Jojo".*/
 
 >How to have a conversation with me?
-<To have a conversation 1 with someone.
-<    Until someone closes the 1st conversation with you then.
-<        If someone tells you that somebody does something then.
-"<            If someone tells you that this is a thing then.
+<To have a conversation with an user.
+<    Until the user closes the conversation with you then.
+<        If the user tells you that somebody does something then.
+"<            If the user tells you that this is a thing then.
 "<                If I point to coordinates on this image then.
 "<                    Remember that the thing is in this image in the coordinates.
 "<                Else.
@@ -95,46 +97,46 @@
 "<                End.
 "<                Print "".
 "<            Else.
-<                Remember something.
+<                Remember that something.
 "<            End.
-<            Say "Ok" to someone.
+<            Say "Ok" to the user.
 <        End.
-<        If someone tells you that somebody did something then.
-<            Remember something.
-<            Say "Ok" to someone.
+<        If the user tells you that somebody did something then.
+<            Remember that something.
+<            Say "Ok" to the user.
 <        End.
-<        If someone asks you something then.
-<            Tell someone something.
+<        If the user asks you something then.
+<            Tell the user that something.
 <        End.
-<        If someone asks you that does somebody do something then.
-<            If someone asks you that what are you then.
+<        If the user asks you that does somebody do something then.
+<            If the user asks you that what are you then.
 <                Introduce you.
 <            Else.
-<                If someone asks you that how are you then.
-<                    Tell someone that you are fine.
+<                If the user asks you that how are you then.
+<                    Tell the user that you are fine.
 <                Else.
-<                    If someone asks you that how do you do then.
+<                    If the user asks you that how do you do then.
 <                        Do not wait for a response.
-<                        Ask someone that how does someone do.
+<                        Ask the user that how does the user do.
 <                        Wait for a response.
 <                    Else.
-<                        Answer something.
+<                        Answer the user that something.
 <                    End.
 <                End.
 <            End.
 <        End.
-<        If someone asks you that did somebody do something then.
-<            Answer something.
+<        If the user asks you that did somebody do something then.
+<            Answer that something.
 <        End.
-<        If someone asks you to do something then.
-<            Say "Ok" to someone.
-<            Remember shortly from something.
-<            Start to do something.
+<        If the user asks you to do something then.
+<            Say "Ok" to the user.
+<            Remember shortly from that something.
+<            Start to do that something.
 <        End.
-<        If someone asks you that can you do something then.
-<            Tell someone that you remember things for someone.
-<            Tell someone that you do things for someone.
-<            Tell someone that you help someone.
+<        If the user asks you that can you do something then.
+<            Tell the user that you remember things for the user.
+<            Tell the user that you do things for the user.
+<            Tell the user that you help the user.
 <        End.
 <        Wait.
 <    End.

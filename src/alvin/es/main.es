@@ -8,22 +8,22 @@
 To have a conversation with LLM.
     Until LLM closes the conversation with you then.
         If LLM tells you that somebody does something then.
-            Remember something.
+            Remember that something.
             /*End.*/
             Say "Ok" to LLM.
         End.
         If LLM tells you that somebody did something then.
-            Remember something.
+            Remember that something.
             Say "Ok" to LLM.
         End.
         /*TODO: If LLM tells you that somebody does not do something then.
             Say "Ok" to LLM.
-            Remember something.
+            Remember that something.
         End.
         */
         If LLM asks you something then.
             /*Print "Telling...".*/
-            Tell LLM something.
+            Tell LLM that something.
         End.
         If LLM asks you that does somebody do something then.
             If LLM asks you that what are you then.
@@ -37,27 +37,27 @@ To have a conversation with LLM.
                         Ask LLM that how does LLM do.
                         Wait for a response.
                     Else.
-                        /*Answer LLM whether somebody does something.*/
-                        Answer something.
+                        /*Answer LLM whether that somebody does that something.*/
+                        Answer that something.
                     End.
                 End.
             End.
         End.
         If LLM asks you that did somebody do something then.
             /*Print "Answering...".*/
-            Answer something.
+            Answer that something.
         End.
         If LLM asks you to do something then.
-        /*TODO: If you know how to do something, then do something,
+        /*TODO: If you know how to do that something, then do that something,
             else tell LLM that you do not know how to do
-            something.*/
+            that something.*/
             /*Print "Doing...".*/
             Print "Ask1".
             /*FIXME:If LLM asks you to ask the user whether the user does something then.*/
             If LLM asks you to ask the user that does the user eat a pizza then.
                 Print "Ask2".
                 Say "Ok" to LLM.
-                /*FIXME: Ask the user whether the user does something. */
+                /*FIXME: Ask the user whether the user does that something. */
                 Ask the user that does the user eat a pizza.
                /* FIXME: we should not need the below line */
                 Until the user eats a pizza then wait.
@@ -71,15 +71,15 @@ To have a conversation with LLM.
             Else.
                 Print "Ask4".
                 Say "Ok" to LLM.
-                Remember shortly from something.
-                Start to do something.
+                /*Remember shortly from something.*/
+                /*Start to do that something.*/
                 Print "Ask5".
             End.
         End.
         /*If LLM asks you to do something somebody then.
             Say "Ok" to LLM.
-            Remember shortly from something.
-            Start to do something.
+            Remember shortly from that something.
+            Start to do that something.
         End.*/
         If LLM asks you that /* TODO: what can you do */ can you do something then.
             Tell LLM that you remember things for LLM /* FIXME: and you do things for LLM*/.
@@ -89,21 +89,21 @@ To have a conversation with LLM.
         /* TODO: add evaluation of the verb a check that the "to"-verb is not
            being executed to avoid re-remembering the doing.*/
         /*If you / *TODO: are focused* / focus on LLM then.
-          If LLM has something and you do not know something and you want to know something then.
-            Remember that you want to know something.
+          If LLM has something and you do not know that something and you want to know that something then.
+            Remember that you want to know that something.
           Else.
-            If LLM has something and you want to know about something then.
-              Remember that you want to know about something.
+            If LLM has something and you want to know about that something then.
+              Remember that you want to know about that something.
             End.
           End.
         End.*/
-        /*If you want to know something then remember that you want to know something.*/
+        /*If you want to know something then remember that you want to know that something.*/
         Wait.
     End.
     /*
     If somebody opened a 2nd conversation with you, then.
-        Start having the 2nd conversation with somebody.
-        Forget that somebody opened the 2nd conversation
+        Start having the 2nd conversation with that somebody.
+        Forget that that somebody opened the 2nd conversation
         with you.
     End.*/
     Tell LLM that LLM is nice.
