@@ -828,8 +828,21 @@ week 2 0 weeks
 weeks 2 80 week
 meter 3 401 meters
 meters 2 480 meter
-farad 2 0 farads
-farads 2 80 farad
+farad 2 400
+ohm 2 400
+volt 2 400
+ampere 2 400
+joule 2 400
+watt 2 400
+newton 2 400
+pascal 2 400
+henry 2 400
+tesla 2 400
+weber 2 400
+kelvin 2 400
+mole 2 400
+candela 2 400
+gram 2 400
 length 2 0 lengths
 lengths 2 80 length
 width 2 0 widths
@@ -1045,8 +1058,6 @@ can 1 1 cans canned canning
 should 1 1
 must 7 11
 could 1 1
-should 1 1
-must 7 11
 shouldn 1 1
 mustn 1 1
 wouldn 1 1
@@ -4289,7 +4300,6 @@ amoxil 2 0
 amoy 2 0
 amp 2 0
 amperage 2 0
-ampere 2 0
 ampere-hour 2 0
 ampere-minute 2 0
 ampere-second 2 0
@@ -10224,7 +10234,6 @@ cancerweed 2 0
 cancridae 2 0
 cancroid 6 10
 cancun 2 0
-candela 2 0
 candelabra 2 0
 candelabrum 2 0
 candelilla 2 0
@@ -23567,7 +23576,6 @@ grainfield 2 0
 grainger 2 0
 graininess 2 0
 graining 2 0
-gram 2 0
 grama 2 0
 gramicidin 2 0
 graminaceae 2 0
@@ -25312,7 +25320,6 @@ henhouse 2 0
 henna 3 1
 hen-of-the-woods 2 0
 henroost 2 0
-henry 2 0
 henson 2 0
 hepadnavirus 2 0
 heparin 2 0
@@ -28820,7 +28827,6 @@ jotter 2 0
 jotting 3 10 jot
 jotun 2 0
 jotunn 2 0
-joule 2 0
 jounce 3 1
 journal 2 0
 journalese 2 0
@@ -29207,7 +29213,6 @@ kelpwort 2 0
 kelpy 2 0
 kelt 2 0
 kelter 2 0
-kelvin 2 0
 kemadrin 2 0
 ken 2 0
 ken. 2 0
@@ -34669,7 +34674,6 @@ moldboard 2 0
 moldiness 2 0
 molding 2 0
 moldova 2 0
-mole 2 0
 molech 2 0
 molecule 2 0
 molehill 2 0
@@ -36418,7 +36422,6 @@ newswoman 2 0
 newsworthiness 2 0
 newswriter 2 0
 newt 2 0
-newton 2 0
 newtonian 6 10
 nexus 2 0
 ney 2 0
@@ -37458,7 +37461,6 @@ ogress 2 0
 oh 2 0
 ohio 2 0
 ohioan 2 0
-ohm 2 0
 ohmage 2 0
 ohmmeter 2 0
 oig 2 0
@@ -39187,7 +39189,6 @@ parvovirus 2 0
 pas 2 0
 pasadena 2 0
 pasang 2 0
-pascal 2 0
 pasch 2 0
 pascha 2 0
 paseo 2 0
@@ -52874,7 +52875,6 @@ tertry 2 0
 tertullian 2 0
 terylene 2 0
 terzetto 2 0
-tesla 2 0
 tessella 2 0
 tessellation 2 0
 tessera 2 0
@@ -56706,7 +56706,6 @@ volition 2 0
 volkhov 2 0
 volley 3 1
 volleyball 2 0
-volt 2 0
 volta 2 0
 voltage 2 0
 voltaic 6 10
@@ -57113,7 +57112,6 @@ waterwheel 2 0
 waterworks 2 0
 wats 2 0
 watson 2 0
-watt 2 0
 wattage 2 0
 watteau 2 0
 watt-hour 2 0
@@ -57194,7 +57192,6 @@ web 3 1 webbed webs webbing
 webb 2 0
 webbing 3 10 web
 webcam 2 0
-weber 2 0
 webfoot 2 0
 webmaster 2 0
 webpage 2 0

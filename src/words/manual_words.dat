@@ -325,8 +325,25 @@ week 2 0 weeks
 weeks 2 80 week
 meter 2 400 meters
 meters 2 480 meter
-farad 2 0 farads
-farads 2 80 farad
+# SI units referenced by hap_units (src/hap/hap_units.cpp). The runtime
+# auto-pluralises (`ohm` -> `ohms`) dynamically, so only the singular
+# needs a manual entry. The 0x400 MEASURABLE form bit matches the
+# meter/meters convention.
+farad 2 400
+ohm 2 400
+volt 2 400
+ampere 2 400
+joule 2 400
+watt 2 400
+newton 2 400
+pascal 2 400
+henry 2 400
+tesla 2 400
+weber 2 400
+kelvin 2 400
+mole 2 400
+candela 2 400
+gram 2 400
 length 2 0 lengths
 lengths 2 80 length
 width 2 0 widths
