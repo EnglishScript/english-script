@@ -828,6 +828,8 @@ week 2 0 weeks
 weeks 2 80 week
 meter 3 401 meters
 meters 2 480 meter
+farad 2 0 farads
+farads 2 80 farad
 length 2 0 lengths
 lengths 2 80 length
 width 2 0 widths
@@ -1040,6 +1042,8 @@ won 7 17 will win
 cannot 1 1 can
 would 1 1
 can 1 1 cans canned canning
+should 1 1
+must 7 11
 could 1 1
 should 1 1
 must 7 11
@@ -20340,7 +20344,6 @@ faq 2 0
 faqir 2 0
 faquir 2 0
 far e 10 farther farthest further furthest
-farad 2 0
 faraday 2 0
 farandole 2 0
 farawayness 2 0
