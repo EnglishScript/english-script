@@ -595,6 +595,9 @@ if_unknown_if 10 0
 unknown 4 10
 sure 4 10
 if_unsure_if 10 0
+if_yes 10 0
+if_no 10 0
+if_unknown 10 0
 unsure 4 10
 while 10 0
 until 30 0
