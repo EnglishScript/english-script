@@ -16,7 +16,17 @@ $(TARGET): $(PYS) $(SRCS)
 	python3 combine_dats.py words6.dat.tmp verbs.dat > words7.dat.tmp
 	python3 combine_dats.py words7.dat.tmp verbs2.dat > words8.dat.tmp
 	python3 combine_dats.py words8.dat.tmp verbs3.dat > $@
+	@rm -f words.dat.tmp words?.dat.tmp
 
+# $(TARGET) is data/words.dat, which is COMMITTED — generated once and
+# tracked, so that a consumer of this repo needs no python to build. A
+# `clean` that removed it left the submodule showing a deleted tracked
+# file, and es-sdk's `make clean` recurses here, so that happened on every
+# clean of the SDK. It belongs in distclean, where a caller is asking for
+# exactly that.
 clean::
-	rm -f $(TARGET) words.dat.tmp words?.dat.tmp
+	rm -f words.dat.tmp words?.dat.tmp
+
+distclean:: clean
+	rm -f $(TARGET)
 

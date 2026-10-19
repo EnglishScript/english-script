@@ -1,0 +1,5 @@
+# Intermediate lexicon stages from src/words (words.dat.tmp ...
+# words8.dat.tmp) and the python tooling's bytecode cache.
+*.dat.tmp
+__pycache__/
+*.pyc
